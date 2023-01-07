@@ -1,7 +1,7 @@
 ---
 title: "Conditions"
 linkTitle: "Conditions"
-weight: 1
+weight: 4
 type: "docs"
 
 ---
@@ -36,7 +36,7 @@ The target becomes enraged beyond control and attempts to kill all characters ne
 
 **Valid Targets**: Creature/Character 
 
-The target is bleeding constantly and cannot benefit from any type of healing effect. This includes all effects that heal damage, bring characters back to life after becoming dead, and effects that extend death and dying counts.
+The target is bleeding constantly and cannot benefit from any type of healing effect. This includes all effects that heal damage, bring characters back to life after becoming  [Dead]({{< ref "#dead" >}}), and effects that extend death and dying counts.
 
 ## Broken (Break) 
 
@@ -44,7 +44,13 @@ The target is bleeding constantly and cannot benefit from any type of healing ef
 
 **Valid Targets**: Weapon, Shield, Armor, Limb, Tagged Items 
 
-The target is broken and must be repaired before it can be used properly. Weapons that gain this condition may only deal 1 point of damage. Shields that gain this condition do not fully protect its owner, dealing 1 point of damage to its wielder every time it is struck. Additionally, a broken shield will not protect its wielder from a condition attack such as Waylay. Armor that gains this condition loses all Armor points until repaired. Limbs that are broken may not be used (No hopping while in combat for player safety please). Claws and Limbs that are broken may be fixed by Medical Training: Augmentation. Any other item that gains this condition is not usable. Items can be repaired to remove this condition using the appropriate crafting skill. Basic items that become Broken are Destroyed at the end of a Battle. All tagged items lose one durability when repaired from the Broken condition.
+The target is broken and must be repaired before it can be used properly. 
+
+- Weapons that gain this condition may only deal 1 point of damage. 
+- Shields that gain this condition do not fully protect its owner, dealing 1 point of damage to its wielder every time it is struck. Additionally, a broken shield will not protect its wielder from a condition attack such as  [Waylay]({{< ref "/rules/skills/#waylay" >}}).. 
+- Armor that gains this condition loses all Armor points until repaired. Limbs that are broken may not be used (No hopping while in combat for player safety please). 
+- Claws and Limbs that are broken may be fixed by [Medical Training Augmentation#]({{< ref "/rules/skills/#medical-training-augmentation" >}}). 
+- Any other item that gains this condition is not usable. Items can be repaired to remove this condition using the appropriate crafting skill. Basic items that become Broken are [Destroyed]({{< ref "#destroyed" >}}) at the end of a  [Battle]({{< ref "#battle" >}}). All tagged items lose one durability when repaired from the Broken condition.
 
 ## Charmed 
 
@@ -60,7 +66,7 @@ The target views the character that charmed them as their best friend. This targ
 
 **Valid Targets**:  Creature/Character
 
-The target of the Cower effect must fall prone or drop to one knee. During this time the target may call "Cower". All intelligent creatures view the cowering target as harmless and will not attack them. Primal creatures (animals) and unintelligent creatures (undead) may disregard the Cower condition at the discretion of Plot. Characters with the Deduction skill may also use it to ignore the Cower condition. 
+The target of the Cower effect must fall prone or drop to one knee. During this time the target may call "Cower". All intelligent creatures view the cowering target as harmless and will not attack them. Primal creatures (animals) and unintelligent creatures (undead) may disregard the Cower condition at the discretion of Plot. Characters with the [Deduction]({{< ref "/rules/skills/#deduction" >}}) skill may also use it to ignore the Cower condition. 
 
 ## Damage 
 
@@ -92,7 +98,7 @@ The target of this condition is lifeless and retains no sensory knowledge of any
 
 **Valid Targets**: Weapon, Shield, Armor, Item
 
-The target item is destroyed and cannot be repaired. If the target is a basic item, it should be removed from the character sheet as soon as possible. If the target item is a common or rare craft item, then all durability must be removed from the tag, but it may be fixed with the Maintenance skill or rebuilt with its full craft cost.
+The target item is destroyed and cannot be repaired. If the target is a basic item, it should be removed from the character sheet as soon as possible. If the target item is a common or rare craft item, then all durability must be removed from the tag, but it may be fixed with the [Maintenance#]({{< ref "/rules/skills/#maintenance" >}}) skill or rebuilt with its full craft cost.
 
 ## Distracted 
 
@@ -116,7 +122,7 @@ The target views the character that dominated them as their best friend. This ta
 
 **Valid Targets**: Creature/Character
 
-The target of this condition is on the verge of death and retains no sensory knowledge of anything. One minute after entering the dying condition, the target dies (gaining the dead condition and losing the dying condition). If a character starts using the stabilize portion of the Medical Assistance skill on the target, the dying count freezes at its current number. If stabilize is completed, the target loses the dying condition and gains the unconscious condition with 1 HP. If the target is healed, they lose the dying condition immediately and are conscious.
+The target of this condition is on the verge of death and retains no sensory knowledge of anything. One minute after entering the dying condition, the target dies (gaining the [Dead]({{< ref "#dead" >}}) condition and losing the dying condition). If a character starts using the stabilize portion of the [Medical Training#]({{< ref "/rules/skills/#medical-training" >}}) skill on the target, the dying count freezes at its current number. If stabilize is completed, the target loses the dying condition and gains the [unconscious]({{< ref "#unconscious" >}}) condition with 1 HP. If the target is healed, they lose the dying condition immediately and are conscious.
 
 ## Elemental (Fire, Ice, Stone, Lightning) 
 
@@ -144,7 +150,7 @@ The target of this condition becomes irrationally scared of the creature/charact
 
 ## Greater Undead
 
- **Duration**: Permanent
+**Duration**: Permanent
 
 **Valid Targets**: Creature/Character with 0 Essence
 
@@ -196,7 +202,7 @@ The target of this condition must immediately take 5 steps directly away from th
 
 **Valid Targets**: Creature/Character
 
-The target of this condition must immediately fall flat onto the ground OR drop to one knee for at least 10 seconds. During either of these motions, the target cannot attack other targets, defend themselves or use any abilities other than Cower. Please take others safety into consideration when roleplaying this condition.
+The target of this condition must immediately fall flat onto the ground OR drop to one knee for at least 10 seconds. During either of these motions, the target cannot attack other targets, defend themselves or use any abilities other than [Cower]({{< ref "/rules/skills/#cower" >}}). Please take others safety into consideration when roleplaying this condition.
 
 ## Poisoned
 
@@ -212,7 +218,7 @@ The target is fatigued due to poison and all ST, Energy, and Resource costs are 
 
 **Valid Targets**: Creature/Character
 
-The target of this condition may use weapons, bucklers, and shields they are proficient with to maximum effectiveness. If a Creature/Character uses a weapon, buckler, and/or shield that they are not proficient with, they must treat it as if it had the Broken condition, though it will not need to be repaired (unless it gains the Broken condition while it is used). Firearms may ONLY be used if the Creature/Character is proficient with them.
+The target of this condition may use weapons, bucklers, and shields they are proficient with to maximum effectiveness. If a Creature/Character uses a weapon, buckler, and/or shield that they are not proficient with, they must treat it as if it had the [Broken Condition]({{< ref "#broken-break" >}}), though it will not need to be repaired (unless it gains the [Broken Condition]({{< ref "#broken-break" >}}) while it is used). Firearms may ONLY be used if the Creature/Character is proficient with them.
 
 ## Repel
 
@@ -220,7 +226,7 @@ The target of this condition may use weapons, bucklers, and shields they are pro
 
 **Valid Targets**: Weapon, Shield, Armor, Item, Structure, Creature/Character, Defined Physical Representation
 
-The target of this condition is immediately compelled to leave an area and remain at least 5 feet away. This area should be defined by the **Area** and/or **Voice** conditions. If the target is within the defined area, they must immediately leave and may not make any attacks until they are 5 feet from it (though they may still defend themselves, use Resist calls, and Non-Hostile Counted actions). 
+The target of this condition is immediately compelled to leave an area and remain at least 5 feet away. This area should be defined by the [Area]({{< ref "#area" >}}) and/or [Voice]({{< ref "#voice" >}}) conditions. If the target is within the defined area, they must immediately leave and may not make any attacks until they are 5 feet from it (though they may still defend themselves, use [Resist]({{< ref "#resist" >}}) calls, and Non-Hostile Counted actions). 
 
 ## Resist 
 
@@ -276,7 +282,7 @@ The target of this condition cannot run and must double all counted actions unti
 
 **Valid Targets**: Creature/Character
 
-The target of this condition is noticeable in game as a spirit but cannot be interacted with unless the ability may specifically target a Spirit. This condition is represented by the player crossing their arms over their chest (and holding/wearing a blue glowstick/light at night if possible). A character who has transitioned into a spirit from having the dead condition must walk directly to a resurrection point to determine their characters fate. Spirits have the same knowledge as their player/character, so they may avoid resurrection locations that they may feel is dangerous. The target of this condition retains no sensory knowledge while in this condition.
+The target of this condition is noticeable in game as a spirit but cannot be interacted with unless the ability may specifically target a Spirit. This condition is represented by the player crossing their arms over their chest (and holding/wearing a blue glowstick/light at night if possible). A character who has transitioned into a spirit from having the [Dead]({{< ref "#dead" >}}) condition must walk directly to a resurrection point to determine their characters fate. Spirits have the same knowledge as their player/character, so they may avoid resurrection locations that they may feel is dangerous. The target of this condition retains no sensory knowledge while in this condition.
 
 ## Unblockable 
 
@@ -298,7 +304,7 @@ The target of this condition is unconscious due to damage and retains no sensory
 
 **Duration**: Until Removed
 
-**Valid Targets**: Creature/Character with Dead Condition
+**Valid Targets**: Creature/Character with  [Dead]({{< ref "#dead" >}}) Condition
 
 The target of this condition becomes a mindless undead without their own decision-making abilities. Undead are healed by all harm conditions and harmed by all heal conditions. Undead have the dominate condition and can be controlled by Greater Undead. Undead will follow the orders of its creator if there is a discrepancy in orders.
 

@@ -1,0 +1,31 @@
+
+---
+title: "The All-of Branch"
+linkTitle: "The All-of Branch"
+date: 2018-10-06
+author: "Chaz Linn"
+type: "docs"
+desription: "The Inspired source for everything newsworthy."
+
+---
+
+## Library Mishap
+
+*The Research Guild of the Inspired has made the following official declaration and has in no way, shape, or form been edited.*
+
+Open and honest communication has always been at the forefront of the Research Guild of the Inspired. As such, with the assistance of the combined Governments of the Inspired, we make the following decree and request.
+Let it be known that the combined libraries of the Research Guild and Governments of the Inspired have come under magical attack. All texts found within our protection have somehow become erased. We have spent the past few days attempting to restore the inks on the page, but without any success. It seems that these attacks were very deliberate in seeking out historical and magical information particularly as many of the resources of the other guilds have not been touched.
+
+At this point we are investigating who may be involved in this attack, the purpose behind it, and any way that our lost information may be retrieved or replaced. Any and all assistance regarding this occurrence would be greatly appreciated.
+
+  RGI
+
+## Magical Wanderers
+
+Reports throughout Caernarthan, Korin Tal, Briarwood, Zarn, and Imshcran have been stating that travelers from other worlds have infiltrated the borders of many lineage strongholds. Many of these people arrive with little knowledge of where they have come from or where they are currently. The only memories that are clear for these travelers seem to be tied to strong emotional moments from their past such as great triumphs, follies, or joyous occasions. Most of these wanderers are of protected lineages, though some monsters have been found and quickly dispatched.
+
+It is currently unclear as to why these people are randomly appearing. Rumors have swirled sighting attacks from our island neighbors to the North, though there is no corroborating evidence. Look forward to additional information in the coming editions.
+
+## Goblin Menace
+
+Sightings of Goblinoid creatures have increased in the last few weeks. These increases are common with the cold weather setting in. According to our Adventurer sources these monsters do not gather or create items on their own, instead focusing on harvesting resources from local towns, farms, and the wandering adventurers. While not prone to killing, Goblins often knock targets unconscious in order to steal items, resources, and leaves.
