@@ -6,6 +6,8 @@ defaultContentLanguageInSubdir: false
 enableMissingTranslationPlaceholders: true
 enableRobotsTXT: true
 enableGitInfo: true
+ui.sidebar_menu_compact: true
+ui.sidebar_menu_foldable:  true
 taxonomies:
   tag: tags
   category: categories
@@ -41,7 +43,7 @@ params:
     breadcrumb_disable: false
     footer_about_disable: true
     navbar_logo: true
-    navbar_translucent_over_cover_disable: true
+    navbar_translucent_over_cover_disable: false
     sidebar_menu_compact: false
     sidebar_search_disable: false
     feedback:
@@ -65,11 +67,16 @@ params:
       - name: Facebook
         url: 'https://www.facebook.com/CrestfallenOwner/'
         icon: fab fa-facebook
-        desc: It's Facebook!
       - name: Discord
-        url: 'https://example.org/slack'
+        url: 'https://discord.gg/FdrqscEG'
         icon: fab fa-discord
-        desc: Chat with other project developers
+      - name: Youtube
+        url: 'https://www.youtube.com/@crestfallenlarp618'
+        icon: fab fa-youtube
+      - name: Email the Staff
+        url: 'mailto:CrestfallenLARP@gmail.com'
+        icon: fa fa-envelope
+
 
 permalinks:
   blog: '/:section/:year/:month/:day/:slug/'
@@ -108,18 +115,10 @@ module:
       disable: false
 menu:
   main:
-    - name: 
-      pre: <i class="fab fa-facebook-f"></i>
-      weight: 80
-      url: 'https://www.facebook.com/groups/5471128642983855'
     - name: Events
       pre: <i class="fa-solid fa-calendar"></i>
       weight: 10
-      url: '/rules'
-    - name: Camps
-      pre: <i class="fa-solid fa-tents"></i>
-      weight: 20
-      url: '/rules'
+      url: '/events'
     - name: Rules
       pre: <i class="fa-regular fa-book"></i>
       weight: 30
@@ -128,6 +127,7 @@ menu:
       pre: <i class="fa-solid fa-bullhorn"></i>
       weight: 40
       url: '/blog'
-    - name: About
-      weight: 90
-      url: '/about'
+    - name: Katalossa 
+      pre: <i class="fa-solid fa-earth-oceania"></i>
+      weight: 40
+      url: '/katalossa'
