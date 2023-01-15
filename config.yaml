@@ -115,10 +115,10 @@ module:
       disable: false
 menu:
   main:
-    - name: Events
+    - name: Schedule
       pre: <i class="fa-solid fa-calendar"></i>
       weight: 10
-      url: '/events'
+      url: '/schedule'
     - name: Rules
       pre: <i class="fa-regular fa-book"></i>
       weight: 30

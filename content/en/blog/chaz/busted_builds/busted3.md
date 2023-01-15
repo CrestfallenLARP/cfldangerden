@@ -1,8 +1,8 @@
 
 ---
 title: "Pacifist Monk"
-linkTitle: "pacifist Monk"
-date: 2018-10-06
+linkTitle: "Pacifist Monk"
+date: 2022-10-06
 author: "Chaz Linn"
 
 ---
