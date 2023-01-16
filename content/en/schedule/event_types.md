@@ -14,27 +14,27 @@ Event Registration closes the week before an event on Friday.
 
 ## Upcoming Events
 
-### January 14
 
-**Event Type**: [Feast Event]({{< ref "#feast-events" >}})
 
-**In Game Location**: [The estates of Grand Vizier Thermo,  outside of Glavorn, the capital city of Elysia]()
+**Event Type**: 
 
-**Campsite**: Camp Sequanota
+**In Game Location**: 
 
-**Event Director**: Donnie Leight
+**Campsite**: 
 
-**Registration Deadline**: January 1 Every person must prepay there is no option to pay on site.
+**Event Director**:
 
-**PC Onsite**:  January 14 , 10 AM
+**Registration Deadline**: 
 
-**Game Start**: January 14, 12 PM 
+**PC Onsite**: 
 
-**Game End**: January 14, 5 PM 
+**Game Start**: 
 
-**PC Offsite**:  January 14, 7 PM 
+**Game End**: 
 
-**Food**:  Please let us know about any considerations we need to take into account. 
+**PC Offsite**:  
 
-**Event Survey**: [Take the event survey after the event!](https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform) 
+**Food**:  
+
+**Event Survey**: 
 
