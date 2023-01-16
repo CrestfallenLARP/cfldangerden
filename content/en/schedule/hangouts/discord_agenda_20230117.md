@@ -4,8 +4,6 @@ title: "Discord Hangout - January 17th Agenda"
 linkTitle: "January 17th Agenda"
 date: 2023-01-17
 author: "Chaz Linn"
-description: "Discord hang out on January 17th 430pm to 630pm with free in game loot for those who attend."
-type: "blog"
 
 ---
 
@@ -25,3 +23,4 @@ To receive these items a player must have their name and email on record and pre
 So, want to learn more but havent made it to a playtest? Come hang out with us. Note: you must have a discord account 24 hours prior to the event to sign in (blame the bots). 
 
 Crestfallenlarp.com/discord
+
