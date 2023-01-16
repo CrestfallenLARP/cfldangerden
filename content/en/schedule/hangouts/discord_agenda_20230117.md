@@ -22,6 +22,6 @@ In order for the game and players to have an economy to start building items and
 
 To receive these items a player must have their name and email on record and preferably sign up for a character number and sheet (last two not required but helps us track).
 
-So, want to learn more but havent made it to a playtest? Come hang out with us. Note: you must have a discord account 24 hours prior to the event to sign in (blame the bots).
+So, want to learn more but havent made it to a playtest? Come hang out with us. Note: you must have a discord account 24 hours prior to the event to sign in (blame the bots). 
 
 Crestfallenlarp.com/discord
