@@ -8,7 +8,7 @@ type: "docs"
 
 ## Discord Hangouts
 
-Every other Tuesday next one is January 17'th from 4:30 to 6:30. 
+Every other Tuesday next one is January 31st from 4:30 to 6:30. 
 
 - Details are [here]({{< ref "/schedule/hangouts/" >}}) 
 - [To join discord click here.](https://discord.gg/FdrqscEG ) 
