@@ -34,6 +34,8 @@ These hangouts are out of game discussions only, though we may practice particul
 
 **Character Benefits**:  5 Leaves (In Game Money) and 1 Basic Resource per person.  Additionally a raffle will be held for every 10 people that attend for 5 Basic Resources.  These are In Game items only and hold no real world value.
 
+------
+
 
 
 ### **One Day Event**
@@ -59,6 +61,8 @@ Crestfallen One Day Events are usually held at a Park or Pavilion
 **Player Character Benefits**: 2 Character Points for the character being played with the ability to gain 2 additional for the played character and 2 additional for the players secondary character.  Additionally the character may gain In Game Items, Resources, and Leaves depending on character skills and interactions.
 
 **Non-player Character Benefits**:  2 Character Points for a character with the ability to gain 2 additional for the character and 2 additional for a secondary character.
+
+------
 
  
 
@@ -86,4 +90,5 @@ Crestfallen Two Day Events are usually held at a Camp Ground or State Park
 
 **Non-player Character Benefits**: 4 Character Points for a character with the ability to gain 4 additional for the character and 4 additional for a secondary character.
 
- 
+------
+
