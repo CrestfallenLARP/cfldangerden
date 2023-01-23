@@ -12,10 +12,6 @@ Our goal is to provide the best LARPing experience possible, **as often as possi
 
 ------
 
-## Event Types
-
-
-
 ### **Discord Hangout** 
 
 Crestfallen holds Discord Hangouts on a regular basis.  The main purpose for these are to create a place where new or interested people can ask questions from players and staff outside full events.  While we have a rough agenda planned out, these get togethers are a great way to clear up confusion, help plan a character, and get to know the community before even showing up to an event.  Our goal is to make people comfortable with the people and concepts of the game before committing to the travel and costuming of One and Two Day in person events.
