@@ -2,7 +2,7 @@
 ---
 title: "Personal Property"
 linkTitle: "Personal Property"
-date: 202-02-13
+date: 2020-02-13
 author: "Beren Olean"
 
 ---

@@ -2,7 +2,7 @@
 ---
 title: "LARP Economic Basics"
 linkTitle: "LARP Economic Basics"
-date: 2018-10-06
+date: 2020-02-23
 author: "Beren Olean"
 
 ---

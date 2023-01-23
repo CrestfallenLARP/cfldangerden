@@ -2,7 +2,7 @@
 ---
 title: "What is LARP"
 linkTitle: "What is LARP"
-date: 2018-10-06
+date: 2020-01-02
 author: "Beren Olean"
 
 ---
