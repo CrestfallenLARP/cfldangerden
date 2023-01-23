@@ -8,9 +8,9 @@ type: "docs"
 
 
 
-SUNDAY, NOVEMBER 20, 2022 AT 9 AM – 5 PM**
+SUNDAY, NOVEMBER 20, 2022 AT 9 AM – 5 PM
 
-## **Crestfallen LARP 1 Day Trial Event**
+Crestfallen LARP 1 Day Trial Event**
 
 Northmoreland Park Pavilion 4
 
@@ -20,9 +20,9 @@ Northmoreland Park Pavilion 4
 
 
 
-SUNDAY, OCTOBER 16, 2022 AT 9 AM – 5 PM**
+SUNDAY, OCTOBER 16, 2022 AT 9 AM – 5 PM
 
-## **Crestfallen Playtest 2**
+Crestfallen Playtest 2**
 
 Northmoreland Park Pavilion 6
 
@@ -32,9 +32,9 @@ Northmoreland Park Pavilion 6
 
 
 
-**SATURDAY, SEPTEMBER 17, 2022 AT 9 AM – 7 PM**
+SATURDAY, SEPTEMBER 17, 2022 AT 9 AM – 7 PM
 
-## **Crestfallen Combat Playtest**
+*Crestfallen Combat Playtest**
 
 Northmoreland Park Pavilion 6
 
