@@ -40,6 +40,10 @@ Staring at the same flames now pouring from around his blade as rose from the fi
 
 With their interaction past, Kaspen walked off towards his home deep in the wood, leaving Marius- and Paul- to wonder how to go about his new task.
 
+
+
+
+
 ------
 
 And this is where today’s Deep Dive is going to help. One of the most flavorful and interesting mechanics of Crestfallen Larp is the free form Magic system and it’s ability for a character to not only learn existing magics- whether it is common known magics widely known, or more obscure spells known only to a few like the above example- but to create their own unique magic spells and bringing them into the world of Katalossa either for their personal use, or for the good of all the inspired races.
