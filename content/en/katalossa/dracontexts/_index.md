@@ -1,6 +1,6 @@
 
 ---
-title: "Dracon Texts "
+title: "Dracon Texts"
 linkTitle: "Dracon Texts"
 weight: 50
 type: "blog"

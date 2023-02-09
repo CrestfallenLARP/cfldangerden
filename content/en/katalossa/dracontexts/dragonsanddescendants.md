@@ -1,6 +1,6 @@
 
 ---
-title: "Dragons and Descendants"
+title: "Dracon Texts"
 linkTitle: "Dragons and Descendants"
 date: 2023-08-02
 author: "Beren Olean"
