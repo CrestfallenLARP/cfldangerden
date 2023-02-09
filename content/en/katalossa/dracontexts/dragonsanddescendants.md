@@ -1,13 +1,10 @@
-
 ---
 title: "Dracon Texts"
 linkTitle: "Dragons and Descendants"
-date: 2023-08-02
+date: 2023-02-08
 author: "Beren Olean"
 description: "History of the Dracon Lineage and Links to Katalossa."
-
 ---
-
 ## Dragons and Descendants
 
 What to say of Katalossa and its history....I believe that the best place to start is through explaining my people and our place in this world. This may be an odd starting point, but due to my expertise in the matter, it is the most accurate and helpful information that I can convey.
