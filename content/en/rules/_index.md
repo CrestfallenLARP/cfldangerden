@@ -28,6 +28,7 @@ The first physical thing that a person needs to play Crestfallen is a Character 
 - Choose the lineage of the character.
 - Spend Your CP (Character Points) on categories and [skills]({{< ref "/rules/skills" >}}) .
   - [Character Sandbox](/crestfallen_sandbox.xlsx)
+  - Don't have Excel? [Try 365 Online for free.](https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web)
 - Finalize your character sheet with Crestfallen Staff.
 
 ### Points Systems
