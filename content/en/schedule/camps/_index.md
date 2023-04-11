@@ -5,26 +5,9 @@ type: "docs"
 
 ---
 
-Monroville
-
-South Park
-
-North Park
-
-
-
-
-
-
-
-
+We are currently searching for camps and pavilions that are available for one and two day events.  If you have suggestions, please contact us at CrestfallenLARP@gmail.com
 
 ---
 
-a good One day park is secluded.
-Near players
-Cheap
-has open space for a battle and a shelter of some kind.
-easy to rent.
-Often you get a discount if you are a resident.
+A good one day park is secluded, near a majority of the players, is reasonably priced, has open space for a battle, has shelter of some kind, is easy to rent, and often gives a discount if you are a resident.
 
