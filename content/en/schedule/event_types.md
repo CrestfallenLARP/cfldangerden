@@ -42,7 +42,7 @@ Crestfallen One Day Adventures are usually held at a Park or Pavilion
 
 **Description**: A one day adventure is designed for small groups of 5 to 20 players and 5 to 10 NPCs.  The players will take part in 2 to 4 planned story adventures as well as 4 to 8 additional adventures of their choosing from available lineage/guild options.  These adventures may include combat, puzzles, problem solving, role-playing, trading, and more.  Non-Combat players are welcome as there are a number of skills, abilities, and stories that may/will not require combat.
 
-**New/Interested?**:  People who are interested in learning more about LARPing, new players, and new attendees to Crestfallen LARP are welcome to come and ask questions from 9 AM until 10:30 AM.  We want everyone to feel comfortable prior to their first event.  Any and all questions are welcome.  We highly suggest using this time to have weapons/armor/costuming evaluated for points and safety
+**New/Interested?**:  People who are interested in learning more about LARPing, new players, and new attendees to Crestfallen LARP are welcome to come and ask questions from 9 AM until 10:30 AM.  We want everyone to feel comfortable prior to their first event.  Any and all questions are welcome.  We highly suggest using this time to have weapons/armor/costuming evaluated for points and safety.
 
 **Registration Deadline**: 2 Fridays prior to the event (8 Full Days)
 
@@ -74,7 +74,7 @@ Crestfallen One Day Tavern Excursions are usually held at a Park or Pavilion
 
 **Description**: A one day tavern excursion is designed for small groups of 5 to 20 players and 5 to 10 NPCs.  There will be a simulated tavern experience which DOES NOT include alcohol.  These events will not include planned adventures, but instead focus on role-playing, crafting, trading, games of chance, story telling, singing, performing, and similar activities.  Sparring and combat tournaments may occur, but will be limited to designated areas.
 
-**New/Interested?**:  People who are interested in learning more about LARPing, new players, and new attendees to Crestfallen LARP are welcome to come and ask questions from 9 AM until 10:30 AM.  We want everyone to feel comfortable prior to their first event.  Any and all questions are welcome.  We highly suggest using this time to have weapons/armor/costuming evaluated for points and safety
+**New/Interested?**:  People who are interested in learning more about LARPing, new players, and new attendees to Crestfallen LARP are welcome to come and ask questions from 9 AM until 10:30 AM.  We want everyone to feel comfortable prior to their first event.  Any and all questions are welcome.  We highly suggest using this time to have weapons/armor/costuming evaluated for points and safety.
 
 **Registration Deadline**: 2 Fridays prior to the event (8 Full Days)
 
