@@ -12,9 +12,9 @@ type: "docs"
 - **Website**: [Northmoreland Park | Westmoreland County, PA - Official Website](https://www.co.westmoreland.pa.us/736/Northmoreland-Park)
 - **Office Phone**: [(724) 830-3950](tel:724-830-3950)
 - **Campsite Map**: [Northmoreland-MAP-2020 (westmoreland.pa.us)](https://www.co.westmoreland.pa.us/DocumentCenter/View/1643/Northmoreland-MAP-2020?bidId=)
-- **Video**: [Summer Camp Video](https://www.youtube.com/watch?v=bcycnxE5T2k)
 - **Rental Website:**https://secure.rec1.com/PA/westmoreland-county-parks-and-recreation/catalog
-- **Site Cost:** Oct 16th to Apr 30th $25, May 1st to Oct 15th $45 (midweek) - $90 (Fri-Mon)
+- **Site Cost:** Oct 16th to Apr 30th $25, May 1st to Oct 15th $45 (midweek) - $90 (Fri-Mon) Additional cost for Music/Tents
+- **EMERGENCY:** Dial 911 - Non Emergency, call park police at 724-830-3567 
 
 ## Driving Directions to Northmoreland Park
 
@@ -108,13 +108,14 @@ Local dollar store.
 
 ## Nearby Food
 
-#### Kings Family Restaurant
+#### Valley Dairy Restaurant
 
 - **Address**: 315 Hyde Park Rd, Leechburg, PA 15656
 - **Phone:** [(724) 842-0361 ](tel:724-842-0361)
 - **Hours**: 7AM - 8:30PM
 - **Distance from Camp**: 5 min (2.3 miles)
-- **Google Maps:** [Kings Family Restaurants - Google Maps](https://www.google.com/maps/place/Kings+Family+Restaurants/@40.6053425,-79.6064972,17z/data=!4m5!3m4!1s0x8834bbacdfce6f2d:0xfbb9951efaecd6a3!8m2!3d40.603249!4d-79.60695)
+- **Website**: https://www.valleydairy.net
+- **Google Maps:** [Valley Dairy Restaurant - Google Maps](https://www.google.com/maps/place/Kings+Family+Restaurants/@40.6053425,-79.6064972,17z/data=!4m5!3m4!1s0x8834bbacdfce6f2d:0xfbb9951efaecd6a3!8m2!3d40.603249!4d-79.60695)
 
 #### Dairy Queen Grill and Chill
 
@@ -141,27 +142,27 @@ Local dollar store.
 
 ---
 
-## Nearby Car Repair - CONTINUE CHANGES HERE
+## Nearby Car Repair
 
 Most places are closed on the weekends nearby , your best bet for weekend service is the Walmart in Somerset, but there is also a NAPA Auto Parts in Ligonier.
 
 #### AutoZone
 
-- **Address**: 2028 N Ctr Ave, Somerset, PA 15501
-- **Phone**: (814) 445-7008
-- **Hours**: 6am - 11pm
-- **Website**: [walmart.com](https://www.walmart.com/store/1765-somerset-pa)
-- **Distance from Camp**: 18 min (11.5 miles)
-- **Google Maps**: [Walmart Somerset](https://goo.gl/maps/H5AXqSb5A7z1jfok8) 
+- **Address**: 500 Hyde Park Rd, Leechburg PA 15656
+- **Phone**:  [(724) 845-1031](tel:724-845-1031)
+- **Hours**: 7:30am - 9pm Monday thru Saturday, 8am - 8pm Sunday
+- **Website**: https://www.autozone.com/locations/pa/leechburg/500-hyde-park-rd.html)
+- **Distance from Camp**: 9 min (2.7 miles)
+- **Google Maps**: [AutoZone Auto Parts - Google Maps](https://www.google.com/maps/place/AutoZone+Auto+Parts/@40.6067338,-79.6055323,17z/data=!3m1!4b1!4m6!3m5!1s0x8834ba5494ca65ff:0x792948f7cc3bc78c!8m2!3d40.6067297!4d-79.6033383!16s%2Fg%2F1tg6l631)
 
-#### NAPA Auto Parts in Ligonier
+#### NAPA Auto Parts - Jack's Auto Parts of Leechburg
 
-- **Address**: 324 E Main St, Ligonier, PA 15658
-- **Phone**: [(724) 238-9566](tel:724-238-9566)
-- **Hours**: Fri:8:00 AM-6:00 PM, Sat:8:00 AM-5:00 PM, Sun:10:00 AM-2:00 PM
+- **Address**: 1001 S Leechburg Hill Rd #2, Leechburg, PA 15656
+- **Phone**: [(724) 236-0490](tel:724-236-0490)
+- **Hours**: 8am - 5:30pm Monday thru Friday, 8am - 2pm Saturday, CLOSED SUNDAY
 - **Website**: [napaonline.com](https://www.napaonline.com/en/pa/ligonier/store/24211)
-- **Distance from Camp**: 17 min (11.1 miles)
-- **Google Maps:** [NAPA Auto Parts in Ligonier](https://www.google.com/maps/place/324+E+Main+St,+Ligonier,+PA+15658/@40.2033188,-79.1961033,13z/data=!4m5!3m4!1s0x89cb2f1084c62325:0x4870a827757bc674!8m2!3d40.2406505!4d-79.2333743)
+- **Distance from Camp**: 7 min (3.7 miles)
+- **Google Maps:** [https://goo.gl/maps/fYC8TLxgsdM7BXFf9](https://www.google.com/maps/place/324+E+Main+St,+Ligonier,+PA+15658/@40.2033188,-79.1961033,13z/data=!4m5!3m4!1s0x89cb2f1084c62325:0x4870a827757bc674!8m2!3d40.2406505!4d-79.2333743)
 
 ---
 
@@ -175,110 +176,92 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 - Northwest (Excela Health Latrobe Hospital) 
 - Northeast (Conemaugh Memorial ) 
 
-#### Excela Health Latrobe Hospital
+#### Allegheny Valley Hospital
 
-- **Address**: 1 Mellon Way, Latrobe, PA 15650
-- **Phone**:  [(724) 537-1000](tel:724-537-1000)
-- **Website**: [excelahealth.org](https://www.excelahealth.org/locations/latrobe-hospital/)
+- **Address**: 1301 Carlisle St, Natrona Heights, PA 15065
+- **Phone**:  [(724) 224-5100](tel:724-224-5100)
+- **Website**: https://www.ahn.org/locations/hospitals/allegheny-valley
 - **Hours**: 24h
-- **Distance from Camp**: 36 min (23.5 miles)
-- **Google Maps**: [Excela Health Latrobe Hospital](https://goo.gl/maps/tS9fp86HiChZp3wz7)
+- **Distance from Camp**: 22 min (13.2 miles)
+- **Google Maps**: [https://goo.gl/maps/KcafQTVP91bh6ke56](https://goo.gl/maps/tS9fp86HiChZp3wz7)
 
-#### UPMC Somerset Hospital
+#### Forbes Hospital
 
-- **Address**: 225 S Center Ave, Somerset, PA 15501
-- **Phone**:  [(814) 443-5000](tel:814-443-5000)
-- **Website**: [somersethospital.com](https://somersethospital.com)
+- **Address**: 2570 Haymaker Rd, Monroeville, PA 15146
+- **Phone**:  [(412) 858-2000](tel:412-858-2000)
+- **Website**: [https://www.ahn.org/locations/hospitals/forbes](https://somersethospital.com)
 - **Hours**: 24h
-- **Distance from Camp**: closest, around 23 minute drive
-- **Google Maps**: https://goo.gl/maps/NU3ukhc8tjs1KdMn7
+- **Distance from Camp**: 28 min (17.2 miles)
+- **Google Maps**: https://goo.gl/maps/5zVYfjgN2Q56A9z39
 
 
-#### Conemaugh Memorial Hospital 
+#### UPMC East Hospital 
 
-- **Address**: 1086 Franklin St, Johnstown, PA 15905
-- **Phone**: (814) 534-9000
+- **Address**: 2775 Mosside Blvd, Monroeville, PA 15146
+- **Phone**: [(412) 357-3000](tel:412-357-3000)
 - **Hours**: 24h
-- **Distance from Camp**: (around 27-30 minute drive) (in Johnstown)
-- **Google Maps**:  https://goo.gl/maps/J8VmCzYLJLpSYdTbA
+- **Distance from Camp**: 27 min (17 miles)
+- **Google Maps**:https://goo.gl/maps/DjdNq4F2BF36JUt77
 
-### Urgent Care
-The closest is the MedExpress by UPMC Somerset but there are 3 Urgent Care type places in Johnstown (which is slightly further) within a mile of each other. 
+#### MedExpress Urgent Care
 
-**I NEED TO CORRECT THESE. I DON'T HAVE GOOD ADDRESSES**
-
-#### MedExpress near UPMC Somerset
-
-- **Address**: https://goo.gl/maps/Y23Y98ZgNW7K16Zq6 
-- **Phone**: [(814) 443-4740 ](tel:814-443-4740)
+- **Address**: 303 E 10th Ave, Tarentum, PA 15084
+- **Phone**: [(724) 224-2770 ](tel:724-224-2770)
 - **Website**: [medexpress.com](https://www.medexpress.com)
-- **Hours**: open til 8pm
-- **Distance from Camp**: 21 minutes drive, 
-- **Google Maps**: [MedExpress  (by UPMC Somerset)](https://www.google.com/maps/place/Sequanota+Lutheran+Conr+Center+and+Camp/@40.1787971,-79.1056356,344m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0xcf492179dd15a9c1!2sSequanota+Lutheran+Conr+Center+and+Camp!8m2!3d40.1801066!4d-79.1005889!3m4!1s0x0:0xcf492179dd15a9c1!8m2!3d40.1801066!4d-79.1005889!5m1!1e4)
+- **Hours**: 8am - 8pm
+- **Distance from Camp**: 20 min (11.8 miles)
+- **Google Maps**: https://goo.gl/maps/7UKaN1tkMK2P3gEW8
 
+#### MedExpress Urgent Care
 
-#### Medwell
+- **Address**: Heights Plaza, 1870 Broadview Blvd, Natrona Heights, PA 15065
+- **Phone**: [(724) 224-3701 ](tel:724-224-3701)
+- **Website**: [medexpress.com](https://www.medexpress.com)
+- **Hours**: 8am - 8pm
+- **Distance from Camp**: 24 min (13.9 miles)
+- **Google Maps**: https://goo.gl/maps/ChNbuuUMpshkF3w4A
 
-- **Address**: 1450 Scalp Ave #1000, Johnstown, PA 15904
-- **Hours**: open til 8pm
-- **Phone**:  [(814) 269-5200](tel:814-269-5200)
--  **Distance from Camp**: 24 minutes drive
-- **Google Maps:** https://goo.gl/maps/BQu3SgZnLDqFjaTZ9
-
-#### MedExpress Johnstown
-
-- **Address**: 
-- **Distance from Camp**: 24 minutes drive
-- **Hours**: are open until 8, 
-- **Google Maps:**
-
-#### iCare
-- **Address**: 100 Susan Dr, Johnstown, PA 15905
-- **Phone**: (814) 255-1963
-- **Distance from Camp**:  24 minutes drive
-- **Hours**:  8am-6pm
-- **Website**: [icaremedical.com](http://www.icaremedical.com/)
-- **Google Maps:** [iCare Johnstown](https://goo.gl/maps/uxVvbUQxifVsiWRG6) 
+#### iCare Urgent Care
+- **Address**: 4905 William Penn Hwy, Monroeville, PA 15146
+- **Phone**: [(724) 519-8350 ](tel:724-519-8350)
+- **Hours**:  7am - 8pm Monday thru Friday, 8am - 6pm Saturday thru Sunday
+- **Distance from Camp**:  23 min (14.4 miles)
+- **Website**: http://www.icaremedical.com/
+- **Google Maps:**https://goo.gl/maps/v8ZHWtee37nwDpBH9
 
 ### Pharmacy
 
-#### Walmart Pharmacy
+#### Rite Aid Pharmacy
 
-- **Address**:  2028 N Ctr Ave, Somerset, PA 15501
-- **Phone**: (814) 443-6963
-- **Hours**: Friday 9AM–8PM Saturday 9AM–7PM Sunday 10AM–6PM
-- **Distance from Camp**: 17 minutes south
-- **Google Maps:** [Walmart Pharmacy](https://goo.gl/maps/gNkzbxhBGwaDzzjU6)
+- **Address**:  111 North Plaza, Apollo, PA 15613
+- **Phone**: [(724) 478-2500 ](tel:724-478-2500)
+- **Hours**: 8am - 9pm (Subject to change. Please call)
+- **Distance from Camp**: 8 min (3.7 miles)
+- **Google Maps:** https://goo.gl/maps/R2CgPaGmPpUJX8E4A
 
 #### Giant Eagle Pharmacy
 
-- **Address**:  117 S Walnut St, Ligonier, PA 15658
-- **Phone**: (724) 238-0342
-- **Hours**: Friday 9AM–8PM Saturday 9AM–6PM Sunday 9AM–5PM
-- **Distance from Camp**: 17 minutes northwest
+- **Address**:  41 Towne Center Dr, Leechburg, PA 15656
+- **Phone**: [(724) 845-1077 ](tel:724-845-1077)
+- **Hours**: 8am – 8pm Monday thru Friday, 9am – 6pm Saturday,  9am – 5pm
+- **Distance from Camp**: 6 min (2.8 miles)
 - **Website**: [gianteagle.com]( https://www.gianteagle.com/stores/pa/ligonier/ligonier-giant-eagle/607)
-- **Google Maps:** [Giant Eagle Pharmacy](https://goo.gl/maps/xmuq29vtU9LYaTTL7)
+- **Google Maps:** https://goo.gl/maps/M44mtvHGCQzmr4dy8
 
 ---
 
 ## Nearby Hotels
 
-#### Days Inn by Wyndham Somerset PA I-70 I-76
-- **Address**:  125 Lewis Dr, Somerset, PA 15501
-- **Phone**: (814) 445-8788
-- **Website**: [wyndhamhotels.com](https://www.wyndhamhotels.com/days-inn/somerset-pennsylvania/days-inn-somerset-pa-i-70%20i-76/overview?brand_id?CID=LC:DI::GGL:RIO:National:03770&iata=00093796) 
-- **Hours**: Check-in time: 3:00 PM Check-out time: 11:00 AM
-- **Distance from Camp**: 17 minutes northwest
-- **Google Maps:** [Days Inn](https://goo.gl/maps/A7H29fWWsEkGRQXH8)
+Small hotel/motels are available closer to site, but are of varying quality.  The hotel below is the closest chain location.
 
----
+#### Quality Inn 
 
-## [Jennerstown Borough Services](http://www.jennerstownboro.com/services.html)
-
-You probably won't need these but it feels like good information to have. 
-
-- **Non- emergency fire**: (814) 629-5371
-- **Non- emergency police**: (814) 703-8138
+- **Address**:  300 Tarentum Bridge Rd, New Kensington, PA 15068
+- **Phone**: [(724) 335-9171 ](tel:724-335-9171)
+- **Website**: https://www.choicehotels.com/pennsylvania/new-kensington/quality-inn-hotels/pa246?mc=llgoxxpx
+- **Hours**: Check-in time: 2:00 PM Check-out time: 11:00 AM
+- **Distance from Camp**: 17 min (10.9 miles)
+- **Google Maps:** https://goo.gl/maps/p42qdVAX7EqoR8sF7
 
 ---
 **This is a living document. Please let us know if anything can be added and improved.** 
