@@ -20,7 +20,7 @@ The target of this condition must take the effect of any damage or condition att
 
 **Valid Targets**: Creatures/Characters
 
-A battle occurs when 2 or more Creatures/Characters are attacking each other. Some skills use the end of a battle as a condition for the skill to end. A Creature/Character is not allowed to hide at the edge of a fight to end such a skill on themselves. This is expressly forbidden. A Battle ends for a character if they gain the Spirit condition, combat ends with at least 1 minute of downtime for all participants, or after being out of sight and range of the battle for 1 minute. 
+A battle occurs when 2 or more Creatures/Characters are attacking each other. Some skills use the end of a battle as a condition for the skill to end. A Creature/Character is not allowed to hide at the edge of a fight to end such a skill on themselves. This is expressly forbidden. A Battle ends for a character if they gain the Spirit condition, combat ends with at least 1 minute of downtime for all participants, or after being out of sight and range of the battle for 1 minute.  A character that is being guarded or carried off by a hostile creature is still considered in battle for the purposes of conditions that end following a battle. 
 
 ## Berserk
 
@@ -47,7 +47,7 @@ The target is bleeding constantly and cannot benefit from any type of healing ef
 The target is broken and must be repaired before it can be used properly. 
 
 - Weapons that gain this condition may only deal 1 point of damage. 
-- Shields that gain this condition do not fully protect its owner, dealing 1 point of damage to its wielder every time it is struck. Additionally, a broken shield will not protect its wielder from a condition attack such as  [Waylay]({{< ref "/rules/skills/#waylay" >}}).. 
+- Shields that gain this condition do not fully protect its owner, dealing 1 point of damage to its wielder every time it is struck. Additionally, a broken shield will not protect its wielder from a condition attack such as [Waylay]({{< ref "/rules/skills/#waylay" >}}).
 - Armor that gains this condition loses all Armor points until repaired. Limbs that are broken may not be used (No hopping while in combat for player safety please). 
 - Claws and Limbs that are broken may be fixed by [Medical Training Augmentation#]({{< ref "/rules/skills/#medical-training-augmentation" >}}). 
 - Any other item that gains this condition is not usable. Items can be repaired to remove this condition using the appropriate crafting skill. Basic items that become Broken are [Destroyed]({{< ref "#destroyed" >}}) at the end of a  [Battle]({{< ref "#battle" >}}). All tagged items lose one durability when repaired from the Broken condition.
@@ -262,7 +262,7 @@ The target of this condition may not speak or cast spells until removed.
 
 ## Sleeping 
 
-**Duration**: Until Removed
+**Duration**: Until Removed or Battle, whichever occurs first 
 
 **Valid Targets**: Creature/Character
 
