@@ -12,7 +12,7 @@ type: "docs"
 - **Website**: [Northmoreland Park | Westmoreland County, PA - Official Website](https://www.co.westmoreland.pa.us/736/Northmoreland-Park)
 - **Office Phone**: [(724) 830-3950](tel:724-830-3950)
 - **Campsite Map**: [Northmoreland-MAP-2020 (westmoreland.pa.us)](https://www.co.westmoreland.pa.us/DocumentCenter/View/1643/Northmoreland-MAP-2020?bidId=)
-- **Rental Website:**https://secure.rec1.com/PA/westmoreland-county-parks-and-recreation/catalog
+- **Rental Website:** https://secure.rec1.com/PA/westmoreland-county-parks-and-recreation/catalog
 - **Site Cost:** Oct 16th to Apr 30th $25, May 1st to Oct 15th $45 (midweek) - $90 (Fri-Mon) Additional cost for Music/Tents
 - **EMERGENCY:** Dial 911 - Non Emergency, call park police at 724-830-3567 
 
@@ -72,7 +72,7 @@ Discount big box store with snacks, clothing, cleaning supplies, and addition pr
 - **Address**: 451 Hyde Park Rd, Leechburg, PA 15656
 - **Phone**: [(724) 236-6009](tel: 724-236-6009)
 - **Hours:** 9AM - 9PM
-- **Website:**https://www.familydollar.com/locations/pa/leechburg/27712/
+- **Website:** https://www.familydollar.com/locations/pa/leechburg/27712/
 - **Distance from Camp:** 5 min (2.5 miles)
 - **Google Maps:** [Family Dollar - Google Maps](https://www.google.com/maps/place/Family+Dollar/@40.6122293,-79.6215641,13z/data=!3m1!5s0x8834bbaca61707d3:0x54370542c43cd733!4m12!1m6!3m5!1s0x0:0xe8e3d37b5e10e090!2sFamily+Dollar!8m2!3d40.6045841!4d-79.606943!3m4!1s0x0:0xe8e3d37b5e10e090!8m2!3d40.6045841!4d-79.606943)
 
@@ -227,7 +227,7 @@ The campsite is essentially equidistant from 3 hospitals. You might need to ask 
 - **Hours**:  7am - 8pm Monday thru Friday, 8am - 6pm Saturday thru Sunday
 - **Distance from Camp**:  23 min (14.4 miles)
 - **Website**: http://www.icaremedical.com/
-- **Google Maps:**https://goo.gl/maps/v8ZHWtee37nwDpBH9
+- **Google Maps:** https://goo.gl/maps/v8ZHWtee37nwDpBH9
 
 ### Pharmacy
 

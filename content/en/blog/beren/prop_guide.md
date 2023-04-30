@@ -9,7 +9,9 @@ author: "Beren Olean"
 
 # Crestfallen LARP Props Guide
 
-![](C:\Users\Beren Olean\Downloads\pexels-polina-tankilevitch-5257440.jpg)Photo by Polina Tankilevitch: https://www.pexels.com/photo/toy-gun-on-white-background-5257440/
+![](/images/blog_posts/blaster.jpg)
+
+Photo by Polina Tankilevitch: https://www.pexels.com/photo/toy-gun-on-white-background-5257440/
 
 # **Overview**
 
