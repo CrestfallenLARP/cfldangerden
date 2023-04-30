@@ -13,7 +13,7 @@ These hangouts are held during the first Tuesday of each month.
 The next hangout is May 2nd from 4:30 to 6:30PM. 
 
 - Previous Hangouts and Agendas are [here]({{< ref "/schedule/hangouts/" >}}) 
-- [To join discord click here.](https://discord.gg/wxt9upSRJh ) 
+- [To join discord click here.](https://www.crestfallenlarp.com/discord ) 
 - Remember to adhere to the code of conduct 
 
 ---
