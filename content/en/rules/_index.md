@@ -217,7 +217,7 @@ Research is a valuable portion of our game as it allows characters to figure out
 Crafting items in Crestfallen have four specific levels, which are Basic, Augmentation, Mastery, and Technology.
 
 ### Basic Build items and uses
-All basic build items last for the duration of the event, until used, or until destroyed. A break effect will destroy a basic build item. These items are marked on the character sheet and cannot be traded between characters after creation. All Basic Build items require an appropriate physical representation in their description. This item is required to use the effect of a Basic Build Item. One Basic Crafting Component creates 5 items or the Craft effect.
+All basic build items last for the duration of the event, until used, or until destroyed. A break effect will destroy a basic build item. These items are marked on the character sheet and cannot be traded between characters after creation. All Basic Build items require an appropriate physical representation in their description. This item is required to use the effect of a Basic Build Item. One Basic Crafting Component and 30 minutes of roleplay (acting out the brewing, building, or enchanting) creates 5 items or the Craft effect from one appropriate craft.
 
 #### Alchemy Basic Build Items
 
@@ -253,6 +253,8 @@ All basic build items last for the duration of the event, until used, or until d
 
 An Augmentation item is a tagged item with a set durability and different game effects. To craft an Augmented Item, a character must either have an Approved Project Design Card OR they must create one. The creation of an Approved Project Design Card takes time based on the items complexity. Crafters should discuss their plans with Plot prior to events, and attempts will be tracked on character sheets for open transparency between plot and players. Players may use their Research skills and other resources to attempt to speed up the production of a Design Card. Plot may ask for a character to Playtest a design prior to approval. Final approval for Playtest Design Cards will go to the Player Base Votes at the end of each season.
 
+If the character has the appropriate skills and an Approved Project Design Card, they may spend the resources listed on the card and 30 minutes of roleplay (acting out the brewing, building, or enchanting) to create the item.
+
 All Augmented Items will have the following standardized limiting rules.
 
 - Durability starts 8 and may be no more than 16.
@@ -265,6 +267,8 @@ All Augmented Items will have the following standardized limiting rules.
 ### Crafting: Mastery
 
 Mastery items are also tagged items but have different restrictions and more game effects possible. An Approved Project Design Card is still required to create a Mastery item and follow all the other rules set forth in the Augmentation section.
+
+If the character has the appropriate skills and an Approved Project Design Card, they may spend the resources listed on the card and 30 minutes of roleplay (acting out the brewing, building, or enchanting) to create the item.
 
 All Mastery Items will have the following standardized limiting rules.
 
@@ -279,6 +283,8 @@ All Mastery Items will have the following standardized limiting rules.
 ### Crafting: Technology
 
 Technology items are the combination of two or more Crafting Skills with additional input from other skills within the game. These tagged items are wild and varied and will always require a Playtest period as described in the Crafting: Augmentation section.
+
+If the character(s) has(have) the appropriate skills and an Approved Project Design Card, they may spend the resources listed on the card and 30 minutes of roleplay (acting out the brewing, building, or enchanting) to create the item.
 
 All Technology items will have the following standardized limiting rules.
 
@@ -295,6 +301,10 @@ All Technology items will have the following standardized limiting rules.
 **Roleplay –** While magic exists, it is often very specific and heavily rationed. With large battles and many characters being wounded and under the effects of varying conditions, it makes sense that trained medical professions are still required and sometimes preferred. Characters trained in the Medical Training and Surgery skills should roleplay their abilities such as bandaging wounds, making sutures, resetting bones, applying salves/ointments, etc.
 
 **Experimental Surgery –** The basic Surgery skill allows a character to be healed of multiple conditions and damage very quickly, but with a risk. Experimental Surgery is much more challenging and open ended. Experimental Surgery is handled similar to the crafting of items. A character must either have an Approved Project Design Card OR they must create one for Experimental Surgery. The creation of an Approved Project Design Card takes time based on the complexity of the Surgery. Surgeons should discuss their plans with Plot prior to events, and attempts will be tracked on character sheets for open transparency between plot and players. Players may use their Research skills and other resources to attempt to speed up the production of a Design Card. Plot may ask for a character to Playtest a design prior to approval. Final approval for Playtest Design Cards will go to the Player Base Votes at the end of each season.
+
+If the character has the appropriate skills and an Approved Project Design Card, they may spend the resources listed on the card and 30 minutes of roleplay (acting out completing the surgery on a target) to grant the effect.  The effect lasts until the limb that was targeted by the surgery is destroyed or the character dies.
+
+Completing either form of Surgery requires a percentile dice role on the Surgery chart to determine its success.  The chart is based on the overall danger level for the event (which can be found on the schedule page of the website or during check-in).
 
 ## Guilds and Governments
 

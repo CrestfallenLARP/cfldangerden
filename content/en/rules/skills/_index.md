@@ -668,7 +668,7 @@ This skill allows a character to ask 3 yes or no questions from Plot Staff regar
 
 **Restrictions**: Must have [Alchemy]({{< relref "#alchemy" >}}), [Enchanting]({{< relref "#enchanting" >}}), or [Forging]({{< relref "#forging" >}})
 
-This skill allows an item to have its durability extended or a [Destroyed]({{< ref "/rules/conditions/#destroyed" >}}) item to be remade for half the material cost of making a brand new item (Rounded Down).
+This skill allows an item to have its durability extended or a [Destroyed]({{< ref "/rules/conditions/#destroyed" >}}) item to be remade for half the material cost of making a brand new item (Rounded Down).  This skill takes 30 minutes of roleplay (acting out the repair/replacement of items using appropriate crafting equipment) and requires use of the Approved Project Design Card,
 
 ## Medical Training
 
