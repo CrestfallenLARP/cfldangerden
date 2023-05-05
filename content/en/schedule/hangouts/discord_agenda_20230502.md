@@ -9,7 +9,7 @@ type: "blog"
 
 ---
 
-Here is a basic review of the Discord Hangout from May 5th, 2023
+Here is a basic review of the Discord Hangout from May 2nd, 2023
 
 4:30:    Open discussion regarding player interests
 4:50:    Project Design Guide questions
