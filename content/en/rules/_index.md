@@ -257,7 +257,7 @@ If the character has the appropriate skills and an Approved Project Design Card,
 
 All Augmented Items will have the following standardized limiting rules.
 
-- Durability starts 8 and may be no more than 16.
+- Durability starts at 1 and may be no more than 16.
 - Charged items use 1 durability per use.
 - Items granting bonuses to damage may not exceed +1
 - Items dealing spell damage or healing may not exceed 20 points
@@ -272,7 +272,7 @@ If the character has the appropriate skills and an Approved Project Design Card,
 
 All Mastery Items will have the following standardized limiting rules.
 
-- Durability starts at 16 and may be increased to 32.
+- Durability starts at 1 and may be increased to 32.
 - Unlimited Durability items are possible to craft at this level.
 - Items granting bonuses to damage may not exceed +3
 - Items dealing spell damage or healing may not exceed 60 points
@@ -288,7 +288,7 @@ If the character(s) has(have) the appropriate skills and an Approved Project Des
 
 All Technology items will have the following standardized limiting rules.
 
-- Durability starts at 16 and may be increased to 32.
+- Durability starts at 1 and may be increased to 32.
 - Technology items may never be made with Unlimited Durability.
 - Items granting bonuses to damage may not exceed +6
 - Items dealing spell damage or healing may not exceed 100 points
