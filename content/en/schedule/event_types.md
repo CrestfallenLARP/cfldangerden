@@ -44,7 +44,9 @@ Crestfallen One Day Adventures are usually held at a Park or Pavilion
 
 **New/Interested?**:  People who are interested in learning more about LARPing, new players, and new attendees to Crestfallen LARP are welcome to come and ask questions from 9 AM until 10:30 AM.  We want everyone to feel comfortable prior to their first event.  Any and all questions are welcome.  We highly suggest using this time to have weapons/armor/costuming evaluated for points and safety.
 
-**Registration Deadline**: 2 Fridays prior to the event (8 Full Days)
+**Pre - Registration Deadline**: 2 Fridays prior to the event (8 Full Days)
+
+**Registration Cut Off:** 2 Days prior to the event (If you do not register for the event by this date, please just show up to the event and pay/register there. You may still attend by showing up on site, but setup may be more difficult. We highly recommend registration online to improve the experience.)
 
 **Tentative Schedule**: Setup 9 AM, Check In - 10 AM, Open Speech 10:45 AM, Game Start 11 AM, Game End 5 PM, Closing Statements 5:15 PM, Clean Up 5:30 PM, Offsite ASAP.
 
@@ -76,7 +78,9 @@ Crestfallen One Day Tavern Excursions are usually held at a Park or Pavilion
 
 **New/Interested?**:  People who are interested in learning more about LARPing, new players, and new attendees to Crestfallen LARP are welcome to come and ask questions from 9 AM until 10:30 AM.  We want everyone to feel comfortable prior to their first event.  Any and all questions are welcome.  We highly suggest using this time to have weapons/armor/costuming evaluated for points and safety.
 
-**Registration Deadline**: 2 Fridays prior to the event (8 Full Days)
+**Pre-Registration Deadline**: 2 Fridays prior to the event (8 Full Days)
+
+**Registration Cut Off:** 2 Days prior to the event (If you do not register for the event by this date, please just show up to the event and pay/register there. You may still attend by showing up on site, but setup may be more difficult. We highly recommend registration online to improve the experience.)
 
 **Tentative Schedule**: Setup 9 AM, Check In - 10 AM, Open Speech 10:45 AM, Game Start 11 AM, Game End 5 PM, Closing Statements 5:15 PM, Clean Up 5:30 PM, Offsite ASAP.
 
