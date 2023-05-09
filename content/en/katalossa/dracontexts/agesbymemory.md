@@ -22,7 +22,7 @@ Ages are the most generic recordings of time on Katalossa.  Each Age is defined 
 
 ## Katalossa's Calendar
 
-Karalossa has started its latest Calendar based upon the death of the Elven Paragon in the year 1029 since the foundation of Caernarthan, the Elven capital during the Age of Faith.  The current Calendar is known as the Calendar of Arianwen and is in its 1488th cycle.  The calendar itself is broken into 5 months, each with 64 days.  Each month is tied to a planting season and are ordered as follows.  No copies of the Caernarthan Calendar or Calendar of Arianwen are known to survive the loss of the great tomes.  I am sure we will be able to rebuild from this basis as is necessary.
+Karalossa has started its latest Calendar based upon the death of the Elven Paragon in the year 1029 since the foundation of Caernarthan, the Elven capital during the Age of Faith.  The current Calendar is known as the Calendar of Arianwen and is in its 1488th cycle.  The calendar itself is broken into 5 months, each with 64 days.  Each month is tied to a planting season and are ordered as follows.  
 
 - The Scatter - Known for the spreading of seeds.
 - The Flourish - The time for nurturing growth and replenishment.
