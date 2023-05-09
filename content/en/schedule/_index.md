@@ -46,7 +46,7 @@ type: "docs"
 
 **Event Survey**: Available May 22nd thru 29th.
 
-**Teaser Info Available**: May 8th, 2023 
+**Teaser Info Available**: May 8th, 2023  - [May 2023 Event Teaser | Crestfallen (crestfallenlarp.com)](https://crestfallenlarp.com/katalossa/eventteaser/may2023teaser/)
 
 
 
