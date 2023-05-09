@@ -1,5 +1,5 @@
 ---
-title: "Katalossa Gazetteer"
+title: "Port Jebeddo"
 linkTitle: "Port Jebeddo"
 date: 2023-05-01
 author: "Beren Olean"
