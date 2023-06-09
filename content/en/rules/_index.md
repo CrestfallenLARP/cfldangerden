@@ -16,7 +16,7 @@ Future copies will include easier ways to search the document such as bookmarks,
 
 
 
-# **<u>Crestfallen LARP Rulebook Introduction</u>**
+## **<u>Crestfallen LARP Rulebook Introduction</u>**
 
 Hello and welcome to Crestfallen LARP!  Writing a rulebook is difficult because people learn in multiple different ways.  People can be categorized into many different learning styles such as visual, auditory, reading/writing, and kinaesthetic (learning by doing).  Each person will take the rulebook and use it in their own way.  This intro is intended to give some guidance as to what LARP is, how Crestfallen LARP is intended to be portrayed, the goals of the book, and suggestions on ways to approach making a character with the book.
 
@@ -26,7 +26,7 @@ Now, lets go!
 
 
 
-## **What is LARP**
+### **What is LARP**
 
 LARP stands for Live Action Role Play(ing).  The short explanation of this is acting with other people in public.  The thought of this can be scary to some people, but this book is here to tell you that it can be lots of fun and very rewarding.  In a LARP environment that we are discussing there are number of things to keep in mind.
 
@@ -39,13 +39,13 @@ For more information on what LARP is or can be, feel free to check out the What 
 
 
 
-## What is Crestfallen LARP: (Beren's Hopes)
+### What is Crestfallen LARP: (Beren's Hopes)
 
 Crestfallen LARP is intended to be a frontier fantasy LARP game.  The intent is to have a feeling of exploring the game world, building a community, fighting the dangers of the wilds, making magical and scientific discoveries, recovering resources, crafting fantastical equipment, and possible danger around every corner.  The rules are intended to be simple to pick up for new players but nuanced for those that wish to delve into them.  We want to cultivate a culture of teamwork between combat and non-combat characters and growing together as a community both in and out of game.  While player versus player conflict is allowed, the laws in game are always maintained by the plot staff.  Every player has their own abilities to make decisions and act on them without other players having power over another.  A character MAY attempt to order, force, or lie to another character to do what they want, but no player character will ever be granted authority over another characters actions.
 
 
 
-## Goals of this Book
+### Goals of this Book
 
 This rulebook attempts to accomplish the following goals
 
@@ -57,7 +57,7 @@ This rulebook attempts to accomplish the following goals
 
 
 
-## Disclaimer
+### Disclaimer
 
 We understand that learning the entire rulebook is difficult and mistakes will happen.  While we want everyone to understand all of the rules as much as possible, we have a very friendly and understanding community.  We want to lift each other up.
 
@@ -65,7 +65,7 @@ Players should review the Code of Conduct and Philosophies first, as these impac
 
 
 
-## Parts of a Character
+### Parts of a Character
 
 A player’s character (PC for short) is how they interact with the game world and is broken into the following parts
 
@@ -82,31 +82,31 @@ Finally it is important to remember that you are one character in a bigger commu
 
 
 
-## How to make a character when focusing on story/lineage
+### How to make a character when focusing on story/lineage
 
 A player who wants to focus on story should first look at all of the In Game information about the game world and lineages.  These sections include Lineages, Mixed Lineages, Lineage Skill Categories, and the Persona Guide.  This reading will give players basic information on Katalossa (the Crestfallen game world), the lineages of the Inspired, and the skills that are special to each lineage.  After this reading, the player can determine which lineage they would like to play and different Persona and Backstory elements.  Once the Backstory and Persona is established, the player may already have an idea of what style of character they want to build on their Character Sheet.  The player should review the different Points Systems to understand the different types and how they work.  Following this they should focus on the Combat, Magic, and Skills system to determine their categories and skills.  The player will end with creating the costuming and gear based on what they require from the previous steps.
 
 
 
-## How to make a character when focusing on skills and categories
+### How to make a character when focusing on skills and categories
 
 A player who wants to focus on their skills and categories will first look at the Skills list to determine what skills they wish to take.  This may include reviewing the Combat, Magic, or Crafting sections to understand how these work.  Once a player determines what skills they would like to have, they will usually then look that the lineage choices to find out which lineage has the most discounts or best skills to complement their skill choices.  After this the player will create a Persona and Backstory based on the skills and lineage they have ultimately chosen.  The player will end with creating the costuming and gear based on what they require from the previous steps.
 
 
 
-## How to make a character when focusing on physical ability
+### How to make a character when focusing on physical ability
 
 A player needs to take into account their own physical abilities.  If a player is limited in what activities they wish to take part in or medically are limited on activities, the player should first review the skills list to determine their limitations.  This may determine what kinds of skills the player may take, what lineage abilities or physreps they may use, and what counted actions they may need to be aware of.  Once skills and lineage are determined, the player will create a Persona and Backstory based on the previous choices and limitations.  The player will end with creating the costuming and gear based on what they require from the previous steps.
 
 
 
-## How to make a character when focusing on costuming and gear
+### How to make a character when focusing on costuming and gear
 
 A player will focus on costuming and gear that they already own if there are major budget issues.  The player should focus on skills, categories, and lineage based on the gear they already posses or that do not require gear.  After this the player will create a Persona and Backstory based on the skills and lineage they have ultimately chosen.  The player will end with creating the costuming and gear based on what they require from the previous steps.
 
 
 
-# **<u>Code of Conduct</u>**
+## **<u>Code of Conduct</u>**
 
 All members of Crestfallen LARP acknowledge during the check in process that they have read (or watched) and will abide by the Code of Conduct found below. This document (or its videos) encompasses Sportsmanship, Player Safety, and Social Contract items between the members of Crestfallen LARP, its ruling organization, and staff. All members, regardless of station within the organization, are bound by these items. Crestfallen LARP and its members will not be held accountable if a member falsely claims they have watched or read this document or its updates when they have not actually done so. This Code of Conduct extends to all interactions to pages that Crestfallen LARP manages online including social media, forums, and websites.
 
@@ -129,7 +129,7 @@ All members of Crestfallen LARP acknowledge during the check in process that the
 
 *If you are considering suicide, please remember help is available. Call, Text or Chat 988 for the Suicide and Crisis Lifeline in the United States.*
 
-## Sportsmanship
+### Sportsmanship
 
 Like other games, sports, and physical activities, good sportsmanship is vital to a LARP game.
 Members should know, understand, and appreciate the rules and policies of Crestfallen LARP. The spirit of good sportsmanship depends on conformance to the intent of a rule as well as how the rule is written. If a “loophole”, “work around”, or other variation occurs where the intent of the rule and the written rule does not seem to match, members must make this information known to gain clarification and have the rules amended as soon as possible.
@@ -148,11 +148,11 @@ All members (including Owners/Staff/Safety members) may be questioned regarding 
 
 Modeling proper sportsmanship will help influence others to do the same, making a positive environment for all members to enjoy.
 
-## Illegal Drugs and Alcohol
+### Illegal Drugs and Alcohol
 
 Crestfallen LARP does not allow the use of illegal drugs and alcohol during our events. Members suspected to be under the influence of such substances may be removed from participation, asked to leave (if it is safe for them to do so), have law enforcement involved, and/or be asked to not return.
 
-## Safety Mechanics and Consent
+### Safety Mechanics and Consent
 
 It is our belief that storytelling requires tension and stakes. These often require members to deal with items that may make them uncomfortable out of game. The following policies and mechanics are in place for member safety physically and mentally.
 
@@ -188,23 +188,23 @@ https://participationsafety.wordpress.com/2016/09/09/toolkit-the-ok-check-in/
 
 Thank you – Erika Skirpan for the blog articles, documentation, and policies that were used for the game Velvet Noir. They were very helpful in creating this list of mechanics and consent rules.
 
-## Additional Policies
+### Additional Policies
 
-### Thievery
+#### Thievery
 
 Stealing things in Crestfallen LARP must be very closely watched. A Marshal (Green Armband) must be contacted to steal from a cabin, public area, or when using game skills to steal. Characters may only steal in game cards and leaves from other players because they are the property of Crestfallen LARP and not the players themselves. To steal a weapon or other tagged item, the physical item must be taken and held by the player for at least one hour. Following this hour, the item must be given directly to a Marshall so that it may be returned to the player and the tag retrieved from the person who was robbed. A player may NEVER steal the physical property of another player.
 
-### NPC Requirements
+#### NPC Requirements
 
 NPCs are required to have appropriate footwear and clothing for the weather. This clothing should include neutral base layers for costuming such as plain brown, grey, or black. Additionally, NPCs must have a sealable belt pouch for carrying Leaves and Resource cards for distribution as treasure. NPCs who pre-register for an event may gain additional information regarding characters and/or monsters that they will be playing. Players who bring additional costuming to make the character/monster more realistic or interesting may gain additional CP for their efforts.
 
 
 
-# **<u>Philosophies</u>**
+## **<u>Philosophies</u>**
 
 While philosophies are not rules or policies that we enforce, the following are guiding forces that we use in the development, organization, and running of Crestfallen. These may change from time to time, but we feel it is important the those that attend our game are aware of these items.
 
-## Core Out of Game Philosophies
+### Core Out of Game Philosophies
 
 **Attendees must “buy in”** – Players who don’t try to act as their characters, speak out of character, or discuss things out of game in front of others are a distraction for those who wish to immerse themselves in the game world.
 
@@ -220,7 +220,7 @@ While philosophies are not rules or policies that we enforce, the following are 
 
 **Basic rules are easy to follow** – The rulebook and its documents are written to be easy to follow and not require a ton of memorization. Most skills require the player using the ability to know what it does. Most conditions and skills are made using basic language so that new or confused players can make logical choices regarding them.
 
-## Core In Game Philosophies
+### Core In Game Philosophies
 
 **Monsters are always evil** – Sometimes games like to challenge character morals. Crestfallen will only do this with PC lineage NPCs. When a character is fighting a monster, they may always know both in and out of game that the character is evil.
 
@@ -240,11 +240,11 @@ While philosophies are not rules or policies that we enforce, the following are 
 
 
 
-# **<u>Persona Guide</u>**
+## **<u>Persona Guide</u>**
 
 A player’s character (PC for short) is how they interact with the game world. This includes several items such as a Character Sheet, Persona, Costume, and Backstory. This section will be focusing on game world information to help a character create a persona and backstory. If you are a new player, new to Crestfallen, or just looking for some help, please check out our videos coming soon to CrestfallenLarp on Youtube and/or other social media.
 
-## So Our Story Begins
+### So Our Story Begins
 
 Katalossa is a small world with two continents and hundreds of islands. It thrives with Essence, the pure energy of life that fuels creation. It surges with Energy, the power to create magic with thought and intention. While life on Katalossa may be difficult at times, there is a potential within its boundaries that few can ignore.
 
@@ -258,19 +258,19 @@ Sadly, many of the remaining lineages would not agree with these thoughts, eithe
 
 Countless travelers spilled onto Katalossa as an untold number of magical portals from different worlds were ripped open. While some were transported safely to land, many of the portals opened into the sky, under the water, in caverns, and in many other dangerous places around the planet. Many travelers did not survive and those who did had little to no recollection of their previous lives.
 
-## Now It's Up To You, But Where To Start?
+### Now It's Up To You, But Where To Start?
 
 The beginning of the Crestfallen LARP story starts a few months following the Torrent. The citizens of the Inspired have taken in the travelers they have found. Resources are thin, but the people of Katalossa are trying their best to help those in need. Danger is coming to the world, but you need to decide what part you will play.
 
 The following pages will give you the basic information about the story, lineages, and suggestions we have for creating a character that will fit within the world.
 
-## Traveler Or Local Inspired
+### Traveler Or Local Inspired
 
 Inspired characters were born and raised on Katalossa and understand the basics of the world they live in. This is a great place to start for players that are new to LARP as the characters will learn about the world and its nuance as they do. The only requirement for an Inspired character is to follow the costuming requirements for their Lineage and to know the basics behind it. The player may choose to take part in the politics surrounding the Lineage but are not required to.
 
 Traveler characters have found their way to Katalossa via a magical portal during the Torrent. These characters may have existed in a different game (LARP, Tabletop, or other similar media). These should be original characters of the players design (not copies of pre-existing characters from pop culture/media). This is a way to allow players who may have lost a character early in development, missed on story due to a game closing, or any other factor where a character did not meet the players standards to use the developed character in a new world. The character should only have a few memories from their previous life, as we don’t want players to hold previous grudges or thoughts that may not work well within the new game world. Players love to tell stories of their past adventure, so we don’t want to take that away. These characters should be open-minded and strive to understand their new home. These characters must be cleared with plot staff prior to introduction, to ensure they can mesh well with the game world itself.
 
-## Lineages Of The Inspired
+### Lineages Of The Inspired
 
 {{% alert title="Warning" color="warning" %}}
 WARNING– Racism will not be tolerated at Crestfallen. Lineages are based on genetic effects and set physical characteristics that differentiate them from one another. No Lineage is based on a coloration that is used to describe a cultural group in the real world. Kinfolk and Orc are the only Lineages currently limited to coloration, and all other Lineages must use the players real world skin tone. There are no special Lineage versions, especially based on coloration (example: Sea Elves, Dark Elves, Dark Dwarves etc). No players are limited on what Lineage they play based upon their real world skin tone.
@@ -292,7 +292,7 @@ Lineages in Crestfallen determine some costuming requirements and skill categori
 
 **Orc** – The Orcs of Katalossa are green skinned humanoids that often have tusks. This Lineage tends to favor strength and honor above magical pursuits due to their homes being closer to monster controlled lands. The Orcs hold a yearly tournament in their capital of Imshcran to decide who will become their Marshal. This tournament includes physical and tactical contests, ultimately deciding who is the most fit to lead the Lineage. This Lineages is often very direct in their actions and use their natural strengths to their best advantage. Orcs that cast magic usually focus on healing their wounded allies or dealing damage directly to their enemies.
 
-## Monsters Of Katalossa
+### Monsters Of Katalossa
 
 **Gnoll** - The Gnolls of Katalossa were believed to once be members of the Kinfolk Lineage. These creatures resemble monstrous versions of hyenas with a dangerous hunger and claws to match. They wear cobbled together armor of varying types to protect themselves in battle, but rarely care for each other in a fight. Gnolls will often feed on their enemies once they have been dropped, usually resulting in broken limbs for the victims. These monsters cannot be reasoned with and do not attempt to communicate other than through threats.
 
@@ -300,15 +300,15 @@ Lineages in Crestfallen determine some costuming requirements and skill categori
 
 **Undead** - The Undead of Katalossa had not been seen for hundreds of years, up until the Torrent occurred. These walking dead can complete complex actions and seem to understand speech and tactical fighting. While they do not have discussions, some undead can cast spells. All undead seem to have a sense for energy and magical items causing them to target foes with these abilities first. These creatures have no remorse for the living, almost always killing their foes when they have been dropped.
 
-## Magic Of Katalossa
+### Magic Of Katalossa
 
 Energy is the source of all magic on Katalossa. This power is drawn from two separate locations around the plane. The source of Ice, Lightning, and Healing magics come from the inner core of the plane while Fire, Stone, and Harming magics come from the space above Katalossa. Spells that do not channel a particular element may be fueled by either source.
 
-## Essence of Katalossa
+### Essence of Katalossa
 
 Essence is the source of life on Katalossa and is said to come from the inner core of the plane itself. Essence is a resource that can be used for a variety of purposes. The most common use is the ability to come back to life from death. A spirit may return to life by giving one essence back to Katalossa, allowing their body and items to reform. The body may reform in several ways such as receiving guidance from a willing person, being rebuilt by a machine, being shunted into a new body, etc.
 
-## The Unified Principles Of The Inspired
+### The Unified Principles Of The Inspired
 
 - All people of lineages of the Inspired are considered equal under the law regardless of station, physical ability, and thought.
 - All people of lineages of the Inspired are entitled to speak freely of their thoughts. This ability to speak freely is only restricted when knowingly used to speak falsely of another member of the Inspired. All Inspired should be sure in their words and never use them to throw accusations against each other without consideration for their actions.
@@ -317,7 +317,7 @@ Essence is the source of life on Katalossa and is said to come from the inner co
 - All lineages of the Inspired maintain governance of their own territory or capital.
 - Any transgressions regarding the Laws of the Inspired of Katalossa will be handled by a member of the Protectorate of Katalossa. This organization is maintained by the Dracon lineage as an impartial force of law.
 
-## The Laws Of The Inspired Of Katalossa
+### The Laws Of The Inspired Of Katalossa
 
 **Accomplice** – Someone who willingly and knowingly aids or assists another in breaking a law of the Inspired of Katalossa is guilty of this crime.
 
@@ -345,7 +345,7 @@ Essence is the source of life on Katalossa and is said to come from the inner co
 
 **Treason** – Someone who willingly and knowingly attempts to destroy or take over the duly determined political power of a particular lineage or the power of the Inspired of Katalossa is guilty of this crime.
 
-## Dispensation Of Justice
+### Dispensation Of Justice
 
 The Protectorate of Katalossa is charged with the dispensation of justice among the populace of Katalossa. They will do so in the following ways.
 
@@ -363,7 +363,7 @@ The Protectorate of Katalossa is charged with the dispensation of justice among 
 - **Public Execution** – Public exchange leading to the death and loss of Essence.
 - **Monster Status** – Status among the Inspired is removed. No protection under the law and treated as a Monster publicly.
 
-## Member Lineages Of The Inspired
+### Member Lineages Of The Inspired
 
 The following Lineages are under the protection of the Governments of the Inspired and as such are bound by the Unified Principles, Laws, and Dispensation of Justice found here. Individuals may lose this protection for crimes committed against members of the Inspired. Lineages may be added to this list if they have proven that they will agree with the writings outlined here.
 
@@ -375,7 +375,7 @@ The following Lineages are under the protection of the Governments of the Inspir
 - Kinfolk
 - Orc
 
-## Monstrous Enemies Of The Inspired
+### Monstrous Enemies Of The Inspired
 
 The following Lineages have been deemed Monsters and as such have no protection of the Laws of the Inspired. Additionally, these Monsters actively go against the Principles of the Inspired and as such are to be killed on sight.
 
@@ -383,21 +383,21 @@ The following Lineages have been deemed Monsters and as such have no protection 
 - Gnoll
 - Undead (all types)
 
-## Regarding Unknown Lineages
+### Regarding Unknown Lineages
 
 Lineages and creatures that are found outside our members and enemies may be treated as necessary on a case-by-case basis. While they may not be protected by our laws currently, with appropriate diplomacy, we may find common ground and add them to our ranks. Likewise, it may be determined that they go against our beliefs and may become permanently at odds with us.
 
 
 
-# **<u>How to Forge Your Character</u>**
+## **<u>How to Forge Your Character</u>**
 
 A player’s character (PC for short) is how they interact with the game world. This includes several items such as a Character Sheet, Persona, Costume, and Backstory. This section will be focusing on the game specific Character Sheet that is required for play. If you are a new player, new to Crestfallen, or just looking for some help, please check out our Character Builder document and videos (coming soon to CrestfallenLarp on Youtube).
 
-## How to Build Your Character Sheet
+### How to Build Your Character Sheet
 
 The first physical thing that a person needs to play Crestfallen is a Character Sheet. Creating a sheet is very simple to do, however, it can require a lot of forethought. Remember to keep your persona and backstory in mind when completing your Character Sheet. Please note that players may only have two characters in the Crestfallen Database at one time. If a character is permanently killed, the player may create a new character to replace it.
 
-## How to Complete a Character Sheet – A Step by Step Guide
+### How to Complete a Character Sheet – A Step by Step Guide
 
 - Choose the lineage of the character.
 - Spend Your CP (Character Points) on categories and [skills]({{< ref "/rules/skills" >}}) .
@@ -407,21 +407,21 @@ The first physical thing that a person needs to play Crestfallen is a Character 
 
 Please note that we are available to assist with Character Sheet creation during our Discord Hangouts (schedule on CrestfallenLARP.com), private discord discussions, email, or scheduled meetings.  We prefer to have Character Sheets completed before events so we can focus on the event itself. 
 
-## Lineages
+### Lineages
 
 In Crestfallen there are currently six different character lineages. Each of these lineages have different costume requirements for play and skills they may learn. A player should take these items into account prior to choosing a lineage to play. Chart 1.1 lists all the current lineages, as well as their prop requirements and a basic description of the lineage. Chart 2.1 thru 2.7 list the lineage categories and skills involved with them.
 
 All Lineages are our own version of fantasy characters from folklore. Each Lineage group has a particular political and military point of view. It is up to the player to decide if they wish to take part in these viewpoints or distance themselves from them. The Lineages do not enforce any particular social or cultural viewpoints. Each player is allowed to determine these viewpoints without influence from the game world itself and should be based on the players own comfort level.
 
-### Mixed Lineage
+#### Mixed Lineage
 
 Please note, it is acceptable for a character to be of mixed lineage, however the character may only benefit from one Lineage Category and must follow all costume requirements matching this Category. Both Lineages must be listed on the Character Sheet for story purposes and may not be altered after character creation.
 
 
 
-## Points Systems
+### Points Systems
 
-### Character Points/CP Cost
+#### Character Points/CP Cost
 
 Every character in Crestfallen starts the game with 60 CP (Character Points) and gains additional through attendance. Characters use these CP to purchase Categories and [Skills]({{< ref "/rules/skills" >}}) , which grant characters additional options throughout the course of the game. Characters start with access to the General and the characters lineage Category for free. Other than these, the first Category a Character purchases will cost 5 CP. Each additional Category will cost 5 more than the last purchased. (1st is 5, 2nd is 10, 3rd is 15, etc). Once a Category is purchased, a Character may then purchase skills at their listed cost. Skills found on multiple lists may have different costs. The cost of a skill will always be the cost when purchased. No CP will be refunded if a Category is later unlocked with a different cost unless stated in a particular skill.
 
@@ -443,27 +443,27 @@ Characters gain 4 CP for attending an event (2CP for a One-Day). In addition, th
 - **Purchase** – A player may purchase any additional outstanding CP at the values listed on the website at time of preregistration or registration at the door.
 - **EMT/First Aid** – A player who has a first aid or EMT certificate and agrees to act in this capacity may be granted 1 CP. To receive the CP the certificate must be verified and valid during the course of the event.
 
-### Stamina Points/ST Cost
+#### Stamina Points/ST Cost
 
 Every character in Crestfallen starts the game with 5 ST (Stamina) and may purchase additional ST with their CP. A Character starts every game with their max ST and may use these ST to fuel skills according to their ST Cost. When purchasing skills these ST Costs should be kept in mind, and as such, are listed on the charts for ease of use. ST may be regained in many ways and is described in greater detail later in this document.
 
-### Energy Points/Energy
+#### Energy Points/Energy
 
 Some Character’s in Crestfallen may choose to use magic. Most of this magic is fueled by [Energy]({{< ref "/rules/skills/#energy" >}}) which may be purchased with CP in the [Magical Combat Skill Category]({{< ref "/rules/skill_categories/#magical-combat-skill-category" >}}) and/or some Lineage Skill Categories. A character starts every game with their max Energy and may use these to fuel spells according to their Energy Cost. Energy may be regained in many ways and is described in greater detail later in this document.
 
-### Essence Points
+#### Essence Points
 
 Characters in Crestfallen do not die the way that people do in real life. Each character has an amount of life energy known as Essence that they may use to return to life (or for additional uses found in game). All characters start with 5 Essence and may gain additional points on rare occasions. Occasions may include yearly rule voting meetings (open to all attendees), special events, and currency turn in.
 
-### Body Points/Body
+#### Body Points/Body
 
 A character’s health is determined by the amount of Body the character has. All characters start with 5 Body and may purchase additional based on their  [General Skill Category]({{< ref "/rules/skill_categories/#general-skill-category" >}}) and Lineage Skill Categories. Also, a character’s costume may add an additional 10 Body based on its rating. Ratings are determined in the system found below.
 
-### Armor Points/Armor
+#### Armor Points/Armor
 
 A character may wear armor, which protects their Body from harm. To use armor, the character must purchase the ability to wear armor from the  [General Skill Category]({{< ref "/rules/skill_categories/#general-skill-category" >}}) and/or some Lineage Skill Categories. Ratings are determined in the system found below.
 
-#### Costuming/Armor Rating System
+##### Costuming/Armor Rating System
 
 Costuming and Armor are important in building and maintaining immersion in our imaginary world, so it is critical that we encourage highly immersive kits within the combat rules and our roleplaying beliefs. These Phys Reps grant characters Body and Armor after they have received a rating from a marshal using the following guidelines prior to game start.
 
@@ -491,9 +491,9 @@ Costuming and Armor must receive a rating prior to entering game. This must be n
 
 
 
-# **<u>Combat</u>**
+## **<u>Combat</u>**
 
-**Melee Damage –** Melee weapons may be used by any character. If the character is not proficient, the weapon will deal 1 damage and may not benefit from any skills that increase the damage of that weapon. If the character is proficient, a one handed weapon will deal 2 damage plus any skills that may add to the weapon. If the character is proficient, a staff will deal 2 points of damage plus any skills that may add to the weapon. If the character is proficient, all other two handed melee weapons will deal 4 points of damage. Damage may be altered with appropriate skills and/or item tags. Claws are one handed weapons that are green in color and represent natural weapons such as claws, wings, and tails. Brawlers are one handed weapons that are white in color and represent a characters fists.
+**Melee Damage –** Melee weapons may be used by any character. If the character is not proficient, the weapon will deal 1 damage and may not benefit from any skills that increase the damage of that weapon. If the character is proficient, a one handed weapon will deal 2 damage plus any skills that may add to the weapon. If the character is proficient, a staff will deal 2 points of damage plus any skills that may add to the weapon. If the character is proficient, all other two handed melee weapons will deal 4 points of damage. Damage may be altered with appropriate skills and/or item tags. Brawlers and Claws are one handed boffer weapons that are green or red in color and represent natural weapons such as claws, wings, tails or fists.
 
 **Flurry Rule -** While taking part in melee combat, a combatant may swing their weapon and call damage a maximum of three times in rapid succession before resetting. This reset must be a short pause and may include stepping back or setting up defensively. Some skills or items may allow characters to increase the number of swings they may make during the course of a flurry. If there is ever confusion regarding this, a marshall may be contacted to ensure the rules are being followed appropriately.
 
@@ -509,7 +509,7 @@ Costuming and Armor must receive a rating prior to entering game. This must be n
 
 **Illegal Targets –** Combat at LARP events can become frantic at times. Players should fight with as much control as possible to avoid injuring other attendees. In melee combat the head/face and groin areas are considered illegal targets. Players are not allowed to target these areas on purpose with melee, ranged, or firearm attacks. Ranged attacks that make incidental contact with these areas count, however, it should be noted that if these areas are hit on a regular basis, a characters ability to use melee or ranged combat may be removed by staff at any time.
 
-# **<u>Magic</u>**
+## **<u>Magic</u>**
 
 Magic in Crestfallen is controlled by the acquisition and use of Energy. This is a generic term as the players can determine what their source of Energy may be. Some basic concepts that characters are free to use include 
 
@@ -522,25 +522,25 @@ Magic in Crestfallen is controlled by the acquisition and use of Energy. This is
 
 The magic system will always work in the following ways, regardless of how the character views magic in game.
 
-## Gaining Spells
+### Gaining Spells
 
 Every time a character purchases [Energy\*]({{< ref "/rules/skills/#energy" >}}) with CP, they gain access to a new basic spell from the [spell list]({{< ref "/rules/spells" >}}). This spell is added to the spells known section of the character sheet. 
 
-## Creating New Spells
+### Creating New Spells
 
 Additionally, a character may create a new spell. To do so, the player must contact the plot staff between events to discuss what their new spell will do, determine its Energy Cost, and decide if the spell will be prototype or added directly to the rules system. A character may only have one prototype spell at a time. This spell is being tested and may only be used that character. Prototype spells cannot be copied, turned into items, or be taught to other characters. Every year, Prototype spells will be reviewed and voted on by the player base to decide if they will be included to the permanent spell list, discarded, or revised for additional testing. Once a spell is approved for use, the creator is given an Approved Project Design card. This allows the character to add the spell to their spells known, teach the spell to other characters for addition into their spells known, and/or grant access to the guilds to distribute the spell to other characters. 
 
-## Casting a Spell
+### Casting a Spell
 
 Before casting a spell, a character must have an open hand with a spell physrep in it and enough spell energy to cast the spell. Spell energy is represented by wooden tongue depressors that are acquired from Logistics at the beginning of game or when recovered. The character then says the spells incantation, breaks the appropriate amount of energy, and either touches or throws the physrep at the intended target. A spell cast via touch may be resisted by the target with the appropriate call of “Resist”. A thrown spell that hits the target, including any items that the target was carrying or wearing at the beginning of the incantation must take the spell effect. Following this, the Energy/Spell is spent and may then be recovered. Please note, that if the incantation is not completed or said properly, then the Energy/Spell has not been spent and may be attempted again. Players may create their own spell incantations with a minimum of 5 words, but must include the spell name/effect as the last statement of the incantation.
 
-## Recovering Energy
+### Recovering Energy
 
 Once a character has used Energy through the casting of a spell, they may then take time to rest and recover the spent Energy. To do so the player must take part in a restful activity tied to their viewpoint on magic. Examples of these activities include but are not limited to the following: Meditation, Study, Reading, and Napping. A character recovers 1 Energy for every 30 minutes spent completing these activities. Items and Plot Effects may exist that increase or decrease the amount of time spent to recover Energy or increases or decreases the amount of Energy that can be recovered at one time. There are also Items that can instantly restore Energy to a Character. A Character may only benefit from these Items once per event. Recovered energy must be tracked on the character sheet and physreps will be supplied by logistics once completed.
 
 
 
-# <u>**Counted Actions**</u>
+## <u>**Counted Actions**</u>
 
 Counted actions are generic actions or specific skills that take a longer amount of time to complete. Counted actions for skills are described in their entries. Most counted actions take 3 seconds and have a specific call in order to use them. Longer counted actions may not be counted out loud or have a call, but the character completing the action must track the duration of these actions. A counted action starts at the beginning of the count and only completes when the correct call or duration has completed. If the character doing the counted action takes damage, uses a game skill, uses a game spell, uses a magic item, or loses contact with the target, the counted action does not complete. 
 
@@ -566,7 +566,7 @@ Below are a list of counted actions that are not tied to specific skills and tha
 
 **Search (known item) –** A character may be searched for an item that they are known or be suspected of having on their person. The call for this is “I search you for [described item] 1, I search you for [described item] 2, I search you for [described item] 3” while touching the targets arm. A character may ask for a clarification regarding the search but should not try to actively deceive another player to prevent the item from being found. Players found to do this are in violation of the Sportsmanship policy and Code of Conduct and may be asked not to attend future events. A character may use the Sense ability to pinpoint specific items for use in this search.
 
-## Limited Counted Actions
+### Limited Counted Actions
 
 Limited Counted Actions follow the same rules as counted actions but are usually completed by NPCs or must be prompted by a plot member for a Character to use.
 
@@ -576,7 +576,7 @@ Limited Counted Actions follow the same rules as counted actions but are usually
 
 
 
-# Currency
+## **<u>Currency</u>**
 
 **Leaves –** These are the main money source within Crestfallen. Leaves were originally created through an Alchemical and Enchantment technique that solidified Essence inside of a trees leaves. This made them highly sought after. 100 leaves may be turned in during the course of an event to gain 1 bonus CP or 500 leaves may be turning in once a year to gain 1 bonus Essence. Please note that players are restricted to how many bonus CP they may gain during the course of an event.
 
@@ -586,7 +586,7 @@ Limited Counted Actions follow the same rules as counted actions but are usually
 
 **Time** - Time is a vital resource that is not tracked the same way that Leaves, Resources, and Essence are.  Counted actions that restore Stamina and Energy or the Gathering and Crafting skills all have a component based on time.  It is important that players keep these mechanics in mind.  We are currently not strict in the tracking of time on sheets for these uses.  If a player sits and has a conversation that has lasted a half hour, they may count this as resting to restore Stamina or Energy (even if this was not the original intent).  These items may be tracked more in future if cheating or abuse is noticed.
 
-# **<u>Research</u>**
+## **<u>Research</u>**
 
 Research is a valuable portion of our game as it allows characters to figure out story beats and world lore on the players terms rather than plots. This makes the skills difficult to manage at times. To make things easier, we have formulated the following system.
 
@@ -596,14 +596,14 @@ Research is a valuable portion of our game as it allows characters to figure out
 
 3. **During Event Crafting Assistance –** A character may use a research skill to help determine what resource costs and effects may occur in creating a design prior to its actual construction. This helps to reduce failures and unforeseen negatives that may occur.
 
-# **<u>Crafting, Science, & Technology</u>**
+## **<u>Crafting, Science, & Technology</u>**
 
 Crafting items in Crestfallen have four specific levels, which are Basic, Augmentation, Mastery, and Technology.
 
-## Basic Build items and uses
+### Basic Build items and uses
 All basic build items last for the duration of the event, until used, or until destroyed. A break effect will destroy a basic build item. These items are marked on the character sheet and cannot be traded between characters after creation. All Basic Build items require an appropriate physical representation in their description. This item is required to use the effect of a Basic Build Item. One Basic Crafting Component and 30 minutes of roleplay (acting out the brewing, building, or enchanting) creates 5 items or the Craft effect from one appropriate craft.
 
-### Alchemy Basic Build Items
+#### Alchemy Basic Build Items
 
 - **Alchemical Grenade**: Spell Ammo - A character may throw a ranged attack with the verbal of “5 damage”.
 - **Alchemical Flashbang**: Spell Ammo - A character may throw a ranged attack with the verbal of “Knockback”.
@@ -611,7 +611,7 @@ All basic build items last for the duration of the event, until used, or until d
 - **Alcohol**: Potion Bottle – A character may drink or grant another a drink that grants the Distracted effect.
 - *Craft Effect* **Weapon Poison +1:** Purple Ribbon – A character may deal 1 additional point of damage with a weapon that has the craft effect until the item is broken or destroyed. This may not be used on Firearms.
 
-### Enchanting Basic Build Items
+#### Enchanting Basic Build Items
 
 - **Healing Potion**: Potion Bottle - A character may drink or be fed this potion with the verbal of “5 healing”.
 - **Heartiness Potion**: Potion Bottle – A character may drink or be fed this potion with the verbal of “5 Body” This potion grants 5 additional Body points which are lost before costuming and normal Body points. A character may only have additional Body points from one source at a time. The highest value will take precedence.
@@ -619,7 +619,7 @@ All basic build items last for the duration of the event, until used, or until d
 - **Mana Potion**: Potion Bottle - A character may drink or be fed this potion with the verbal of “1 Energy”. This potion grants 1 Energy to the character who drinks it. A character may only drink 5 Mana Potions per event.
 - *Craft Effect* **Rune of Protection**: Wearable Rune – A character may wear one Rune of Protection at any given time. The first spell that hits a character wearing a Rune of Protection, is negated with the call of “Resist”. This “Resist” must be used, regardless of the spell being thrown. A spell that is cast via touch does not trigger this “Resist”.
 
-### Forging Basic Build Items
+#### Forging Basic Build Items
 
 - **One Handed Weapon**: One Handed Weapon under 46” (116.84 Cm) - A character may use any One Handed Weapon that fits the appropriate size and safety requirements. These weapons are put on to the character sheet and are destroyed with a Break or [Destroy Condition]({{< ref "/rules/conditions/#destroy" >}}).
 
@@ -633,7 +633,7 @@ All basic build items last for the duration of the event, until used, or until d
 
 - *Craft Effect* **Repair Item**: A tagged Item and Physical Representation – A character may repair a Broken item, allowing it to be used once more. To repair a tagged item, the crafter must put their character number on the durability box to show that it has been repaired.
 
-## Crafting: Augmentation
+### Crafting: Augmentation
 
 An Augmentation item is a tagged item with a set durability and different game effects. To craft an Augmented Item, a character must either have an Approved Project Design Card OR they must create one. The creation of an Approved Project Design Card takes time based on the items complexity. Crafters should discuss their plans with Plot prior to events, and attempts will be tracked on character sheets for open transparency between plot and players. Players may use their Research skills and other resources to attempt to speed up the production of a Design Card. Plot may ask for a character to Playtest a design prior to approval. Final approval for Playtest Design Cards will go to the Player Base Votes at the end of each season.
 
@@ -648,7 +648,7 @@ All Augmented Items will have the following standardized limiting rules.
 - Items will have a set resource cost in Basic and Common Resources only
 - Rare resources may be used but will have no additional effect items.
 
-## Crafting: Mastery
+### Crafting: Mastery
 
 Mastery items are also tagged items but have different restrictions and more game effects possible. An Approved Project Design Card is still required to create a Mastery item and follow all the other rules set forth in the Augmentation section.
 
@@ -664,7 +664,7 @@ All Mastery Items will have the following standardized limiting rules.
 - Additional currency or resources may be required
 - Additional currency or resources may be used to modify effects during creation based on the resources and plot based effects (percentile role for possible effects)
 
-## Crafting: Technology
+### Crafting: Technology
 
 Technology items are the combination of two or more Crafting Skills with additional input from other skills within the game. These tagged items are wild and varied and will always require a Playtest period as described in the Crafting: Augmentation section.
 
@@ -680,7 +680,7 @@ All Technology items will have the following standardized limiting rules.
 - Additional currency or resources may be required
 - Chance of failure or unforeseen outcomes and plot based effects will occur (percentile role for possible effects)
 
-# **<u>Medical Training and Surgery</u>**
+## **<u>Medical Training and Surgery</u>**
 
 **Roleplay –** While magic exists, it is often very specific and heavily rationed. With large battles and many characters being wounded and under the effects of varying conditions, it makes sense that trained medical professions are still required and sometimes preferred. Characters trained in the Medical Training and Surgery skills should roleplay their abilities such as bandaging wounds, making sutures, resetting bones, applying salves/ointments, etc.
 
@@ -690,61 +690,61 @@ If the character has the appropriate skills and an Approved Project Design Card,
 
 Completing either form of Surgery requires a percentile dice role on the Surgery chart to determine its success.  The chart is based on the overall danger level for the event (which can be found on the schedule page of the website or during check-in).
 
-# **<u>Guilds and Governments</u>**
+## **<u>Guilds and Governments</u>**
 
 Guilds and Governments are used to assist characters in their roleplay, resource management, and organization within the game. A Guild is a business tied to a skill found in the more roleplay intensive skill categories. These businesses include the Craft, Merchants, Research and Thieves Guilds. The only requirement to join a Guild is taking its appropriate skill. A Government is an organization run by the ruling members of a particular Lineage. The only requirement to join a Government is to be a member of that particular Lineage.
 
 Other than the requirements for entry, Guilds and Governments function in a similar fashion. Each organization will have a folder found in the town hub. If a character meets the membership requirements, they will be allowed to have access to this folder. Characters may be members in multiple organizations, however, they may be limited on how far they may advance within multiple organizations. It should also be noted that advancement within an organization will NEVER give a character power over another character.
 
-## Organization Folders 
+### Organization Folders 
 
 Organization folders will have the following items within them to help players interact with the gameworld and plot.
 
-### Module List 
+#### Module List 
 
 Each organization will have several jobs or modules that they would like their members to complete throughout the course of an event. Many of these will be at set times of the day and characters may sign up for them on the module list found within.
 
-### Market Value Chart
+#### Market Value Chart
 
 Each organization has a chart of items they are selling, as well as looking to purchase. This list may change from event to event. Only members of the appropriate organization may see this chart, unless the character has an additional skill (such as Going Rate) that grants access. This is a great way to stockpile some items or to make a profit selling items to the organization.
 
-### Rumors List
+#### Rumors List
 
 The organization has its own interests and NPCs. As such, they may have information regarding current events, locations, monsters, and other rumors that may or may not be true. These rumors may give insight on what may go on during an event, tips on items that may sell well or be bought cheap in the future.
 
-### Guild Features
+#### Guild Features
 
 (Guilds only) Each guild has a way of making money for their organization in addition to the buying and selling of items and sending members on missions.
 
-#### Craft Guild 
+##### Craft Guild 
 
-##### Project Library
+###### Project Library
 
 The Craft Guild maintains the Project Library which houses all publicly available Approved Project Designs. When a member of the Craft Guild develops an Approved Project Design, they may sell the rights of the design to the guild. The guild will buy designs that use Basic and Common resources for 10 leaves and designs that use Rare resources for 20 leaves. Additionally, the guild will rent out designs in the Project Library for 5 leaves for Basic and Common resource designs and 10 leaves for rare resource designs. Advancement in the guild will grant members reduced costs on these rental rates. These amounts may change, but will be detailed in the Craft Guild folder.
 
-#### Merchants Guild
+##### Merchants Guild
 
-##### The Bank
+###### The Bank
 
 The Merchants Guild maintains the Bank. Characters can store their leaves in the Bank to ensure its safety. In addition to this service, the Bank offers loans to characters. The bank will loan leaves in increments of 10 at the rate of 1 leaf interest per event. (example: Your character borrows 30 leaves from the bank. If you pay this loan back during the same event, you must repay 33 leaves. If you repay the following event, you must repay 36 leaves....39...42...45, etc.) If a character ever reaches an amount owed of two times what was borrowed, the character may be put up for bounty to the Thieves Guild. These amounts may change, but will be detailed in the Merchants Guild folder. 
 
-#### Research Guild
+##### Research Guild
 
-##### Research Library
+###### Research Library
 
 The Research Guild maintains the Research Library which houses all publicly available Research Documents granted via the Research Skills as well as Plot In Game Documents and Character created documents. Some documents found in this Library are confirmed to be accurate with the game world by the plot staff and will be clearly marked as such. Characters may submit documentation to the Research Library for payment as well as possible advancement with the guild. Researchers will be paid 2 leaves per page (8.5x11 paper, double spaced, 12 font standard) submitted. This price will be doubled for any document that is verified as accurate from plot prior to submission. The Research Library may be rented at 5 leaves per hour, with the rental cost being reduced by guild membership and rank within the guild.
 
-#### Thieves Guild 
+##### Thieves Guild 
 
-##### The Stockpile 
+###### The Stockpile 
 
 The Thieves Guild is in charge of handling the Stockpile which houses emergency Resources and items. The Stockpile has different items, availability, and rates depending on the skills and/or rank within the guild. Additionally, members may donate or sell items to the Stockpile in order to advance within the guild. Rare Resources will **NEVER** be sold by plot unless they are found here.
 
-##### Bounties 
+###### Bounties 
 
 Bounties are also handled by the Thieves Guild. These are contracts against player characters who have either failed to repay their debts to the Merchants Guild or broke an In Game Law (see [Rules of Law]({{< ref "/rules/conditions/#the-laws-of-the-inspired-of-katalossa" >}}) for more details). These bounties are always optional to players (No PVP will intentionally be forced). These bounties are always structured in order to repay the characters debt and to prevent grief to the character at all costs. A member of the Thieves Guild will be authorized to subdue (never kill) the target character and retrieve the amount of leaves owed on the characters debt or a specific fine amount from their person. This amount is then returned to the Thieves Guild. The member may not keep any additional money from this bounty, otherwise they may lose access to the Bounty system and may lose status within the guild. A character will always be notified that a bounty is active against them prior to the bounty being available to members of the guild.
 
-## Guild Advancement
+### Guild Advancement
 
 Character advancement within each organization is based on donations and modules completed. Every 10 leaves, 10 resources, 5 items or 1 module brought to a satisfactory completion will grant a character 1 point within the guild. 
 
@@ -757,9 +757,9 @@ Character advancement within each organization is based on donations and modules
 
 These ranks do not confirm any powers of law or justice to the character, but instead shows their influence with the particular organization and its NPCS. Holding a higher title may grant the character more Roleplay with NPCs and grant the characters some sway with the organization as a whole. Additionally, these titles may grant additional voting ability to direct how an organization may proceed.
 
-# **<u>Charts</u>**
+## **<u>Charts</u>**
 
-## Gathering Chart
+### Gathering Chart
 
 | Danger Level --><br />Items Found | 1 | 2 | 3 | 4 |
 | ---------------------------- | ------- | ------- | ------- | ------- |
@@ -781,7 +781,7 @@ These ranks do not confirm any powers of law or justice to the character, but in
 
 Rare increases by 2% each event a rare is not found.
 
-## Surgery Chart
+### Surgery Chart
 
 | Danger Level --><br />Success Rate | 1 | 2 | 3 | 4 |
 | ---------------------------- | ------- | ------- | ------- | ------- |
