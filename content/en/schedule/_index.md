@@ -8,21 +8,21 @@ type: "docs"
 
 ## Register For Our Upcoming Event!
 
-### May 21st, 2023 - Registration Available Now!
+### July 9th, 2023 - Registration Available Now!
 
 **How To Register** - Please send an email to CrestfallenLARP@gmail.com including the following information (Your Name, Player or Non-Player Character, Character Name, Player Number, and any Research Skill Questions you may have).  *If this is your first event and you do not have this information, don't worry, we will do everything we can to help you.*  Player Characters must finish registration by sending payment for the event.  This can be done via Paypal (BearNPC@gmail.com) or by mail to our office (BearNPC Productions LLC, 615 Terrace Ave. Apollo PA 15613).  Please make all checks to BearNPC Productions LLC.  You should receive a confirmation email within 2 business days.
 
 **Event Cost:** Player Characters $25.00, Non-Player Characters $0.00
 
-**Pre - Registration Deadline**: May 12, 2023 (All players who register on or before this date gets 1 CP towards their character.  We do this to show appreciation to you for giving us more time to plan for the event and better entertain you!)
+**Pre - Registration Deadline**: July 7th, 2023 (All players who register on or before this date gets 1 CP towards their character.  We do this to show appreciation to you for giving us more time to plan for the event and better entertain you!)
 
-**Registration Cut Off**: May 19th, 2023 (If you do not register for the event by this date, please just show up to the event and pay/register there. You may still attend by showing up on site, but setup may be more difficult. We highly recommend registration online to improve the experience.)
+**Registration Cut Off**: July 7th, 2023 (If you do not register for the event by this date, please just show up to the event and pay/register there. You may still attend by showing up on site, but setup may be more difficult. We highly recommend registration online to improve the experience.)
 
 **Event Type**: One Day Adventure
 
 **Danger Level**: 1
 
-**Undead Faction Level:** 1
+**Undead Faction Level:** 2
 
 **Goblin Faction Level:** 1
 
@@ -44,9 +44,9 @@ type: "docs"
 
 **Food**:  Not provided. Please bring a lunch or plan on getting food directly after.  We will try to get food as a group somewhere local if cleanup and offsite occurs quickly.
 
-**Event Survey**: Available May 22nd thru 29th.
+**Event Survey**: Available July 11th thru 25th.
 
-**Teaser Info Available**: May 8th, 2023  - [May 2023 Event Teaser | Crestfallen (crestfallenlarp.com)](https://crestfallenlarp.com/katalossa/eventteaser/may2023teaser/)
+**Teaser Info Available**: July 3rd, 2023
 
 
 
@@ -54,7 +54,7 @@ type: "docs"
 
 These hangouts are held during the first Tuesday of each month.
 
-The next hangout is June 6th from 4:30 to 6:30PM. 
+The next hangout is July 4th from 4:30 to 6:30PM. 
 
 - Previous Hangouts and Agendas are [here]({{< ref "/schedule/hangouts/" >}}) 
 - [To join discord click here.](https://www.crestfallenlarp.com/discord ) 
@@ -69,42 +69,6 @@ Event Registration closes the full week before an event on Friday.
 ------
 
 ## Upcoming Events
-
-
-
-### July 9th, 2023
-
-**Event Type**: One Day Adventure
-
-**Danger Level**: 1
-
-**Undead Faction Level:** 1
-
-**Goblin Faction Level:** 1
-
-**Gnoll Faction Level:** 1
-
-**In Game Location**: TBD
-
-**Campsite**: [Northmoreland Park - Pavillion 6](https://crestfallenlarp.com/schedule/camps/northmoreland_park_pavilion_6/)
-
-**Event Director**: Beren Olean
-
-**Registration Deadline**: June 30th, 2023
-
-**PC Onsite**:  9 AM
-
-**Game Start**: 11AM
-
-**Game End**: 5 PM
-
-**PC Offsite**:  9 PM
-
-**Food**:  Not provided. Please bring a lunch or plan on getting food directly after.  We will try to get food as a group somewhere local if cleanup and offsite occurs quickly.
-
-**Event Survey**: Available July 10th thru 17th.
-
-**Teaser Info Available**: June 23rd, 2023 
 
 
 
