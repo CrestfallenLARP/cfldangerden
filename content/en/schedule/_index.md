@@ -46,7 +46,7 @@ type: "docs"
 
 **Event Survey**: Available July 11th thru 25th.
 
-**Teaser Info Available**: July 3rd, 2023
+**Teaser Info Available**: June 27th, 2023 - [Check NOW](https://crestfallenlarp.com/katalossa/eventteaser/july2023teaser/)
 
 
 
