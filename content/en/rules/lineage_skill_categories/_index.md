@@ -16,7 +16,7 @@ weight: 1.5
 | [Hauflin]({{< ref "#hauflin-lineage-skill-category" >}}) | Top Knot and Bushy Sideburns                                 | Hauflin are often fun loving and inquisitive. These traits often get them both into and out of trouble rather quickly. |
 | [Human]({{< ref "#human-lineage-skill-category" >}})     | None                                                         | Humans are highly adaptive and enterprising, causing their influence to spread without many of the older lineages obstructions. |
 | [Kinfolk]({{< ref "#kinfolk-lineage-skill-category" >}}) | Must appear as an animal type associated with the Kinfolk. May include/but not limited to Mask, Skin Color, Hair Color, Prosthetics | Kinfolk tend to feel close to nature and a strong urge to protect it when possible. Their superior senses often make them great hunters, researchers, and warriors. |
-| [Orc]({{< ref "#orc-lineage-skill-category" >}})         | Green Skin and Tusks (Tusks may be built into jawline of armor/mask) | Orcs are innately bloodthirsty and ready for battle. While some choose to fight these feelings, they are always present. |
+| [Orc]({{< ref "#orc-lineage-skill-category" >}})         | Mask or Green Makeup (Tusks built into jawline of armor/mask suggested) | Orcs are innately bloodthirsty and ready for battle. While some choose to fight these feelings, they are always present. |
 
 ## Lineage Skill Categories
 
