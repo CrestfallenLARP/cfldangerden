@@ -201,16 +201,16 @@ This category includes skills suitable for a crafter, farmer, resource manager, 
 
 | Skill Name                                                   | CP Cost | ST Cost | Short Descriptions                                           |
 | ------------------------------------------------------------ | ------- | ------- | ------------------------------------------------------------ |
-| [Alchemy]({{< ref "/rules/skills/#alchemy" >}})  | 10      | 1       | Character may craft poisons, gases, and other alchemical items |
-| [Cower]({{< ref "/rules/skills/#cower" >}})    | 5       | 1       | Character may act helpless to dissuade others from attacking |
+| [Alchemy]({{< ref "/rules/skills/#alchemy" >}})              | 10      | 1       | Character may craft poisons, gases, and other alchemical items |
+| [Cower]({{< ref "/rules/skills/#cower" >}})                  | 5       | 1       | Character may act helpless to dissuade others from attacking |
 | [Craft Guild Member#]({{< ref "/rules/skills/#craft-guild-member" >}}) | 10      | 0       | Charactergains the benefits of joining the guild             |
-| [Crafting: Augmentation#]({{< ref "/rules/skills/#crafting-augmentation" >}}) | 15      | 0       | Character may craft Augmented items                          |
-| [Crafting: Mastery#]({{< ref "/rules/skills/#crafting-mastery" >}}) | 20      | 0       | Character may craft Masterwork Items                         |
+| [Crafting: Augmentation#]({{< ref "/rules/skills/#crafting-augmentation" >}}) | 15      | 1       | Character may craft Augmented items                          |
+| [Crafting: Mastery#]({{< ref "/rules/skills/#crafting-mastery" >}}) | 20      | 1       | Character may craft Masterwork Items                         |
 | [Crafting Theory]({{< ref "/rules/skills/#crafting-theory" >}}) | 10      | 1       | Character may gain information on advanced crafting          |
-| [Enchanting]({{< ref "/rules/skills/#enchanting" >}}) | 10      | 1       | Character may craft potions and scrolls                      |
-| [Forging]({{< ref "/rules/skills/#forging" >}})  | 10      | 1       | Character may craft weapons, armor, and shields              |
-| [Gathering]({{< ref "/rules/skills/#gathering" >}}) | 10      | 1       | Character is trained in Gathering of resources from nature   |
+| [Enchanting]({{< ref "/rules/skills/#enchanting" >}})        | 10      | 1       | Character may craft potions and scrolls                      |
+| [Forging]({{< ref "/rules/skills/#forging" >}})              | 10      | 1       | Character may craft weapons, armor, and shields              |
+| [Gathering]({{< ref "/rules/skills/#gathering" >}})          | 10      | 1       | Character is trained in Gathering of resources from nature   |
 | [Guild Stockpile]({{< ref "/rules/skills/#guild-stockpile" >}}) | 15      | 0       | Character gains currency at check in                         |
-| [Harvesting]({{< ref "/rules/skills/#harvesting" >}}) | 10      | 1       | Character may harvest resources from enemies                 |
-| [Maintenance#]({{< ref "/rules/skills/#maintenance" >}}) | 10      | 2       | Character may extend an items durability                     |
+| [Harvesting]({{< ref "/rules/skills/#harvesting" >}})        | 10      | 1       | Character may harvest resources from enemies                 |
+| [Maintenance#]({{< ref "/rules/skills/#maintenance" >}})     | 10      | 2       | Character may extend an items durability                     |
 | [Technology Crafting#]({{< ref "/rules/skills/#technology-crafting" >}}) | 20      | 4       | Character may craft Technology Items                         |

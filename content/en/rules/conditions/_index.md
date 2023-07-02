@@ -28,7 +28,7 @@ A battle occurs when 2 or more characters or creatures are attacking each other.
 
 **Valid Targets**: Character, Creature
 
-The target becomes enraged beyond control and attempts to kill all characters and creatures near them, starting with what they consider to be the closest, regardless of line of sight. The character must deal the maximum damage with all weapon swings, ranged attacks and spell damage. This does not force the character to use any ST or energy based skills.
+The target becomes enraged beyond control and attempts to kill all characters and creatures near them, starting with what they consider to be the closest, regardless of line of sight. The character must deal the maximum damage with all attacks and spell damage. This does not force the character to use any ST or energy based skills.
 
 ## Bleed
 
@@ -42,7 +42,7 @@ The target is bleeding constantly and cannot benefit from any type of healing ef
 
 **Duration**: Until Repaired
 
-**Valid Targets**: Armor, Item, Limb, Shield, Weapon 
+**Valid Targets**: Armor, Claw, Item, Limb, Shield, Weapon 
 
 The target is broken and must be repaired before it can be used properly. 
 
@@ -97,9 +97,9 @@ The target of this condition is lifeless and retains no sensory knowledge of any
 
 **Duration**: Permanent
 
-**Valid Targets**: Armor, Item, Shield, Weapon
+**Valid Targets**: Armor, Claw, Item, Limb, Shield, Weapon
 
-The target item is destroyed and cannot be repaired. If the target is a basic item, it should be removed from the character sheet as soon as possible. If the target item is a common or rare craft item, then all durability must be removed from the tag, but it may be fixed with the [maintenance#]({{< ref "/rules/skills/#maintenance" >}}) skill or rebuilt with its full craft cost.
+The target item is destroyed and cannot be repaired. If the target is a basic item, it should be removed from the character sheet as soon as possible. If the target item is a common or rare craft item, then all durability must be removed from the tag, but it may be fixed with the [maintenance#]({{< ref "/rules/skills/#maintenance" >}}) skill or rebuilt with its full craft cost.  Claws and Limbs targeted with this condition are treated as if they have the broken condition and may be fixed by medical training augmentation#. (No hopping while in combat for player safety please).
 
 ## Distracted 
 
@@ -123,7 +123,7 @@ The target views the character that dominated them as their best friend. This ta
 
 **Valid Targets**: Character, Creature
 
-The target of this condition is on the verge of death and retains no sensory knowledge of anything. One minute after entering the dying condition, the target dies (gaining the [dead]({{< ref "#dead" >}}) condition and losing the dying condition). If a character starts using the stabilize portion of the [medical training#]({{< ref "/rules/skills/#medical-training" >}}) skill on the target, the dying count freezes at its current number. If stabilize is completed, the target loses the dying condition and gains the [unconscious]({{< ref "#unconscious" >}}) condition with 1 HP. If the target is healed, they lose the dying condition immediately and are conscious.
+The target of this condition is on the verge of death and retains no sensory knowledge of anything. One minute after entering the dying condition, the target dies (gaining the [dead]({{< ref "#dead" >}}) condition and losing the dying condition). If a character starts using the [medical training#]({{< ref "/rules/skills/#medical-training" >}}) skill on the target, the dying count freezes at its current number. If target is stabilized, it loses the dying condition and gains the [unconscious]({{< ref "#unconscious" >}}) condition with 1 body. If the target is healed, they lose the dying condition immediately and is conscious.
 
 ## Elemental (Fire, Ice, Stone, Lightning) 
 
@@ -291,7 +291,7 @@ The target of this condition is noticeable in game as a spirit but cannot be int
 
 **Valid Targets**:  Armor, Character, Creature, Item, Shield, Weapon
 
-The target of this condition must take the effect of any damage or condition attached to it when struck with a weapon blow or ranged projectile, regardless of blocking with an item, shield, weapon or using a protective ability.
+The target of this condition must take the effect of any damage or condition attached to it when struck with a weapon blow or ranged projectile, regardless of blocking with an item, shield, or weapon.  This damage still damages armor first and body second.  Resist calls may still negate unblockable conditions.
 
 ## Unconscious 
 
