@@ -371,8 +371,8 @@ The Protectorate of Katalossa is charged with the dispensation of justice among 
 
 The following Lineages are under the protection of the Governments of the Inspired and as such are bound by the Unified Principles, Laws, and Dispensation of Justice found here. Individuals may lose this protection for crimes committed against members of the Inspired. Lineages may be added to this list if they have proven that they will agree with the writings outlined here.
 
-- Dwarf
 - Dracon
+- Dwarf
 - Elf
 - Hauflin
 - Human
