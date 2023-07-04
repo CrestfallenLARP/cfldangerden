@@ -2,6 +2,7 @@
 ---
 title: "Props Guide"
 linkTitle: "Props Guide"
+type: "docs"
 date: 2023-04-17
 author: "Beren Olean"
 
