@@ -1,19 +1,13 @@
 
 ---
-title: "Crestfallen LARP Props Guide"
-linkTitle: "Crestfallen LARP Props Guide"
+title: "Props Guide"
+linkTitle: "Props Guide"
 date: 2023-04-17
 author: "Beren Olean"
 
 ---
 
-# Crestfallen LARP Props Guide
 
-![](/images/blog_posts/blaster.jpg)
-
-Photo by Polina Tankilevitch: https://www.pexels.com/photo/toy-gun-on-white-background-5257440/
-
-# **Overview**
 
 Props are used in Crestfallen LARP to represent effects that cannot exist in the real world and to represent weapons to allow us to simulate combat in a safer way.  Props can be bought, modified, and built in many different ways.  This guide is written to give players a starting point on the props that we use.
 
@@ -23,7 +17,7 @@ Below are a list of different types of props, guidelines for construction, sugge
 
 
 
-## **Ammo, Blaster**
+## Ammo, Blaster
 
 Blaster ammo is used to represent ranged attacks in a safe way.  Blasters may use spherical ammunition in the form of 7/8" (22.2mm )"rival compatible", "long" foam darts, or "mega" foam darts.  Blaster ammo is supplied for NPCs but may be supplied to PCs upon special request/reasoning.
 
@@ -53,7 +47,7 @@ https://www.amazon.com/EKIND-Compatible-N-Strike-96-Dart-Refill/dp/B07BVN54VK/re
 
 
 
-## **Ammo, Spell**
+## Ammo, Spell
 
 Spell ammo is used to represent ranged attacks in a safe way.  Spells may use spherical ammunition in the form of 7/8" (22.2mm) "rival compatible" or 1.68" (42mm) foam golf balls.  Spell ammo is supplied for NPCs but may be supplied to PCs upon special request/reasoning.
 
@@ -74,7 +68,7 @@ Spell ammo is used to represent ranged attacks in a safe way.  Spells may use sp
 
 
 
-## **Armor**
+## Armor
 
 Armor is a protective covering used to protect vital areas in combat.  Crestfallen LARP armor may be made of authentic materials such as gambesons (padded cloth), leather, chainmail, and metal plates as well as costume armor made from cloth, plastics, and foam crafted to have the appearance of authentic materials.  We have the following suggestions regarding all armors.  Armor is supplied to NPCs only.  PCs must supply their own armor and should have it rated by staff prior to the start of an event (virtually or in person).
 
@@ -92,7 +86,7 @@ Armor is a protective covering used to protect vital areas in combat.  Crestfall
 
 
 
-## **Armbands**
+## Armbands
 
 Armbands are used to clearly notate non-combatants (Orange), plot/marshals (Green), and EMTs (Blue).  This is important to make sure that these attendees are easily accessible for safety and subtle game interactions.  Crestfallen LARP will supply these armbands as possible, but highly suggests that if a player intends on attending and will be part of one of these groups to supply their own.
 
@@ -102,7 +96,7 @@ Crestfallen LARP uses these Orange, Green, and Blue Armbands
 
 
 
-## **Blasters**
+## Blasters
 
 Blasters are used to replicate ranged combat as safely as possible.  Blasters are currently limited at an average of 100fps over three tests of a chronograph.  All blasters must be chronographed, safety tagged, and approved for use prior to game.  Please keep in mind the following.  Blasters will be supplied to NPCs as needed.  PCs may borrow blasters upon special request/reasoning.  If a player supplied blaster fails safety check, we will do our best to supply a blaster for PC use.
 
@@ -126,7 +120,7 @@ Blasters are used to replicate ranged combat as safely as possible.  Blasters ar
 
 
 
-## **Clothing/Costuming**
+## Clothing/Costuming
 
 Clothing/Costuming is an important part of keeping in character.  Clothing/Costuming is supplied by the player.  Standard costuming will be provided for NPCs playing particular characters/lineages.   All clothing/costuming should keep in mind the following things.
 
@@ -158,7 +152,7 @@ Additional suggests for NPC clothing/costuming
 
 
 
-## **Energy**
+## Energy
 
 Energy are jumbo sized craft sticks that are used to track how much spell energy a character has at a particular time.  When characters cast spells, they must snap the wooden sticks in the casting of the spell.  These props will have markings on one or both sides of the stick.  Crestfallen LARP supplies the Energy props, but players may bring their own.  Energy props brought by a player must be activated by staff by attaching the appropriate markings to one or both sides of the prop.
 
@@ -168,13 +162,13 @@ Energy are jumbo sized craft sticks that are used to track how much spell energy
 
 
 
-## **Glasses**
+## Glasses
 
 Any and all glasses are allowable at Crestfallen LARP.  While we would love for people to have in period style glasses, we would never ask people to make such an expensive purchase for our game.  We highly suggest bringing and extra or old pair in case of emergency such as damage or loss of your primary pair.  It is highly suggested that players who can wear contacts, do so.
 
 
 
-## **Light Source**
+## Light Source
 
 Light sources are important for player safety and ambiance.  We hightly suggest lanterns that look in genre such as modified oil lamps and flickering travel lamps.  These types of lights should not include real glass in their construction if possible.  Modern lanterns can be modified to appear more in genre.  Ultimately, player safety is the primary concern.
 
@@ -190,7 +184,7 @@ https://www.amazon.com/SHYMERY-Flickering-Batteries-Decorative-Centerpiece/dp/B0
 
 
 
-## **Potion**
+## Potion
 
 Potion props are clear plastic vials with stoppers (either attached or separate) that can hold 5 to 10 ml of liquid at at time.  These props may have colored liquid added to them or be painted to look more authentic.  Crestfallen LARP will supply limited quantities of 10ml centrifuge vials as potion props, but it is suggested that players provide their own.
 
@@ -204,7 +198,7 @@ https://www.amazon.com/50PCS-Plastic-Sample-Cryotubes-Material/dp/B09H43QYWK/ref
 
 
 
-## **Shield, Custom**/Handmade
+## Shield, Custom/DIY
 
 There are many ways to produce a shield for use at Crestfallen LARP.  We currently accept shields made of plywood, corrugated plastic, or foam cores.  All of these shields should have hard edges covered with foam.  Even foam core shields should have a thin layer of open cell foam around the edge for safety.
 
@@ -222,7 +216,7 @@ Corrugated Plastic/Plastidip Shield - [Making an Ultra Light Plastidip Shield: T
 
 
 
-## **Shield, Mass Produced**
+## Shield, Mass Produced
 
 There are a number of companies that mass produce shields in Latex or Hybrid foam varieties.
 
@@ -240,7 +234,7 @@ All shields must be checked, safety tagged, and approved for use prior to game. 
 
 
 
-## **Wand**
+## Wand
 
 Wands are similar to Energy props as they are jumbo size craft sticks, but are colored rather than bare wood.  These props are used to replicate single use magical items that hold spell energy within them.  Any character may use a wand and the prop acts as its own item tag.  The wand prop must include a spell incantation of at least 5 words (one of which may be the condition that the spell causes.)  To use the prop, the spell incantation must be read/said aloud, the prop must be snapped, and then the spell energy must be thrown or touched to its target.  Crestfallen LARP currently supplies the Wand props, but players may bring their own when planning to craft wands through the game rules.
 
@@ -250,7 +244,7 @@ Wands are similar to Energy props as they are jumbo size craft sticks, but are c
 
 
 
-## **Weapon, Custom/Homemade**
+## Weapon, Custom/DIY
 
 There are many ways to produce a weapon for use at Crestfallen LARP.  We currently accept weapons made of CPVC, PVC, or Fiberglass cores.  Weapons with metal or ratan cores are not accepted.  All of these weapons should have their striking edges covered with foam and core points capped with plastic and/or foam.  The only portion of a weapon that is not covered in foam is its handle.  Below is a list of the breakdown of different weapons and their parts.  Additional pieces such as axe blades and hammer heads should be made of open cell foam and constructed in such a way as to easily appear as the weapon it is trying to represent.  Melee Weapons may have a crossguard attached as part of the weapons Grip Length.  This crossguard may have a maximum length of 18 inches.
 
@@ -289,7 +283,7 @@ All weapons must be checked, safety tagged, and approved for use prior to game. 
 
 
 
-## **Weapon, Mass Produced**
+## Weapon, Mass Produced
 
 There are many ways to produce a weapon for use at Crestfallen LARP.  We currently accept weapons made of CPVC, PVC, or Fiberglass cores.  Weapons with metal or ratan cores are not accepted.  All of these weapons should have their striking edges covered with foam and core points capped with plastic and/or foam.  The only portion of a weapon that is not covered in foam is its handle.  Below is a list of the breakdown of different weapons and their parts.  Additional pieces such as axe blades and hammer heads should be made of open cell foam and constructed in such a way as to easily appear as the weapon it is trying to represent.  Melee Weapons may have a crossguard attached as part of the weapons Grip Length.  This crossguard may have a maximum length of 18 inches.
 
