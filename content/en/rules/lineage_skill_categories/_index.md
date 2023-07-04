@@ -7,44 +7,6 @@ weight: 1.5
 
 ---
 
-## Lineages
-
-[Dwarf]({{< ref "#dwarf-lineage-skill-category" >}})
-
-Prop Beard (real beards do not count)
-
-Dwarves pride themselves on their family history and traditions as well as their love of fine weapons and battles.
-
-[Elf]({{< ref "#elf-lineage-skill-category" >}})
-
-Pointed Ear Tips
-
-Elves are innately attuned to magic in its many forms as well as the attentiveness tolearn and retain knowledge.
-
-[Hauflin]({{< ref "#hauflin-lineage-skill-category" >}})
-
-Top Knot and Bushy Sideburns
-
-Hauflin are often fun loving and inquisitive. These traits often get them both into and out of trouble rather quickly.
-
-[Human]({{< ref "#human-lineage-skill-category" >}})
-
-None
-
-Humans are highly adaptive and enterprising, causing their influence to spread without many of the older lineages obstructions.
-
-[Kinfolk]({{< ref "#kinfolk-lineage-skill-category" >}})
-
-Must appear as an animal type associated with the Kinfolk. May include/but not limited to Mask, Skin Color, Hair Color, Prosthetics
-
-Kinfolk tend to feel close to nature and a strong urge to protect it when possible. Their superior senses often make them great hunters, researchers, and warriors.
-
-[Orc]({{< ref "#orc-lineage-skill-category" >}})
-
-Mask or Green Makeup (Tusks built into jawline of armor/mask suggested)
-
-Orcs are innately bloodthirsty and ready for battle. While some choose to fight these feelings, they are always present.
-
 ## Lineage Skill Categories
 
 Notes:
@@ -56,6 +18,10 @@ x = Exponential Cost (example: 1st Body = 1 Point, 2nd Body = 2 points, 3rd Body
 \# = Requires Prerequisite
 
 ### Dwarf Lineage Skill Category
+
+Costume Requirements: Prop Beard (real beards do not count)
+
+Dwarves pride themselves on their family history and traditions as well as their love of fine weapons and battles.
 
 Only Dwarf Characters may purchase skills from this Category.
 
@@ -81,6 +47,10 @@ Only Dwarf Characters may purchase skills from this Category.
 
 ### Elf Lineage Skill Category
 
+Costume Requirements: Pointed Ear Tips
+
+Elves are innately attuned to magic in its many forms as well as the attentiveness tolearn and retain knowledge.
+
 Only Elf Characters may purchase skills from this Category.
 
 [Enchanting]({{< ref "/rules/skills/#enchanting" >}}) [8 CP] Character is trained in Enchanting 
@@ -104,6 +74,10 @@ Only Elf Characters may purchase skills from this Category.
 [Stealth,Woodlands]({{< ref "/rules/skills/#stealth-woodlands" >}}) [8 CP] Character may use Stealth in wooded areas 
 
 ### Hauflin Lineage Skill Category
+
+Costume Requirements: Top Knot and Bushy Sideburns
+
+Hauflin are often fun loving and inquisitive. These traits often get them both into and out of trouble rather quickly.
 
 Only Hauflin Characters may purchase skills from this Category.
 
@@ -129,6 +103,10 @@ Only Hauflin Characters may purchase skills from this Category.
 
 ### Human Lineage Skill Category
 
+Costume Requirements: None
+
+Humans are highly adaptive and enterprising, causing their influence to spread without many of the older lineages obstructions.
+
 Only Human Characters may purchase skills from this Category.
 
 [Adaptable]({{< ref "/rules/skills/#adaptable" >}})[0 CP] When Category is purchased, character gains 2 Body, 2 Energy, or 2 ST
@@ -144,6 +122,10 @@ Only Human Characters may purchase skills from this Category.
 [Weapon of Choice]({{< ref "/rules/skills/#weapon-of-choice" >}}) [3 CP] Character is trained in the use of one weapon of their choice, not including Firearms.
 
 ### Kinfolk Lineage Skill Category
+
+Costume Requirements: Must appear as an animal type associated with the Kinfolk. May include/but not limited to Mask, Skin Color, Hair Color, Prosthetics
+
+Kinfolk tend to feel close to nature and a strong urge to protect it when possible. Their superior senses often make them great hunters, researchers, and warriors.
 
 Only Kinfolk Characters may purchase skills from this Category.
 
@@ -168,6 +150,10 @@ Only Kinfolk Characters may purchase skills from this Category.
 [Variable]({{< ref "/rules/skills/#variable" >}}) [0 CP] When Category is purchased, character gains 2 Body or ST 
 
 ### Orc Lineage Skill Category
+
+Costume Requirements: Mask or Green Makeup (Tusks built into jawline of armor/mask suggested)
+
+Orcs are innately bloodthirsty and ready for battle. While some choose to fight these feelings, they are always present.
 
 Only Orc Characters may purchase skills from this Category.
 
