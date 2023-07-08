@@ -4,7 +4,6 @@ linkTitle: "Skill Categories"
 weight: 2
 type: "docs"
 
-
 ---
 
 # Buying Skill Categories
@@ -22,8 +21,6 @@ Characters start with access to the General and the characters lineage Category 
 ## General Skill Category
 
 All characters may buy skills from this Category.
-
-Chart 2.1
 
 [Body\*]({{< ref "/rules/skills/#body" >}}) [X CP] Character gains 1 Body.
 
@@ -60,9 +57,9 @@ This category includes skills that benefit a direct melee combatant.
 
 [Break Weapon]({{< ref "/rules/skills/#break-weapon" >}}) [15 CP] Character may deliver the Broken Condition to one weapon or shield.
 
-[Buckler]({{< ref "/rules/skills/#buckler" >}}) [6 CP] Maximum 20” diameter. May Hold or Strap to Arm.$
+[Buckler]({{< ref "/rules/skills/#buckler" >}}) [6 CP] Maximum 20” diameter. May Hold or Strap to Arm.
 
-[Favored Target]({{< ref "/rules/skills/#favored-target" >}}) [5 CP] Character may deal extra damage against one creature type.$
+[Favored Target]({{< ref "/rules/skills/#favored-target" >}}) [5 CP] Character may deal extra damage against one creature type.
 
 [Florentine]({{< ref "/rules/skills/#florentine" >}}) [2 CP] Character may use a one handed weapon in each hand, but one only does base damage.
 

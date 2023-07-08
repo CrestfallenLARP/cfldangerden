@@ -1,4 +1,3 @@
-
 ---
 title: "Rules"
 linkTitle: "Rules"
@@ -7,13 +6,13 @@ type: "docs"
 
 ---
 
-## **Introduction**
+## Introduction
 
 Hello and welcome to Crestfallen LARP!  Writing a rulebook is difficult because people learn in multiple different ways.  People can be categorized into many different learning styles such as visual, auditory, reading/writing, and kinaesthetic (learning by doing).  Each person will take the rulebook and use it in their own way.  This intro is intended to give some guidance as to what LARP is, how Crestfallen LARP is intended to be portrayed, the goals of the book, and suggestions on ways to approach making a character with the book.
 
-We hope to make it easy to jump in and play Crestfallen LARP.  Our members are available to help make you feel comfortable about your choices and assist you along the way.  Feel free to use our resources such as Website (www.CrestfallenLARP.com), Email (Crestfallenlarp@gmail.com), and Social Media (@CrestfallenLARPOwner on Facebook) at any time.
+We hope to make it easy to jump in and play Crestfallen LARP.  Our members are available to help make you feel comfortable about your choices and assist you along the way.  Feel free to use our resources such as Website (www.CrestfallenLARP.com), Email (Crestfallenlarp@gmail.com), and Social Media ([CrestfallenOwner](https://www.facebook.com/CrestfallenOwner/ ) on Facebook) at any time.
 
-### **What is LARP**
+### What is LARP
 
 LARP stands for Live Action Role Play(ing).  The short explanation of this is acting with other people in public.  The thought of this can be scary to some people, but this book is here to tell you that it can be lots of fun and very rewarding.  In a LARP environment that we are discussing there are number of things to keep in mind.
 
@@ -22,7 +21,7 @@ LARP stands for Live Action Role Play(ing).  The short explanation of this is ac
 * The players determine what they want their characters want to do and use the game rules and their acting to do these actions.
 * The player is only in charge of their character.
 
-For more information on what LARP is or can be, feel free to check out the What is LARP article on the Crestfallen LARP website.
+For more information on what LARP is or can be, feel free to check out the [What is LARP]({{< ref "/blog/" >}}) article on the Crestfallen LARP website.
 
 ### What is Crestfallen LARP: (Beren's Hopes)
 
@@ -32,7 +31,7 @@ Crestfallen LARP is intended to be a frontier fantasy LARP game.  The intent is 
 
 This rulebook attempts to accomplish the following goals
 
-* Clearly state the Code of Conduct that all Crestfallen LARP players are expected to follow
+* Clearly state the [Code of Conduct]({{< ref "#code-of-conduct" >}}) that all Crestfallen LARP players are expected to follow
 * Explain the core concepts of the Crestfallen LARP rules.
 * Explain ways to make a Character so an Attendee can participate in a Crestfallen Event
 * Describe the core story and lineage information of the world of Katalossa
@@ -42,20 +41,20 @@ This rulebook attempts to accomplish the following goals
 
 We understand that learning the entire rulebook is difficult and mistakes will happen.  While we want everyone to understand all of the rules as much as possible, we have a very friendly and understanding community.  We want to lift each other up.
 
-Players should review the Code of Conduct and Philosophies first, as these impact the safety and expectations of all attendees.  After this, the player should learn the rules systems that they are interacting with most as their character.  Next, the conditions and combat sections are important to know for character survival. Finally, the players should review any rules they have skipped as they may be useful to know later on.
+Players should review the [Code of Conduct]({{< ref "#code-of-conduct" >}})  and Philosophies first, as these impact the safety and expectations of all attendees.  After this, the player should learn the rules systems that they are interacting with most as their character.  Next, the conditions and combat sections are important to know for character survival. Finally, the players should review any rules they have skipped as they may be useful to know later on.
 
 ### Parts of a Character
 
 A player’s character (PC for short) is how they interact with the game world and is broken into the following parts
 
-* **Backstory**: This is the PC's history before coming to an event.  This can include a number of items such as previous schooling, occupation, family, home town, minor/major events, etc.
-* **Persona**: This is the PC's personality.  This often times can be tied to the characters backstory, but does not have to be.  Examples of persona may include the PC's temper, mannerisms, quirks, irritants, etc.
-* **Character Sheet**: These are the abilities that the PC can perform within the rules of the Crestfallen LARP game.  Items found on the Character Sheet include lineage, Body Points, Essence Points, Stamina Points, Energy Points, Skill Categories, Skills, Bank Funds, and notes regarding the character.
-* **Costuming and Gear**:  These are the physical representations that the player uses for the PC.  These may include Lineage prosthetics/paint, weapons, potions, wands, and tagged items.
+- **Backstory**: This is the PC's history before coming to an event.  This can include a number of items such as previous schooling, occupation, family, home town, minor/major events, etc.
+- **Persona**: This is the PC's personality.  This often times can be tied to the characters backstory, but does not have to be.  Examples of persona may include the PC's temper, mannerisms, quirks, irritants, etc.
+- **Character Sheet**: These are the abilities that the PC can perform within the rules of the Crestfallen LARP game.  Items found on the Character Sheet include lineage, Body Points, Essence Points, Stamina Points, Energy Points, Skill Categories, Skills, Bank Funds, and notes regarding the character.
+- **Costuming and Gear**:  These are the physical representations that the player uses for the PC.These may include Lineage prosthetics/paint, weapons, potions, wands, and tagged items.
 
 ## Character Building Advice
 
-As mentioned before, everyone will use this rulebook differently to make characters.  Here are a number of suggested ways to make a character.  All players should review the Code of Conduct and Philosophies section of the book first due to their importance mentioned in the disclaimer.  
+As mentioned before, everyone will use this rulebook differently to make characters.  Here are a number of suggested ways to make a character.  All players should review the [Code of Conduct]({{< ref "#code-of-conduct" >}})  and Philosophies section of the book first due to their importance mentioned in the disclaimer.  
 
 Also remember that you need to leave room for your character to grow. Do not purchase skills that you do not have (or plan to have in the near future) the physical representations or ability to use.
 
@@ -75,9 +74,9 @@ A player needs to take into account their own physical abilities.  If a player i
 
 ### How to make a character when focusing on costuming and gear
 
-A player will focus on costuming and gear that they already own if there are major budget issues.  The player should focus on skills, categories, and lineage based on the gear they already posses or that do not require gear.  After this the player will create a Persona and Backstory based on the skills and lineage they have ultimately chosen.  The player will end with creating the costuming and gear based on what they require from the previous steps.
+A player will focus on costuming and gear that they already own if there are major budget issues.  The player should focus on Skills, Skill Categories, and Lineage based on the gear they already posses or that do not require gear.  After this the player will create a Persona and Backstory based on the skills and lineage they have ultimately chosen.  The player will end with creating the costuming and gear based on what they require from the previous steps.
 
-## **Code of Conduct**
+## Code of Conduct
 
 All members of Crestfallen LARP acknowledge during the check in process that they have read (or watched) and will abide by the Code of Conduct found below. This document (or its videos) encompasses Sportsmanship, Player Safety, and Social Contract items between the members of Crestfallen LARP, its ruling organization, and staff. All members, regardless of station within the organization, are bound by these items. Crestfallen LARP and its members will not be held accountable if a member falsely claims they have watched or read this document or its updates when they have not actually done so. This Code of Conduct extends to all interactions to pages that Crestfallen LARP manages online including social media, forums, and websites.
 
@@ -127,11 +126,9 @@ It is our belief that storytelling requires tension and stakes. These often requ
 
 **Affirmative Consent –** Based off of a sexual violence prevention mechanic, we at Crestfallen LARP want to ensure that all physical actions between parties are based upon clearly given consent. When taking part in any physical roleplay that is not expressly permitted within the rules, all parties must knowingly, voluntarily, and mutually agree to consent to the roleplay. This consent may be given through words, the ok hand symbol, or actions as long as they clearly convey consent. Consent may be revoked at any point, for any reason, by any party. Consent must be granted every time physical roleplay takes place unless previously negotiated and notated on a character sheet (note, this consent may also be revoked at any time).
 
-https://system.suny.edu/sexual-violence-prevention-workgroup/policies/affirmative-consent/
-
 **Age Requirement –** Crestfallen participants must be 18 years old to attend as we deal with mature subject matter and language.
 
-**Armband (Orange) –** Orange arm/headbands denote a player who is a non-combatant. A player may be a non-combatant for any reason including but not limited to the following: Illness, Injury, Anxiety, Age, Stress, Disability, Mental Health, EMT Advisement. Additionally, players that are deemed unsafe with combat may be given non-combat status for a limited duration. Non-combat players may not be targeted with weapon or spell attacks. Ranged attacks that accidentally strike a non-combat player will be treated as a “Resist”. Non-combat characters may not use any skill from any category containing the word Combat. The only exception to this is Energy which may not be used in combat, but may be used for crafting or condition removal following a battle. All players may use the Killing Blow counted action on a non-combatant by pointing their weapon at the target from an arm’s length away rather than physically touching them. This action is stopped through normal means or if a combat player comes within arms reach of the attacker. A character that is feigning injury/death must make themselves known in order to prevent a Killing Blow in this fashion.
+**Armband (Orange) –** Orange arm/headbands denote a player who is a non-combatant. A player may be a non-combatant for any reason including but not limited to the following: Illness, Injury, Anxiety, Age, Stress, Disability, Mental Health, EMT Advisement. Additionally, players that are deemed unsafe with combat may be given non-combat status for a limited duration. Non-combat players may not be targeted with weapon or spell attacks. Ranged attacks that accidentally strike a non-combat player will be treated as a “[resist]({{< ref "/rules/conditions/#resist" >}})”. Non-combat characters may not use any skill from any category containing the word Combat. The only exception to this is Energy which may not be used in combat, but may be used for crafting or condition removal following a battle. All players may use the Killing Blow counted action on a non-combatant by pointing their weapon at the target from an arm’s length away rather than physically touching them. This action is stopped through normal means or if a combat player comes within arms reach of the attacker. A character that is feigning injury/death must make themselves known in order to prevent a Killing Blow in this fashion.
 
 **Armband (Green) –** Green arm/headbands denote a member of the plot team or marshal (PC or NPC). These staff members should be contacted if there is a rules dispute, rules question, cabin thievery, pick pocket, or similar situation. Not every plot member or marshal may be able to assist in every issue, but they should be able to point a player in the correct direction for assistance.
 
@@ -145,8 +142,6 @@ https://system.suny.edu/sexual-violence-prevention-workgroup/policies/affirmativ
 
 **Look Down –** If a player has a problem with a situation that is going on in the game, they may opt out at any time by looking down and covering their eyes with a hand like a visor. The player and character leave the scene. The player should not be stopped or questioned regarding why the opt out has occurred. If there is an altercation between two PCs that causes a Look Down bow-out, the scene may need to follow a Negotiated Roleplay to ensure the story can go on in a safe but cohesive way. This should only be attempted after all parties have had a chance to analyze the situation and feel comfortable talking with all parties along with a plot representative. No player will be asked or forced to give any reasoning why the bow-out occurred, but all parties will be asked to give input to how the situation can be resolved.
 
-https://participationsafety.wordpress.com/2016/09/18/toolkit-the-see-no-evil-or-lookdown/
-
 **Negotiated Roleplay –** Negotiated Roleplay is where parties decide what will happen during a particular planned interaction between two or more individuals. Crestfallen LARP wishes to use this type of planned roleplay as a remedy to situations where players or characters bow-out of a scene for private personal reasons.Additionally, this mechanic is highly encouraged for any and all relationship dynamics at Crestfallen LARP. Relationships In Game and Out of Game are based upon communication. It is highly suggested that players plan these relationships well in advance and with appropriate safety checks to ensure all parties remain comfortable with the situation. This is not required, but highly recommended.
 
 **OK Check In –** Players are encouraged to check on each other during stressful roleplay situations using an OK check in. A player who is concerned with a current situation should visibly show the OK hand sign to those they wish to check in with. Players may then give a thumbs up to continue, a thumbs down to show that there are issues and they wish to stop or fix the situation, or a level hand to show that they are unsure or things are starting to cause an issue. At this point roleplay may continue if all thumbs up are shown and a “Pause” should be called if there is a thumbs down to determine the problem and fix any situation before things get out of hand or to allow the player to use Look Down to walk away. A “so-so” wave is up to the asking players discretion but should indicate that a change in roleplay should occur.
@@ -156,8 +151,6 @@ https://participationsafety.wordpress.com/2016/09/09/toolkit-the-ok-check-in/
 **Out Of Game Headband (Pink) –** Sometimes a player needs to be out of game.  There are many reasons for this such as a way to remove themselves from stressful roleplay, medical emergencies, phone calls, or interacting with the staff of the game.  Often plot staff may need to show they are out of game to convey rulings, set up modules, or traveling without causing the other players to be alarmed.  A player wearing a bright pink solid headband is out of game and should be ignored unless prompted by the wearer.  A player should contact a staff member prior to going out of game if time allows.  Bathrooms, vehicle, active cooking areas, restricted medical sleep areas, and the NPC hub area are always considered out of game unless otherwise clarified.
 
 **Pause –** This is how the game stops for safety, emergency, or plot reasons. To stop game a player must call out “Pause”. All players must echo the call “Pause” when heard. All players must look down at the ground and kneel if possible. During the pause the person who called it and plot staff will determine the reason for the Pause and handle it appropriately. Once the reason for the pause is completed it will be asked if there is any reason the game should not continue. If there is, the pause is maintained to fix the new situation. If there is no reason the call will go out “3, 2, 1, Start”. During a pause players should not look around, gather gear/items, or converse unless it is part of the Pause.
-
-Thank you – Erika Skirpan for the blog articles, documentation, and policies that were used for the game Velvet Noir. They were very helpful in creating this list of mechanics and consent rules.
 
 ### Additional Policies
 
@@ -169,7 +162,7 @@ Stealing things in Crestfallen LARP must be very closely watched. A Marshal (Gre
 
 NPCs are required to have appropriate footwear and clothing for the weather. This clothing should include neutral base layers for costuming such as plain brown, grey, or black. Additionally, NPCs must have a sealable belt pouch for carrying Leaves and Resource cards for distribution as treasure. NPCs who pre-register for an event may gain additional information regarding characters and/or monsters that they will be playing. Players who bring additional costuming to make the character/monster more realistic or interesting may gain additional CP for their efforts.
 
-## **Philosophies**
+## Philosophies
 
 While philosophies are not rules or policies that we enforce, the following are guiding forces that we use in the development, organization, and running of Crestfallen. These may change from time to time, but we feel it is important the those that attend our game are aware of these items.
 
@@ -207,7 +200,7 @@ While philosophies are not rules or policies that we enforce, the following are 
 
 **Evil characters –** Evil characters can be fun IF they don’t take away the player agency of other characters. We want to promote evil characters against NPCs as well as allowing PVP interactions. Crestfallen LARP wants to promote a community feel, so we always ask that an evil character has a good reason to take part in PVP. We will always do our part to ensure all players are having fun and that intentional griefing of a player or character will not be tolerated.
 
-## **Persona Guide**
+## Persona Guide
 
 A player’s character (PC for short) is how they interact with the game world. This includes several items such as a Character Sheet, Persona, Costume, and Backstory. This section will be focusing on game world information to help a character create a persona and backstory. If you are a new player, new to Crestfallen, or just looking for some help, please check out our videos coming soon to CrestfallenLarp on Youtube and/or other social media.
 
@@ -221,7 +214,7 @@ More time passed and these groups grew and changed. Eventually the battles betwe
 
 Sadly, many of the remaining lineages would not agree with these thoughts, either due to ignorance or outright malice. The monsters were killed or driven out of the lands controlled by the Inspired. Conflicts became few and far between. Hundreds of years passed allowing complacency to grow. Previously learned lessons were not brought forward into the future and many things were lost. Then came the Torrent.
 
-![A screenshot of a video gameDescription automatically generated with medium confidence](file:///C:/Users/deadk/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![Images of the Travellers falling from portals during the Torrent.](/images/katalossa/the_torrent.png)
 
 Countless travelers spilled onto Katalossa as an untold number of magical portals from different worlds were ripped open. While some were transported safely to land, many of the portals opened into the sky, under the water, in caverns, and in many other dangerous places around the planet. Many travelers did not survive and those who did had little to no recollection of their previous lives.
 
@@ -354,9 +347,9 @@ The following Lineages have been deemed Monsters and as such have no protection 
 
 Lineages and creatures that are found outside our members and enemies may be treated as necessary on a case-by-case basis. While they may not be protected by our laws currently, with appropriate diplomacy, we may find common ground and add them to our ranks. Likewise, it may be determined that they go against our beliefs and may become permanently at odds with us.
 
-## **How to Forge Your Character**
+## How to Forge Your Character
 
-A player’s character (PC for short) is how they interact with the game world. This includes several items such as a Character Sheet, Persona, Costume, and Backstory. This section will be focusing on the game specific Character Sheet that is required for play. If you are a new player, new to Crestfallen, or just looking for some help, please check out our Character Builder document and videos (coming soon to CrestfallenLarp on Youtube).
+A player’s character (PC for short) is how they interact with the game world. This includes several items such as a Character Sheet, Persona, Costume, and Backstory. This section will be focusing on the game specific Character Sheet that is required for play. If you are a new player, new to Crestfallen, or just looking for some help, please check out our Character Sandbox document and videos (coming soon to [CrestfallenLarp](https://www.youtube.com/@crestfallenlarp618) on Youtube).
 
 ### How to Build Your Character Sheet
 
@@ -370,7 +363,7 @@ The first physical thing that a person needs to play Crestfallen is a Character 
   - Don't have Excel? [Try 365 Online for free.](https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web)
 - Finalize your character sheet with Crestfallen Staff.
 
-Please note that we are available to assist with Character Sheet creation during our Discord Hangouts (schedule on CrestfallenLARP.com), private discord discussions, email, or scheduled meetings.  We prefer to have Character Sheets completed before events so we can focus on the event itself. 
+Please note that we are available to assist with Character Sheet creation during our Discord Hangouts (schedule on [CrestfallenLARP.com](https://crestfallenlarp.com/schedule/)), private discord discussions, email, or scheduled meetings.  We prefer to have Character Sheets completed before events so we can focus on the event itself. 
 
 ### Lineages
 
@@ -442,7 +435,7 @@ Armor grants a character a maximum of 40 armor points. There may be skills, spel
 -	Upper Left Leg
 -	Lower Left Leg
 
-## **Combat**
+## Combat
 
 **Melee Damage –** Melee weapons may be used by any character. If the character is not proficient, the weapon will deal 1 damage and may not benefit from any skills that increase the damage of that weapon. If the character is proficient, a one handed weapon will deal 2 damage plus any skills that may add to the weapon. If the character is proficient, a staff will deal 2 points of damage plus any skills that may add to the weapon. If the character is proficient, all other two handed melee weapons will deal 4 points of damage. Damage may be altered with appropriate skills and/or item tags. Brawlers and Claws are one handed boffer weapons that are green or red in color and represent natural weapons such as claws, wings, tails or fists.
 
@@ -464,11 +457,11 @@ Armor grants a character a maximum of 40 armor points. There may be skills, spel
 
 Magic in Crestfallen is controlled by the acquisition and use of energy. This is a generic term as the players can determine what their source of energy may be, such as
 
-•	familial bonds
-•	traumatic events
-•	rigorous study
-•	experimental magics or surgeries
-•	teacher/student relations.
+- familial bonds
+- traumatic events
+- rigorous study
+- experimental magics or surgeries
+- teacher/student relations.
 
 The magic system always works in the following ways, regardless of how the character views magic.
 
@@ -482,11 +475,18 @@ A character may create a new spell. To do so, the player contacts plot staff bet
 
 ### Casting a Spell
 
-Before casting a spell, a character must have an open hand with a spell physrep in it and enough spell energy to cast the spell. Spell energy is represented by wooden tongue depressors that are acquired from Logistics at the beginning of game or when recovered. The character then says the spells incantation, breaks the appropriate amount of energy, and either touches or throws the physrep at the intended target. A spell cast via touch may be resisted by the target with the appropriate call of “Resist”. A thrown spell that hits the target, including any items that the target was carrying or wearing at the beginning of the incantation must take the spell effect. Following this, the Energy/Spell is spent and may then be recovered. Please note, that if the incantation is not completed or said properly, then the Energy/Spell has not been spent and may be attempted again. Players may create their own spell incantations with a minimum of 5 words, but must include the spell name/effect as the last statement of the incantation.
+Before casting a spell, a character must have an open hand with a spell physrep in it and enough spell energy to cast the spell. Spell energy is represented by wooden tongue depressors that are acquired from Logistics at the beginning of game or when recovered. The character then says the spells incantation, breaks the appropriate amount of energy, and either touches or throws the physrep at the intended target. A spell cast via touch may be resisted by the target with the call of “[resist]({{< ref "/rules/conditions/#resist" >}})”. A thrown spell that hits the target, including any items that the target was carrying or wearing at the beginning of the incantation must take the spell effect. Following this, the Energy/Spell is spent and may then be recovered. Please note, that if the incantation is not completed or said properly, then the Energy/Spell has not been spent and may be attempted again. Players may create their own spell incantations with a minimum of 5 words, but must include the spell name/effect as the last statement of the incantation.
 
 ### Recovering Energy
 
-Once a character has used Energy through the casting of a spell, they may then take time to rest and recover the spent Energy. To do so the player must take part in a restful activity tied to their viewpoint on magic. Examples of these activities include but are not limited to the following: Meditation, Study, Reading, and Napping. A character recovers 1 Energy for every 30 minutes spent completing these activities. Items and Plot Effects may exist that increase or decrease the amount of time spent to recover Energy or increases or decreases the amount of Energy that can be recovered at one time. There are also Items that can instantly restore Energy to a Character. A Character may only benefit from these Items once per event. Recovered energy must be tracked on the character sheet and physreps will be supplied by logistics once completed.
+Once a character has used Energy through the casting of a spell, they may then take time to rest and recover the spent Energy. To do so the player must take part in a restful activity tied to their viewpoint on magic. Examples of these activities include but are not limited to the following:
+
+- Meditation
+- Study
+- Reading
+- Napping
+
+A character recovers 1 Energy for every 30 minutes spent completing these activities. Items and Plot Effects may exist that increase or decrease the amount of time spent to recover Energy or increases or decreases the amount of Energy that can be recovered at one time. There are also Items that can instantly restore Energy to a Character. A Character may only benefit from these Items once per event. Recovered energy must be tracked on the character sheet and physreps will be supplied by logistics once completed.
 
 ## Counted Actions
 
@@ -496,7 +496,7 @@ A counted action that harms a character, such as killing blow, is treated as an 
 
 Below are a list of counted actions that are not tied to specific skills and that any character may do.
 
-**Carrying -** A character or characters may carry another character by placing one hand on each arm of the target and walking with them. If two characters are carrying a target or a character with [strength ]({{< ref "/rules/skills/#strength " >}}) carries a target, they may choose to run if the target is physically able and willing to do so. The call for this is “I/we carry you 1, I/we carry you 2, I/we carry you 3” before moving. While moving, if anyone taking part in this action takes damage, the target is instantly dropped.
+**Carrying -** A character or characters may carry another character by placing one hand on each arm of the target and walking with them. If two characters are carrying a target or a character with [strength]({{< ref "/rules/skills/#strength " >}}) carries a target, they may choose to run if the target is physically able and willing to do so. The call for this is “I/we carry you 1, I/we carry you 2, I/we carry you 3” before moving. While moving, if anyone taking part in this action takes damage, the target is instantly dropped.
 
 **Forcing a door -** Two characters or a character with Strength may force a door open when being held, barricaded or locked. If a character(s) with strength attempts to move the door, characters must state the levels in Strength to determine who is stronger or compare to the barricade or lock. Treat two characters without [Strength ]({{< ref "/rules/skills/#strength " >}}) as [Strength]({{< ref "/rules/skills/#strength " >}}) 1. The character(s) attempting to force the door open must be stronger for the door to open. The call for this is “I/we force the door 1, I/we force the door 2, I/we force the door 3” while the character(s) are touching a single door.
 
@@ -512,7 +512,7 @@ Below are a list of counted actions that are not tied to specific skills and tha
 
 **Search –** A character may be searched for any leaves they may have on their person. The call for this is “I search you 1, I search you 2, I search you 3” while touching the targets arm.
 
-**Search (known item) –** A character may be searched for an item that they are known or be suspected of having on their person. The call for this is “I search you for [described item] 1, I search you for [described item] 2, I search you for [described item] 3” while touching the targets arm. A character may ask for a clarification regarding the search but should not try to actively deceive another player to prevent the item from being found. Players found to do this are in violation of the Sportsmanship policy and Code of Conduct and may be asked not to attend future events. A character may use the Sense ability to pinpoint specific items for use in this search.
+**Search (known item) –** A character may be searched for an item that they are known or be suspected of having on their person. The call for this is “I search you for [described item] 1, I search you for [described item] 2, I search you for [described item] 3” while touching the targets arm. A character may ask for a clarification regarding the search but should not try to actively deceive another player to prevent the item from being found. Players found to do this are in violation of the Sportsmanship policy and [Code of Conduct]({{< ref "#code-of-conduct" >}})  and may be asked not to attend future events. A character may use the Sense ability to pinpoint specific items for use in this search.
 
 ### Limited Counted Actions
 
@@ -544,10 +544,15 @@ Research is a valuable portion of our game as it allows characters to figure out
 
 ## Crafting, Science, & Technology
 
-Crafting items in Crestfallen have four specific levels, which are Basic, Augmentation, Mastery, and Technology.
+Crafting items in Crestfallen have four levels
+- Basic
+- Augmentation
+- Mastery
+- Technology.
 
 ### Basic Build items and uses
-All basic build items last for the duration of the event, until used, or until destroyed. A break effect will destroy a basic build item. These items are marked on the character sheet and cannot be traded between characters after creation. All Basic Build items require an appropriate physical representation in their description. This item is required to use the effect of a Basic Build Item. One Basic Crafting Component and 30 minutes of roleplay (acting out the brewing, building, or enchanting) creates 5 items or the Craft effect from one appropriate craft.
+
+All basic build items last for the duration of the event, until used, or until destroyed. A [Break]({{< ref "/rules/conditions/#broken-break" >}}) effect will destroy a basic build item. These items are marked on the character sheet and cannot be traded between characters after creation. All Basic Build items require an appropriate physical representation in their description. This item is required to use the effect of a Basic Build Item. One Basic Crafting Component and 30 minutes of roleplay (acting out the brewing, building, or enchanting) creates 5 items or the Craft effect from one appropriate craft.
 
 #### Alchemy Basic Build Items
 
@@ -563,19 +568,19 @@ All basic build items last for the duration of the event, until used, or until d
 - **Heartiness Potion**: Potion Bottle – A character may drink or be fed this potion with the verbal of “5 Body” This potion grants 5 additional Body points which are lost before costuming and normal Body points. A character may only have additional Body points from one source at a time. The highest value will take precedence.
 - **Enchanted Armor Wand**: Wand Representation and Spell Ammo – A character may touch Spell Ammo to a Wand Representation while using the verbal “5 Enchanted Armor”. The caster may then snap the Wand Representation and throw or touch the Spell Ammo to a target. This grants the target 5 additional Armor points if they are already wearing armor. They may use these additional points over the maximum amount granted by the Wear Armor skill. A character may only have additional Armor points from one source at a time. The highest value will take precedence.
 - **Mana Potion**: Potion Bottle - A character may drink or be fed this potion with the verbal of “1 Energy”. This potion grants 1 Energy to the character who drinks it. A character may only drink 5 Mana Potions per event.
-- *Craft Effect* **Rune of Protection**: Wearable Rune – A character may wear one Rune of Protection at any given time. The first spell that hits a character wearing a Rune of Protection, is negated with the call of “Resist”. This “Resist” must be used, regardless of the spell being thrown. A spell that is cast via touch does not trigger this “Resist”.
+- *Craft Effect* **Rune of Protection**: Wearable Rune – A character may wear one Rune of Protection at any given time. The first spell that hits a character wearing a Rune of Protection, is negated with the call of “[resist]({{< ref "/rules/conditions/#resist" >}})”. This “[resist]({{< ref "/rules/conditions/#resist" >}})” must be used, regardless of the spell being thrown. A spell that is cast via touch does not trigger this “[resist]({{< ref "/rules/conditions/#resist" >}})”.
 
 #### Forging Basic Build Items
 
-- **One Handed Weapon**: One Handed Weapon under 46” (116.84 Cm) - A character may use any One Handed Weapon that fits the appropriate size and safety requirements. These weapons are put on to the character sheet and are destroyed with a Break or [Destroy Condition]({{< ref "/rules/conditions/#destroy" >}}).
+- **One Handed Weapon**: One Handed Weapon under 46” (116.84 Cm) - A character may use any One Handed Weapon that fits the appropriate size and safety requirements. These weapons are put on to the character sheet and are destroyed with a [Break]({{< ref "/rules/conditions/#broken-break" >}}) or [Destroy Condition]({{< ref "/rules/conditions/#destroy" >}}).
 
-- **Two Handed Weapons**: Two Handed Weapon 46.1” to 75” (190.5 Cm) - A character may use any Two Handed Weapon that fits the appropriate size and safety requirements. These weapons are put on to the character sheet and are destroyed with a Break or [Destroy Condition]({{< ref "/rules/conditions/#destroy" >}})..
+- **Two Handed Weapons**: Two Handed Weapon 46.1” to 75” (190.5 Cm) - A character may use any Two Handed Weapon that fits the appropriate size and safety requirements. These weapons are put on to the character sheet and are destroyed with a [Break]({{< ref "/rules/conditions/#broken-break" >}}) or [Destroy Condition]({{< ref "/rules/conditions/#destroy" >}})..
 
 - **Ranged Weapon**: Any Thrown Weapon (Small/Coreless), Crossbow Min/Max Dimension 12”/24” (30.48Cm/60.96 Cm) or Bow Min/Max Length 34”/44” (86.36Cm/111.76Cm) - A character may use any Ranged Weapon that fits the appropriate size and safety requirements. These weapons are put on to the character sheet, and are destroyed with a Break or [Destroy Condition]({{< ref "/rules/conditions/#destroy" >}}).
 
-- **Shield and/or Buckler Shield**: Shield Maximum 36” (91.44 Cm) Tall at longest dimension. Maximum 24” (60.96 Cm) Wide at longest dimension shield. Buckler Maximum 20” diameter. May Hold or Strap to Arm - A character may use any Shield that fits the appropriate size and safety requirements. These shields are put on to the character sheet and are destroyed with a Break or [Destroy Condition]({{< ref "/rules/conditions/#destroy" >}}).
+- **Shield and/or Buckler Shield**: Shield Maximum 36” (91.44 Cm) Tall at longest dimension. Maximum 24” (60.96 Cm) Wide at longest dimension shield. Buckler Maximum 20” diameter. May Hold or Strap to Arm - A character may use any Shield that fits the appropriate size and safety requirements. These shields are put on to the character sheet and are destroyed with a [Break]({{< ref "/rules/conditions/#broken-break" >}}) or [Destroy Condition]({{< ref "/rules/conditions/#destroy" >}}).
 
-- **Armor**: Physical Representation Evaluated By Staff - A character may use any Armor that fits the appropriate size and safety requirements. This armor is put on to the character sheet and is destroyed with a Break or [Destroy Condition]({{< ref "/rules/conditions/#destroy" >}}).
+- **Armor**: Physical Representation Evaluated By Staff - A character may use any Armor that fits the appropriate size and safety requirements. This armor is put on to the character sheet and is destroyed with a [Break]({{< ref "/rules/conditions/#broken-break" >}}) or [Destroy Condition]({{< ref "/rules/conditions/#destroy" >}}).
 
 - *Craft Effect* **Repair Item**: A tagged Item and Physical Representation – A character may repair a Broken item, allowing it to be used once more. To repair a tagged item, the crafter must put their character number on the durability box to show that it has been repaired.
 
@@ -688,7 +693,7 @@ The Thieves Guild is in charge of handling the Stockpile which houses emergency 
 
 ###### Bounties 
 
-Bounties are also handled by the Thieves Guild. These are contracts against player characters who have either failed to repay their debts to the Merchants Guild or broke an In Game Law (see [Rules of Law]({{< ref "/rules/conditions/#the-laws-of-the-inspired-of-katalossa" >}}) for more details). These bounties are always optional to players (No PVP will intentionally be forced). These bounties are always structured in order to repay the characters debt and to prevent grief to the character at all costs. A member of the Thieves Guild will be authorized to subdue (never kill) the target character and retrieve the amount of leaves owed on the characters debt or a specific fine amount from their person. This amount is then returned to the Thieves Guild. The member may not keep any additional money from this bounty, otherwise they may lose access to the Bounty system and may lose status within the guild. A character will always be notified that a bounty is active against them prior to the bounty being available to members of the guild.
+Bounties are also handled by the Thieves Guild. These are contracts against player characters who have either failed to repay their debts to the Merchants Guild or broke an In Game Law (see [Rules of Law]({{< ref "#the-laws-of-the-inspired-of-katalossa" >}}) for more details). These bounties are always optional to players (No PVP will intentionally be forced). These bounties are always structured in order to repay the characters debt and to prevent grief to the character at all costs. A member of the Thieves Guild will be authorized to subdue (never kill) the target character and retrieve the amount of leaves owed on the characters debt or a specific fine amount from their person. This amount is then returned to the Thieves Guild. The member may not keep any additional money from this bounty, otherwise they may lose access to the Bounty system and may lose status within the guild. A character will always be notified that a bounty is active against them prior to the bounty being available to members of the guild.
 
 ### Guild Advancement
 
@@ -702,37 +707,4 @@ Character advancement within each organization is based on donations and modules
 | 60     | Grand Master  | Chancellor       |
 
 These ranks do not confirm any powers of law or justice to the character, but instead shows their influence with the particular organization and its NPCS. Holding a higher title may grant the character more Roleplay with NPCs and grant the characters some sway with the organization as a whole. Additionally, these titles may grant additional voting ability to direct how an organization may proceed.
-
-## Charts
-
-### Gathering Chart
-
-| Danger Level --><br />Items Found | 1 | 2 | 3 | 4 |
-| ---------------------------- | ------- | ------- | ------- | ------- |
-| Fine | 00-05%| 00-10%| 00-15%| 00-20%|
-| 1 Basic | 06-10%| 11-20%| 16-25%| 21-30%|
-| 2 Basic | 11-15%| 21-30%| 26-35%| 31-40%|
-| 3  Basic | 16-20%| 31-40%| 36-45%| 41-50%|
-| 4 Basic | 21-25%| 41-50%| 46-55%| 51-60%|
-| 5 Basic | 25-30%| 51-60%| 56-65%| 61-70%|
-| 1 Common | 31-40%| 61-65%| 66-70%| 71-75%|
-| 2 Common | 41-50%| 66-70%| 71-75%| 76-80%|
-| 3 Common | 51-60%| 71-75%| 76-80%| 81-85%|
-| 4 Common | 61-70%| 76-80%| 81-85%| 86-90%|
-| 5 Common | 71-80%| 81-85%| 86-90%| 91-94%|
-| 5 Common + 5 Basic | 81-90%| 86-90%| 91-95%| 95-98%|
-| 5 Common + 5 Basic + 1 Rare Basic | 91-100% | 91-100% | 96-100% | 99-100% |
-| 1 Rare+ | 98-100% | 98-100% | 98-100% | 98-100% |
-
-Rare increases by 2% each event a rare is not found.
-
-### Surgery Chart
-
-| Danger Level --><br />Success Rate | 1 | 2 | 3 | 4 |
-| ---------------------------- | ------- | ------- | ------- | ------- |
-| Failure - Character Dies | 00-05%| 00-05%| 00-05%| 00-10%|
-| Failure - Dying - Stamina | 06-15%| 06-15%| 06-20%| 11-25%|
-| Success| 16-75%| 16-75%| 21-80%| 26-85%|
-| Success + Stamina | 76-90%| 76-90%| 81-90%| 86-95%|
-| Succeess + Stamina + Surgery ST returned to surgeon | 91-100% | 91-100% | 91-100% | 96-100% |
 
