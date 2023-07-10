@@ -99,7 +99,7 @@ The target of this condition is lifeless and retains no sensory knowledge of any
 
 **Valid Targets**: Armor, Claw, Item, Limb, Shield, Weapon
 
-The target item is destroyed and cannot be repaired. If the target is a basic item, it should be removed from the character sheet as soon as possible. If the target item is a common or rare craft item, then all durability must be removed from the tag, but it may be fixed with the [maintenance#]({{< ref "/rules/skills/#maintenance" >}}) skill or rebuilt with its full craft cost.  Claws and Limbs targeted with this condition are treated as if they have the broken condition and may be fixed by medical training augmentation#. (No hopping while in combat for player safety please).
+The target item is destroyed and cannot be repaired. If the target is a basic item, it should be removed from the character sheet as soon as possible. If the target item is a common or rare craft item, then all durability must be removed from the tag, but it may be fixed with the [maintenance#]({{< ref "/rules/skills/#maintenance" >}}) skill or rebuilt with its full craft cost.  Claws and Limbs targeted with this condition are treated as if they have the [borken]({{< ref "#broken-break" >}}) condition and may be fixed by medical training augmentation#. (No hopping while in combat for player safety please).
 
 ## Distracted 
 

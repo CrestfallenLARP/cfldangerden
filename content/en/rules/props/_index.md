@@ -1,22 +1,17 @@
-
 ---
-title: "Props Guide"
-linkTitle: "Props Guide"
+title: "Props"
+linkTitle: "Props"
 type: "docs"
 date: 2023-04-17
 author: "Beren Olean"
-
+weight: 6
 ---
-
-
 
 Props are used in Crestfallen LARP to represent effects that cannot exist in the real world and to represent weapons to allow us to simulate combat in a safer way.  Props can be bought, modified, and built in many different ways.  This guide is written to give players a starting point on the props that we use.
 
 All weapon props must be checked for safety prior to gameplay.  Using this guide does not guarantee that props will be deemed safe for use in game.  We recognize that this can be discouraging, but crafting props is often a skill that requires practice and guidance.  As such, our staff will make ourselves available before events and outside of events upon request to answer questions, make suggestions, and to check items.  We also intend to have some props available to be borrowed in case a personal prop is deemed unsafe.
 
 Below are a list of different types of props, guidelines for construction, suggestions for purchase, and if they can be supplied by Crestfallen LARP.  All links are examples of items and not a price comparison or guarantee of quality.
-
-
 
 ## Ammo, Blaster
 
@@ -46,8 +41,6 @@ https://www.amazon.com/EKIND-Compatible-N-Strike-96-Dart-Refill/dp/B07BVN54VK/re
 
 [Adventure Force Tactical Strike 150 Round Refill With Ammo Box Rounds Compatible With NERF Rival Blasters - Walmart.com](https://www.walmart.com/ip/Adventure-Force-Tactical-Strike-150-Round-Refill-with-Ammo-Box-Rounds-compatible-with-NERF-RIVAL-blasters/802555418)
 
-
-
 ## Ammo, Spell
 
 Spell ammo is used to represent ranged attacks in a safe way.  Spells may use spherical ammunition in the form of 7/8" (22.2mm) "rival compatible" or 1.68" (42mm) foam golf balls.  Spell ammo is supplied for NPCs but may be supplied to PCs upon special request/reasoning.
@@ -67,8 +60,6 @@ Spell ammo is used to represent ranged attacks in a safe way.  Spells may use sp
 
 [Amazon.com : 120 Pack Foam Golf Practice Balls Bulk, Foam Golf Balls for Golf Practice, Realistic Feel and Limited Flight Training Balls for Indoor or Outdoor, Soft Ball for Golf Party Supplies (Multi Colors) : Sports & Outdoors](https://www.amazon.com/Practice-Realistic-Limited-Training-Supplies/dp/B0BS3KGW32/ref=sr_1_10?crid=WGC6N916H7VS&keywords=foam%2Bgolf%2Bball&qid=1681316998&sprefix=foam%2Bgolf%2Bball%2Caps%2C96&sr=8-10&th=1)
 
-
-
 ## Armor
 
 Armor is a protective covering used to protect vital areas in combat.  Crestfallen LARP armor may be made of authentic materials such as gambesons (padded cloth), leather, chainmail, and metal plates as well as costume armor made from cloth, plastics, and foam crafted to have the appearance of authentic materials.  We have the following suggestions regarding all armors.  Armor is supplied to NPCs only.  PCs must supply their own armor and should have it rated by staff prior to the start of an event (virtually or in person).
@@ -85,8 +76,6 @@ Armor is a protective covering used to protect vital areas in combat.  Crestfall
 
 [Medieval weapon for sale | Medieval period armoury store Armstreet.com](https://armstreet.com/store/armoury/)
 
-
-
 ## Armbands
 
 Armbands are used to clearly notate non-combatants (Orange), plot/marshals (Green), and EMTs (Blue).  This is important to make sure that these attendees are easily accessible for safety and subtle game interactions.  Crestfallen LARP will supply these armbands as possible, but highly suggests that if a player intends on attending and will be part of one of these groups to supply their own.
@@ -94,8 +83,6 @@ Armbands are used to clearly notate non-combatants (Orange), plot/marshals (Gree
 Crestfallen LARP uses these Orange, Green, and Blue Armbands
 
 [Amazon.com : 16 Pieces Reflective Bands Reflector Bands for Wrist, Arm, Ankle, Leg, High Visibility Reflective Gear Safety Reflector Tape Straps for Night Walking, Cycling and Running : Sports & Outdoors](https://www.amazon.com/Reflective-Reflector-Visibility-Walking-Cycling/dp/B084WN42XK/ref=cs_sr_dp?crid=JQ72JAE4G01K&keywords=orange%2Barm%2Bband&qid=1681313454&sprefix=orange%2Barm%2Bband%2Caps%2C99&sr=8-7&th=1)
-
-
 
 ## Blasters
 
@@ -118,8 +105,6 @@ Blasters are used to replicate ranged combat as safely as possible.  Blasters ar
 [ZURU X-Shot | Zuru Toys](https://zurutoys.com/brands/x-shot)
 
 [Home - Buzz Bee Toys, Inc.](https://buzzbeetoys.com/)
-
-
 
 ## Clothing/Costuming
 
@@ -151,8 +136,6 @@ Additional suggests for NPC clothing/costuming
 
 [Medieval clothing for sale | Medieval period clothing store Armstreet.com](https://armstreet.com/store/medieval-clothing/)
 
-
-
 ## Energy
 
 Energy are jumbo sized craft sticks that are used to track how much spell energy a character has at a particular time.  When characters cast spells, they must snap the wooden sticks in the casting of the spell.  These props will have markings on one or both sides of the stick.  Crestfallen LARP supplies the Energy props, but players may bring their own.  Energy props brought by a player must be activated by staff by attaching the appropriate markings to one or both sides of the prop.
@@ -161,13 +144,9 @@ Energy are jumbo sized craft sticks that are used to track how much spell energy
 
 [Amazon.com: 6" Jumbo Craft Sticks - Pack of 1,000ct : Arts, Crafts & Sewing](https://www.amazon.com/Jumbo-Craft-Sticks-Pack-000ct/dp/B083TT4XVN/ref=sr_1_5?crid=SSG6WSF0JH4P&keywords=Craft%2Bsticks%2Bjumbo&qid=1681348904&sprefix=craft%2Bsticks%2Bjumbo%2Caps%2C97&sr=8-5&th=1)
 
-
-
 ## Glasses
 
 Any and all glasses are allowable at Crestfallen LARP.  While we would love for people to have in period style glasses, we would never ask people to make such an expensive purchase for our game.  We highly suggest bringing and extra or old pair in case of emergency such as damage or loss of your primary pair.  It is highly suggested that players who can wear contacts, do so.
-
-
 
 ## Light Source
 
@@ -183,8 +162,6 @@ https://www.amazon.com/SHYMERY-Flickering-Batteries-Decorative-Centerpiece/dp/B0
 
 [Lichamp 4 Pack LED Camping Lanterns, Battery Powered Camping Lights Super Bright Collapsible Flashlight Portable Emergency Supplies Kit, Dual Mode, Dark Gray - - Amazon.com](https://www.amazon.com/dp/B08T9WLDSJ?ref_=cm_sw_r_apan_dp_W61MNM4H1A9A7288Z68N&fbclid=IwAR0O0_7AB1608-aWbaO0KVHjcPdou_hClMX1Yp6c8zf2oBbGNoQR_Pl_BIw)
 
-
-
 ## Potion
 
 Potion props are clear plastic vials with stoppers (either attached or separate) that can hold 5 to 10 ml of liquid at at time.  These props may have colored liquid added to them or be painted to look more authentic.  Crestfallen LARP will supply limited quantities of 10ml centrifuge vials as potion props, but it is suggested that players provide their own.
@@ -196,8 +173,6 @@ Potion props are clear plastic vials with stoppers (either attached or separate)
 https://www.amazon.com/50PCS-Plastic-Sample-Cryotubes-Material/dp/B09H43QYWK/ref=sr_1_5?crid=UF3UJ332VJ64&keywords=10ml+plastic+vials+with+caps&qid=1681351033&sprefix=10ml+plastic+vials+with+caps%2Caps%2C150&sr=8-5
 
 [Eowpower 50pcs 10ml Plastic Vial Tube Centrifuge Sample Storage Container Liquid Tubes: Amazon.com: Industrial & Scientific](https://www.amazon.com/Eowpower-Plastic-Centrifuge-Storage-Container/dp/B0759W41ZM/ref=sr_1_9?crid=3BZ5CPVI0F01E&keywords=10ml+centrifuge+tubes+with+caps&qid=1681350935&sprefix=10ml+centrifuge+tubes+with+caps%2Caps%2C90&sr=8-9)
-
-
 
 ## Shield, Custom/DIY
 
@@ -215,8 +190,6 @@ Plywood Shield Production video - [How to Make a LARP Shield | Part 1 of 2 - You
 
 Corrugated Plastic/Plastidip Shield - [Making an Ultra Light Plastidip Shield: The Core - YouTube](https://www.youtube.com/watch?v=BIMd119HH6Q)
 
-
-
 ## Shield, Mass Produced
 
 There are a number of companies that mass produce shields in Latex or Hybrid foam varieties.
@@ -233,8 +206,6 @@ All shields must be checked, safety tagged, and approved for use prior to game. 
 
 [LARP Shields and Shield Covers - Medieval Collectibles](https://www.medievalcollectibles.com/product-category/weaponry/larp-weapons/shop-by-larp-weapon-type/larp-shields-shop-by-larp-weapon-type/)
 
-
-
 ## Wand
 
 Wands are similar to Energy props as they are jumbo size craft sticks, but are colored rather than bare wood.  These props are used to replicate single use magical items that hold spell energy within them.  Any character may use a wand and the prop acts as its own item tag.  The wand prop must include a spell incantation of at least 5 words (one of which may be the condition that the spell causes.)  To use the prop, the spell incantation must be read/said aloud, the prop must be snapped, and then the spell energy must be thrown or touched to its target.  Crestfallen LARP currently supplies the Wand props, but players may bring their own when planning to craft wands through the game rules.
@@ -242,8 +213,6 @@ Wands are similar to Energy props as they are jumbo size craft sticks, but are c
  [Okllen 1000 Pack Colored Craft Sticks, 6 Inch Wooden Popsicle Sticks, Ice Pop Ice Cream Sticks Jumbo Wood Sticks for Kids' Art, DIY Projects, Home Classroom Craft Supplies (amazon.com)](https://www.amazon.com/Okllen-Popsicle-Projects-Classroom-Supplies/dp/B09CQ2BS4F/ref=sr_1_4?crid=1L1STG65R5HW3&keywords=jumbo+craft+stick+colored&qid=1681356560&sprefix=jumbo+craft+stick+colored%2Caps%2C89&sr=8-4)
 
 [6” 100 Pcs Colored Jumbo Wooden Craft Sticks Wooden Popsicle Colored Craft Sticks Stick 3/4”Wide Treat Sticks Ice Pop Sticks for DIY Crafts，Home Art Projects, Classroom Art Supplies (amazon.com)](https://www.amazon.com/Popsicle-Crafts，Home-Projects-Classroom-Supplies/dp/B092CN4ZM9/ref=sr_1_2?crid=1L1STG65R5HW3&keywords=jumbo+craft+stick+colored&qid=1681356597&sprefix=jumbo+craft+stick+colored%2Caps%2C89&sr=8-2)
-
-
 
 ## Weapon, Custom/DIY
 
@@ -281,8 +250,6 @@ Please note that live fire bows, crossbows, arrows, bolts, and wand reps are not
 Blasters that replicate Bow/Crossbows but fire dart/ball ammo are not considered firearms.  These are treated as a Bow or Crossbow.  These may not be used to block melee weapon attacks.
 
 All weapons must be checked, safety tagged, and approved for use prior to game.  Weapons will be supplied to NPCs as needed.  PCs may borrow weapons upon special request/reasoning.  If a player supplied weapon fails safety check, we will do our best to supply one for PC use.
-
-
 
 ## Weapon, Mass Produced
 
