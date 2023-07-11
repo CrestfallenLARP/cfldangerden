@@ -524,7 +524,7 @@ This spell causes the target to gain or remove the [Hex Condition]({{< ref "/rul
 
 **Energy Cost**: 1
 
-This spell causes the target to gain a [claw]({{< ref "/rules/conditions/#natural-weapon" >}}). (green weapon physical representation) that they are proficient with and swings 2 [damage]({{< ref "/rules/conditions/#damage" >}}). This claw may increase in [damage]({{< ref "/rules/conditions/#damage" >}}) with game skills that target Claws/Brawlers.
+This spell causes the target to gain a [claw]({{< ref "/rules/conditions/#natural-weapon" >}}). (green weapon prop) that they are proficient with and swings 2 [damage]({{< ref "/rules/conditions/#damage" >}}). This claw may increase in [damage]({{< ref "/rules/conditions/#damage" >}}) with game skills that target Claws/Brawlers.
 
 #### Shatter 
 
