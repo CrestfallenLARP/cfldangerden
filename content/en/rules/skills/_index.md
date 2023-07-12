@@ -6,13 +6,13 @@ type: "docs"
 
 ---
 
-Notations:
+## Abbreviations
 
-\* = Skill may be purchased multiple times
+**\*** = Skill may be purchased multiple times
 
-x = Exponential Cost (example: 1st Body = 1 Point, 2nd Body = 2 points, 3rd Body = 3 points)
+**x** = Exponential Cost (example: 1st Body = 1 Point, 2nd Body = 2 points, 3rd Body = 3 points)
 
-\# = Requires Prerequisite
+*\#* = Requires Prerequisite
 
 ## Adaptable
 

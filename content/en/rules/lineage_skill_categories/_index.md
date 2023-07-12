@@ -7,17 +7,15 @@ weight: 1.5
 
 ---
 
-## Lineage Skill Categories
+## Abbreviations
 
-Notes:
+**\*** = Skill may be purchased multiple times
 
-\* = Skill may be purchased multiple times
+**x** = Exponential Cost (example: 1st Body = 1 Point, 2nd Body = 2 points, 3rd Body = 3 points)
 
-x = Exponential Cost (example: 1st Body = 1 Point, 2nd Body = 2 points, 3rd Body = 3 points)
+*\#* = Requires Prerequisite
 
-\# = Requires Prerequisite
-
-### Dwarf Lineage Skill Category
+## Dwarf Lineage Skill Category
 
 Costume Requirements: Prop Beard (real beards do not count)
 
@@ -45,7 +43,7 @@ Only Dwarf Characters may purchase skills from this Category.
 
 [Wear Armor\*]({{< ref "/rules/skills/#wear-armor" >}}) [3 CP] Character may wear 5 Additional Armor. May only be purchased once from this Skill Category
 
-### Elf Lineage Skill Category
+## Elf Lineage Skill Category
 
 Costume Requirements: Pointed Ear Tips
 
@@ -73,7 +71,7 @@ Only Elf Characters may purchase skills from this Category.
 
 [Stealth,Woodlands]({{< ref "/rules/skills/#stealth-woodlands" >}}) [8 CP] Character may use Stealth in wooded areas 
 
-### Hauflin Lineage Skill Category
+## Hauflin Lineage Skill Category
 
 Costume Requirements: Top Knot and Bushy Sideburns
 
@@ -101,7 +99,7 @@ Only Hauflin Characters may purchase skills from this Category.
 
 [Thrown Weapons]({{< ref "/rules/skills/#thrown-weapons" >}}) [1 CP] Character is trained with Thrown Weapons 
 
-### Human Lineage Skill Category
+## Human Lineage Skill Category
 
 Costume Requirements: None
 
@@ -121,7 +119,7 @@ Only Human Characters may purchase skills from this Category.
 
 [Weapon of Choice]({{< ref "/rules/skills/#weapon-of-choice" >}}) [3 CP] Character is trained in the use of one weapon of their choice, not including Firearms.
 
-### Kinfolk Lineage Skill Category
+## Kinfolk Lineage Skill Category
 
 Costume Requirements: Must appear as an animal type associated with the Kinfolk. May include/but not limited to Mask, Skin Color, Hair Color, Prosthetics
 
@@ -149,7 +147,7 @@ Only Kinfolk Characters may purchase skills from this Category.
 
 [Variable]({{< ref "/rules/skills/#variable" >}}) [0 CP] When Category is purchased, character gains 2 Body or ST 
 
-### Orc Lineage Skill Category
+## Orc Lineage Skill Category
 
 Costume Requirements: Mask or Green Makeup (Tusks built into jawline of armor/mask suggested)
 

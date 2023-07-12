@@ -10,7 +10,7 @@ type: "docs"
 
 Characters start with access to the [General]({{< relref "#general-skill-category" >}}) and the characters  [Lineage Skill Category]({{< relref "/rules/lineage_skill_categories" >}}) for free. Other than these, the first Skill Category a Character purchases costs 5 CP. Each additional Skill Category costs 5 more CP than the last purchased. (1st is 5 CP, 2nd is 10 CP, 3rd is 15 CP, etc). Once a Skill Category is purchased, a Character may then purchase [skills]({{< relref "/rules/skills" >}}) at their listed cost. Skills found on multiple Skill Category lists may have different costs. The cost of a skill is always be the cost when purchased. No CP will be refunded if a Skill Category is later unlocked with a different cost unless stated in a particular skill.
 
-# Abbreviations
+## Abbreviations
 
 **\*** = Skill may be purchased multiple times
 
