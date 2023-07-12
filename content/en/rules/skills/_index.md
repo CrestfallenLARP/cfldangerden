@@ -292,7 +292,7 @@ This skill allows a character to ask 3 yes or no questions from plot staff regar
 
 **Skill Categories**: [Academic]({{< ref "/rules/skill_categories/#academic-skill-category" >}})
 
-This skill allows a character to ask 3 yes or no questions from Plot Staff regarding a character or creature as it relates to the current event. This allows plot staff to give information that may be relevant to a current plot line but does not necessarily impact the overall story of the game world. Plot may substitute pre-generated information or more detailed information at their discretion. Emails regarding questions prior to an event are encouraged to ensure that all information granted to players is accurate. If plot cannot give the character appropriate answers within a reasonable time frame (max 30 minutes), then the ST cost is refunded to the character as if the skill was not used.  This skill may determine the true identity of a creature/character using the disguise skill. If plot cannot give the character appropriate answers within a reasonable time frame (max 30 minutes), then the ST cost is refunded to the character as if the skill was not used.
+This skill allows a character to ask 3 yes or no questions from Plot Staff regarding a character or creature as it relates to the current event. This allows plot staff to give information that may be relevant to a current plot line but does not necessarily impact the overall story of the game world. Plot may substitute pre-generated information or more detailed information at their discretion. Emails regarding questions prior to an event are encouraged to ensure that all information granted to players is accurate. If plot cannot give the character appropriate answers within a reasonable time frame (max 30 minutes), then the ST cost is refunded to the character as if the skill was not used.  This skill may determine the true identity of a creature/character using the [disguise]({{< relref "#disguise" >}})  skill. If plot cannot give the character appropriate answers within a reasonable time frame (max 30 minutes), then the ST cost is refunded to the character as if the skill was not used.
 
 ## Demand
 
@@ -658,7 +658,7 @@ This skill allows a character to receive 6 leaves at check in. This is in additi
 
 **ST Cost**: None
 
-**Restrictions**: 25 CP in [Elf Lineage]({{< ref "/rules/lineage_skill_categories/#elf-lineage-skill-category" >}}), Must have [Resist Charm]({{< relref "#resist-charm" >}})
+**Restrictions**: 30 CP in [Elf Lineage]({{< ref "/rules/lineage_skill_categories/#elf-lineage-skill-category" >}}), Must have [Resist Charm]({{< relref "#resist-charm" >}})
 
 **Skill Categories**: [Elf Lineage]({{< ref "/rules/lineage_skill_categories/#elf-lineage-skill-category">}}) 
 
@@ -670,7 +670,7 @@ This skill allows a character to become immune to the [charm condition]({{< ref 
 
 **ST Cost**: None
 
-**Restrictions**: 25 CP in [Hauflin Lineage]({{< ref "/rules/lineage_skill_categories/#hauflin-lineage-skill-category" >}}), Must have [Resist Entangle]({{< relref "#resist-entangle" >}})
+**Restrictions**: 30 CP in [Hauflin Lineage]({{< ref "/rules/lineage_skill_categories/#hauflin-lineage-skill-category" >}}), Must have [Resist Entangle]({{< relref "#resist-entangle" >}})
 
 **Skill Categories**: [Hauflin Lineage]({{< ref "/rules/lineage_skill_categories/#hauflin-lineage-skill-category" >}})
 
@@ -682,7 +682,7 @@ This skill allows a character to become immune to the [entangle condition]({{< r
 
 **ST Cost**: None
 
-**Restrictions**: 25 CP in [Kinfolk Lineage]({{< ref "/rules/lineage_skill_categories/#kinfolk-lineage-skill-category" >}}), Must have [Resist Knockback]({{< relref "#resist-knockback" >}})
+**Restrictions**: 30 CP in [Kinfolk Lineage]({{< ref "/rules/lineage_skill_categories/#kinfolk-lineage-skill-category" >}}), Must have [Resist Knockback]({{< relref "#resist-knockback" >}})
 
 **Skill Categories**: [Kinfolk Lineage]({{< ref "/rules/lineage_skill_categories/#kinfolk-lineage-skill-category" >}})
 
@@ -694,7 +694,7 @@ This skill allows a character to become immune to the [knockback condition]({{< 
 
 **ST Cost**: None
 
-**Restrictions**: 25 CP in [Orc Lineage]({{< ref "/rules/lineage_skill_categories/#orc-lineage-skill-category" >}}), Must have [Resist Knockdown]({{< relref "#resist-knockdown" >}})
+**Restrictions**: 30 CP in [Orc Lineage]({{< ref "/rules/lineage_skill_categories/#orc-lineage-skill-category" >}}), Must have [Resist Knockdown]({{< relref "#resist-knockdown" >}})
 
 **Skill Categories**: [Orc Lineage]({{< ref "/rules/lineage_skill_categories/#orc-lineage-skill-category" >}})
 
@@ -706,7 +706,7 @@ This skill allows a character to become immune to the [knockdown condition]({{< 
 
 **ST Cost**: None
 
-**Restrictions**: 25 CP in [Dwarf Lineage]({{< ref "/rules/lineage_skill_categories/#dwarf-lineage-skill-category" >}}), Must have [Resist Poison]({{< relref "#resist-poison" >}})
+**Restrictions**: 30 CP in [Dwarf Lineage]({{< ref "/rules/lineage_skill_categories/#dwarf-lineage-skill-category" >}}), Must have [Resist Poison]({{< relref "#resist-poison" >}})
 
 **Skill Categories**: [Dwarf Lineage]({{< ref "/rules/lineage_skill_categories/#dwarf-lineage-skill-category">}}) 
 
@@ -718,7 +718,7 @@ This skill allows a character to become immune to the [poison condition]({{< ref
 
 **ST Cost**: None
 
-**Restrictions**: 25 CP in [Elf Lineage]({{< ref "/rules/lineage_skill_categories/#elf-lineage-skill-category" >}}), Must have [Resist Sleep]({{< relref "#resist-sleep" >}})
+**Restrictions**: 30 CP in [Elf Lineage]({{< ref "/rules/lineage_skill_categories/#elf-lineage-skill-category" >}}), Must have [Resist Sleep]({{< relref "#resist-sleep" >}})
 
 **Skill Categories**: [Elf Lineage]({{< ref "/rules/lineage_skill_categories/#elf-lineage-skill-category" >}})
 
