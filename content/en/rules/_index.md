@@ -646,7 +646,7 @@ All basic build items last for the duration of the event, until used, or until [
 - **Alchemical Grenade**: Spell Ammo - A character may throw a ranged attack with the verbal of “5 [damage]({{< ref "/rules/conditions/#damage" >}})”.
 - **Alchemical Flashbang**: Spell Ammo - A character may throw a ranged attack with the verbal of “[Knockback]({{< ref "/rules/conditions/#knockback" >}})”.
 - **Tangle Bag**: Spell Ammo – A character may throw a ranged attack with the verbal of “[Entangle]({{< ref "/rules/conditions/#entangled" >}}) Foot”
-- **Alcohol**: Potion Bottle – A character may drink or grant another a drink that grants the Distracted effect.
+- **Alcohol**: Potion Bottle – A character may drink or grant another a drink that grants the [Distracted]({{< ref "/rules/conditions/#distracted" >}}) effect.
 - *Craft Effect* **Weapon Poison +1:** Purple Ribbon – A character may deal 1 additional point of damage with a weapon that has the craft effect until the item is [broken]({{< ref "/rules/conditions/#broken-break" >}}) or [destroyed]({{< ref "/rules/conditions/#destroyed" >}}). This may not be used on Firearms.
 
 #### Enchanting Basic Build Items
