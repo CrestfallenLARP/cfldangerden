@@ -21,7 +21,7 @@ LARP stands for Live Action Role Play(ing). The short explanation of this is act
 * The players determine what they want their characters want to do and use the game rules and their acting to do these actions.
 * The player is only in charge of their character.
 
-For more information on what LARP is or can be, feel free to check out the [What is LARP]({{< ref "/blog/" >}}) article on the Crestfallen LARP website.
+For more information on what LARP is or can be, feel free to check out the [What is LARP](https://crestfallenlarp.com/blog/2020/01/02/what-is-larp/) article on the Crestfallen LARP website.
 
 ### What is Crestfallen LARP: (Beren's Hopes)
 
