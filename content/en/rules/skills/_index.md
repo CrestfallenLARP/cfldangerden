@@ -98,7 +98,7 @@ Duration: 10 Minutes or Until Removed – The character becomes enraged and atte
 
 **Skill Categories**: [Thievery]({{< ref "/rules/skill_categories/#thievery-skill-category" >}})
 
-This skill allows a character to purchase in game items from the thieves guild stockpile without any limit to the number of items purchased.  Additionally, the character may use 1 ST to look at a guild or lineage item list that they normally would not have access to and may purchase items from them for two times the cost.
+This skill allows a character to purchase in game items from the thieves guild stockpile without any limit to the number of items purchased.  Additionally, the character may use 1 ST to look at a [guild]({{< ref "/rules/#guilds-and-governments" >}}) or lineage item list that they normally would not have access to and may purchase items from them for two times the cost.
 
 ## Block
 
@@ -232,7 +232,7 @@ This skill allows a character that is struck by a valid weapon strike to call �
 **Skill Categories**: [Thievery]({{< ref "/rules/skill_categories/#thievery-skill-category" >}})
 ,  [merchant]({{< ref "/rules/skill_categories/#merchant-skill-category" >}}), [Academic]({{< ref "/rules/skill_categories/#academic-skill-category" >}}), [Craftsman]({{< ref "/rules/skill_categories/#craftsman-skill-category" >}}), [Kinfolk Lineage]({{< ref "/rules/lineage_skill_categories/#kinfolk-lineage-skill-category" >}})
 
-This skill allows a character to drop prone (flat on the ground or dropping to one knee) and call “Cower” to gain the [cower condition]({{< ref "/rules/conditions/#cower" >}}). The player may restate “Cower” as needed if new combatants arrive.
+This skill allows a character to drop prone (flat on the ground or dropping to one knee) and call “[Cower]({{< ref "/rules/conditions/#cower" >}})” to gain the [cower condition]({{< ref "/rules/conditions/#cower" >}}). The player may restate “[Cower]({{< ref "/rules/conditions/#cower" >}})” as needed if new combatants arrive.
 
 ## Craft Guild Member#
 
@@ -244,7 +244,7 @@ This skill allows a character to drop prone (flat on the ground or dropping to o
 
 **Skill Categories**: [Craftsman]({{< ref "/rules/skill_categories/#craftsman-skill-category" >}})
 
-This skill grants a character membership in the crafting guild as an apprentice member. As such, a character may have access to purchase items directly from the guild, take part in guild missions, gain guild contacts, and may advance within the guild structure. Additionally, the craft guild oversees handling the project library which houses all publicly available approved project designs. The approved project designs found within the project library may be rented, with the rental cost being determined by guild membership and rank within the guild.
+This skill grants a character membership in the crafting [guild]({{< ref "/rules/#guilds-and-governments" >}}) as an apprentice member. As such, a character may have access to purchase items directly from the guild, take part in guild missions, gain guild contacts, and may advance within the guild structure. Additionally, the craft guild oversees handling the project library which houses all publicly available approved project designs. The approved project designs found within the project library may be rented, with the rental cost being determined by guild membership and rank within the guild.
 
 ## Crafting Augmentation#
 
@@ -256,7 +256,7 @@ This skill grants a character membership in the crafting guild as an apprentice 
 
 **Skill Categories**: [Craftsman]({{< ref "/rules/skill_categories/#craftsman-skill-category" >}})
 
-This skill allows a character to create approved project designs and/or tagged items based on the appropriate crafting skills that they already possess. Approved project designs made with this skill may only use basic and common resources. Rare resources are reserved for the crafting: mastery skill only. All tagged items created in this way will have a base durability of 8.
+This skill allows a character to create approved project designs and/or tagged items based on the appropriate crafting skills that they already possess. Approved project designs made with this skill may only use basic and common resources. Rare resources are reserved for the [Crafting Mastery#]({{< relref "#crafting-mastery" >}}) skill only. All tagged items created in this way have a base durability of 8.
 
 ## Crafting Mastery#
 
@@ -268,7 +268,7 @@ This skill allows a character to create approved project designs and/or tagged i
 
 **Skill Categories**: [Craftsman]({{< ref "/rules/skill_categories/#craftsman-skill-category" >}})
 
-This skill allows a character to create approved project designs and/or tagged items based on the appropriate crafting skills that they already possess. All tagged items created in this way will have a base durability of 16.
+This skill allows a character to create approved project designs and/or tagged items based on the appropriate crafting skills that they already possess. All tagged items created in this way have a base durability of 16.
 
 ## Crafting Theory
 
@@ -304,7 +304,7 @@ This skill allows a character to ask 3 yes or no questions from Plot Staff regar
 
 **Skill Categories**: [Orc Lineage]({{< ref "/rules/lineage_skill_categories/#orc-lineage-skill-category" >}})
 
-This skill allows a character to pay half price or be paid double price for one object at a guild.
+This skill allows a character to pay half price or be paid double price for one object at a  [guild]({{< ref "/rules/#guilds-and-governments" >}}) .
 
 ## Diplomacy
 
@@ -365,7 +365,7 @@ This skill allows a character to craft potions, scrolls, and similar items using
 
 **Skill Categories**: [Merchant]({{< ref "/rules/skill_categories/#merchant-skill-category" >}})
 
-This skill allows a character to trade one item for its market value to a guild or lineage. These prices will be listed in the appropriate binder on the market value chart granted by the [Going Rate]({{< relref "#going-rate" >}}) skill.
+This skill allows a character to trade one item for its market value to a [guild]({{< ref "/rules/#guilds-and-governments" >}}) or lineage. These prices will be listed in the appropriate binder on the market value chart granted by the [Going Rate]({{< relref "#going-rate" >}}) skill.
 
 ## Escape Artist
 
@@ -530,7 +530,7 @@ Rare increases by 2% each event a rare is not found.
 
 **Skill Categories**: [Merchant]({{< ref "/rules/skill_categories/#merchant-skill-category" >}})
 
-This skill allows a character to view a guild or lineage market value chart without being a member.
+This skill allows a character to view a [guild]({{< ref "/rules/#guilds-and-governments" >}}) or lineage market value chart without being a member.
 
 ## Grapple
 
@@ -837,7 +837,7 @@ This skill allows a character to remove the [bleed]({{< ref "/rules/conditions/#
 
 **Skill Categories**: [Merchant]({{< ref "/rules/skill_categories/#merchant-skill-category" >}})
 
-This skill grants a character membership in the merchants guild as an apprentice member. As such, a character may have access to purchase items directly from the guild, take part in guild missions, gain guild contacts, and may advance within the guild structure. Additionally, the merchants guild oversees handling the bank.  Merchant guild members may take out larger loans and may pay less interest depending on their rank within the guild.
+This skill grants a character membership in the merchants [guild]({{< ref "/rules/#guilds-and-governments" >}}) as an apprentice member. As such, a character may have access to purchase items directly from the [guild]({{< ref "/rules/#guilds-and-governments" >}}), take part in guild missions, gain guild contacts, and may advance within the guild structure. Additionally, the merchants guild oversees handling the bank.  Merchant guild members may take out larger loans and may pay less interest depending on their rank within the guild.
 
 ## One Handed Axes/Hammers
 
@@ -1087,7 +1087,7 @@ This skill allows a character to spend one minute acting out the removal of a [p
 
 **Skill Categories**: [Merchant]({{< ref "/rules/skill_categories/#merchant-skill-category" >}})
 
-This skill allows a character to gain 1 item from a guild or lineage item list for free.
+This skill allows a character to gain 1 item from a [guild]({{< ref "/rules/#guilds-and-governments" >}})or lineage item list for free.
 
 ## Research Guild Member#
 
@@ -1099,7 +1099,7 @@ This skill allows a character to gain 1 item from a guild or lineage item list f
 
 **Skill Categories**: [Academic]({{< ref "/rules/skill_categories/#academic-skill-category" >}})
 
-This skill grants a character membership in the research guild as an apprentice member. As such, a character may have access to purchase items directly from the guild, take part in guild missions, gain guild contacts, and may advance within the guild structure.  Additionally, the research guild is in charge of handling the research library which houses all publicly available research documents granted via the research skills as well as plot in game documents and character created documents. Some documents found in this library are confirmed to be accurate with the game world by the plot staff and will be clearly marked as such. Characters may submit documentation to the research library for payment as well as possible advancement with the guild. The research library may be rented, with the rental cost being determined by guild membership and rank within the guild.
+This skill grants a character membership in the research [guild]({{< ref "/rules/#guilds-and-governments" >}}) as an apprentice member. As such, a character may have access to purchase items directly from the guild, take part in guild missions, gain guild contacts, and may advance within the guild structure.  Additionally, the research guild is in charge of handling the research library which houses all publicly available research documents granted via the research skills as well as plot in game documents and character created documents. Some documents found in this library are confirmed to be accurate with the game world by the plot staff and will be clearly marked as such. Characters may submit documentation to the research library for payment as well as possible advancement with the guild. The research library may be rented, with the rental cost being determined by guild membership and rank within the guild.
 
 ## Resist Bleed
 
@@ -1211,7 +1211,7 @@ This skill allows a character to ask 3 yes or no questions from plot staff regar
 
 ## Search Area
 
-**CP Cost**: 10 (Academic) or 8 ([Kinfolk Lineage]({{< ref "/rules/lineage_skill_categories/#kinfolk-lineage-skill-category" >}}))
+**CP Cost**: 10 ([Academic]({{< ref "/rules/skill_categories/#academic-skill-category" >}})) or 8 ([Kinfolk Lineage]({{< ref "/rules/lineage_skill_categories/#kinfolk-lineage-skill-category" >}}))
 
 **ST Cost**: 1
 
@@ -1509,7 +1509,7 @@ This skill grants a character [proficiency]({{< ref "/rules/conditions/#proficie
 
 **Skill Categories**: [Thievery]({{< ref "/rules/skill_categories/#thievery-skill-category" >}})
 
-This skill grants a character membership in the thieves guild as an apprentice member. As such, a character may have access to purchase items directly from the guild, take part in guild missions, gain guild contacts, and may advance within the guild structure.  Additionally, the thieves guild is in charge of handling the stockpile which houses emergency resources. Members may purchase or trade resources from the stockpile as necessary for the benefit of the local community. Rare resources will NEVER be sold by plot unless they are found here.
+This skill grants a character membership in the thieves [guild]({{< ref "/rules/#guilds-and-governments" >}}) as an apprentice member. As such, a character may have access to purchase items directly from the guild, take part in guild missions, gain guild contacts, and may advance within the guild structure.  Additionally, the thieves guild is in charge of handling the stockpile which houses emergency resources. Members may purchase or trade resources from the stockpile as necessary for the benefit of the local community. Rare resources will NEVER be sold by plot unless they are found here.
 
 ## Thrown Weapons
 
@@ -1598,6 +1598,7 @@ This skill allows a character to be [proficient]({{< ref "/rules/conditions/#pro
 ## Wear Armor\*
 
 **CP Cost**: 4 ([General]({{< ref "/rules/skill_categories/#general-skill-category" >}})) or 3 ([Dwarf Lineage]({{< ref "/rules/lineage_skill_categories/#dwarf-lineage-skill-category" >}}))
+
 **ST Cost**: None
 
 **Restrictions**: None
