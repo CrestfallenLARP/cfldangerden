@@ -56,13 +56,13 @@ A player’s character (PC for short) is how they interact with the game world a
 
 As mentioned before, everyone will use this rulebook differently to make characters. Here are a number of suggested ways to make a character. All players should review the [Code of Conduct]({{< ref "#code-of-conduct" >}}) and [Philosophies]({{< ref "#philosophies" >}}) sections of the book first due to their importance mentioned in the disclaimer. 
 
-Also remember that you need to leave room for your character to grow. Do not purchase skills that you do not have (or plan to have in the near future) the props or ability to use.
+Also remember that you need to leave room for your character to grow. Do not purchase [skills]({{< ref "/rules/skills" >}}) that you do not have (or plan to have in the near future) the props or ability to use.
 
 Finally it is important to remember that you are one character in a bigger community. You cannot do everything and will often need the help of others to accomplish goals. It is not suggested to build an anti-social character or a character that is does not have a core [skill category]({{< ref "/rules/skill_categories" >}}) that helps express the characters identity.
 
 ### How to make a character when focusing on story/lineage
 
-A player who wants to focus on story should first look at all of the In Game information about the game world and lineages. These sections include Lineages, Mixed Lineages, [Lineage Skill Categories]({{< ref "/rules/lineage_skill_categories" >}}), and the Persona Guide. This reading will give players basic information on Katalossa (the Crestfallen game world), the lineages of the Inspired, and the skills that are special to each lineage. After this reading, the player can determine which lineage they would like to play and different Persona and Backstory elements. Once the Backstory and Persona is established, the player may already have an idea of what style of character they want to build on their Character Sheet. The player should review the different Points Systems to understand the different types and how they work. Following this they should focus on the Combat, Magic, and Skills system to determine their [skill categories]({{< ref "/rules/skill_categories" >}}) and [skills]({{< ref "/rules/skills" >}}). The player will end with creating the costuming and gear based on what they require from the previous steps.
+A player who wants to focus on story should first look at all of the In Game information about the game world and lineages. These sections include Lineages, Mixed Lineages, [Lineage Skill Categories]({{< ref "/rules/lineage_skill_categories" >}}), and the Persona Guide. This reading will give players basic information on Katalossa (the Crestfallen game world), the lineages of the Inspired, and the [skills]({{< ref "/rules/skills" >}}) that are special to each lineage. After this reading, the player can determine which lineage they would like to play and different Persona and Backstory elements. Once the Backstory and Persona is established, the player may already have an idea of what style of character they want to build on their Character Sheet. The player should review the different Points Systems to understand the different types and how they work. Following this they should focus on the Combat, Magic, and [Skills]({{< ref "/rules/skills" >}}) system to determine their [skill categories]({{< ref "/rules/skill_categories" >}}) and [skills]({{< ref "/rules/skills" >}}). The player will end with creating the costuming and gear based on what they require from the previous steps.
 
 ### How to make a character when focusing on skills and skill categories
 
@@ -70,11 +70,11 @@ A player who wants to focus on their [Skills]({{< ref "/rules/skills" >}}) and [
 
 ### How to make a character when focusing on physical ability
 
-A player needs to take into account their own physical abilities. If a player is limited in what activities they wish to take part in or medically are limited on activities, the player should first review the skills list to determine their limitations. This may determine what kinds of skills the player may take, what lineage abilities or props they may use, and what counted actions they may need to be aware of. Once skills and lineage are determined, the player will create a Persona and Backstory based on the previous choices and limitations. The player will end with creating the costuming and gear based on what they require from the previous steps.
+A player needs to take into account their own physical abilities. If a player is limited in what activities they wish to take part in or medically are limited on activities, the player should first review the [skills]({{< ref "/rules/skills" >}}) list to determine their limitations. This may determine what kinds of [skills]({{< ref "/rules/skills" >}}) the player may take, what lineage abilities or props they may use, and what counted actions they may need to be aware of. Once [skills]({{< ref "/rules/skills" >}}) and lineage are determined, the player will create a Persona and Backstory based on the previous choices and limitations. The player will end with creating the costuming and gear based on what they require from the previous steps.
 
 ### How to make a character when focusing on costuming and gear
 
-A player will focus on costuming and gear that they already own if there are major budget issues. The player should focus on Skills, [Skill Categories]({{< ref "/rules/skill_categories" >}}), and Lineage based on the gear they already posses or that do not require gear. After this the player will create a Persona and Backstory based on the skills and lineage they have ultimately chosen. The player will end with creating the costuming and gear based on what they require from the previous steps.
+A player will focus on costuming and gear that they already own if there are major budget issues. The player should focus on [Skills]({{< ref "/rules/skills" >}}), [Skill Categories]({{< ref "/rules/skill_categories" >}}), and Lineage based on the gear they already posses or that do not require gear. After this the player will create a Persona and Backstory based on the skills and lineage they have ultimately chosen. The player will end with creating the costuming and gear based on what they require from the previous steps.
 
 ## Code of Conduct
 
@@ -180,7 +180,7 @@ While philosophies are not rules or policies that we enforce, the following are 
 
 **Low-cost barriers to entry** – Costuming can be expensive. This is why the Human lineage is based on Western wear and time frame. Western wear is easy to acquire from used clothing stores and family hand me downs. Additionally, Crestfallen LARP may have opportunities to sell used or discounted items or make bulk purchases from suppliers to help lessen the costs on players.
 
-**Basic rules are easy to follow** – The rulebook and its documents are written to be easy to follow and not require a ton of memorization. Most skills require the player using the ability to know what it does. Most conditions and skills are made using basic language so that new or confused players can make logical choices regarding them.
+**Basic rules are easy to follow** – The rulebook and its documents are written to be easy to follow and not require a ton of memorization. Most [skills]({{< ref "/rules/skills" >}}) require the player using the ability to know what it does. Most conditions and [skills]({{< ref "/rules/skills" >}}) are made using basic language so that new or confused players can make logical choices regarding them.
 
 ### Core In Game Philosophies
 
