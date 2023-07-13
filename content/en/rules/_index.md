@@ -3,7 +3,6 @@ title: "Rules"
 linkTitle: "Rules"
 weight: 20
 type: "docs"
-
 ---
 
 ## Introduction
@@ -16,10 +15,10 @@ We hope to make it easy to jump in and play Crestfallen LARP. Our members are av
 
 LARP stands for Live Action Role Play(ing). The short explanation of this is acting with other people in public. The thought of this can be scary to some people, but this book is here to tell you that it can be lots of fun and very rewarding. In a LARP environment that we are discussing there are number of things to keep in mind.
 
-* The LARP game defines the world that all characters interact with.
-* The rules define what players can/can't do and explains how the game works.
-* The players determine what they want their characters want to do and use the game rules and their acting to do these actions.
-* The player is only in charge of their character.
+- The LARP game defines the world that all characters interact with.
+- The rules define what players can/can't do and explains how the game works.
+- The players determine what they want their characters want to do and use the game rules and their acting to do these actions.
+- The player is only in charge of their character.
 
 For more information on what LARP is or can be, feel free to check out the [What is LARP](https://crestfallenlarp.com/blog/2020/01/02/what-is-larp/) article on the Crestfallen LARP website.
 
@@ -31,11 +30,11 @@ Crestfallen LARP is intended to be a frontier fantasy LARP game. The intent is t
 
 This rulebook attempts to accomplish the following goals
 
-* Clearly state the [Code of Conduct]({{< ref "#code-of-conduct" >}}) that all Crestfallen LARP players are expected to follow.
-* Explain the core concepts of the Crestfallen LARP rules.
-* Explain ways to make a Character so an Attendee can participate in a Crestfallen Event.
-* Describe the core story and lineage information of the world of Katalossa.
-* Act as a resource for clarifications on the Crestfallen LARP rules during gameplay.
+- Clearly state the [Code of Conduct]({{< ref "#code-of-conduct" >}}) that all Crestfallen LARP players are expected to follow.
+- Explain the core concepts of the Crestfallen LARP rules.
+- Explain ways to make a Character so an Attendee can participate in a Crestfallen Event.
+- Describe the core story and lineage information of the world of Katalossa.
+- Act as a resource for clarifications on the Crestfallen LARP rules during gameplay.
 
 ### Disclaimer
 
@@ -423,17 +422,17 @@ A character may wear armor, which protects their body from harm. To use armor, t
 
 Armor grants a character a maximum of 40 armor points. There may be skills, spells, and items that grant armor exceeding these amounts. This is allowable within the system and will be judged appropriately by the staff during check in and throughout the course of events. A character gains 5 armor by covering most of a body area with armor made of/appearing as in period materials. A marshal may decide that the armor appears too modern or harms immersion and reduce this total to 2 for the body area. Body areas are 
 
--	Head
--	Front Torso
--	Back Torso
--	Upper Right Arm
--	Lower Right Arm
--	Upper Left Arm
--	Lower Left Arm
--	Upper Right Leg
--	Lower Right Leg
--	Upper Left Leg
--	Lower Left Leg
+- Head
+- Front Torso
+- Back Torso
+- Upper Right Arm
+- Lower Right Arm
+- Upper Left Arm
+- Lower Left Arm
+- Upper Right Leg
+- Lower Right Leg
+- Upper Left Leg
+- Lower Left Leg
 
 ## Combat
 
@@ -562,7 +561,7 @@ A character may create a new spell. To do so, the player contacts plot staff bet
 
 ### Casting a Spell
 
-Before casting a spell, a character must have an open hand with a spell physrep in it and enough spell energy to cast the spell. Spell energy is represented by wooden tongue depressors that are acquired from Logistics at the beginning of game or when recovered. The character then says the spells incantation, breaks the appropriate amount of energy, and either touches or throws the physrep at the intended target. A spell cast via touch may be resisted by the target with the call of “[resist]({{< ref "/rules/conditions/#resist" >}})”. A thrown spell that hits the target, including any items that the target was carrying or wearing at the beginning of the incantation must take the spell effect. Following this, the Energy/Spell is spent and may then be recovered. Please note, that if the incantation is not completed or said properly, then the Energy/Spell has not been spent and may be attempted again. Players may create their own spell incantations with a minimum of 5 words, but must include the spell name/effect as the last statement of the incantation.
+Before casting a spell, a character must have an open hand with a spell prop in it and enough spell energy to cast the spell. Spell energy is represented by wooden tongue depressors that are acquired from Logistics at the beginning of game or when recovered. The character then says the spells incantation, breaks the appropriate amount of energy, and either touches or throws the prop at the intended target. A spell cast via touch may be resisted by the target with the call of “[resist]({{< ref "/rules/conditions/#resist" >}})”. A thrown spell that hits the target, including any items that the target was carrying or wearing at the beginning of the incantation must take the spell effect. Following this, the Energy/Spell is spent and may then be recovered. Please note, that if the incantation is not completed or said properly, then the Energy/Spell has not been spent and may be attempted again. Players may create their own spell incantations with a minimum of 5 words, but must include the spell name/effect as the last statement of the incantation.
 
 ### Recovering Energy
 
