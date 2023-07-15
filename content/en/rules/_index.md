@@ -65,7 +65,7 @@ A player who wants to focus on story should first look at all of the In Game inf
 
 ### How to make a character when focusing on skills and skill categories
 
-A player who wants to focus on their [Skills]({{< ref "/rules/skills" >}}) and [Skill Categories]({{< ref "/rules/skill_categories" >}}) will first look at the [Skills]({{< ref "/rules/skills" >}}) list to determine what skills they wish to take. This may include reviewing the Combat, Magic, or Crafting sections to understand how these work. Once a player determines what skills they would like to have, they will usually then look that the lineage choices to find out which lineage has the most discounts or best skills to complement their skill choices. After this the player will create a Persona and Backstory based on the [skills]({{< ref "/rules/skills" >}}) and lineage they have ultimately chosen. The player will end with creating the costuming and gear based on what they require from the previous steps.
+A player who wants to focus on their [Skills]({{< ref "/rules/skills" >}}) and [Skill Categories]({{< ref "/rules/skill_categories" >}}) will first look at the [Skills]({{< ref "/rules/skills" >}}) list to determine what skills they wish to take. This may include reviewing the Combat, Magic, or Crafting sections to understand how these work. Once a player determines what skills they would like to have, they will usually then look that the lineage choices to find out which lineage has the most discounts or best [skills]({{< ref "/rules/skills" >}}) to complement their skill choices. After this the player will create a Persona and Backstory based on the [skills]({{< ref "/rules/skills" >}}) and lineage they have ultimately chosen. The player will end with creating the costuming and gear based on what they require from the previous steps.
 
 ### How to make a character when focusing on physical ability
 
@@ -73,7 +73,7 @@ A player needs to take into account their own physical abilities. If a player is
 
 ### How to make a character when focusing on costuming and gear
 
-A player will focus on costuming and gear that they already own if there are major budget issues. The player should focus on [Skills]({{< ref "/rules/skills" >}}), [Skill Categories]({{< ref "/rules/skill_categories" >}}), and Lineage based on the gear they already posses or that do not require gear. After this the player will create a Persona and Backstory based on the skills and lineage they have ultimately chosen. The player will end with creating the costuming and gear based on what they require from the previous steps.
+A player will focus on costuming and gear that they already own if there are major budget issues. The player should focus on [Skills]({{< ref "/rules/skills" >}}), [Skill Categories]({{< ref "/rules/skill_categories" >}}), and Lineage based on the gear they already posses or that do not require gear. After this the player will create a Persona and Backstory based on the [skills]({{< ref "/rules/skills" >}}) and lineage they have ultimately chosen. The player will end with creating the costuming and gear based on what they require from the previous steps.
 
 ## Code of Conduct
 
@@ -400,7 +400,7 @@ Characters gain 4 CP for attending an event (2CP for a One-Day). In addition, th
 
 #### Stamina
 
-Every character in Crestfallen starts the game with 5 ST (Stamina) and may purchase additional ST with their CP. A Character starts every game with their max ST and may use these ST to fuel skills according to their ST Cost. When purchasing [skills]({{< ref "/rules/skills" >}}) these ST Costs should be kept in mind. ST may be regained in many ways and is described in greater detail later in this document.
+Every character in Crestfallen starts the game with 5 ST (Stamina) and may purchase additional ST with their CP. A Character starts every game with their max ST and may use these ST to fuel [skills]({{< ref "/rules/skills" >}}) according to their ST Cost. When purchasing [skills]({{< ref "/rules/skills" >}}) these ST Costs should be kept in mind. ST may be regained in many ways and is described in greater detail later in this document.
 
 #### Energy
 
@@ -420,7 +420,7 @@ Costuming that is entirely in period grants a character a maximum of 10 body . T
 
 A character may wear armor, which protects their body from harm. To use armor, the character must purchase the ability to wear armor from the [general skill category]({{< ref "/rules/skill_categories/#general-skill-category" >}}) or some [lineage skill categories]({{< ref "/rules/lineage_skill_categories" >}}). A character may only use as much Armor as purchased through [skills]({{< ref "/rules/skills" >}}), though they may always wear armor that is worth more points than this. Armor is important in building immersion in our imaginary world. These props grant characters armor points after they have received a rating from a marshal prior to game start. New players should email pictures of their armor to staff prior to attending an event at [Crestfallenlarp@gmail.com](mailto:Crestfallenlarp@gmail.com).
 
-Armor grants a character a maximum of 40 armor points. There may be skills, spells, and items that grant armor exceeding these amounts. This is allowable within the system and will be judged appropriately by the staff during check in and throughout the course of events. A character gains 5 armor by covering most of a body area with armor made of/appearing as in period materials. A marshal may decide that the armor appears too modern or harms immersion and reduce this total to 2 for the body area. Body areas are 
+Armor grants a character a maximum of 40 armor points. There may be [skills]({{< ref "/rules/skills" >}}), spells, and items that grant armor exceeding these amounts. This is allowable within the system and will be judged appropriately by the staff during check in and throughout the course of events. A character gains 5 armor by covering most of a body area with armor made of/appearing as in period materials. A marshal may decide that the armor appears too modern or harms immersion and reduce this total to 2 for the body area. Body areas are 
 
 - Head
 - Front Torso
@@ -436,7 +436,7 @@ Armor grants a character a maximum of 40 armor points. There may be skills, spel
 
 ## Combat
 
-**Melee Damage –** Melee weapons may be used by any character. If the character is not [proficient]({{< ref "/rules/conditions/#proficiency" >}}), the weapon will deal 1 damage and may not benefit from any skills that increase the damage of that weapon. If the character is [proficient]({{< ref "/rules/conditions/#proficiency" >}}), a one handed weapon will deal 2 damage plus any skills that may add to the weapon. If the character is [proficient]({{< ref "/rules/conditions/#proficiency" >}}), a staff will deal 2 points of damage plus any skills that may add to the weapon. If the character is [proficient]({{< ref "/rules/conditions/#proficiency" >}}), all other two handed melee weapons will deal 4 points of damage. Damage may be altered with appropriate skills and/or item tags. Brawlers and Claws are one handed boffer weapons that are green or red in color and represent natural weapons such as claws, wings, tails or fists.
+**Melee Damage –** Melee weapons may be used by any character. If the character is not [proficient]({{< ref "/rules/conditions/#proficiency" >}}), the weapon will deal 1 damage and may not benefit from any [skills]({{< ref "/rules/skills" >}}) that increase the damage of that weapon. If the character is [proficient]({{< ref "/rules/conditions/#proficiency" >}}), a one handed weapon will deal 2 damage plus any skills that may add to the weapon. If the character is [proficient]({{< ref "/rules/conditions/#proficiency" >}}), a staff will deal 2 points of damage plus any [skills]({{< ref "/rules/skills" >}}) that may add to the weapon. If the character is [proficient]({{< ref "/rules/conditions/#proficiency" >}}), all other two handed melee weapons will deal 4 points of damage. Damage may be altered with appropriate skills and/or item tags. Brawlers and Claws are one handed boffer weapons that are green or red in color and represent natural weapons such as claws, wings, tails or fists.
 
 **Flurry Rule -** While taking part in melee combat, a combatant may swing their weapon and call damage a maximum of three times in rapid succession before resetting. This reset must be a short pause and may include stepping back or setting up defensively. Some [skills]({{< ref "/rules/skills" >}}) or items may allow characters to increase the number of swings they may make during the course of a flurry. If there is ever confusion regarding this, a marshall may be contacted to ensure the rules are being followed appropriately.
 
@@ -446,7 +446,7 @@ Armor grants a character a maximum of 40 armor points. There may be skills, spel
 
 **Turtling -** A character may not hide in a way where their head is the only valid target to attack. This includes hiding around doorways with no valid targets, using a shield to cover the entirety of a body, or similar tricks to prevent damage due to unsafe fighting conditions. 
 
-**Ranged Damage –** Ranged weapons may not be used unless the character is [proficient]({{< ref "/rules/conditions/#proficiency" >}}) in the weapons use. Thrown weapons will deal 1 damage plus any [skills]({{< ref "/rules/skills" >}}) that may add to the weapon. Bows and Crossbows will deal 2 damage plus any [skills]({{< ref "/rules/skills" >}}) that may add to the weapon. Damage may be altered with appropriate skills and/or item tags. *Please note that Firearms do not follow these rules and are discussed below.*
+**Ranged Damage –** Ranged weapons may not be used unless the character is [proficient]({{< ref "/rules/conditions/#proficiency" >}}) in the weapons use. Thrown weapons will deal 1 damage plus any [skills]({{< ref "/rules/skills" >}}) that may add to the weapon. Bows and Crossbows will deal 2 damage plus any [skills]({{< ref "/rules/skills" >}}) that may add to the weapon. Damage may be altered with appropriate [skills]({{< ref "/rules/skills" >}}) and/or item tags. *Please note that Firearms do not follow these rules and are discussed below.*
 
 **Firearms -** Using a firearm in Crestfallen is supposed to be difficult. The technology is new and evolving and should be roleplayed as such. A character must have [proficiency]({{< ref "/rules/conditions/#proficiency" >}}) in Firearms to use any dart based weapon. Additionally, a character must over embellish the act of aiming at a target for 3 seconds before calling damage and discharging the blaster. Firearms will deal “Unblocakable 5 Damage” and may not be used with any other [skills]({{< ref "/rules/skills" >}}) unless specifically noted. Firearms with different damage amounts and abilities may be created using the crafting system.
 
@@ -523,7 +523,7 @@ This spell causes the target to gain or remove the [Hex Condition]({{< ref "/rul
 
 **Energy Cost**: 1
 
-This spell causes the target to gain a [claw]({{< ref "/rules/conditions/#natural-weapon" >}}). (green weapon prop) that they are [proficient]({{< ref "/rules/conditions/#proficiency" >}}) with and swings 2 [damage]({{< ref "/rules/conditions/#damage" >}}). This claw may increase in [damage]({{< ref "/rules/conditions/#damage" >}}) with game skills that target Claws/Brawlers.
+This spell causes the target to gain a [claw]({{< ref "/rules/conditions/#natural-weapon" >}}). (green weapon prop) that they are [proficient]({{< ref "/rules/conditions/#proficiency" >}}) with and swings 2 [damage]({{< ref "/rules/conditions/#damage" >}}). This claw may increase in [damage]({{< ref "/rules/conditions/#damage" >}}) with game [skills]({{< ref "/rules/skills" >}}) that target Claws/Brawlers.
 
 #### Shatter 
 
@@ -576,11 +576,11 @@ A character recovers 1 Energy for every 30 minutes spent completing these activi
 
 ## Counted Actions
 
-Counted actions are generic actions or specific skills that take a longer amount of time to complete. Counted actions for skills are described in their entries. Most counted actions take 3 seconds and have a specific call in order to use them. Longer counted actions may not be counted out loud or have a call, but the character completing the action must track the duration of these actions. A counted action starts at the beginning of the count and only completes when the correct call or duration has completed. If the character doing the counted action takes damage, uses a game skill, uses a game spell, uses a magic item, or loses contact with the target, the counted action does not complete. 
+Counted actions are generic actions or specific skills that take a longer amount of time to complete. Counted actions for [skills]({{< ref "/rules/skills" >}}) are described in their entries. Most counted actions take 3 seconds and have a specific call in order to use them. Longer counted actions may not be counted out loud or have a call, but the character completing the action must track the duration of these actions. A counted action starts at the beginning of the count and only completes when the correct call or duration has completed. If the character doing the counted action takes damage, uses a game skill, uses a game spell, uses a magic item, or loses contact with the target, the counted action does not complete. 
 
 A counted action that harms a character, such as killing blow, is treated as an attack during the entirety of the count. As such, conditions that end on being attacked are ended during the beginning of the counted action, allowing the character to react.
 
-Below are a list of counted actions that are not tied to specific skills and that any character may do.
+Below are a list of counted actions that are not tied to specific [skills]({{< ref "/rules/skills" >}}) and that any character may do.
 
 **Carrying -** A character or characters may carry another character by placing one hand on each arm of the target and walking with them. If two characters are carrying a target or a character with [strength]({{< ref "/rules/skills/#strength " >}}) carries a target, they may choose to run if the target is physically able and willing to do so. The call for this is “I/we carry you 1, I/we carry you 2, I/we carry you 3” before moving. While moving, if anyone taking part in this action takes damage, the target is instantly dropped.
 
@@ -729,7 +729,7 @@ Completing either form of Surgery requires a percentile dice role on the Surgery
 
 ## Guilds and Governments
 
-Guilds and Governments are used to assist characters in their roleplay, resource management, and organization within the game. A Guild is a business tied to a skill found in the more roleplay intensive skill categories. These businesses include the Craft, Merchants, Research and Thieves Guilds. The only requirement to join a Guild is taking its appropriate skill. A Government is an organization run by the ruling members of a particular Lineage. The only requirement to join a Government is to be a member of that particular Lineage.
+Guilds and Governments are used to assist characters in their roleplay, resource management, and organization within the game. A Guild is a business tied to a skill found in the more roleplay intensive [skill categories]({{< ref "/rules/skill_categories" >}}). These businesses include the Craft, Merchants, Research and Thieves Guilds. The only requirement to join a Guild is taking its appropriate skill. A Government is an organization run by the ruling members of a particular Lineage. The only requirement to join a Government is to be a member of that particular Lineage.
 
 Other than the requirements for entry, Guilds and Governments function in a similar fashion. Each organization will have a folder found in the town hub. If a character meets the membership requirements, they will be allowed to have access to this folder. Characters may be members in multiple organizations, however, they may be limited on how far they may advance within multiple organizations. It should also be noted that advancement within an organization will NEVER give a character power over another character.
 
@@ -743,7 +743,7 @@ Each organization will have several jobs or modules that they would like their m
 
 #### Market Value Chart
 
-Each organization has a chart of items they are selling, as well as looking to purchase. This list may change from event to event. Only members of the appropriate organization may see this chart, unless the character has an additional skill (such as Going Rate) that grants access. This is a great way to stockpile some items or to make a profit selling items to the organization.
+Each organization has a chart of items they are selling, as well as looking to purchase. This list may change from event to event. Only members of the appropriate organization may see this chart, unless the character has an additional skill (such as [Going Rate]({{< ref "/rules/skills/#going-rate" >}})) that grants access. This is a great way to stockpile some items or to make a profit selling items to the organization.
 
 #### Rumors List
 
