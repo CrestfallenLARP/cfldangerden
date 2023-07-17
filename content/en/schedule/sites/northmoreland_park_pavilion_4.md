@@ -7,8 +7,8 @@ toc_hide: true
 ---
 
 - **Address**: 280 Markle Road, Apollo, PA 15613
-- **GPS**: USE THIS FOR DIRECTIONS!  [40°34'47.1"N 79°36'23.0"W - Google Maps](https://www.google.com/maps/place/40°34'47.1"N+79°36'23.0"W/@40.579759,-79.6069255,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x94bc061bf51dc1a!7e2!8m2!3d40.5797578!4d-79.6063767)
-- **Google Maps**: https://www.google.com/maps/place/Pavilion+%236/@40.579759,-79.6069255,19z/data=!4m5!3m4!1s0x8834bbce6a15c0f1:0x7380579395f570d!8m2!3d40.5796791!4d-79.6064432
+- **GPS**: USE THIS FOR DIRECTIONS!  [40°34'48.2"N 79°36'12.1"W](https://www.google.com/maps/place/40%C2%B034'48.2%22N+79%C2%B036'12.1%22W/@40.580057,-79.6040107,19z/data=!3m1!4b1!4m4!3m3!8m2!3d40.580056!4d-79.603367?entry=ttu)
+- **Google Maps**: https://goo.gl/maps/CjcKNJUNkthxAA7X6
 - **Website**: [Northmoreland Park | Westmoreland County, PA - Official Website](https://www.co.westmoreland.pa.us/736/Northmoreland-Park)
 - **Office Phone**: [(724) 830-3950](tel:724-830-3950)
 - **Campsite Map**: [Northmoreland-MAP-2020 (westmoreland.pa.us)](https://www.co.westmoreland.pa.us/DocumentCenter/View/1643/Northmoreland-MAP-2020?bidId=)
@@ -38,7 +38,7 @@ Take Route 66 North through Delmont to the intersection of Route 356 North. Foll
 
 ## Arriving at the Pavilion
 
-Northmoreland Park has multiple entrances which can cause confusion.  We highly suggest using the [GPS coordinates](https://www.google.com/maps/place/40°34'47.1"N+79°36'23.0"W/@40.579759,-79.6069255,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x94bc061bf51dc1a!7e2!8m2!3d40.5797578!4d-79.6063767) for directions to the exact pavilion. Most entrances will have signs giving directions to the pavilions.  Pavilion 6 can be found on the right hand side of the road after passing through the metal gates to block the main portion of the park over night.  There is a small sign and a driveway leading downward towards the parking area for this pavilion.  Check in takes place at this pavilion. 
+Northmoreland Park has multiple entrances which can cause confusion.  We highly suggest using the [GPS coordinates](https://www.google.com/maps/place/40°34'47.1"N+79°36'23.0"W/@40.579759,-79.6069255,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x94bc061bf51dc1a!7e2!8m2!3d40.5797578!4d-79.6063767) for directions to the exact pavilion. Most entrances will have signs giving directions to the pavilions.  Pavilion 4 can be found on the left hand side of the road after passing through the metal gates to block the main portion of the park over night as well as passing the water table, large children's playground, and many large pavilions.  There is a small sign and a parking area for this pavilion.  Check in takes place at this pavilion.  If you reach the roundabout, you have gone too far.
 
 ---
 
@@ -99,7 +99,7 @@ Local Hardware Store
 #### Valley Dairy Restaurant
 
 - **Address**: 315 Hyde Park Rd, Leechburg, PA 15656
-- **Phone:** [(724) 842-0361 ](tel:724-842-0361)
+- **Phone:** [(724) 236-9218 ](tel:724-236-9218)
 - **Hours**: 7AM - 8:30PM
 - **Distance from Camp**: 5 min (2.3 miles)
 - **Website**: https://www.valleydairy.net

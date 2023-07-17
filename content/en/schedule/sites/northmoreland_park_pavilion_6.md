@@ -99,7 +99,7 @@ Local Hardware Store
 #### Valley Dairy Restaurant
 
 - **Address**: 315 Hyde Park Rd, Leechburg, PA 15656
-- **Phone:** [(724) 842-0361 ](tel:724-842-0361)
+- **Phone:** [(724) 236-9218 ](tel:724-236-9218)
 - **Hours**: 7AM - 8:30PM
 - **Distance from Camp**: 5 min (2.3 miles)
 - **Website**: https://www.valleydairy.net
