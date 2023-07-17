@@ -8,15 +8,16 @@ toc_hide: true
 
 - **Address**: 64 Emerald Isle Lane Brockway PA 15824
 - **GPS**: 41.23726013155086, -78.80262932946086
-- **Google Maps**: 
+- **Google Maps**: https://www.google.com/maps/place/64+Emerald+Isle+Ln,+Brockway,+PA+15824/@41.2373843,-78.8023574,18.17z/data=!4m6!3m5!1s0x89ccfaf25ca99771:0x45d793ca288f6fa1!8m2!3d41.2371139!4d-78.8025207!16s%2Fg%2F11q9z1xk8g?entry=ttu
 - **Website**: [https://www.knottedpinesevents.com/](https://www.knottedpinesevents.com/)
 - **Office Phone**: [(814)503-0017](tel:814-503-0017)
-- **Email Address**: [contact@sequanota.com](mailto:contact@sequanota.com)
-- **Campsite Map**: [Trail Map](/camp_sequanota_trailmap.jpg)
-- **Video**: [https://www.youtube.com/channel/UC1Sj1r9mxcqem6Tu9dIAq1g](https://www.youtube.com/watch?v=bcycnxE5T2k)
+- **Email Address**: knottedpines.eventvenue@gmail.com
+- **Campsite Map**: 
+- **Video**: Entrance to Claddagh Hall https://www.youtube.com/watch?v=avvdS_nMTnY
+- **Video**: Fellowship of the Pines 2023 https://www.youtube.com/watch?v=Ehj0l3IWKv4
+- **New Article**: https://www.thecourierexpress.com/news/local/knotted-pines-offers-revamped-venue-space-at-familiar-brockway-location/article_661a3754-434e-11ed-bff7-c7584cc5d6bb.html
 - **facebook**: https://facebook.com/knottedpines
 - **pintrest**: https://www.pinterest.com/knottedpines
-- **Email:** [knottedpines.eventvenue@gmail.com](mailto:nottedpines.eventvenue@gmail.com)
 
 ---
 
