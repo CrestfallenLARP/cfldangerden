@@ -1,0 +1,78 @@
+{{ define "main" }}
+{{ .Render "content" }}
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ $event_pages := where $event_pages ".Params.Layout"  "IN" (slice "swap_meet" "discord_hangout" "one_day_adventure" "fellowship_of_the_pines" "one_day_tavern_excursion" "two_day_town_event" "playtest" )  }}
+
+<h2 id="upcoming_events">Upcoming Events</h2>
+
+
+{{ range  sort $event_pages ".Params.event_date" }}
+{{ $event_date := .Params.event_date | time }}
+{{- $gameend := $event_date.AddDate 0 0 2 -}}
+
+{{ $current_date := now | time }} 
+   {{ if (ge $event_date.Unix  $current_date.Unix) }} 
+
+       <p><a href="{{.Permalink}}">
+          {{- if eq .Params.Layout "discord_hangout" -}}<i class="fab fa-discord"></i>{{- end -}}
+          {{- if eq .Params.Layout "swap_meet" -}}<i class="fa fa-recycle"></i>{{- end -}}
+          {{- if eq .Params.Layout "one_day_adventure" -}}<i class="fa fa-hat-wizard"></i>{{- end -}}
+          {{- if eq .Params.Layout "one_day_tavern_excursion" -}}<i class="fa fa-beer"></i>{{ end -}}
+          {{- if eq .Params.Layout "two_day_town_event" -}}<i class="fa fa-dragon"></i>{{ end -}}
+          {{- if eq .Params.Layout "fellowship_of_the_pines" -}}<i class="fa fa-tree"></i>{{- end -}}
+          {{- if eq .Params.Layout "playtest" -}}<i class="fa fa-wrench"></i>{{- end -}}
+
+       <b> </b> 
+          {{- if eq .Params.Layout "discord_hangout" -}}(Discord Hangout) {{ end -}}
+          {{- if eq .Params.Layout "swap_meet" -}}(Swap Meet) {{ end -}}
+          {{- if eq .Params.Layout "one_day_adventure" -}}(One Day Adventure) {{ end -}}
+          {{- if eq .Params.Layout "one_day_tavern_excursion" -}}(One Day Tavern Excursion) {{ end -}}
+          {{- if eq .Params.Layout "two_day_town_event" -}}(Two Day Town Event) {{ end -}}
+          {{- if eq .Params.Layout "fellowship_of_the_pines" -}}(Fellowship of the Pines) {{ end -}}
+          {{- if eq .Params.Layout "playtest" -}}(Playtest) {{ end -}}
+
+          {{ $event_date.Format "January 02, 2006 (Monday)" }}
+               {{- if eq .Params.Layout "two_day_town_event" -}}<b> - </b>{{ $gameend.Format "January 02, 2006 (Monday)" }} {{ end -}}
+          {{- if .Title }} - {{ title  .Title }} {{ end}}</a>
+          {{- if .Params.tentative  -}} <b> Tentative Date Subject to Change </b>{{- end -}}
+       </p>
+   {{- end -}}
+{{- end -}}
+
+
+<h2 id="past_events">Past Events</h2>
+
+{{ range  sort $event_pages ".Params.event_date" "desc" }}
+{{ $event_date := .Params.event_date | time }}
+{{- $gameend := $event_date.AddDate 0 0 2 -}}
+
+
+{{ $current_date := now | time }} 
+   {{ if (lt $event_date.Unix  $current_date.Unix) }} 
+       <p><a href="{{.Permalink}}">
+          {{- if eq .Params.Layout "discord_hangout" -}}<i class="fab fa-discord"></i>{{- end -}}
+          {{- if eq .Params.Layout "swap_meet" -}}<i class="fa fa-recycle"></i>{{- end -}}
+          {{- if eq .Params.Layout "one_day_adventure" -}}<i class="fa fa-hat-wizard"></i>{{- end -}}
+          {{- if eq .Params.Layout "one_day_tavern_excursion" -}}<i class="fa fa-beer"></i>{{ end -}}
+          {{- if eq .Params.Layout "two_day_town_event" -}}<i class="fa fa-dragon"></i>{{ end -}}
+          {{- if eq .Params.Layout "fellowship_of_the_pines" -}}<i class="fa fa-tree"></i>{{- end -}}
+          {{- if eq .Params.Layout "playtest" -}}<i class="fa fa-wrench"></i>{{- end -}}
+
+       <b> </b> 
+          {{- if eq .Params.Layout "discord_hangout" -}}(Discord Hangout) {{ end -}}
+          {{- if eq .Params.Layout "swap_meet" -}}(Swap Meet) {{ end -}}
+          {{- if eq .Params.Layout "one_day_adventure" -}}(One Day Adventure) {{ end -}}
+          {{- if eq .Params.Layout "one_day_tavern_excursion" -}}(One Day Tavern Excursion) {{ end -}}
+          {{- if eq .Params.Layout "two_day_town_event" -}}(Two Day Town Event) {{ end -}}
+          {{- if eq .Params.Layout "fellowship_of_the_pines" -}}(Fellowship of the Pines) {{ end -}}
+          {{- if eq .Params.Layout "playtest" -}}(Playtest) {{ end -}}
+
+          {{ $event_date.Format "January 02, 2006 (Monday)" }}
+               {{- if eq .Params.Layout "two_day_town_event" -}}<b> - </b>{{ $gameend.Format "January 02, 2006 (Monday)" }} {{ end -}}
+          {{- if .Title }} - {{ title  .Title }} {{ end}}</a>
+          {{- if .Params.tentative  -}} <b> Tentative Date Subject to Change </b>{{- end -}}
+       </p>
+   {{- end -}}
+{{- end -}}
+
+{{ end }}

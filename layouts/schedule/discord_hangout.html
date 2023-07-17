@@ -1,0 +1,36 @@
+{{ define "main" }}
+{{- $event_date := .Params.event_date | time -}}
+<h1>Discord Hangout - {{ $event_date.Format "January 02, 2006 (Monday)" }} </h1>
+
+
+
+<p>Crestfallen holds Discord Hangouts on the first Tuesday of each month. The main purpose for these are to create a place where new or interested people can ask questions from players and staff outside of full events. While we have a rough agenda planned out, these get togethers are a great way to clear up confusion, help plan a character, and get to know the community before even showing up to an event. Our goal is to make people comfortable with the people and concepts of the game before committing to the travel and costuming of One and Two Day in person events.</p>
+
+</p>These hangouts are out of game discussions only, though we may practice particular roleplaying elements at the request of players taking part.<p>
+
+<p><b>Cost</b>: None</p>
+
+<p><b>Preregistration Deadline</b>: None - However if players wish to gain benefits, the players real name and email will be required.</p>
+
+
+<p><b>Start Time</b>: {{if .Params.start_time }}{{.Params.start_time}}{{else}} 4:30 PM EST{{end}}</p>
+
+<p><b>End Time</b>: {{if .Params.end_time }}{{.Params.start_time}}{{else}} 6:30 PM EST{{end}}</p>
+
+<p><b>Character Benefits</b>: 5 Leaves (In Game Money) and 1 Basic Resource per person. Additionally a raffle will be held for every 10 people that attend for 5 Basic Resources. These are In Game items only and hold no real world value.</p>
+<hr>
+<p>To join discord click <a href="https://www.crestfallenlarp.com/discord">here</a>.</p>
+
+<p>Remember to adhere to the <a href="/rules/#code-of-conduct" >Code of Conduct</a></p>
+{{if  .Params.agenda }}
+<h2>Agenda</h2>
+{{ .Params.agenda | markdownify }}
+{{ end }}
+
+{{if  .Params.minutes }}
+<h2>minutes</h2>
+{{ .Params.minutes | markdownify }}
+{{ end }}
+{{ .Render "content" }}
+
+{{ end }}
