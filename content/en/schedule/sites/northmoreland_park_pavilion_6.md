@@ -24,7 +24,7 @@ toc_hide: true
 
 ### From Points East & West
 
-![Park Sign](https://www.co.westmoreland.pa.us/ImageRepository/Document?documentID=9043)
+![Park Sign](https://crestfallenlarp.com/images/sites/northmoreland_park_entrance.jpg)
 
 Take Route 22 towards Delmont and turn onto Route 66 North. Continue on 66 North to the intersection with 356 North. Turn left onto Route 356 North. Northmoreland Park is three miles north on Route 356.
 
