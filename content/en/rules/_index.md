@@ -612,7 +612,11 @@ Limited Counted Actions follow the same rules as counted actions but are usually
 
 **Leaves –** These are the main money source within Crestfallen. Leaves were originally created through an Alchemical and Enchantment technique that solidified Essence inside of a trees leaves. This made them highly sought after. 100 leaves may be turned in during the course of an event to gain 1 bonus CP or 500 leaves may be turning in once a year to gain 1 bonus Essence. Please note that players are restricted to how many bonus CP they may gain during the course of an event.
 
-**Resources –** These are in game items that allow characters to build tagged items, develop new designs, and maintain tagged items that are starting to deteriorate. 
+**Resources –** These are in game items that allow characters to build tagged items, develop new designs, and maintain tagged items that are starting to deteriorate. Get them either through gathering, harvesting, or they can be found as treasure. The basic crafting resources can be used in any of the crafting types interchangeably. These are common components. Used to make whatever your whatever you are creating according to the recipe. 
+
+- basic - A specific type of basic component used in many recipes. Interchangeable. 
+- common
+- rare - rare components or the ones that are very very specific. 
 
 **Essence -** This is the amount of life force found within the character at the time. This can be used to survive a character death, help bring another character back to life, fuel magic in unexpected ways, to infuse crafted items and more.
 

@@ -497,7 +497,7 @@ This skill allows a character to craft weapons, armor, and similar goods using r
 
 **Skill Categories**: [Craftsman]({{< ref "/rules/skill_categories/#craftsman-skill-category" >}}), [Hauflin Lineage]({{< ref "/rules/lineage_skill_categories/#hauflin-lineage-skill-category" >}})
 
-This skill allows a character to gather resources for one of the three main crafting skills. The character must spend 30 minutes acting out gathering these resources however they wish. Examples include, but are not limited to: farming, mining, logging, and foraging. Additionally, players may use this time to gather loose darts, spell ammo, litter, and lost items to keep the game site clean and organized. Following this time period, the character will return to the gathering hall to make a percentile dice role to determine the rarity and amount of resources found. The amount of time and roll may be modified by several factors but will be clearly defined every event prior to the dice roll.
+This skill allows a character to gather resources for one of the three main crafting skills. The character must spend 30 minutes acting out gathering these resources however they wish. Examples include, but are not limited to: farming, mining, logging, and foraging. Additionally, players may use this time to gather loose darts, spell ammo, litter, and lost items to keep the game site clean and organized. Following this time period, the character will return to the gathering hall to make a percentile dice role to determine the rarity and amount of resources found. The amount of time and roll may be modified by several factors but will be clearly defined every event prior to the dice roll. There is one resule on the chart "FIne" that details accidentally having gone gathering into a protected place such as a reservation or things of that. You get one basic. Resource that you can keep from that, but You've gone into like this protected area so you can either pay a fine. Because you accidentally wandered in that area and keep the item, you can return the item. 
 
 {{< tabpane text=true  >}}
   {{% tab header="**Danger Level**:" disabled=true /%}}
@@ -505,7 +505,7 @@ This skill allows a character to gather resources for one of the three main craf
 
 | Percentage Rolled | Items Found                       |
 | ------- | --------------------------------- |
-| 00-05%  | Fine                              |
+| 00-05%  | Fine + 1 Basic                   |
 | 06-10%  | 1 Basic                           |
 | 11-15%  | 2 Basic                           |
 | 16-20%  | 3 Basic                           |
@@ -523,22 +523,22 @@ This skill allows a character to gather resources for one of the three main craf
   {{< /tab >}}
   {{% tab header="2" lang="en" %}}
 
-| Percentage Rolled | Items Found             |
-| ------- | --------------------------------- |
-| 00-05%  | Fine                              |
-| 06-10%  | 1 Basic                           |
-| 11-15%  | 2 Basic                           |
-| 16-20%  | 3 Basic                           |
-| 21-25%  | 4 Basic                           |
-| 25-30%  | 5 Basic                           |
-| 31-40%  | 1 Common                          |
-| 41-50%  | 2 Common                          |
-| 51-60%  | 3 Common                          |
-| 61-70%  | 4 Common                          |
-| 71-80%  | 5 Common                          |
-| 81-90%  | 5 Common + 5 Basic                |
-| 91-100% | 5 Common + 5 Basic + 1 Rare Basic |
-| 98-100% | 1 Rare+                           |
+| Percentage Roll | Items Found                       |
+| --------------- | --------------------------------- |
+| 00-10%          | Fine                              |
+| 11-20%          | 1 Basic                           |
+| 21-30%          | 2 Basic                           |
+| 31-40%          | 3  Basic                          |
+| 41-50%          | 4 Basic                           |
+| 51-60%          | 5 Basic                           |
+| 61-65%          | 1 Common                          |
+| 66-70%          | 2 Common                          |
+| 71-75%          | 3 Common                          |
+| 76-80%          | 4 Common                          |
+| 81-85%          | 5 Common                          |
+| 86-90%          | 5 Common + 5 Basic                |
+| 91-100%         | 5 Common + 5 Basic + 1 Rare Basic |
+| 98-100%         | 1 Rare+                           |
 
  {{< /tab >}}
   {{% tab header="3" lang="en" %}}
@@ -568,7 +568,7 @@ This skill allows a character to gather resources for one of the three main craf
 | 00-20%          | Fine                              |
 | 21-30%          | 1 Basic                           |
 | 31-40%          | 2 Basic                           |
-| 41-50%          | 3 Basic                          |
+| 41-50%          | 3 Basic                           |
 | 51-60%          | 4 Basic                           |
 | 61-70%          | 5 Basic                           |
 | 71-75%          | 1 Common                          |
