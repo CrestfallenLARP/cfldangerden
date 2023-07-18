@@ -1549,13 +1549,55 @@ This skill allows a character to attempt surgery on a target.
 
 ### Surgery Chart
 
-| Danger Level --><br />Success Rate                  | 1       | 2       | 3       | 4       |
-| --------------------------------------------------- | ------- | ------- | ------- | ------- |
-| Failure - Character Dies                            | 00-05%  | 00-05%  | 00-05%  | 00-10%  |
-| Failure - Dying - Stamina                           | 06-15%  | 06-15%  | 06-20%  | 11-25%  |
-| Success                                             | 16-75%  | 16-75%  | 21-80%  | 26-85%  |
-| Success + Stamina                                   | 76-90%  | 76-90%  | 81-90%  | 86-95%  |
-| Succeess + Stamina + Surgery ST returned to surgeon | 91-100% | 91-100% | 91-100% | 96-100% |
+{{< tabpane text=true  >}}
+  {{% tab header="**Danger Level**:" disabled=true /%}}
+  {{% tab header="1" lang="en" %}}
+
+| die roll | result                                              |
+| -------- | --------------------------------------------------- |
+| 00-05%   | Failure - Character Dies                            |
+| 06-15%   | Failure - Dying - Stamina                           |
+| 16-75%   | Success                                             |
+| 76-90%   | Success + Stamina                                   |
+| 91-100%  | Succeess + Stamina + Surgery ST returned to surgeon |
+
+  {{< /tab >}}
+  {{% tab header="2" lang="en" %}}
+
+| die roll | result                                              |
+| -------- | --------------------------------------------------- |
+| 00-05%   | Failure - Character Dies                            |
+| 06-15%   | Failure - Dying - Stamina                           |
+| 16-75%   | Success                                             |
+| 76-90%   | Success + Stamina                                   |
+| 91-100%  | Succeess + Stamina + Surgery ST returned to surgeon |
+
+ {{< /tab >}}
+  {{% tab header="3" lang="en" %}}
+
+| die roll | result                                              |
+| -------- | --------------------------------------------------- |
+| 00-05%   | Failure - Character Dies                            |
+| 06-20%   | Failure - Dying - Stamina                           |
+| 21-80%   | Success                                             |
+| 81-90%   | Success + Stamina                                   |
+| 91-100%  | Succeess + Stamina + Surgery ST returned to surgeon |
+
+  {{% /tab %}}
+  {{% tab header="4" lang="en" %}}
+
+| die roll | result                                              |
+| -------- | --------------------------------------------------- |
+| 00-10%   | Failure - Character Dies                            |
+| 11-25%   | Failure - Dying - Stamina                           |
+| 26-85%   | Success                                             |
+| 86-95%   | Success + Stamina                                   |
+| 96-100%  | Succeess + Stamina + Surgery ST returned to surgeon |
+
+  {{% /tab %}}
+{{< /tabpane >}}
+
+
 
 ## Technology Crafting#
 
