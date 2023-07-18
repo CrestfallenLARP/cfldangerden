@@ -499,6 +499,90 @@ This skill allows a character to craft weapons, armor, and similar goods using r
 
 This skill allows a character to gather resources for one of the three main crafting skills. The character must spend 30 minutes acting out gathering these resources however they wish. Examples include, but are not limited to: farming, mining, logging, and foraging. Additionally, players may use this time to gather loose darts, spell ammo, litter, and lost items to keep the game site clean and organized. Following this time period, the character will return to the gathering hall to make a percentile dice role to determine the rarity and amount of resources found. The amount of time and roll may be modified by several factors but will be clearly defined every event prior to the dice roll.
 
+{{< tabpane text=true  >}}
+  {{% tab header="**Danger Level**:" disabled=true /%}}
+  {{% tab header="1" lang="en" %}}
+
+| Percentage Rolled | Items Found                       |
+| ------- | --------------------------------- |
+| 00-05%  | Fine                              |
+| 06-10%  | 1 Basic                           |
+| 11-15%  | 2 Basic                           |
+| 16-20%  | 3 Basic                           |
+| 21-25%  | 4 Basic                           |
+| 25-30%  | 5 Basic                           |
+| 31-40%  | 1 Common                          |
+| 41-50%  | 2 Common                          |
+| 51-60%  | 3 Common                          |
+| 61-70%  | 4 Common                          |
+| 71-80%  | 5 Common                          |
+| 81-90%  | 5 Common + 5 Basic                |
+| 91-100% | 5 Common + 5 Basic + 1 Rare Basic |
+| 98-100% | 1 Rare+                           |
+
+  {{< /tab >}}
+  {{% tab header="2" lang="en" %}}
+
+| Percentage Rolled | Items Found             |
+| ------- | --------------------------------- |
+| 00-05%  | Fine                              |
+| 06-10%  | 1 Basic                           |
+| 11-15%  | 2 Basic                           |
+| 16-20%  | 3 Basic                           |
+| 21-25%  | 4 Basic                           |
+| 25-30%  | 5 Basic                           |
+| 31-40%  | 1 Common                          |
+| 41-50%  | 2 Common                          |
+| 51-60%  | 3 Common                          |
+| 61-70%  | 4 Common                          |
+| 71-80%  | 5 Common                          |
+| 81-90%  | 5 Common + 5 Basic                |
+| 91-100% | 5 Common + 5 Basic + 1 Rare Basic |
+| 98-100% | 1 Rare+                           |
+
+ {{< /tab >}}
+  {{% tab header="3" lang="en" %}}
+
+| Percentage Roll | Items Found                       |
+| --------------- | --------------------------------- |
+| 00-15%          | Fine                              |
+| 16-25%          | 1 Basic                           |
+| 26-35%          | 2 Basic                           |
+| 36-45%          | 3 Basic                          |
+| 46-55%          | 4 Basic                           |
+| 56-65%          | 5 Basic                           |
+| 66-70%          | 1 Common                          |
+| 71-75%          | 2 Common                          |
+| 76-80%          | 3 Common                          |
+| 81-85%          | 4 Common                          |
+| 86-90%          | 5 Common                          |
+| 91-95%          | 5 Common + 5 Basic                |
+| 96-100%         | 5 Common + 5 Basic + 1 Rare Basic |
+| 98-100%         | 1 Rare+                           |
+
+  {{% /tab %}}
+  {{% tab header="4" lang="en" %}}
+
+| Percentage Roll | Items Found                       |
+| --------------- | --------------------------------- |
+| 00-20%          | Fine                              |
+| 21-30%          | 1 Basic                           |
+| 31-40%          | 2 Basic                           |
+| 41-50%          | 3 Basic                          |
+| 51-60%          | 4 Basic                           |
+| 61-70%          | 5 Basic                           |
+| 71-75%          | 1 Common                          |
+| 76-80%          | 2 Common                          |
+| 81-85%          | 3 Common                          |
+| 86-90%          | 4 Common                          |
+| 91-94%          | 5 Common                          |
+| 95-98%          | 5 Common + 5 Basic                |
+| 99-100%         | 5 Common + 5 Basic + 1 Rare Basic |
+| 98-100%         | 1 Rare+                           |
+
+  {{% /tab %}}
+{{< /tabpane >}}
+
 ### Gathering Chart
 
 | Danger Level --><br />Items Found | 1       | 2       | 3       | 4       |
