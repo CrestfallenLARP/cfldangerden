@@ -499,6 +499,8 @@ This skill allows a character to craft weapons, armor, and similar goods using r
 
 This skill allows a character to gather resources for one of the three main crafting skills. The character must spend 30 minutes acting out gathering these resources however they wish. Examples include, but are not limited to: farming, mining, logging, and foraging. Additionally, players may use this time to gather loose darts, spell ammo, litter, and lost items to keep the game site clean and organized. Following this time period, the character will return to the gathering hall to make a percentile dice role to determine the rarity and amount of resources found. The amount of time and roll may be modified by several factors but will be clearly defined every event prior to the dice roll. There is one resule on the chart "FIne" that details accidentally having gone gathering into a protected place such as a reservation or things of that. You get one basic. Resource that you can keep from that, but You've gone into like this protected area so you can either pay a fine. Because you accidentally wandered in that area and keep the item, you can return the item. 
 
+### Gathering Chart
+
 {{< tabpane text=true  >}}
   {{% tab header="**Danger Level**:" disabled=true /%}}
   {{% tab header="1" lang="en" %}}
@@ -583,24 +585,8 @@ This skill allows a character to gather resources for one of the three main craf
   {{% /tab %}}
 {{< /tabpane >}}
 
-### Gathering Chart
 
-| Danger Level --><br />Items Found | 1       | 2       | 3       | 4       |
-| --------------------------------- | ------- | ------- | ------- | ------- |
-| Fine                              | 00-05%  | 00-10%  | 00-15%  | 00-20%  |
-| 1 Basic                           | 06-10%  | 11-20%  | 16-25%  | 21-30%  |
-| 2 Basic                           | 11-15%  | 21-30%  | 26-35%  | 31-40%  |
-| 3  Basic                          | 16-20%  | 31-40%  | 36-45%  | 41-50%  |
-| 4 Basic                           | 21-25%  | 41-50%  | 46-55%  | 51-60%  |
-| 5 Basic                           | 25-30%  | 51-60%  | 56-65%  | 61-70%  |
-| 1 Common                          | 31-40%  | 61-65%  | 66-70%  | 71-75%  |
-| 2 Common                          | 41-50%  | 66-70%  | 71-75%  | 76-80%  |
-| 3 Common                          | 51-60%  | 71-75%  | 76-80%  | 81-85%  |
-| 4 Common                          | 61-70%  | 76-80%  | 81-85%  | 86-90%  |
-| 5 Common                          | 71-80%  | 81-85%  | 86-90%  | 91-94%  |
-| 5 Common + 5 Basic                | 81-90%  | 86-90%  | 91-95%  | 95-98%  |
-| 5 Common + 5 Basic + 1 Rare Basic | 91-100% | 91-100% | 96-100% | 99-100% |
-| 1 Rare+                           | 98-100% | 98-100% | 98-100% | 98-100% |
+
 
 Rare increases by 2% each event a rare is not found.
 
