@@ -63,6 +63,10 @@ All players who register on or before this date get 1 CP towards their character
 <p><b>Food</b>: {{ if .Params.food }} {{ .Params.food }} {{ else }} Not provided. Please bring a lunch or plan on getting food directly after. We will try to get food as a group somewhere local if cleanup and offsite occurs quickly.{{ end }}</p>
 
 <p><b>Event Survey</b>: Available {{ $event_date.Format "January 02, 2006 (Monday)" }} thru {{ $survey_deadline.Format "January 02, 2006 (Monday)" }}.</p>
-{{ .Render "content" }}
+{{ if  .Params.teaser }}
+<h2>Teaser</h2>
+{{ .Params.teaser | markdownify }}
+{{ end }} 
+
 
 {{ end }}
