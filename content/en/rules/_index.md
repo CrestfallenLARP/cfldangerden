@@ -612,11 +612,11 @@ Limited Counted Actions follow the same rules as counted actions but are usually
 
 **Leaves –** These are the main money source within Crestfallen. Leaves were originally created through an Alchemical and Enchantment technique that solidified Essence inside of a trees leaves. This made them highly sought after. 100 leaves may be turned in during the course of an event to gain 1 bonus CP or 500 leaves may be turning in once a year to gain 1 bonus Essence. Please note that players are restricted to how many bonus CP they may gain during the course of an event.
 
-**Resources –** These are in game items that allow characters to build tagged items, develop new designs, and maintain tagged items that are starting to deteriorate. Get them either through gathering, harvesting, or they can be found as treasure. The basic crafting resources can be used in any of the crafting types interchangeably. These are common components. Used to make whatever your whatever you are creating according to the recipe. 
+**Resources –** These are in game items that allow characters to build tagged items, develop new designs, and maintain tagged items that are starting to deteriorate. These are acquired through gathering, harvesting, stockpiles, treasure boxes or trade. Resources are broken into three categories.
 
-- basic - A specific type of basic component used in many recipes. Interchangeable. 
-- common
-- rare - rare components or the ones that are very very specific. 
+- Basic - These resources are common items that are used in the creation of all items, regardless of type.  These may be used to make basic build items, fuel items, and are the easiest to acquire.
+- Common - There are three common resources; alchemy, forging, and enchanting.  These may only be used in their respective crafts and are the mid tier of resources.  These can be used in place of basic resources, however, this will not change the quality of the item crafted.  These resources are required to make an item of the crafting augmentation tier.
+- Rare - Rare components come in four forms; basic, alchemy, forging, and enchanting.  Rare basic resources may be used in the place of any basic resource, but due to its special nature, will augment the item being crafted based on what the specific resource is.  Alchemy, forging, and enchanting rare resources all have special qualities and will augment the item being crafted based on what the specific resource is.  These resources can be used in place of basic or common resources, but will only have augmentations if the crafter has the crafting mastery skill. These resources are required to make an item of the crafting mastery tier.  
 
 **Essence -** This is the amount of life force found within the character at the time. This can be used to survive a character death, help bring another character back to life, fuel magic in unexpected ways, to infuse crafted items and more.
 
