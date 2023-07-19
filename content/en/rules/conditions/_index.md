@@ -155,7 +155,7 @@ The target of this condition becomes irrationally scared of the character or cre
 
 **Valid Targets**: Character with 0 Essence, Creature with 0 Essence
 
-The target of this condition becomes a sentient undead with their own thoughts and decision-making abilities. Greater Undead are healed by all harm conditions and harmed by all heal conditions.
+The target of this condition becomes a sentient undead with their own thoughts and decision-making abilities. Greater Undead are healed by all [harm]({{< ref "#harmharming" >}}) conditions and harmed by all [heal]({{< ref "#healhealing" >}}) conditions.
 
 ## Harm/Harming 
 
@@ -179,7 +179,7 @@ The target of this condition is healed by the amount said along with it. There a
 
 **Valid Targets**: Character, Creature
 
-The target of this condition takes double the damage from all sources until it is removed. This does not have an effect on healing in any way.
+The target of this condition takes double the [damage]({{< ref "#damage" >}}) from all sources until it is removed. This does not have an effect on [healing]({{< ref "#healhealing" >}}) in any way.
 
 ## Hidden 
 
@@ -307,7 +307,7 @@ The target of this condition is unconscious due to damage and retains no sensory
 
 **Valid Targets**: Character with [Dead]({{< ref "#dead" >}}) Condition, Creature with [Dead]({{< ref "#dead" >}}) Condition
 
-The target of this condition becomes a mindless undead without their own decision-making abilities. Undead are healed by all  [harm]({{< ref "#harm" >}})  conditions and harmed by all [heal]({{< ref "#heal" >}})  conditions. Undead have the  [Dominate]({{< ref "#dominate" >}})  condition and can be controlled by greater undead. Undead will follow the orders of its creator if there is a discrepancy in orders.
+The target of this condition becomes a mindless undead without their own decision-making abilities. Undead are healed by all [harm]({{< ref "#harmharming" >}})  conditions and harmed by all [heal]({{< ref "#heal" >}}) conditions. Undead have the  [Dominate]({{< ref "#dominate" >}}) condition and can be controlled by [greater undead]({{< ref "#greater-undead" >}}). Undead will follow the orders of its creator if there is a discrepancy in orders.
 
 ## Voice 
 
