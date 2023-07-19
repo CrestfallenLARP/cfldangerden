@@ -99,7 +99,7 @@ The target of this condition is lifeless and retains no sensory knowledge of any
 
 **Valid Targets**: Armor, Claw, Item, Limb, Shield, Weapon
 
-The target item is destroyed and cannot be repaired. If the target is a basic item, it should be removed from the character sheet as soon as possible. If the target item is a common or rare craft item, then all durability must be removed from the tag, but it may be fixed with the [maintenance#]({{< ref "/rules/skills/#maintenance" >}}) skill or rebuilt with its full craft cost.  Claws and Limbs targeted with this condition are treated as if they have the [borken]({{< ref "#broken-break" >}}) condition and may be fixed by medical training augmentation#. (No hopping while in combat for player safety please).
+The target item is destroyed and cannot be repaired. If the target is a basic item, it should be removed from the character sheet as soon as possible. If the target item is a common or rare craft item, then all durability must be removed from the tag, but it may be fixed with the [maintenance#]({{< ref "/rules/skills/#maintenance" >}}) skill or rebuilt with its full craft cost.  Claws and Limbs targeted with this condition are treated as if they have the [broken]({{< ref "#broken-break" >}}) condition and may be fixed by [medical training augmentation#]({{< ref "/rules/skills/#medical-training-augmentation" >}}). (No hopping while in combat for player safety please).
 
 ## Distracted 
 
@@ -291,7 +291,7 @@ The target of this condition is noticeable in game as a spirit but cannot be int
 
 **Valid Targets**:  Armor, Character, Creature, Item, Shield, Weapon
 
-The target of this condition must take the effect of any damage or condition attached to it when struck with a weapon blow or ranged projectile, regardless of blocking with an item, shield, or weapon.  This damage still damages armor first and body second.  Resist calls may still negate unblockable conditions.
+The target of this condition must take the effect of any damage or condition attached to it when struck with a weapon blow or ranged projectile, regardless of blocking with an item, shield, or weapon.  This damage still damages armor first and body second. [Resist]({{< ref "#resist" >}})  calls may still negate unblockable conditions.
 
 ## Unconscious 
 
@@ -307,7 +307,7 @@ The target of this condition is unconscious due to damage and retains no sensory
 
 **Valid Targets**: Character with [Dead]({{< ref "#dead" >}}) Condition, Creature with [Dead]({{< ref "#dead" >}}) Condition
 
-The target of this condition becomes a mindless undead without their own decision-making abilities. Undead are healed by all harm conditions and harmed by all heal conditions. Undead have the dominate condition and can be controlled by greater undead. Undead will follow the orders of its creator if there is a discrepancy in orders.
+The target of this condition becomes a mindless undead without their own decision-making abilities. Undead are healed by all  [harm]({{< ref "#harm" >}})  conditions and harmed by all [heal]({{< ref "#heal" >}})  conditions. Undead have the  [Dominate]({{< ref "#dominate" >}})  condition and can be controlled by greater undead. Undead will follow the orders of its creator if there is a discrepancy in orders.
 
 ## Voice 
 
