@@ -1006,7 +1006,7 @@ This skill allows a character to deal 1 additional point of [damage]({{< ref "/r
 
 **Skill Categories**: [Unarmed Combat]({{< ref "/rules/skill_categories/#unarmed-combat-skill-category" >}})
 
-This skill allows a character to ignore one condition that is currently active on their character. To use this skill, a character must call “Pain Tolerance” and acting out the blocking out pain or somehow overcoming the condition for 3 seconds.  This skill lasts for the duration of a [battle]({{< ref "/rules/conditions/#battle" >}}) and upon its end, the condition returns to the character.
+This skill allows a character to ignore one condition that is currently active on their character. To use this skill, a character must call “Pain Tolerance” and act out the blocking of pain or somehow overcoming the condition for 3 seconds.  This skill lasts for the duration of a [battle]({{< ref "/rules/conditions/#battle" >}}) and upon its end, the condition returns to the character.  This skill may be used to overcome the following; berserk, bleed, broken (limb), charmed, dazed, destroyed (limb), distracted, dominate, dying (does not stop dying count), fear, hex, poisoned, repel, silenced, sleeping, slowed, unconscious, and weakness.
 
 ## Parry
 
