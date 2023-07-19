@@ -75,7 +75,7 @@ The target must fall prone or drop to one knee. During this time the target may 
 
 **Valid Targets**: Character, Creature
 
-The target of this conditions takes the amount of damage said along with it. Taking damage should be acted out.  If a player takes enough damage to lose all armor and body points, they enter the dying condition.
+The target of this conditions takes the amount of damage said along with it. Taking damage should be acted out.  If a player takes enough damage to lose all armor and body points, they gain the dying condition.
 
 ## Dazed 
 
