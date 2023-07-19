@@ -56,19 +56,15 @@ Local dollar store
 
 #### Ace Hardware of Brockway
 
+
 - **Address**: 461 Main St, Brockway, PA 15824
-
-- **Hours**: 7AM - 7PM Monday thru Friday, 7AM - 6PM Saturday, 10AM - 4 PM Sunday
-
-- **Phone**: [(814) 299-5506](tel:814-299-5506)
-
-- **Distance from site**: 1.7 miles (4 minutes)
-
-- **Website**: https://www.stanfordhome.com/
-
+- **Phone**: [(814) 299-5506](tel: 814-299-5506)
+- **Hours:** 7AM - 7PM Monday thru Friday, 7AM - 6PM Saturday, 10AM - 4PM Sunday
+- **Website:** [Ace Hardware of Brockway](http://www.acehardware.com/store-details/18367?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=18367)
+- **Distance from site:** 1.7 miles (4 minutes)
 - **Google Maps:** [Ace Hardware of Brockway - Google Maps](https://www.google.com/maps/place/Ace+Hardware+of+Brockway/@41.2493262,-78.8008832,17z/data=!3m1!4b1!4m6!3m5!1s0x89ccfafea6182f79:0x9d36b6e1d74da06e!8m2!3d41.2493222!4d-78.7983083!16s%2Fg%2F1td0zfyt?authuser=1&entry=ttu)
 
-Local hardware store
+Local dollar store
 
 ---
 
@@ -166,11 +162,11 @@ Most auto repair businesses are closed on Sundays.  The following are still open
 
 #### Penn Highlands Brookville Hospital 
 
-- **Address**: 2775 Mosside Blvd, Monroeville, PA 15146
-- **Phone**: [(412) 357-3000](tel:412-357-3000)
+- **Address**: 100 Hospital Rd, Brookville, PA 15825
+- **Phone**: [(814) 849-2312](tel:814-849-2312)
 - **Hours**: 24h
-- **Distance from Camp**: 27 min (17 miles)
-- **Google Maps**:https://goo.gl/maps/DjdNq4F2BF36JUt77
+- **Distance from site**: 27 min (17 miles)
+- **Google Maps**: [Punxsutawney Area Hospital - Google Maps](https://www.google.com/maps/place/Punxsutawney+Area+Hospital/@40.9611302,-79.002393,17z/data=!3m2!4b1!5s0x89cc9636f48deda9:0xc56e2936f7a6e138!4m6!3m5!1s0x89cc9636f6f2798f:0x22ba0b67e324f582!8m2!3d40.9611262!4d-78.9998181!16s%2Fg%2F1tk8d2h_?authuser=1&entry=ttu)
 
 #### WellNow Urgent Care
 
@@ -179,7 +175,7 @@ Most auto repair businesses are closed on Sundays.  The following are still open
 - **Website**: [medexpress.com](https://www.medexpress.com)
 - **Hours**: 8am - 8pm
 - **Distance from Camp**: 20 min (11.8 miles)
-- **Google Maps**: https://goo.gl/maps/7UKaN1tkMK2P3gEW8
+- **Google Maps**: [Punxsutawney Area Hospital - Google Maps](https://www.google.com/maps/place/Punxsutawney+Area+Hospital/@40.9611302,-79.002393,17z/data=!3m2!4b1!5s0x89cc9636f48deda9:0xc56e2936f7a6e138!4m6!3m5!1s0x89cc9636f6f2798f:0x22ba0b67e324f582!8m2!3d40.9611262!4d-78.9998181!16s%2Fg%2F1tk8d2h_?authuser=1&entry=ttu)
 
 #### Qcare Dubois
 
@@ -188,7 +184,7 @@ Most auto repair businesses are closed on Sundays.  The following are still open
 - **Website**: [medexpress.com](https://www.medexpress.com)
 - **Hours**: 8am - 8pm
 - **Distance from Camp**: 24 min (13.9 miles)
-- **Google Maps**: https://goo.gl/maps/ChNbuuUMpshkF3w4A
+- **Google Maps**: [Punxsutawney Area Hospital - Google Maps](https://www.google.com/maps/place/Punxsutawney+Area+Hospital/@40.9611302,-79.002393,17z/data=!3m2!4b1!5s0x89cc9636f48deda9:0xc56e2936f7a6e138!4m6!3m5!1s0x89cc9636f6f2798f:0x22ba0b67e324f582!8m2!3d40.9611262!4d-78.9998181!16s%2Fg%2F1tk8d2h_?authuser=1&entry=ttu)
 
 #### Qcare Brookville
 
@@ -197,7 +193,7 @@ Most auto repair businesses are closed on Sundays.  The following are still open
 - **Hours**:  7am - 8pm Monday thru Friday, 8am - 6pm Saturday thru Sunday
 - **Distance from Camp**:  23 min (14.4 miles)
 - **Website**: http://www.icaremedical.com/
-- **Google Maps:** https://goo.gl/maps/v8ZHWtee37nwDpBH9
+- **Google Maps:** [Punxsutawney Area Hospital - Google Maps](https://www.google.com/maps/place/Punxsutawney+Area+Hospital/@40.9611302,-79.002393,17z/data=!3m2!4b1!5s0x89cc9636f48deda9:0xc56e2936f7a6e138!4m6!3m5!1s0x89cc9636f6f2798f:0x22ba0b67e324f582!8m2!3d40.9611262!4d-78.9998181!16s%2Fg%2F1tk8d2h_?authuser=1&entry=ttu)
 
 ### Pharmacy
 
@@ -207,7 +203,7 @@ Most auto repair businesses are closed on Sundays.  The following are still open
 - **Phone**: [(724) 478-2500 ](tel:724-478-2500)
 - **Hours**: 8am - 9pm (Subject to change. Please call)
 - **Distance from Camp**: 8 min (3.7 miles)
-- **Google Maps:** https://goo.gl/maps/R2CgPaGmPpUJX8E4A
+- **Google Maps:** [Punxsutawney Area Hospital - Google Maps](https://www.google.com/maps/place/Punxsutawney+Area+Hospital/@40.9611302,-79.002393,17z/data=!3m2!4b1!5s0x89cc9636f48deda9:0xc56e2936f7a6e138!4m6!3m5!1s0x89cc9636f6f2798f:0x22ba0b67e324f582!8m2!3d40.9611262!4d-78.9998181!16s%2Fg%2F1tk8d2h_?authuser=1&entry=ttu)
 
 #### Giant Eagle Pharmacy
 
@@ -216,7 +212,7 @@ Most auto repair businesses are closed on Sundays.  The following are still open
 - **Hours**: 8am – 8pm Monday thru Friday, 9am – 6pm Saturday,  9am – 5pm
 - **Distance from Camp**: 6 min (2.8 miles)
 - **Website**: [gianteagle.com]( https://www.gianteagle.com/stores/pa/ligonier/ligonier-giant-eagle/607)
-- **Google Maps:** https://goo.gl/maps/M44mtvHGCQzmr4dy8
+- **Google Maps:** [Punxsutawney Area Hospital - Google Maps](https://www.google.com/maps/place/Punxsutawney+Area+Hospital/@40.9611302,-79.002393,17z/data=!3m2!4b1!5s0x89cc9636f48deda9:0xc56e2936f7a6e138!4m6!3m5!1s0x89cc9636f6f2798f:0x22ba0b67e324f582!8m2!3d40.9611262!4d-78.9998181!16s%2Fg%2F1tk8d2h_?authuser=1&entry=ttu)
 
 #### The Medicine Shoppe Pharmacy
 
@@ -225,7 +221,7 @@ Most auto repair businesses are closed on Sundays.  The following are still open
 - **Hours**: 8am – 8pm Monday thru Friday, 9am – 6pm Saturday,  9am – 5pm
 - **Distance from Camp**: 6 min (2.8 miles)
 - **Website**: [gianteagle.com]( https://www.gianteagle.com/stores/pa/ligonier/ligonier-giant-eagle/607)
-- **Google Maps:** https://goo.gl/maps/M44mtvHGCQzmr4dy8
+- **Google Maps:** [Punxsutawney Area Hospital - Google Maps](https://www.google.com/maps/place/Punxsutawney+Area+Hospital/@40.9611302,-79.002393,17z/data=!3m2!4b1!5s0x89cc9636f48deda9:0xc56e2936f7a6e138!4m6!3m5!1s0x89cc9636f6f2798f:0x22ba0b67e324f582!8m2!3d40.9611262!4d-78.9998181!16s%2Fg%2F1tk8d2h_?authuser=1&entry=ttu)
 
 #### CVS Pharmacy
 
@@ -234,7 +230,7 @@ Most auto repair businesses are closed on Sundays.  The following are still open
 - **Hours**: 8am – 8pm Monday thru Friday, 9am – 6pm Saturday,  9am – 5pm
 - **Distance from Camp**: 6 min (2.8 miles)
 - **Website**: [gianteagle.com]( https://www.gianteagle.com/stores/pa/ligonier/ligonier-giant-eagle/607)
-- **Google Maps:** https://goo.gl/maps/M44mtvHGCQzmr4dy8
+- **Google Maps:** [Punxsutawney Area Hospital - Google Maps](https://www.google.com/maps/place/Punxsutawney+Area+Hospital/@40.9611302,-79.002393,17z/data=!3m2!4b1!5s0x89cc9636f48deda9:0xc56e2936f7a6e138!4m6!3m5!1s0x89cc9636f6f2798f:0x22ba0b67e324f582!8m2!3d40.9611262!4d-78.9998181!16s%2Fg%2F1tk8d2h_?authuser=1&entry=ttu)
 
 ---
 
@@ -247,7 +243,7 @@ Most auto repair businesses are closed on Sundays.  The following are still open
 - **Website**: https://www.choicehotels.com/pennsylvania/new-kensington/quality-inn-hotels/pa246?mc=llgoxxpx
 - **Hours**: Check-in time: 2:00 PM Check-out time: 11:00 AM
 - **Distance from Camp**: 17 min (10.9 miles)
-- **Google Maps:** https://goo.gl/maps/p42qdVAX7EqoR8sF7
+- **Google Maps:** [Punxsutawney Area Hospital - Google Maps](https://www.google.com/maps/place/Punxsutawney+Area+Hospital/@40.9611302,-79.002393,17z/data=!3m2!4b1!5s0x89cc9636f48deda9:0xc56e2936f7a6e138!4m6!3m5!1s0x89cc9636f6f2798f:0x22ba0b67e324f582!8m2!3d40.9611262!4d-78.9998181!16s%2Fg%2F1tk8d2h_?authuser=1&entry=ttu)
 
 #### Holiday Inn Express & Suites Dubois
 
@@ -256,7 +252,7 @@ Most auto repair businesses are closed on Sundays.  The following are still open
 - **Website**: https://www.choicehotels.com/pennsylvania/new-kensington/quality-inn-hotels/pa246?mc=llgoxxpx
 - **Hours**: Check-in time: 2:00 PM Check-out time: 11:00 AM
 - **Distance from Camp**: 17 min (10.9 miles)
-- **Google Maps:** https://goo.gl/maps/p42qdVAX7EqoR8sF7
+- **Google Maps:** [Punxsutawney Area Hospital - Google Maps](https://www.google.com/maps/place/Punxsutawney+Area+Hospital/@40.9611302,-79.002393,17z/data=!3m2!4b1!5s0x89cc9636f48deda9:0xc56e2936f7a6e138!4m6!3m5!1s0x89cc9636f6f2798f:0x22ba0b67e324f582!8m2!3d40.9611262!4d-78.9998181!16s%2Fg%2F1tk8d2h_?authuser=1&entry=ttu)
 
 #### Comfort Suites
 
@@ -265,7 +261,7 @@ Most auto repair businesses are closed on Sundays.  The following are still open
 - **Website**: https://www.choicehotels.com/pennsylvania/new-kensington/quality-inn-hotels/pa246?mc=llgoxxpx
 - **Hours**: Check-in time: 2:00 PM Check-out time: 11:00 AM
 - **Distance from Camp**: 17 min (10.9 miles)
-- **Google Maps:** https://goo.gl/maps/p42qdVAX7EqoR8sF7
+- **Google Maps:** [Punxsutawney Area Hospital - Google Maps](https://www.google.com/maps/place/Punxsutawney+Area+Hospital/@40.9611302,-79.002393,17z/data=!3m2!4b1!5s0x89cc9636f48deda9:0xc56e2936f7a6e138!4m6!3m5!1s0x89cc9636f6f2798f:0x22ba0b67e324f582!8m2!3d40.9611262!4d-78.9998181!16s%2Fg%2F1tk8d2h_?authuser=1&entry=ttu)
 
 #### Best Western Dubois Hotel
 
@@ -274,7 +270,7 @@ Most auto repair businesses are closed on Sundays.  The following are still open
 - **Website**: https://www.choicehotels.com/pennsylvania/new-kensington/quality-inn-hotels/pa246?mc=llgoxxpx
 - **Hours**: Check-in time: 2:00 PM Check-out time: 11:00 AM
 - **Distance from Camp**: 17 min (10.9 miles)
-- **Google Maps:** https://goo.gl/maps/p42qdVAX7EqoR8sF7
+- **Google Maps:** [Punxsutawney Area Hospital - Google Maps](https://www.google.com/maps/place/Punxsutawney+Area+Hospital/@40.9611302,-79.002393,17z/data=!3m2!4b1!5s0x89cc9636f48deda9:0xc56e2936f7a6e138!4m6!3m5!1s0x89cc9636f6f2798f:0x22ba0b67e324f582!8m2!3d40.9611262!4d-78.9998181!16s%2Fg%2F1tk8d2h_?authuser=1&entry=ttu)
 
 #### Homewood Suites by Hilton Dubois
 
@@ -283,7 +279,7 @@ Most auto repair businesses are closed on Sundays.  The following are still open
 - **Website**: https://www.choicehotels.com/pennsylvania/new-kensington/quality-inn-hotels/pa246?mc=llgoxxpx
 - **Hours**: Check-in time: 2:00 PM Check-out time: 11:00 AM
 - **Distance from Camp**: 17 min (10.9 miles)
-- **Google Maps:** https://goo.gl/maps/p42qdVAX7EqoR8sF7
+- **Google Maps:** [Punxsutawney Area Hospital - Google Maps](https://www.google.com/maps/place/Punxsutawney+Area+Hospital/@40.9611302,-79.002393,17z/data=!3m2!4b1!5s0x89cc9636f48deda9:0xc56e2936f7a6e138!4m6!3m5!1s0x89cc9636f6f2798f:0x22ba0b67e324f582!8m2!3d40.9611262!4d-78.9998181!16s%2Fg%2F1tk8d2h_?authuser=1&entry=ttu)
 
 ---
 
