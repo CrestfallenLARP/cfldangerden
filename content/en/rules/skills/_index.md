@@ -821,6 +821,7 @@ This skill allows a character to strike fear in a target. To use this skill, a c
 ## Know-A-Guy
 
 **CP Cost**: 15 ([Merchant]({{< ref "/rules/skill_categories/#merchant-skill-category" >}})) or 12 ([Human Lineage]({{< ref "/rules/lineage_skill_categories/#human-lineage-skill-category" >}}))
+
 **ST Cost**: 4
 
 **Restrictions**: None
@@ -865,7 +866,7 @@ This skill allows an item to have its durability extended or a [destroyed]({{< r
 
 This skill allows a character to inspect, stabilize, and heal  characters or creatures for different conditions. To use this skill, the character must state “Using Medical Training”.  While medical training is in effect, a dying character may pause the counter for the dying condition.  Following this, there are a number of options the character may use.
 
-The character may act out an inspection of the character or creature.  After 1 minute, the character may state “Sense Condition”, at which point the target must state all conditions currently on the character or creature.
+The character may act out an inspection of the character or creature.  After 1 minute, the character may state “[Sense]({{< ref "/rules/conditions/#sense" >}}) Condition”, at which point the target must state all conditions currently on the character or creature.
 
 The character may act out bandaging wounds and stabilizing a character or creature with the dying condition.  After 1 minute, the character may state “Stabilize”, at which point the character or creature loses the dying condition, gains 1 body, and gains the unconscious condition.
 
@@ -1157,7 +1158,7 @@ This skill allows a character to spend one minute acting out the removal of a [p
 
 **Skill Categories**: [Merchant]({{< ref "/rules/skill_categories/#merchant-skill-category" >}})
 
-This skill allows a character to gain 1 item from a [guild]({{< ref "/rules/#guilds-and-governments" >}})or lineage item list for free.
+This skill allows a character to gain 1 item from a [guild]({{< ref "/rules/#guilds-and-governments" >}}) or lineage item list for free.
 
 ## Research Guild Member#
 
