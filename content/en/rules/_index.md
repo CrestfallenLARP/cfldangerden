@@ -161,6 +161,14 @@ Stealing things in Crestfallen LARP must be very closely watched. A Marshal (Gre
 
 NPCs are required to have appropriate footwear and clothing for the weather. This clothing should include neutral base layers for costuming such as plain brown, grey, or black. Additionally, NPCs must have a sealable belt pouch for carrying Leaves and Resource cards for distribution as treasure. NPCs who pre-register for an event may gain additional information regarding characters and/or monsters that they will be playing. Players who bring additional costuming to make the character/monster more realistic or interesting may gain additional CP for their efforts.
 
+#### Danger Level 
+
+The planned difficulty of an event is listed on the schedule page in the danger level section.  This level is on a scale of 1 to 4 and is a rough estimate of the dangers players will face as well as a mechanic that has an effect on the gathering and surgery skills.  When a player uses the gathering or surgery skills, they will roll on the appropriate chart according to the danger level.
+
+#### Faction Level
+
+Monster factions gain and lose power as they complete tasks or plot points occur.  The current monster factions and their level is listed on the schedule page below the danger level.  Faction level will determine what abilities the faction has access to as well as how difficult they may be to defeat, how populated they are at the event, and how aggressive they may be throughout the course of the event.  Faction levels will only go up or down depending on story.  During two day town events, each faction is intended to have its own plot runner and NPC crew.  This crew will have a number of assignments to complete.  If the crew complete less than half of their assignments, then the faction level will go down by 1 for the next event.  If the crew completes half of their assignments, the faction level will remain the same for the next event.  If the crew completes more than half of their assignments, then the faction level will go up for the next event.
+
 ## Philosophies
 
 While philosophies are not rules or policies that we enforce, the following are guiding forces that we use in the development, organization, and running of Crestfallen. These may change from time to time, but we feel it is important the those that attend our game are aware of these items.
