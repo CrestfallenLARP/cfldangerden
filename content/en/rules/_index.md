@@ -370,6 +370,8 @@ The first physical thing that a person needs to play Crestfallen is a Character 
  - Don't have Excel? [Try 365 Online for free.](https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web)
 - Finalize your character sheet with Crestfallen Staff.
 
+The finalization process should be a review between staff and player to ensure the numbers are accurate, the player understands what skills they have taken and how they work, and to make suggestions if anything helpful is noticed.  This is the point where the character will be added to our files and a the player number is assigned to the sheet.
+
 Please note that we are available to assist with Character Sheet creation during our Discord Hangouts (schedule on [CrestfallenLARP.com](https://crestfallenlarp.com/schedule/)), private discord discussions, email [Crestfallenlarp@gmail.com](mailto:Crestfallenlarp@gmail.com), or scheduled meetings. We prefer to have Character Sheets completed before events so we can focus on the event itself. 
 
 ### Lineages
