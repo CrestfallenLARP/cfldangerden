@@ -499,7 +499,13 @@ This skill allows a character to craft weapons, armor, and similar goods using r
 
 This skill allows a character to gather resources for use in crafting or to fuel items. The character must spend 30 minutes acting out gathering these resources however they wish. Examples include, but are not limited to: farming, mining, logging, and foraging. Additionally, players may use this time to gather loose darts, spell ammo, litter, and lost items to keep the game site clean and organized. Following this acting time, the character will return to the gathering hall to make a percentile dice role to determine the rarity and amount of resources found based on the danger level of the event.  The danger level will be listed on the schedule page to inform all players prior to an event.  
 
-A player will roll one of the following options; fine, basic resources, common resources, common and basic resources, common and basic with a rare basic resource, and the rare resource.  Fine is the worst possible roll on all charts.  This roll simulates the character gathering resources in an area protected by a lineage or some goods that are deemed illegal. The character has three options following this roll. First, they collect one basic resource and pay a 5 leaf fine. Second, they receive nothing for their time. The final option is to collect one basic resource but do not pay the fine, which will lead to the character having a bounty placed on them with the thieves guild.  All other rolls will grant the character the number of resources listed on the roll.  If common or rare resources are gathered, the character will choose the craft type they will receive. 
+A player will roll one of the following options; fine, basic resources, common resources, common and basic resources, common and basic with a rare basic resource, and the rare resource.  Fine is the worst possible roll on all charts.  This roll simulates the character gathering resources in an area protected by a lineage or some goods that are deemed illegal. The character has three options following this roll. 
+
+1. They collect one basic resource and pay a 5 leaf fine. 
+2. They receive nothing for their time. 
+3. The final option is to collect one basic resource but do not pay the fine, which will lead to the character having a bounty placed on them with the thieves guild.  
+
+All other rolls will grant the character the number of resources listed on the roll.  If common or rare resources are gathered, the character will choose the craft type they will receive. 
 
 ### Gathering Chart
 
@@ -509,7 +515,7 @@ A player will roll one of the following options; fine, basic resources, common r
 
 | Percentage Rolled | Items Found                       |
 | ------- | --------------------------------- |
-| 00-05%  | Fine + 1 Basic                   |
+| 00-05%  | Fine                   |
 | 06-10%  | 1 Basic                           |
 | 11-15%  | 2 Basic                           |
 | 16-20%  | 3 Basic                           |
@@ -1546,7 +1552,7 @@ This skill allows a character to receive 2 common and 4 basic resources at check
 
 This skill allows a character to attempt surgery on a target. 
 
-**Basic surgery** takes 20 minutes of acting followed by a percentile roll on the appropriate surgery chart. If successful, basic surgery removes all negative conditions and heals all body points. 
+**Basic surgery** takes 20 minutes of acting followed by a percentile roll on the appropriate surgery chart. If successful, basic surgery removes all negative [conditions]({{< ref "/rules/conditions" >}}) and heals all body points. 
 
 **Experimental Surgery** takes 30 minutes and functions similarly to crafting master items. Surgery rules are found later in this document.
 
@@ -1556,46 +1562,46 @@ This skill allows a character to attempt surgery on a target.
   {{% tab header="**Danger Level**:" disabled=true /%}}
   {{% tab header="1" lang="en" %}}
 
-| die roll | result                                              |
-| -------- | --------------------------------------------------- |
-| 00-05%   | Failure - Character Dies                            |
-| 06-15%   | Failure - Dying - Stamina                           |
-| 16-75%   | Success                                             |
-| 76-90%   | Success + Stamina                                   |
-| 91-100%  | Succeess + Stamina + Surgery ST returned to surgeon |
+| die roll | result                                                       |
+| -------- | ------------------------------------------------------------ |
+| 00-05%   | Failure - Character [Dies]({{< ref "/rules/conditions/#dead" >}}) |
+| 06-15%   | Failure - [Dying]({{< ref "/rules/conditions/#dying" >}}) - Stamina |
+| 16-75%   | Success                                                      |
+| 76-90%   | Success + Stamina                                            |
+| 91-100%  | Succeess + Stamina + Surgery ST returned to surgeon          |
 
   {{< /tab >}}
   {{% tab header="2" lang="en" %}}
 
-| die roll | result                                              |
-| -------- | --------------------------------------------------- |
-| 00-05%   | Failure - Character Dies                            |
-| 06-15%   | Failure - Dying - Stamina                           |
-| 16-75%   | Success                                             |
-| 76-90%   | Success + Stamina                                   |
-| 91-100%  | Succeess + Stamina + Surgery ST returned to surgeon |
+| die roll | result                                                       |
+| -------- | ------------------------------------------------------------ |
+| 00-05%   | Failure - Character [Dies]({{< ref "/rules/conditions/#dead" >}}) |
+| 06-15%   | Failure - [Dying]({{< ref "/rules/conditions/#dying" >}}) - Stamina |
+| 16-75%   | Success                                                      |
+| 76-90%   | Success + Stamina                                            |
+| 91-100%  | Succeess + Stamina + Surgery ST returned to surgeon          |
 
  {{< /tab >}}
   {{% tab header="3" lang="en" %}}
 
-| die roll | result                                              |
-| -------- | --------------------------------------------------- |
-| 00-05%   | Failure - Character Dies                            |
-| 06-20%   | Failure - Dying - Stamina                           |
-| 21-80%   | Success                                             |
-| 81-90%   | Success + Stamina                                   |
-| 91-100%  | Succeess + Stamina + Surgery ST returned to surgeon |
+| die roll | result                                                       |
+| -------- | ------------------------------------------------------------ |
+| 00-05%   | Failure - Character [Dies]({{< ref "/rules/conditions/#dead" >}}) |
+| 06-20%   | Failure - [Dying]({{< ref "/rules/conditions/#dying" >}}) - Stamina |
+| 21-80%   | Success                                                      |
+| 81-90%   | Success + Stamina                                            |
+| 91-100%  | Succeess + Stamina + Surgery ST returned to surgeon          |
 
   {{% /tab %}}
   {{% tab header="4" lang="en" %}}
 
-| die roll | result                                              |
-| -------- | --------------------------------------------------- |
-| 00-10%   | Failure - Character Dies                            |
-| 11-25%   | Failure - Dying - Stamina                           |
-| 26-85%   | Success                                             |
-| 86-95%   | Success + Stamina                                   |
-| 96-100%  | Succeess + Stamina + Surgery ST returned to surgeon |
+| die roll | result                                                       |
+| -------- | ------------------------------------------------------------ |
+| 00-10%   | Failure - Character [Dies]({{< ref "/rules/conditions/#dead" >}}) |
+| 11-25%   | Failure - [Dying]({{< ref "/rules/conditions/#dying" >}}) - Stamina |
+| 26-85%   | Success                                                      |
+| 86-95%   | Success + Stamina                                            |
+| 96-100%  | Succeess + Stamina + Surgery ST returned to surgeon          |
 
   {{% /tab %}}
 {{< /tabpane >}}

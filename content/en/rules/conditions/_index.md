@@ -16,7 +16,7 @@ The target of this condition must take the effect of any damage or condition att
 
 ## Battle 
 
-**Duration**: While combat is ongoing or for 1 minute of downtime following.  A battle ends for a character if they gain the spirit condition, combat ends with at least 1 minute of downtime for all participants, or after being out of sight and range of the battle for 1 minute.  A character that is being guarded or carried off by a hostile creature is still considered in battle for the purposes of conditions that end following a battle.
+**Duration**: While combat is ongoing or for 1 minute of downtime following.  A battle ends for a character if they gain the [spirit]({{< ref "#spirit" >}}), condition, combat ends with at least 1 minute of downtime for all participants, or after being out of sight and range of the battle for 1 minute.  A character that is being guarded or carried off by a hostile creature is still considered in battle for the purposes of conditions that end following a battle.
 
 **Valid Targets**: Characters, Creatures 
 
@@ -36,7 +36,7 @@ The target becomes enraged beyond control and attempts to kill all characters an
 
 **Valid Targets**: Character, Creature
 
-The target is bleeding constantly and cannot benefit from any type of healing effect. This includes all effects that heal damage, bring characters back to life after becoming [dead]({{< ref "#dead" >}}), and effects that extend death and dying counts.
+The target is bleeding constantly and cannot benefit from any type of healing effect. This includes all effects that heal damage, bring characters back to life after becoming [dead]({{< ref "#dead" >}}), and effects that extend death and [dying]({{< ref "#dying" >}}) counts.
 
 ## Broken (Break) 
 
@@ -75,7 +75,7 @@ The target must fall prone or drop to one knee. During this time the target may 
 
 **Valid Targets**: Character, Creature
 
-The target of this conditions takes the amount of damage said along with it. Taking damage should be acted out.  If a player takes enough damage to lose all armor and body points, they gain the dying condition.
+The target of this conditions takes the amount of damage said along with it. Taking damage should be acted out.  If a player takes enough damage to lose all armor and body points, they gain the [dying]({{< ref "#dying" >}}) condition.
 
 ## Dazed 
 
@@ -91,7 +91,7 @@ The target stares off into space, not noticing or remembering anything that happ
 
 **Valid Targets**: Character, Creature 
 
-The target of this condition is lifeless and retains no sensory knowledge of anything. When a target gains this condition, all active spells end with the exception of bleed.  The target will remain motionless and silent during this condition unless specifically asked questions by other characters using game skills such as medical training. If the target retains the dead condition for 5 minutes, then the target loses 1 essence point, the body vanishes, and gains the spirit condition.  All in game and out of game items are retained by the player.
+The target of this condition is lifeless and retains no sensory knowledge of anything. When a target gains this condition, all active spells end with the exception of [bleed]({{< ref "#bleed" >}}).  The target will remain motionless and silent during this condition unless specifically asked questions by other characters using game skills such as [Medical Training]({{< ref "/rules/skills/#medical-training" >}}). If the target retains the dead condition for 5 minutes, then the target loses 1 essence point, the body vanishes, and gains the [spirit]({{< ref "#spirit" >}}), condition.  All in game and out of game items are retained by the player.
 
 ## Destroyed 
 
@@ -123,7 +123,7 @@ The target views the character that dominated them as their best friend. This ta
 
 **Valid Targets**: Character, Creature
 
-The target of this condition is on the verge of death and retains no sensory knowledge of anything.  While in this condition a player will act out being wounded.  Examples include groaning, making quiet statements, and subtle movements.  The player cannot move from where they are located, but are allowed to reposition themselves as they are dying.  One minute after entering the dying condition, the target dies (gaining the [dead]({{< ref "#dead" >}}) condition and losing the dying condition). If a character starts using the [medical training#]({{< ref "/rules/skills/#medical-training" >}}) skill on the target, the dying count freezes at its current number. If target is stabilized, it loses the dying condition and gains the [unconscious]({{< ref "#unconscious" >}}) condition with 1 body. If the target is healed, they lose the dying condition immediately and are conscious.
+The target of this condition is on the verge of death and retains no sensory knowledge of anything.  While in this condition a player will act out being wounded.  Examples include groaning, making quiet statements, and subtle movements.  The player cannot move from where they are located, but are allowed to reposition themselves as they are dying.  One minute after entering the [dying]({{< ref "#dying" >}}) condition, the target dies (gaining the [dead]({{< ref "#dead" >}}) condition and losing the dying condition). If a character starts using the [medical training#]({{< ref "/rules/skills/#medical-training" >}}) skill on the target, the dying count freezes at its current number. If target is stabilized, it loses the [dying]({{< ref "#dying" >}}) condition and gains the [unconscious]({{< ref "#unconscious" >}}) condition with 1 body. If the target is healed, they lose the dying condition immediately and are conscious.
 
 ## Elemental (Fire, Ice, Stone, Lightning) 
 
