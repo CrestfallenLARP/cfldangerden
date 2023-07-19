@@ -169,6 +169,22 @@ The planned difficulty of an event is listed on the schedule page in the danger 
 
 Monster factions gain and lose power as they complete tasks or plot points occur.  The current monster factions and their level is listed on the schedule page below the danger level.  Faction level will determine what abilities the faction has access to as well as how difficult they may be to defeat, how populated they are at the event, and how aggressive they may be throughout the course of the event.  Faction levels will only go up or down depending on story.  During two day town events, each faction is intended to have its own plot runner and NPC crew.  This crew will have a number of assignments to complete.  If the crew complete less than half of their assignments, then the faction level will go down by 1 for the next event.  If the crew completes half of their assignments, the faction level will remain the same for the next event.  If the crew completes more than half of their assignments, then the faction level will go up for the next event.
 
+## Acting
+
+Roleplaying is a form of acting.  Players often base this acting off of their own life, attributes they want to grow, or a mindset they like to explore.  Here are techniques that we want all of our players to use while acting at Crestfallen.
+
+### Playing to lift
+
+This technique is all about sharing the spotlight with every player at the game.  Players should do their best to "buy in" to what the other players goals and motivations are, thus treating them as real people and not just characters.  Players should listen to the players around them, both in and out of game.  A start is learning the characters name, a few facts, and a goal that they are attempting to accomplish. What is the character good at? What is the character working towards? What is the character interested in?  Knowing the answers to these types of questions allows a player to let that person take or share the spotlight during those types of activities.  This technique also includes pulling in players who may need assistance and helping them gain their moment in the spotlight.  Pull people into conversations that are within arms length.  Ask people for thoughts and opinions that normally do not voice them.  This technique is well documented, but more information can be found in this article by Ericka Skirpan. https://thespacebetweenstories.com/2019/01/10/how-to-playing-to-lift-makes-you-one-of-the-cool-kids/
+
+### Yes, and
+
+Yes, and... is an improvisational comedy rule where the actor should accept what is being said is fact and then expand upon the comment.  LARP can use this technique to build on character backstory and thought processes that the player may not have originally thought of.  With NPCs, this type of thinking should only be used by staff members or players that have a clear understanding of the world or motivation for the character.  An example of this technique: An NPC is a powerful member of a faction and is being questioned.  They are asked about their family and if they had a rough upbringing.  If the player does not have a firm backstory, they may use the Yes, and technique to confirm that their upbringing was difficult and explain why.  This makes the player that asked the question feel good for being intuitive and gives the NPC more motivation to work on.
+
+### Play to the card
+
+Players and characters are not always the same.  Players should always try their best to act out and have the game skills to portray the character in the way they wish.  For players this may mean taking academic research skills to seem more intelligent, combat skills to seem more tactical or strong, or gathering and holdings skills to seem more wealthy.  NPCs in particular must take this technique into account.  NPCs should not always fight to the best of their own physical or mental abilities, but instead lower or elevate their play based upon the card they are given.
+
 ## Philosophies
 
 While philosophies are not rules or policies that we enforce, the following are guiding forces that we use in the development, organization, and running of Crestfallen. These may change from time to time, but we feel it is important the those that attend our game are aware of these items.
