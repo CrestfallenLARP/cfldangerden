@@ -181,7 +181,7 @@ This technique is all about sharing the spotlight with every player at the game.
 
 Yes, and... is an improvisational comedy rule where the actor should accept what is being said is fact and then expand upon the comment.  LARP can use this technique to build on character backstory and thought processes that the player may not have originally thought of.  With NPCs, this type of thinking should only be used by staff members or players that have a clear understanding of the world or motivation for the character.  An example of this technique: An NPC is a powerful member of a faction and is being questioned.  They are asked about their family and if they had a rough upbringing.  If the player does not have a firm backstory, they may use the Yes, and technique to confirm that their upbringing was difficult and explain why.  This makes the player that asked the question feel good for being intuitive and gives the NPC more motivation to work on.
 
-### Play to the card
+### Playing to the card
 
 Players and characters are not always the same.  Players should always try their best to act out and have the game skills to portray the character in the way they wish.  For players this may mean taking academic research skills to seem more intelligent, combat skills to seem more tactical or strong, or gathering and holdings skills to seem more wealthy.  NPCs in particular must take this technique into account.  NPCs should not always fight to the best of their own physical or mental abilities, but instead lower or elevate their play based upon the card they are given.
 
