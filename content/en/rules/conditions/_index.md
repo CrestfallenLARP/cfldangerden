@@ -16,7 +16,7 @@ The target of this condition must take the effect of any damage or condition att
 
 ## Battle 
 
-**Duration**: While combat is ongoing or for 1 minute of downtime following.  A battle ends for a character if they gain the spirit condition, combat ends with at least 1 minute of downtime for all participants, or after being out of sight and range of the battle for 1 minute.  A character that is being guarded or carried off by a hostile creature is still considered in battle for the purposes of conditions that end following a battle.
+**Duration**: While combat is ongoing or for 1 minute of downtime following.  A battle ends for a character if they gain the [spirit]({{< ref "#spirit" >}}), condition, combat ends with at least 1 minute of downtime for all participants, or after being out of sight and range of the battle for 1 minute.  A character that is being guarded or carried off by a hostile creature is still considered in battle for the purposes of conditions that end following a battle.
 
 **Valid Targets**: Characters, Creatures 
 
@@ -36,7 +36,7 @@ The target becomes enraged beyond control and attempts to kill all characters an
 
 **Valid Targets**: Character, Creature
 
-The target is bleeding constantly and cannot benefit from any type of healing effect. This includes all effects that heal damage, bring characters back to life after becoming [dead]({{< ref "#dead" >}}), and effects that extend death and dying counts.
+The target is bleeding constantly and cannot benefit from any type of healing effect. This includes all effects that heal damage, bring characters back to life after becoming [dead]({{< ref "#dead" >}}), and effects that extend death and [dying]({{< ref "#dying" >}}) counts.
 
 ## Broken (Break) 
 
@@ -75,7 +75,7 @@ The target must fall prone or drop to one knee. During this time the target may 
 
 **Valid Targets**: Character, Creature
 
-The target of this conditions takes the amount of damage said along with it. Taking damage should be acted out.  If a player takes enough damage to lose all armor and body points, they gain the dying condition.
+The target of this conditions takes the amount of damage said along with it. Taking damage should be acted out.  If a player takes enough damage to lose all armor and body points, they gain the [dying]({{< ref "#dying" >}}) condition.
 
 ## Dazed 
 
@@ -91,7 +91,7 @@ The target stares off into space, not noticing or remembering anything that happ
 
 **Valid Targets**: Character, Creature 
 
-The target of this condition is lifeless and retains no sensory knowledge of anything. When a target gains this condition, all active spells end with the exception of bleed.  The target will remain motionless and silent during this condition unless specifically asked questions by other characters using game skills such as medical training. If the target retains the dead condition for 5 minutes, then the target loses 1 essence point, the body vanishes, and gains the spirit condition.  All in game and out of game items are retained by the player.
+The target of this condition is lifeless and retains no sensory knowledge of anything. When a target gains this condition, all active spells end with the exception of [bleed]({{< ref "#bleed" >}}).  The target will remain motionless and silent during this condition unless specifically asked questions by other characters using game skills such as [Medical Training]({{< ref "/rules/skills/#medical-training" >}}). If the target retains the dead condition for 5 minutes, then the target loses 1 essence point, the body vanishes, and gains the [spirit]({{< ref "#spirit" >}}), condition.  All in game and out of game items are retained by the player.
 
 ## Destroyed 
 
@@ -99,7 +99,7 @@ The target of this condition is lifeless and retains no sensory knowledge of any
 
 **Valid Targets**: Armor, Claw, Item, Limb, Shield, Weapon
 
-The target item is destroyed and cannot be repaired. If the target is a basic item, it should be removed from the character sheet as soon as possible. If the target item is a common or rare craft item, then all durability must be removed from the tag, but it may be fixed with the [maintenance#]({{< ref "/rules/skills/#maintenance" >}}) skill or rebuilt with its full craft cost.  Claws and Limbs targeted with this condition are treated as if they have the [borken]({{< ref "#broken-break" >}}) condition and may be fixed by medical training augmentation#. (No hopping while in combat for player safety please).
+The target item is destroyed and cannot be repaired. If the target is a basic item, it should be removed from the character sheet as soon as possible. If the target item is a common or rare craft item, then all durability must be removed from the tag, but it may be fixed with the [maintenance#]({{< ref "/rules/skills/#maintenance" >}}) skill or rebuilt with its full craft cost.  Claws and Limbs targeted with this condition are treated as if they have the [broken]({{< ref "#broken-break" >}}) condition and may be fixed by [medical training augmentation#]({{< ref "/rules/skills/#medical-training-augmentation" >}}). (No hopping while in combat for player safety please).
 
 ## Distracted 
 
@@ -123,7 +123,7 @@ The target views the character that dominated them as their best friend. This ta
 
 **Valid Targets**: Character, Creature
 
-The target of this condition is on the verge of death and retains no sensory knowledge of anything.  While in this condition a player will act out being wounded.  Examples include groaning, making quiet statements, and subtle movements.  The player cannot move from where they are located, but are allowed to reposition themselves as they are dying.  One minute after entering the dying condition, the target dies (gaining the [dead]({{< ref "#dead" >}}) condition and losing the dying condition). If a character starts using the [medical training#]({{< ref "/rules/skills/#medical-training" >}}) skill on the target, the dying count freezes at its current number. If target is stabilized, it loses the dying condition and gains the [unconscious]({{< ref "#unconscious" >}}) condition with 1 body. If the target is healed, they lose the dying condition immediately and are conscious.
+The target of this condition is on the verge of death and retains no sensory knowledge of anything.  While in this condition a player will act out being wounded.  Examples include groaning, making quiet statements, and subtle movements.  The player cannot move from where they are located, but are allowed to reposition themselves as they are dying.  One minute after entering the [dying]({{< ref "#dying" >}}) condition, the target dies (gaining the [dead]({{< ref "#dead" >}}) condition and losing the dying condition). If a character starts using the [medical training#]({{< ref "/rules/skills/#medical-training" >}}) skill on the target, the dying count freezes at its current number. If target is stabilized, it loses the [dying]({{< ref "#dying" >}}) condition and gains the [unconscious]({{< ref "#unconscious" >}}) condition with 1 body. If the target is healed, they lose the dying condition immediately and are conscious.
 
 ## Elemental (Fire, Ice, Stone, Lightning) 
 
@@ -155,7 +155,7 @@ The target of this condition becomes irrationally scared of the character or cre
 
 **Valid Targets**: Character with 0 Essence, Creature with 0 Essence
 
-The target of this condition becomes a sentient undead with their own thoughts and decision-making abilities. Greater Undead are healed by all harm conditions and harmed by all heal conditions.
+The target of this condition becomes a sentient undead with their own thoughts and decision-making abilities. Greater Undead are healed by all [harm]({{< ref "#harmharming" >}}) conditions and harmed by all [heal]({{< ref "#healhealing" >}}) conditions.
 
 ## Harm/Harming 
 
@@ -179,7 +179,7 @@ The target of this condition is healed by the amount said along with it. There a
 
 **Valid Targets**: Character, Creature
 
-The target of this condition takes double the damage from all sources until it is removed. This does not have an effect on healing in any way.
+The target of this condition takes double the [damage]({{< ref "#damage" >}}) from all sources until it is removed. This does not have an effect on [healing]({{< ref "#healhealing" >}}) in any way.
 
 ## Hidden 
 
@@ -291,7 +291,7 @@ The target of this condition is noticeable in game as a spirit but cannot be int
 
 **Valid Targets**:  Armor, Character, Creature, Item, Shield, Weapon
 
-The target of this condition must take the effect of any damage or condition attached to it when struck with a weapon blow or ranged projectile, regardless of blocking with an item, shield, or weapon.  This damage still damages armor first and body second.  Resist calls may still negate unblockable conditions.
+The target of this condition must take the effect of any damage or condition attached to it when struck with a weapon blow or ranged projectile, regardless of blocking with an item, shield, or weapon.  This damage still damages armor first and body second. [Resist]({{< ref "#resist" >}})  calls may still negate unblockable conditions.
 
 ## Unconscious 
 
@@ -307,7 +307,7 @@ The target of this condition is unconscious due to damage and retains no sensory
 
 **Valid Targets**: Character with [Dead]({{< ref "#dead" >}}) Condition, Creature with [Dead]({{< ref "#dead" >}}) Condition
 
-The target of this condition becomes a mindless undead without their own decision-making abilities. Undead are healed by all harm conditions and harmed by all heal conditions. Undead have the dominate condition and can be controlled by greater undead. Undead will follow the orders of its creator if there is a discrepancy in orders.
+The target of this condition becomes a mindless undead without their own decision-making abilities. Undead are healed by all [harm]({{< ref "#harmharming" >}})  conditions and harmed by all [heal]({{< ref "#heal" >}}) conditions. Undead have the  [Dominate]({{< ref "#dominate" >}}) condition and can be controlled by [greater undead]({{< ref "#greater-undead" >}}). Undead will follow the orders of its creator if there is a discrepancy in orders.
 
 ## Voice 
 
