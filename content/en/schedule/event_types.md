@@ -38,7 +38,7 @@ These hangouts are out of game discussions only, though we may practice particul
 
 Crestfallen One Day Adventures are usually held at a Park or Pavilion
 
-**Cost**: TBD
+**Cost**: Current $25 for PCs, $0 for NPCs
 
 **Description**: A one day adventure is designed for small groups of 5 to 20 players and 5 to 10 NPCs.  The players will take part in 2 to 4 planned story adventures as well as 4 to 8 additional adventures of their choosing from available lineage/guild options.  These adventures may include combat, puzzles, problem solving, role-playing, trading, and more.  Non-Combat players are welcome as there are a number of skills, abilities, and stories that may/will not require combat.
 
@@ -48,7 +48,7 @@ Crestfallen One Day Adventures are usually held at a Park or Pavilion
 
 **Registration Cut Off:** 2 Days prior to the event (If you do not register for the event by this date, please just show up to the event and pay/register there. You may still attend by showing up on site, but setup may be more difficult. We highly recommend registration online to improve the experience.)
 
-**Tentative Schedule**: Setup 9 AM, Check In - 10 AM, Open Speech 10:45 AM, Game Start 11 AM, Game End 5 PM, Closing Statements 5:15 PM, Clean Up 5:30 PM, Offsite ASAP.
+**Tentative Schedule**: Setup 9 AM, Check In - 10 AM, Opening Speech 10:45 AM, Game Start 11 AM, Game End 5 PM, Closing Statements 5:15 PM, Clean Up 5:30 PM, Offsite ASAP.
 
 **Earliest Arrival**: 9 AM
 
@@ -82,7 +82,7 @@ Crestfallen One Day Tavern Excursions are usually held at a Park or Pavilion
 
 **Registration Cut Off:** 2 Days prior to the event (If you do not register for the event by this date, please just show up to the event and pay/register there. You may still attend by showing up on site, but setup may be more difficult. We highly recommend registration online to improve the experience.)
 
-**Tentative Schedule**: Setup 9 AM, Check In - 10 AM, Open Speech 10:45 AM, Game Start 11 AM, Game End 5 PM, Closing Statements 5:15 PM, Clean Up 5:30 PM, Offsite ASAP.
+**Tentative Schedule**: Setup 9 AM, Check In - 10 AM, Opening Speech 10:45 AM, Game Start 11 AM, Game End 5 PM, Closing Statements 5:15 PM, Clean Up 5:30 PM, Offsite ASAP.
 
 **Earliest Arrival**: 9 AM
 
@@ -108,25 +108,45 @@ Crestfallen One Day Tavern Excursions are usually held at a Park or Pavilion
 
 Crestfallen Two Day Town Events are usually held at a Camp Ground or State Park
 
-**Cost**: Tentative Cost for playing a character $45 to $65, Non-player characters $0 to $20 
+**Cost**: (tentative) $60 for full event PCs, $30 for one day PCs, $0 for NPCs 
 
-**Preregistration Deadline**: 1 week prior to the event 
+**Description**: A two day town event is designed for 10 to 30 players and 10+ NPCs. The players will take part in planned story adventures as well as additional adventures including lineage jobs, guild jobs, stockpiles, cards in the woods, and random encounters.  These adventures may include combat, puzzles, problem solving, role-playing, trading, and more.  Non-Combat players are welcome as there are a number of skills, abilities, and stories that may/will not require combat.
 
-**Tentative Schedule**: TBD
+Friday night is typically focused around getting into character and planning Saturdays work (signing up for jobs in folders, discussing recent goings on, reading the All-of Branch paper, scouting the site, crafting, gathering, etc.).  Some small planned adventures may occur on Friday, but this is rare.  Saturday will focus on adventures, random encounters, and storyline.  Plot will shut down between 11PM and 1AM depending on site and plot requirements.  Sunday will focus on cleaning up loose ends such as adventures that needed to be rescheduled, as well as crafting, gathering, and acting among players.
 
-**Earliest Arrival**: TBD
+**Gathering Hall**: The gathering hall is where players may access lineage and guild folders, roll for their gathering skill checks, and finalize their crafted items.  The gathering hall will be open for operation from game start until 1AM on Friday into Saturday, 8 AM until 1AM Saturday into Sunday, and 8AM until game end on Sunday.  These times are subject to change, but will be clearly listed at the gathering hall.  Players may use the crafting or gathering skills no more than 2 times while the gathering hall is closed and must complete their dice rolls before crafting or gathering again.
 
-**Game Start**: TBD 
+**New/Interested?**:  People who are interested in learning more about LARPing, new players, and new attendees to Crestfallen LARP are welcome to come and ask questions Friday evening from game start until 11 PM.  We will hold an introductory workshop for anyone who is new or is in need of a refresher regarding Crestfallen LARP.  We want everyone to feel comfortable prior to their first event.  Any and all questions are welcome.  We highly suggest using this time to have weapons/armor/costuming evaluated for points and safety.
 
-**Game End**: TBD 
+**Pre - Registration Deadline**: 2 Fridays prior to the event (8 Full Days)
 
-**Latest Offsite**: TBD
+**Registration Cut Off:** 2 Days prior to the event (If you do not register for the event by this date, please just show up to the event and pay/register there. You may still attend by showing up on site, but setup may be more difficult. We highly recommend registration online to improve the experience.)
 
-**Food**: TBD
+**Tentative Schedule**: Setup ? PM Friday, Check In - 8PM to 9PM Friday, Opening Speech - 9PM Friday, Game Start 9:15 Friday, Introductory Workshop - 9:15 Friday, Closing Statements 11AM Sunday, Personal Clean Up 11:30AM Sunday, Site Clean Up 12 Noon Sunday, Offsite ASAP Sunday.
 
-**Player Character Benefits**: 4 Character Points for the character being played with the ability to gain 4 additional for the played character and 4 additional for the players secondary character.  Additionally the character may gain In Game Items, Resources, and Leaves depending on character skills and interactions.
+**Earliest Arrival**: 
 
-**Non-player Character Benefits**: 4 Character Points for a character with the ability to gain 4 additional for the character and 4 additional for a secondary character.
+**Opening Speech**: 9PM Friday
+
+**Game Start**: Directly after opening ceremonies Friday
+
+**Game End**: 11 AM Sunday
+
+**Closing Statements**: 11AM to 11:30AM Sunday
+
+**Personal Cleanup**: 11:30AM to 12 Noon Sunday
+
+**Site Cleanup**: 12 Noon to 1PM Sunday
+
+**Latest Offsite**: 2PM Sunday
+
+**Overnight Consideration**: Due to the close proximity of our sleeping arrangements we ask that all players respect the quiet hours of 1AM until 8AM within communal sleeping spaces.  Plot will not operate during these hours within sleeping areas to ensure players have the opportunity to receive enough rest.
+
+**Food**: None provided. Please see site information for nearby food options.
+
+**Player Character Benefits**: 4 character points for the character being played with the ability to gain 4 additional for the played character and 4 additional for the players secondary character.  Additionally the character may gain in game items, resources, and leaves depending on character skills and interactions.
+
+**Non-player Character Benefits**:  4 character points for a character with the ability to gain 4 additional for the character and 4 additional for a secondary character.
 
 ------
 
