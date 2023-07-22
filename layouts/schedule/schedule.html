@@ -10,7 +10,7 @@
 {{ $event_date := .Params.event_date | time }}
 {{- $gameend := $event_date.AddDate 0 0 2 -}}
 
-{{ $current_date := now | time }} 
+{{ $current_date := now.AddDate 0 0 -1 | time }} 
    {{ if (ge $event_date.Unix  $current_date.Unix) }} 
 
        <p><a href="{{.Permalink}}">
