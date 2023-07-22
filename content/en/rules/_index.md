@@ -163,7 +163,7 @@ NPCs are required to have appropriate footwear and clothing for the weather. Thi
 
 #### Danger Level 
 
-The planned difficulty of an event is listed on the schedule page in the danger level section.  This level is on a scale of 1 to 4 and is a rough estimate of the dangers players will face as well as a mechanic that has an effect on the [gathering]({{< ref "/rules/skills/#gathering" >}}) and [surgery]({{< ref "/rules/skills/#surgery" >}}) skills.  When a player uses the gathering or surgery skills, they will roll on the appropriate chart according to the danger level.
+The planned difficulty of an event is listed on the schedule page in the danger level section.  This level is on a scale of 1 to 4 and is a rough estimate of the dangers players will face as well as a mechanic that has an effect on the [gathering]({{< ref "/rules/skills/#gathering" >}}) and [surgery]({{< ref "/rules/skills/#surgery" >}}) skills.  When a player uses the [gathering]({{< ref "/rules/skills/#gathering" >}}) or [surgery]({{< ref "/rules/skills/#surgery" >}}) skills, they will roll on the appropriate chart according to the danger level.
 
 #### Faction Level
 
