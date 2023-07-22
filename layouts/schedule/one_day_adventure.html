@@ -8,7 +8,7 @@
 
 <h2> One Day Adventure - {{ $event_date.Format "January 02, 2006 (Monday)" }} </h2>
 <p></p>
-<p>A one day adventure is designed for small groups of 5 to 20 players and 5 to 10 NPCs. The players take part in 2 to 4 planned story adventures as well as 4 to 8 additional adventures of their choosing from available lineage/guild options. These adventures may include combat, puzzles, problem solving, role-playing, trading, and more. Non-Combat players are welcome as there are a number of skills, abilities, and stories that may/will not require combat.</p>
+<p>A one day adventure for small groups of 5 to 20 players and 5 to 10 NPCs. Players take part in 2 to 4 planned story adventures as well as 4 to 8 additional adventures of their choosing from available lineage and guild options. These adventures may include combat, puzzles, problem solving, role-playing, trading, and more. Non-Combat players are welcome as there are a number of skills, abilities, and stories that will not require combat.</p>
 
 <b>Registration Deadline</b>: {{ $registration_deadline.Format "January 02, 2006 (Monday)" }}</p>
 {{ if .Params.registration_url }} <p><a href="{{ .Params.registration_url }}">Register Here: </a> 
@@ -19,7 +19,7 @@ All players who register on or before this date get 1 CP towards their character
 <p>Player Characters finish registration by sending payment for the event. This can be done in 2 ways</p>
  <ul>
  <li>Paypal (BearNPC@gmail.com) <a href="https://www.paypal.com/cgi-bin/webscr?business=BearNPC@gmail.com&cmd=_xclick&currency_code=USD&amount=25&item_name={{- $event_date.Format "January 02, 2006" -}}&display='1'"><i class="fab fa-paypal"></i></a></li>
- <li>Mail to our office (BearNPC Productions LLC, 615 Terrace Ave. Apollo PA 15613). Please make all checks to BearNPC Productions LLC. </li>
+ <li>Check payable to BearNPC Productions LLC. by mail to our office (BearNPC Productions LLC, 615 Terrace Ave. Apollo PA 15613).</li>
 </ul> 
 
 <p><b>Earliest Arrival</b>: 9 AM - People who are interested in learning more about LARPing, new players, and new attendees to Crestfallen LARP are welcome to come and ask questions from 9 AM until 10:30 AM. We want everyone to feel comfortable prior to their first event. Any and all questions are welcome. We suggest using this time to have weapons, armor and costuming evaluated for points and safety.</p>
@@ -36,20 +36,17 @@ All players who register on or before this date get 1 CP towards their character
 
 <p><b>Non-player Character Benefits</b>: 2 Character Points for a character with the ability to gain 2 additional for the character and 2 additional for a secondary character.</p>
 
-<p><b>Danger Level:</b> {{ .Params.danger_level }}</p>
+<p><b><a href="/rules/#danger-level">Danger Level</a>:</b> {{ .Params.danger_level }}</p>
 
-<p><b>Undead Faction Level</b>: {{ .Params.undead_faction_level }}</p>
-
-<p><b>Goblin Faction Level</b>: {{ .Params.goblin_faction_level }}</p>
-
-<p><b>Gnoll Faction Level</b>: {{ .Params.gnoll_faction_level }}</p>
-
+<p><b>Undead <a href="/rules/#faction-level">Faction Level</a></b>: {{ .Params.undead_faction_level }}</p>
+<p><b>Goblin <a href="/rules/#faction-level">Faction Level</a></b>: {{ .Params.goblin_faction_level }}</p>
+<p><b>Gnoll <a href="/rules/#faction-level">Faction Level</a></b>: {{ .Params.gnoll_faction_level }}</p>
 <p><b>In Game Location</b>: {{ .Params.in_game_location }} </p>
 
 <p><b>Campsite</b>: 
 {{- if eq $oog_location "Northmoreland Park - Pavillion 6" -}} 
 <a href="/schedule/sites/northmoreland_park_pavilion_6/">Northmoreland Park - Pavillion 6</a>
-{{- else if eq $oog_location "Northmoreland Park - Pavillion 6" -}} 
+{{- else if eq $oog_location "Northmoreland Park - Pavillion 4" -}} 
 <a href="/schedule/sites/northmoreland_park_pavilion_4/">Northmoreland Park - Pavillion 4</a>
 {{- else if eq $oog_location "Knotted Pines" -}} 
 <a href="/schedule/sites/knotted_pines">Knotted Pines</a>
@@ -67,6 +64,5 @@ All players who register on or before this date get 1 CP towards their character
 <h2>Teaser</h2>
 {{ .Params.teaser | markdownify }}
 {{ end }} 
-
 
 {{ end }}
