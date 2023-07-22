@@ -1,0 +1,125 @@
+{{ define "main" }}
+{{- $event_date := .Params.event_date | time -}}
+{{- $registration_deadline := $event_date.AddDate 0 0 -9 -}}
+{{- $survey_deadline := $event_date.AddDate 0 0 9 -}}
+{{- $oog_location := .Params.oog_location -}}
+
+{{ .Render "content" }}
+
+<h2> Two Day Town Event - {{ $event_date.Format "January 02, 2006 (Monday)" }} </h2>
+<p></p>
+<p>A two day town event is designed for 10 to 30 players and 10+ NPCs. The players will take part in planned story adventures as well as additional adventures including lineage jobs, guild jobs, stockpiles, cards in the woods, and random encounters.  These adventures may include combat, puzzles, problem solving, role-playing, trading, and more.  Non-Combat players are welcome as there are a number of skills, abilities, and stories that may/will not require combat.</p>
+<ul>
+<li><b>Friday night</b>: is typically focused around getting into character and planning Saturdays work (signing up for jobs in folders, discussing recent goings on, reading the All-of Branch paper, scouting the site, crafting, gathering, etc.). Some small planned adventures may occur on Friday, but this is rare.  </li>
+<li><b>Saturday</b> will focus on adventures, random encounters, and storyline.  Plot will shut down between 11PM and 1AM depending on site and plot requirements. </li>
+<li><b>Sunday</b> will focus on cleaning up loose ends such as adventures that needed to be rescheduled, as well as crafting, gathering, and acting among players.</li>
+</ul>
+<p><b>Registration Deadline</b>: {{ $registration_deadline.Format "January 02, 2006 (Monday)" }}</p>
+{{ if .Params.registration_url }} <p><a href="{{ .Params.registration_url }}">Register Here: </a> 
+All players who register on or before this date get 1 CP towards their character. We do this to show appreciation to you for giving us more time to plan for the event and better entertain you!{{ end }} If you do not register for the event by this date, please just show up to the event and pay/register there. You may still attend by showing up on site, but setup may be more difficult. We highly recommend registration online to improve the experience.</p>
+
+
+<p><b>Event Cost</b>: Player Characters $25.00, Non-Player Characters $0.00</p>
+<p>Player Characters finish registration by sending payment for the event. This can be done in 2 ways</p>
+ <ul>
+ <li>Paypal (BearNPC@gmail.com) <a href="https://www.paypal.com/cgi-bin/webscr?business=BearNPC@gmail.com&cmd=_xclick&currency_code=USD&amount=25&item_name={{- $event_date.Format "January 02, 2006" -}}&display='1'"><i class="fab fa-paypal"></i></a></li>
+ <li>Check payable to BearNPC Productions LLC. by mail to our office (BearNPC Productions LLC, 615 Terrace Ave. Apollo PA 15613).</li>
+</ul> 
+
+<p><b>Earliest Arrival</b>: 9 AM - People who are interested in learning more about LARPing, new players, and new attendees to Crestfallen LARP are welcome to come and ask questions from 9 AM until 10:30 AM. We want everyone to feel comfortable prior to their first event. Any and all questions are welcome. We suggest using this time to have weapons, armor and costuming evaluated for points and safety.</p>
+<p><b>Opening Speech</b>: 9PM Friday</p>
+
+<p><b>Game Start</b>: 11 AM</p>
+
+<p><b>Game End</b>: 5 PM</p>
+
+<p><b>Latest Offsite</b>: 9 PM</p>
+
+<p><b>Food</b>: {{if .Params.food }} {{ .Params.food }} {{ else }} None provided. Please bring a lunch or plan on getting food directly after. We will try to get food as a group somewhere local if cleanup and offsite occurs quickly.{{ end }}</p>
+
+<p><b>Player Character Benefits</b>: 2 Character Points for the character being played with the ability to gain 2 additional for the played character and 2 additional for the players secondary character. Additionally the character may gain In Game Items, Resources, and Leaves depending on character skills and interactions.</p>
+
+<p><b>Non-player Character Benefits</b>: 2 Character Points for a character with the ability to gain 2 additional for the character and 2 additional for a secondary character.</p>
+
+<p><b><a href="/rules/#danger-level">Danger Level</a>:</b> {{ .Params.danger_level }}</p>
+
+<p><b>Undead <a href="/rules/#faction-level">Faction Level</a></b>: {{ .Params.undead_faction_level }}</p>
+<p><b>Goblin <a href="/rules/#faction-level">Faction Level</a></b>: {{ .Params.goblin_faction_level }}</p>
+<p><b>Gnoll <a href="/rules/#faction-level">Faction Level</a></b>: {{ .Params.gnoll_faction_level }}</p>
+<p><b>In Game Location</b>: {{ .Params.in_game_location }} </p>
+
+<p><b>Campsite</b>: 
+{{- if eq $oog_location "Northmoreland Park - Pavillion 6" -}} 
+<a href="/schedule/sites/northmoreland_park_pavilion_6/">Northmoreland Park - Pavillion 6</a>
+{{- else if eq $oog_location "Northmoreland Park - Pavillion 4" -}} 
+<a href="/schedule/sites/northmoreland_park_pavilion_4/">Northmoreland Park - Pavillion 4</a>
+{{- else if eq $oog_location "Knotted Pines" -}} 
+<a href="/schedule/sites/knotted_pines">Knotted Pines</a>
+{{- else -}}
+{{- $oog_location -}}
+{{ end }}
+</p>
+
+<p><b>Event Director</b>: {{ if .Params.event_director }} {{ .Params.event_director }}{{ else }}Beren Olean{{ end }}</p>
+
+<p><b>Food</b>: {{ if .Params.food }} {{ .Params.food }} {{ else }} Not provided. Please bring a lunch or plan on getting food directly after. We will try to get food as a group somewhere local if cleanup and offsite occurs quickly.{{ end }}</p>
+
+<p><b>Event Survey</b>: Available {{ $event_date.Format "January 02, 2006 (Monday)" }} thru {{ $survey_deadline.Format "January 02, 2006 (Monday)" }}.</p>
+{{ if  .Params.teaser }}
+<h2>Teaser</h2>
+{{ .Params.teaser | markdownify }}
+{{ end }} 
+
+
+
+
+
+
+
+
+
+
+
+
+### ****
+
+Crestfallen Two Day Town Events are usually held at a Camp Ground or State Park
+
+**Cost**: (tentative) $60 for full event PCs, $30 for one day PCs, $0 for NPCs 
+
+**Description**: 
+
+**Gathering Hall**: The gathering hall is where players may access lineage and guild folders, roll for their gathering skill checks, and finalize their crafted items.  The gathering hall will be open for operation from game start until 1AM on Friday into Saturday, 8 AM until 1AM Saturday into Sunday, and 8AM until game end on Sunday.  These times are subject to change, but will be clearly listed at the gathering hall.  Players may use the crafting or gathering skills no more than 2 times while the gathering hall is closed and must complete their dice rolls before crafting or gathering again.
+
+**New/Interested?**:  People who are interested in learning more about LARPing, new players, and new attendees to Crestfallen LARP are welcome to come and ask questions Friday evening from game start until 11 PM.  We will hold an introductory workshop for anyone who is new or is in need of a refresher regarding Crestfallen LARP.  We want everyone to feel comfortable prior to their first event.  Any and all questions are welcome.  We highly suggest using this time to have weapons/armor/costuming evaluated for points and safety.
+
+**Pre - Registration Deadline**: 2 Fridays prior to the event (8 Full Days)
+
+**Registration Cut Off:** 2 Days prior to the event (If you do not register for the event by this date, please just show up to the event and pay/register there. You may still attend by showing up on site, but setup may be more difficult. We highly recommend registration online to improve the experience.)
+
+**Tentative Schedule**: Setup ? PM Friday, Check In - 8PM to 9PM Friday, Opening Speech - 9PM Friday, Game Start 9:15 Friday, Introductory Workshop - 9:15 Friday, Closing Statements 11AM Sunday, Personal Clean Up 11:30AM Sunday, Site Clean Up 12 Noon Sunday, Offsite ASAP Sunday.
+
+**Earliest Arrival**: 
+
+**Opening Speech**: 9PM Friday
+
+**Game Start**: Directly after opening ceremonies Friday
+
+**Game End**: 11 AM Sunday
+
+**Closing Statements**: 11AM to 11:30AM Sunday
+
+**Personal Cleanup**: 11:30AM to 12 Noon Sunday
+
+**Site Cleanup**: 12 Noon to 1PM Sunday
+
+**Latest Offsite**: 2PM Sunday
+
+**Overnight Consideration**: Due to the close proximity of our sleeping arrangements we ask that all players respect the quiet hours of 1AM until 8AM within communal sleeping spaces.  Plot will not operate during these hours within sleeping areas to ensure players have the opportunity to receive enough rest.
+
+**Food**: None provided. Please see site information for nearby food options.
+
+**Player Character Benefits**: 4 character points for the character being played with the ability to gain 4 additional for the played character and 4 additional for the players secondary character.  Additionally the character may gain in game items, resources, and leaves depending on character skills and interactions.
+
+**Non-player Character Benefits**:  4 character points for a character with the ability to gain 4 additional for the character and 4 additional for a secondary character.
+{{ end }}
