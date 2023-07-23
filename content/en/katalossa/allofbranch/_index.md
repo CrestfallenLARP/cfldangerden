@@ -3,11 +3,14 @@
 title: "The All-of-Branch"
 linkTitle: "All-of-Branch"
 weight: 50
-type: "blog"
+layout: allofbranch
+type: docs
 cascade:
-  - type: "blog"
+  type: docs
 
 ---
+
+![Logo Of the All-of-branch](/allofbranchlogo.png)
 
 Hello authors!
 
