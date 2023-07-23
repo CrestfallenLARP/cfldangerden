@@ -2,6 +2,8 @@
 ---
 title: "Magical Wanderers"
 
+linktitle: 2022-10-06  Magical Wanderers
+
 date: 2022-10-06
 author: "Beren Olean"
 desription: "The Inspired source for everything newsworthy."

@@ -1,7 +1,7 @@
 
 ---
 title: "Goblin Menace"
-
+linktitle: 2022-10-06  Goblin Menace
 date: 2022-10-06
 author: "Beren Olean"
 desription: "The Inspired source for everything newsworthy."

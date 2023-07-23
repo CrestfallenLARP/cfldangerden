@@ -1,7 +1,7 @@
 
 ---
 title: "Library Mishap"
-
+linktitle: 2022-10-06  Library Mishap
 date: 2022-10-06
 author: "Beren Olean"
 desription: "The Inspired source for everything newsworthy."
