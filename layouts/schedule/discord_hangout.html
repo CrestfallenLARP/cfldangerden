@@ -1,13 +1,20 @@
 {{ define "main" }}
 {{- $event_date := .Params.event_date | time -}}
-<h1>Discord Hangout - {{ $event_date.Format "January 02, 2006 (Monday)" }} </h1>
-
-
+<h1>Discord Hangout - {{ $event_date.Format "January 02, 2006 (Monday)" -}}</h1>
 
 <p>Crestfallen holds Discord Hangouts on the first Tuesday of each month. The main purpose for these are to create a place where new or interested people can ask questions from players and staff outside of full events. While we have a rough agenda planned out, these get togethers are a great way to clear up confusion, help plan a character, and get to know the community before even showing up to an event. Our goal is to make people comfortable with the people and concepts of the game before committing to the travel and costuming of One and Two Day in person events.</p>
 
 </p>These hangouts are out of game discussions only, though we may practice particular roleplaying elements at the request of players taking part.<p>
-
+<p><b>Calendar Links</b>: 
+{{ with  .OutputFormats.Get "calendar" -}}
+  <a href="{{ .Permalink | safeURL }}"><img src="/images/logos/ics.png" alt="ICS Calendar File" style="width:48px;height:48px;"></a>
+{{- end }}
+{{- $discord_hangout_blurb := "Crestfallen holds Discord Hangouts on a regular basis. The main purpose for these are to create a place where new or interested people can ask questions from players and staff outside full events. While we have a rough agenda planned out, these get togethers are a great way to clear up confusion, help plan a character, and get to know the community before even showing up to an event. Our goal is to make people comfortable with the people and concepts of the game before committing to the travel and costuming of One and Two Day in person events.<br>These hangouts are out of game discussions only, though we may practice particular roleplaying elements at the request of players taking part." -}}
+{{- $event_date_start := print .Params.event_date " 16:30:00 -0600 EST" -}}
+{{- $event_date_end := print .Params.event_date " 18:30:00 -0600 EST" -}}
+{{- $event_title := "Crestfallen LARP Discord Hangout" -}}
+{{- $oog_location_for_google_calendar := "https://www.crestfallenlarp.com/discord" -}}
+<a href="https://www.google.com/calendar/render?action=TEMPLATE&text={{- $event_title -}}&dates={{- dateFormat "20060102T150405" $event_date_start -}}/{{- dateFormat "20060102T150405" $event_date_end -}}&details={{- .Params.teaser -}}+<br>{{- $discord_hangout_blurb -}}+<br><br>{{- .Permalink -}}&location={{- $oog_location_for_google_calendar -}}&sf=true&output=xml" target="_blank" class="highlight"><img src="/images/logos/gcal.svg" alt="Google Calendar" style="width:48px;height:48px;"></a></p>
 <p><b>Cost</b>: None</p>
 
 <p><b>Preregistration Deadline</b>: None - However if players wish to gain benefits, the players real name and email will be required.</p>
