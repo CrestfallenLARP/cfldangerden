@@ -1,14 +1,12 @@
 
 ---
-title: "The All-of Branch"
-linkTitle: "November 2023"
+title: "Library Mishap"
+
 date: 2022-10-06
 author: "Beren Olean"
 desription: "The Inspired source for everything newsworthy."
 
 ---
-
-## Library Mishap
 
 *The Research Guild of the Inspired has made the following official declaration and has in no way, shape, or form been edited.*
 
