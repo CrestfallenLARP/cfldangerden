@@ -27,7 +27,6 @@ params:
     pygmentsUseClassic: false
     pygmentsStyle: tango
   copyright: Beren Olean
-  privacy_policy: 'https://policies.google.com/privacy'
   version_menu: Releases
   archived_version: false
   version: '0.0'
@@ -84,9 +83,7 @@ imaging:
   resampleFilter: CatmullRom
   quality: 75
   anchor: smart
-services:
-  googleAnalytics:
-    id: UA-00000000-0
+
 languages:
   en:
     title: Crestfallen
