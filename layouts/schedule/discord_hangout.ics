@@ -1,0 +1,23 @@
+{{- $event_date := .Params.event_date | time -}}
+{{- $event_date_start := print .Params.event_date " 09:00:00 -0600 EST" -}}
+{{- $event_date_end := print .Params.event_date " 20:00:00 -0600 EST" -}}
+
+{{- $oog_location := .Params.oog_location -}}
+
+
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:{{- dateFormat "20060102T150405" $event_date -}}
+STATUS:CONFIRMED
+UID:{{dateFormat "20060102T150405" $event_date}}@crestfallenlarp.com
+DTSTART:{{dateFormat "20060102T150405" $event_date_start}}
+DTEND:{{dateFormat "20060102T150405" $event_date_end}}
+SUMMARY:Crestfallen LARP One Day Adventure: {{.Title}}
+DESCRIPTION:A one day adventure for small groups of 5 to 20 players and 5 to 10 NPCs. Players take part in 2 to 4 planned story adventures as well as 4 to 8 additional adventures of their choosing from available lineage and guild options. These adventures may include combat, puzzles, problem solving, role-playing, trading, and more. Non-Combat players are welcome as there are a number of skills, abilities, and stories that will not require combat.(Info: {{with .Params.link}}{{.}}{{else}}{{.Permalink}}{{end}})
+LOCATION:{{with $oog_location}}{{.}}{{else}}TBD{{end}}
+X-ALT-DESC;FMTTYPE=text/html:{{.Title}}<br>Location: {{with $oog_location}}{{.}}{{else}}TBD{{end}}<br>{{with .Params.link }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}
+END:VEVENT
+END:VCALENDAR
