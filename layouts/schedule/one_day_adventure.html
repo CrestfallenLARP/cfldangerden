@@ -1,18 +1,43 @@
 {{ define "main" }}
+
 {{- $event_date := .Params.event_date | time -}}
+{{- $event_date_start := print .Params.event_date " 09:00:00 -0600 EST" -}}
+{{- $event_date_end := print .Params.event_date " 20:00:00 -0600 EST" -}}
 {{- $registration_deadline := $event_date.AddDate 0 0 -9 -}}
 {{- $survey_deadline := $event_date.AddDate 0 0 9 -}}
 {{- $oog_location := .Params.oog_location -}}
+{{- $oog_location_for_google_calendar := "40.580056,-79.603361" -}}
+
 
 {{ .Render "content" }}
 
 <h2> One Day Adventure - {{ $event_date.Format "January 02, 2006 (Monday)" }} </h2>
 <p></p>
 <p>A one day adventure for small groups of 5 to 20 players and 5 to 10 NPCs. Players take part in 2 to 4 planned story adventures as well as 4 to 8 additional adventures of their choosing from available lineage and guild options. These adventures may include combat, puzzles, problem solving, role-playing, trading, and more. Non-Combat players are welcome as there are a number of skills, abilities, and stories that will not require combat.</p>
+<p><b>Calendar Links</b>: 
+
+{{ with  .OutputFormats.Get "calendar" -}}
+  <a href="{{ .Permalink | safeURL }}"><img src="/images/logos/ics.png" alt="ICS Calendar File" style="width:48px;height:48px;"></a>
+{{- end }}
+
+{{- if eq $oog_location "Northmoreland Park - Pavillion 6" -}} 
+{{ $oog_location_for_google_calendar := "Northmoreland+Park+-+Pavillion+6" }}
+{{ $oog_location_for_google_calendar := "40.580056,-79.603361" }}
+{{- else if eq $oog_location "Northmoreland Park - Pavillion 4" -}} 
+<a href="/schedule/sites/northmoreland_park_pavilion_4/">Northmoreland Park - Pavillion 4</a>
+{{- else if eq $oog_location "Knotted Pines" -}} 
+<a href="/schedule/sites/knotted_pines">Knotted Pines</a>
+{{- else -}}
+{{- end -}}
+{{- $one_day_adventure_blurb := "A one day adventure for small groups of 5 to 20 players and 5 to 10 NPCs. Players take part in 2 to 4 planned story adventures as well as 4 to 8 additional adventures of their choosing from available lineage and guild options. These adventures may include combat, puzzles, problem solving, role-playing, trading, and more. Non-Combat players are welcome as there are a number of skills, abilities, and stories that will not require combat." -}}
+{{- $event_date_start := print .Params.event_date " 09:00:00 -0600 EST" -}}
+{{- $event_date_end := print .Params.event_date " 20:00:00 -0600 EST" -}}
+{{- $event_title := "Crestfallen LARP One Day Adventure" -}}
+<a href="https://www.google.com/calendar/render?action=TEMPLATE&text={{- $event_title -}}&dates={{- dateFormat "20060102T150405" $event_date_start -}}/{{- dateFormat "20060102T150405" $event_date_end -}}&details={{- .Params.teaser -}}+<br>{{- $one_day_adventure_blurb -}}+<br><br>{{- .Permalink -}}&location={{- $oog_location_for_google_calendar -}}&sf=true&output=xml" target="_blank" class="highlight"><img src="/images/logos/gcal.svg" alt="Google Calendar" style="width:48px;height:48px;"></a></p>
+{{ if .Params.registration_url }} <h2><a href="{{ .Params.registration_url }}">Register Here!</a> </h2>
 
 <b>Registration Deadline</b>: {{ $registration_deadline.Format "January 02, 2006 (Monday)" }}</p>
-{{ if .Params.registration_url }} <p><a href="{{ .Params.registration_url }}">Register Here: </a> 
-All players who register on or before this date get 1 CP towards their character. We do this to show appreciation to you for giving us more time to plan for the event and better entertain you!{{ end }} If you do not register for the event by this date, please just show up to the event and pay/register there. You may still attend by showing up on site, but setup may be more difficult. We highly recommend registration online to improve the experience.</p>
+<p>All players who register on or before this date get 1 CP towards their character. We do this to show appreciation to you for giving us more time to plan for the event and better entertain you!{{ end }} If you do not register for the event by this date, please just show up to the event and pay/register there. You may still attend by showing up on site, but setup may be more difficult. We highly recommend registration online to improve the experience.</p>
 
 
 <p><b>Event Cost</b>: Player Characters $25.00, Non-Player Characters $0.00</p>
@@ -21,8 +46,11 @@ All players who register on or before this date get 1 CP towards their character
  <li>Paypal (BearNPC@gmail.com) <a href="https://www.paypal.com/cgi-bin/webscr?business=BearNPC@gmail.com&cmd=_xclick&currency_code=USD&amount=25&item_name={{- $event_date.Format "January 02, 2006" -}}&display='1'"><i class="fab fa-paypal"></i></a></li>
  <li>Check payable to BearNPC Productions LLC. by mail to our office (BearNPC Productions LLC, 615 Terrace Ave. Apollo PA 15613).</li>
 </ul> 
-<p>Crestfallen LARP and its players attempt to supply free events to those who are struggling financially.  If you would like to be considered for a financial assistance free event please send an email to <a href="mailto:CrestfallenLARP@gmail.com?subject=Crestfallen Larp Event Financial Assistance">CrestfallenLARP@gmail.com</a>.  We want to keep these requests confidential.  Everyone needs a break from the daily grind.</p>
-<p><b>Earliest Arrival</b>: 9 AM - People who are interested in learning more about LARPing, new players, and new attendees to Crestfallen LARP are welcome to come and ask questions from 9 AM until 10:30 AM. We want everyone to feel comfortable prior to their first event. Any and all questions are welcome. We suggest using this time to have weapons, armor and costuming evaluated for points and safety.</p>
+<p>Crestfallen LARP and its players supply free events to those who are struggling financially. If you would like to be considered for a financial assistance free event please send an email to <a href="mailto:CrestfallenLARP@gmail.com?subject=Crestfallen Larp Event Financial Assistance">CrestfallenLARP@gmail.com</a>. We keep these requests confidential. Everyone needs a break from the daily grind.</p>
+<p><b>Earliest Arrival</b>: 9 AM
+<ul>
+<li>People who are interested in learning more about LARPing, new players, and new attendees to Crestfallen LARP are welcome to come and ask questions from 9 AM until 10:30 AM. We want everyone to feel comfortable prior to their first event. Any and all questions are welcome.</li>
+<li>We suggest using this time to have weapons, armor and costuming evaluated for points and safety.</li></ul></p>
 
 <p><b>Game Start</b>: 11 AM</p>
 
@@ -64,5 +92,6 @@ All players who register on or before this date get 1 CP towards their character
 <h2>Teaser</h2>
 {{ .Params.teaser | markdownify }}
 {{ end }} 
+
 
 {{ end }}
