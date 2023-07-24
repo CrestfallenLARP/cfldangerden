@@ -18,3 +18,5 @@ handicapped accessable outhouse right next to the pavilion.
 
 larger restrooms nearby.
 
+As the road to the pavillion is not listed, you may paste the following into google maps for accurate pathing: 8X6X+P74, South Park Township, PA
+Once you reach the field, you will make the right turn and follow the path until you arrive at the first Pavillion. That is Willow Tree. See less
