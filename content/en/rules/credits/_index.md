@@ -10,6 +10,8 @@ type: "docs"
 
 **Writing**: Beren Olean
 
+**Editing**: Sheri Errico, Chaz Linn
+
 **Art and Logo**: Erica Pozanco Gómez aka Valkayaki ([valkabarai@gmail.com](mailto:valkabarai@gmail.com), [instagram.com/valkayaki](https://instagram.com/valkayaki))
 
 ## Acknowledgments
