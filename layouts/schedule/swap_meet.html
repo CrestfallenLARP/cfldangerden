@@ -1,78 +1,59 @@
 {{ define "main" }}
+{{- $event_date := .Params.event_date | time -}}
+{{- $event_date_start := print .Params.event_date " 09:00:00 -0600 EST" -}}
+{{- $event_date_end := print .Params.event_date " 20:00:00 -0600 EST" -}}
+{{- $oog_location := .Params.oog_location -}}
+{{- $oog_location_for_google_calendar := "" -}}
+{{ partial "sites.html" . }}
 
 <h2>Crestfallen LARP sponsored SWPA LARP Swap meet</h2>
-<p>Drop offs before the event</p>
+
+<p><b>Calendar Links</b>: 
+{{- $one_day_adventure_blurb := "A one day adventure for small groups of 5 to 20 players and 5 to 10 NPCs. Players take part in 2 to 4 planned story adventures as well as 4 to 8 additional adventures of their choosing from available lineage and guild options. These adventures may include combat, puzzles, problem solving, role-playing, trading, and more. Non-Combat players are welcome as there are a number of skills, abilities, and stories that will not require combat." -}}
+{{- $event_date_start := print .Params.event_date " 09:00:00 -0600 EST" -}}
+{{- $event_date_end := print .Params.event_date " 20:00:00 -0600 EST" -}}
+{{- $event_title := "Crestfallen LARP One Day Adventure" -}}
+<a href="https://www.google.com/calendar/render?action=TEMPLATE&text={{- $event_title -}}&dates={{- dateFormat "20060102T150405" $event_date_start -}}/{{- dateFormat "20060102T150405" $event_date_end -}}&details={{- .Params.teaser -}}+<br>{{- $one_day_adventure_blurb -}}+<br><br>{{- .Permalink -}}&location={{- $oog_location_for_google_calendar -}}&sf=true&output=xml" target="_blank" class="highlight"><img src="/images/logos/gcal.svg" alt="Google Calendar" style="width:48px;height:48px;"></a>
+<a href="{{- .Params.facebook_event_url -}}" target="_blank" class="highlight"><img src="/images/logos/facebook.svg" alt="Facebook Event" style="width:48px;height:48px;"></a></p>
 
 
-https://www.facebook.com/events/1282688342485053/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D
+<p><b>Event Cost</b>: NO COST OF ENTRY. ALL LARP ENTHUSIASTS WELCOME. If you just wish to come out and meet some other larpers or promote the game you play, please feel welcome!</p></p>
 
+<p><b>Earliest Arrival</b>: 9 AM
 
+<p><b>Swap Meet Start</b>: 10 AM</p>
 
-Crestfallen LARP and BearNPC Productions will be hosting our 2023 LARP Swap Meet on July 2nd 2023 at South Park at the Willow Tree Shelter off of Maple Springs Drive.
-We will be holding the swap meet from 10am to 4pm, however I will be onsite from 9am and people are free to hang out past 4pm as the site is rented until sunset.
-NO COST OF ENTRY
-ALL LARP ENTHUSIASTS WELCOME
-We hope for this event to be the first of many cross-game-systen community events to help stimulate the local LARPing community growth. As such, if you just wish to come out and meet some other larpers or promote the game you play, please feel welcome!
-For those interested in Creatfallen LARP, new players who sign up for Crestfallen and current players who show up and help/talk with people will get 2 Character Points towards a character.
-Attendees are encouraged to barter and trade their worn items with others or agree to a garage-sale-esque cash value for interested parties.
-If you wish to promote your crafted items, show off some of your work, or even take commissions, we encourage all interested craftspeople to come and promote your business as well.
-Please be aware that table space is limited and is on a first come, first served basis. If you need a large amount of table space to display your items, please err on the side of caution and bring a table with you.
-As the road to the pavillion is not listed, you may paste the following into google maps for accurate pathing: 8X6X+P74, South Park Township, PA
-Once you reach the field, you will make the right turn and follow the path until you arrive at the first Pavillion. That is Willow Tree. See less
+<p><b>Swap Meet End</b>: 4 PM</p>
 
+<p><b>Latest Offsite</b>: Sunset</p>
 
+</p>
 
+<p>For those interested in Creatfallen LARP, new players who sign up for Crestfallen and current players who show up and help/talk with people will get 2 Character Points towards a character.</p>
+<p>Attendees are encouraged to barter and trade their worn items with others or agree to a garage-sale-esque cash value for interested parties.</p>
+<p>If you wish to promote your crafted items, show off some of your work, or even take commissions, we encourage all interested craftspeople to come and promote your business as well.</p>
+<p>Table space is limited and is on a first come, first served basis. If you need a large amount of table space to display your items, please err on the side of caution and bring a table with you.</p>
 
-
-
-<p>All clothing must be laundered</p>
-
-<p>What happens with stuff that is not claimed</p>
-
-<p>Still need to adhere to the crestfallen code of conduct</p>
-
-<p>Demo scenario</p>
-
-<p>List games that will demo and schedule</p>
-
-<p>Links to websites</p>
+<p>all attendees must adhere to the crestfallen code of conduct https://crestfallenlarp.com/rules/#code-of-conduct</p>
 <hr>
-<p>the tables need tablecloths</p>
-<hr>
-<p>Western PA </p>
-<p>LARP </p>
-<p>Swap Meet</p>
-
-<p>Get some used props or clear out your closet!
-
-
-sponsored by crestfallen larp
-    https://crestfallenlarp.com/
+<h2>Sponsored by Crestfallen LARP</h1>
+<p><a href="https://crestfallenlarp.com" target="_blank"><img src="/images/logos/crestfallen_logo.svg" alt="Crestfallen" style="height:200px;"></a></p>
     
-with represenatives form 
-    Tristate Adventuring Guild  (TAG)
-    game name Odyssey
-    https://discord.com/invite/2QZzCHWAHA
+<p>with representatives from </p>
 
-    Immersive Role-playing (IRP)
-    https://www.facebook.com/groups/566695204827781
-    Immersiveroleplayinggsme@gmail.com
+<p><a href="https://tag-gaming.godaddysites.com" target="_blank"><img src="/images/logos/tag_gaming.png" alt="TAG Gaming" style="height:100px;"></a></p>
+   <p>A local larp group starting a new game named Odyssey Join their discord server here<a href="https://discord.com/invite/2QZzCHWAHA" target="_blank" class="highlight"><img src="/images/logos/discord.svg" alt="Facebook Event" style="width:48px;height:48px;"></a> </p>
 
-    argo flag 
-    https://www.facebook.com/groups/321731124505370
-    https://www.argofantasyliveactiongaming.com
+<p><a href="https://www.facebook.com/groups/566695204827781" target="_blank"><img src="/images/logos/irp.jpg" alt="Immersive Roleplaying" style="height:100px;"></a></p>
+   <p>A local group starting a new game email them for more details at <a href="mailto:Immersiveroleplayinggsme@gmail.com">Immersiveroleplayinggsme@gmail.com</a> </p>
 
+<p><a href="https://www.argofantasyliveactiongaming.com" target="_blank"><img src="/images/logos/argo_flag_logo.jpg" alt="argo flag" style="height:100px;"></a></p>
+    <p>https://www.facebook.com/groups/321731124505370</p>
 
-    pro 
-    https://twitter.com/pro_larp
-    https://www.facebook.com/PROLARP
-    https://www.pittsburghroleplaying.com/events.html
+<p><a href="https://www.pittsburghroleplaying.com" target="_blank"><img src="/images/logos/prolarp.jpg" alt="Pro LARP" style="height:100px;"></a></p>
+    <p>https://twitter.com/pro_larp</p>
+    <p>https://www.facebook.com/PROLARP</p>
 
-
- https://crestfallenlarp.com/swapmeet/ 
- 
- all attendees must adhere to the crestfallen code of conduct https://crestfallenlarp.com/rules/#code-of-conduct
- 
  {{ .Render "content" }}
 
 {{ end }}
