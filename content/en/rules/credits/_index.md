@@ -1,12 +1,17 @@
 ---
-title: "Credits"
+title: "Credits and Acknowledgments"
 linkTitle: "Credits"
 weight: 10
 type: "docs"
 
 ---
 
+## Credits
 
+Writing: Beren Olean
+Art and Logo: Valkayaki (valkabarai@gmail.com, instagram.com/valkayaki)
+
+## Acknowledgments
 
 Crestfallen wouldn’t be the game that it is without our previous LARP experiences, both good and bad. Thank you to the previous games we have owned, run, staffed, and attended. The lessons we have learned from these experiences have been invaluable.
 
