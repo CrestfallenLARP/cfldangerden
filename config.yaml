@@ -75,6 +75,9 @@ params:
       - name: Email the Staff
         url: 'mailto:CrestfallenLARP@gmail.com'
         icon: fa fa-envelope
+      # - name: Join the Mailing List
+      #  url: 'https://buttondown.email/CrestfallenLARP'
+      #  icon: fa fa-envelope
 
 
 permalinks:
@@ -97,10 +100,14 @@ markup:
   highlight:
     style: tango
 outputs:
-  section:
+  page:
     - HTML
     - print
     - RSS
+
+outputFormats:
+  Calendar:
+    protocol: "https://"
 module:
   hugoVersion:
     extended: true

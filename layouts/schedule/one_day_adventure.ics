@@ -1,7 +1,6 @@
 {{- $event_date := .Params.event_date | time -}}
 {{- $event_date_start := print .Params.event_date " 09:00:00 -0600 EST" -}}
 {{- $event_date_end := print .Params.event_date " 20:00:00 -0600 EST" -}}
-
 {{- $oog_location := .Params.oog_location -}}
 
 
