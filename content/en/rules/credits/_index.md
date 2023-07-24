@@ -10,7 +10,7 @@ type: "docs"
 
 **Writing**: Beren Olean
 
-**Art and Logo**: Valkayaki ([valkabarai@gmail.com](mailto:valkabarai@gmail.com), [instagram.com/valkayaki](https://instagram.com/valkayaki))
+**Art and Logo**: Erica Pozanco Gómez aka Valkayaki ([valkabarai@gmail.com](mailto:valkabarai@gmail.com), [instagram.com/valkayaki](https://instagram.com/valkayaki))
 
 ## Acknowledgments
 
