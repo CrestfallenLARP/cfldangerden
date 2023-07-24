@@ -20,4 +20,9 @@ cascade:
   outputs: 
     - HTML
     - Calendar
+- _target:
+    layout: swap_meet
+  outputs: 
+    - HTML
+    - Calendar
 ---
