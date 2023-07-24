@@ -9,7 +9,8 @@ type: "docs"
 ## Credits
 
 Writing: Beren Olean
-Art and Logo: Valkayaki (valkabarai@gmail.com, instagram.com/valkayaki)
+
+Art and Logo: Valkayaki ([mailto:valkabarai@gmail.com](https://instagram.com/valkayaki), [instagram.com/valkayaki](https://instagram.com/valkayaki))
 
 ## Acknowledgments
 
