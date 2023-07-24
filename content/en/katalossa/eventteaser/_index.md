@@ -1,6 +1,6 @@
 ---
 title: "Event Teasers"
-linkTitle: "Event Teaser"
+linkTitle: "Event Teasers"
 weight: 45
 type: "blog"
 cascade:
