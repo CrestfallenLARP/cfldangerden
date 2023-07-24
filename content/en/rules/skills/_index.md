@@ -1558,9 +1558,9 @@ This skill allows a character to attempt surgery on a target.
 
 ### Surgery Chart
 
-{{< tabpane text=true  >}}
+{{< tabpane text=true  lang="en" >}}
   {{% tab header="**Danger Level**:" disabled=true /%}}
-  {{% tab header="1" lang="en" %}}
+  {{% tab header="1"  %}}
 
 | die roll | result                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -1571,7 +1571,7 @@ This skill allows a character to attempt surgery on a target.
 | 91-100%  | Succeess + Stamina + Surgery ST returned to surgeon          |
 
   {{< /tab >}}
-  {{% tab header="2" lang="en" %}}
+  {{% tab header="2" %}}
 
 | die roll | result                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -1582,7 +1582,7 @@ This skill allows a character to attempt surgery on a target.
 | 91-100%  | Succeess + Stamina + Surgery ST returned to surgeon          |
 
  {{< /tab >}}
-  {{% tab header="3" lang="en" %}}
+  {{% tab header="3"  %}}
 
 | die roll | result                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -1593,7 +1593,7 @@ This skill allows a character to attempt surgery on a target.
 | 91-100%  | Succeess + Stamina + Surgery ST returned to surgeon          |
 
   {{% /tab %}}
-  {{% tab header="4" lang="en" %}}
+  {{% tab header="4" %}}
 
 | die roll | result                                                       |
 | -------- | ------------------------------------------------------------ |
