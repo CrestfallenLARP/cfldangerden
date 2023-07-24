@@ -4,11 +4,13 @@
 {{- $event_date_end := print .Params.event_date " 20:00:00 -0600 EST" -}}
 {{- $oog_location := .Params.oog_location -}}
 {{- $oog_location_for_google_calendar := "" -}}
-{{ partial "sites.html" . }}
 
-<h2>Crestfallen LARP sponsored SWPA LARP Swap meet</h2>
+<h2>Crestfallen LARP sponsored SWPA LARP Swap meet <br>{{ $event_date.Format "January 02, 2006 (Monday)" }} </h2>
 
 <p><b>Calendar Links</b>: 
+{{ with  .OutputFormats.Get "calendar" -}}
+  <a href="{{ .Permalink | safeURL }}"><img src="/images/logos/ics.png" alt="ICS Calendar File" style="width:48px;height:48px;"></a>
+{{- end }}
 {{- $one_day_adventure_blurb := "A one day adventure for small groups of 5 to 20 players and 5 to 10 NPCs. Players take part in 2 to 4 planned story adventures as well as 4 to 8 additional adventures of their choosing from available lineage and guild options. These adventures may include combat, puzzles, problem solving, role-playing, trading, and more. Non-Combat players are welcome as there are a number of skills, abilities, and stories that will not require combat." -}}
 {{- $event_date_start := print .Params.event_date " 09:00:00 -0600 EST" -}}
 {{- $event_date_end := print .Params.event_date " 20:00:00 -0600 EST" -}}
@@ -27,6 +29,8 @@
 
 <p><b>Latest Offsite</b>: Sunset</p>
 
+<p><b>Site</b>: 
+{{- partial "sites.html" . -}}
 </p>
 
 <p>For those interested in Creatfallen LARP, new players who sign up for Crestfallen and current players who show up and help/talk with people will get 2 Character Points towards a character.</p>
@@ -36,23 +40,17 @@
 
 <p>all attendees must adhere to the crestfallen code of conduct https://crestfallenlarp.com/rules/#code-of-conduct</p>
 <hr>
-<h2>Sponsored by Crestfallen LARP</h1>
-<p><a href="https://crestfallenlarp.com" target="_blank"><img src="/images/logos/crestfallen_logo.svg" alt="Crestfallen" style="height:200px;"></a></p>
-    
 <p>with representatives from </p>
+<p><a href="https://tag-gaming.godaddysites.com" target="_blank"><img src="/images/logos/tag_gaming.png" alt="TAG Gaming" style="height:100px;"></a><a href="https://discord.com/invite/2QZzCHWAHA" target="_blank" class="highlight"><i class="fab fa-discord"></i></a> </p>
 
-<p><a href="https://tag-gaming.godaddysites.com" target="_blank"><img src="/images/logos/tag_gaming.png" alt="TAG Gaming" style="height:100px;"></a></p>
-   <p>A local larp group starting a new game named Odyssey Join their discord server here<a href="https://discord.com/invite/2QZzCHWAHA" target="_blank" class="highlight"><img src="/images/logos/discord.svg" alt="Facebook Event" style="width:48px;height:48px;"></a> </p>
+<p><a href="https://www.facebook.com/groups/566695204827781" target="_blank"><img src="/images/logos/irp.jpg" alt="Immersive Roleplaying" style="height:100px;"></a>
+ <a href="mailto:Immersiveroleplayinggsme@gmail.com"><i class="fa fa-envelope"></i></a> </p>
 
-<p><a href="https://www.facebook.com/groups/566695204827781" target="_blank"><img src="/images/logos/irp.jpg" alt="Immersive Roleplaying" style="height:100px;"></a></p>
-   <p>A local group starting a new game email them for more details at <a href="mailto:Immersiveroleplayinggsme@gmail.com">Immersiveroleplayinggsme@gmail.com</a> </p>
+<p><a href="https://www.argofantasyliveactiongaming.com" target="_blank"><img src="/images/logos/argo_flag_logo.jpg" alt="argo flag" style="height:100px;"></a>
+<a href="https://www.facebook.com/groups/321731124505370"><i class="fab fa-facebook"></i></a></p>
 
-<p><a href="https://www.argofantasyliveactiongaming.com" target="_blank"><img src="/images/logos/argo_flag_logo.jpg" alt="argo flag" style="height:100px;"></a></p>
-    <p>https://www.facebook.com/groups/321731124505370</p>
+<p><a href="https://www.pittsburghroleplaying.com" target="_blank"><img src="/images/logos/prolarp.jpg" alt="Pro LARP" style="height:100px;"></a><a href="https://www.facebook.com/PROLARP"><i class="fab fa-facebook"></i></a><a href="https://twitter.com/pro_larp"><i class="fab fa-twitter"></i></a><a href="mailto:prolarp.gm@gmail.com"><i class="fa fa-envelope"></i><a></p>
 
-<p><a href="https://www.pittsburghroleplaying.com" target="_blank"><img src="/images/logos/prolarp.jpg" alt="Pro LARP" style="height:100px;"></a></p>
-    <p>https://twitter.com/pro_larp</p>
-    <p>https://www.facebook.com/PROLARP</p>
 
  {{ .Render "content" }}
 

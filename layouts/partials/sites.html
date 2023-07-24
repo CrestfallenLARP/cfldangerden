@@ -1,6 +1,6 @@
 {{- $oog_location := .Params.oog_location -}}
 {{- if eq $oog_location "South Park - Willow Tree Pavilion" -}} 
-    <a href="/schedule/sites/northmoreland_park_pavilion_6/">South Park - Willow Tree Pavilion</a>
+    <a href="/schedule/sites/south_park_willow_tree_pavilion/">South Park - Willow Tree Pavilion</a>
     {{- $oog_location_for_google_calendar := "40.580056,-79.603361" -}}
 {{- else if eq $oog_location "Northmoreland Park - Pavillion 6" -}} 
     <a href="/schedule/sites/northmoreland_park_pavilion_6/">Northmoreland Park - Pavilion 6</a>
@@ -11,4 +11,7 @@
 {{- else if eq $oog_location "Knotted Pines" -}} 
     <a href="/schedule/sites/knotted_pines">Knotted Pines</a>
     {{- $oog_location_for_google_calendar := "40.580056,-79.603361" -}}
+{{- else  -}} 
+    {{ $oog_location }}
+    {{- $oog_location_for_google_calendar := $oog_location -}}
 {{- end -}}
