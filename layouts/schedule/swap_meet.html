@@ -16,7 +16,7 @@
 {{- $event_date_end := print .Params.event_date " 20:00:00 -0600 EST" -}}
 {{- $event_title := "Crestfallen LARP One Day Adventure" -}}
 <a href="https://www.google.com/calendar/render?action=TEMPLATE&text={{- $event_title -}}&dates={{- dateFormat "20060102T150405" $event_date_start -}}/{{- dateFormat "20060102T150405" $event_date_end -}}&details={{- .Params.teaser -}}+<br>{{- $one_day_adventure_blurb -}}+<br><br>{{- .Permalink -}}&location={{- $oog_location_for_google_calendar -}}&sf=true&output=xml" target="_blank" class="highlight"><img src="/images/logos/gcal.svg" alt="Google Calendar" style="width:48px;height:48px;"></a>
-<a href="{{- .Params.facebook_event_url -}}" target="_blank" class="highlight"><img src="/images/logos/facebook.svg" alt="Facebook Event" style="width:48px;height:48px;"></a></p>
+{{ if .Params.facebook_event_url }}<a href="{{- .Params.facebook_event_url -}}" target="_blank" class="highlight"><img src="/images/logos/facebook.svg" alt="Facebook Event" style="width:48px;height:48px;"></a>{{ end }}</p>
 
 
 <p><b>Event Cost</b>: NO COST OF ENTRY. ALL LARP ENTHUSIASTS WELCOME. If you just wish to come out and meet some other larpers or promote the game you play, please feel welcome!</p></p>
