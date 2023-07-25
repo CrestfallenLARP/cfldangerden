@@ -17,7 +17,7 @@ We then pick up [Berserk Augmentation](/rules/skills/#berserk-augmentation) from
 
 So at this point when we are [berserked](/rules/conditions/#berserk) we can throw an infinite number of "6 <element> damage" for 10 minutes. (Albeit at the nearest targets, not discerning friend from foe).
 
-By taking 1 level of [Energy](/rules/skills/#energy) we can enhance the build by learning berserk/remove berserk allowing us to enter/remove this state at will.
+By taking 1 level of [Energy](/rules/skills/#energy) we can enhance the build by learning [berserk/remove berserk](/rules/#berserkremove-berserk) allowing us to enter/remove this state at will.
 
 With the right skills this could be a devastating hybrid build using claws and unarmed fighting as well becoming a horrifying force on the battlefield.
 
