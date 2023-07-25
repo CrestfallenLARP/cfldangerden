@@ -13,6 +13,7 @@ The crackling of the flames could be heard in the background as Marius stared in
 The words came from his mentor, Kaspen, renowned in the wildlands outside of the Township of Boulderton as a focused elementalist of great strength- a pyremancer. Marius had heard the tales of his power and sought out the hermit, braving the ravenous gnolls and meddlesome goblins to find the man and his stubbornness was rewarded almost a year ago today when he accepted him as a pupil.
 
 “Now, feel your latent energies mingling with the flame and call it forth. Command it to move as you desire and tell it how to act. Demand it’s obedience, or it will do as it wills and destroy you.”
+
 With a nervous look to the side Marius locked his eyes with the yellow armbanded man to his left who gave him a nod.
 
 “Find the words lad! Find the words that the flame will obey and call it to serve you! Now!”
@@ -39,10 +40,6 @@ Staring at the same flames now pouring from around his blade as rose from the fi
 “Well done lad. You are finally ready for my final trial. Pass this final test and you may take the mantle of ‘Pyremancer’ for yourself. By the next turning of the seasons I charge you with the creation of a new and unique magic that calls upon the essence of flame. If you cannot do so by the coming gather, I will no longer consider you a student and you will no longer be welcome in my home.” Kaspen warned.
 
 With their interaction past, Kaspen walked off towards his home deep in the wood, leaving Marius- and Paul- to wonder how to go about his new task.
-
-
-
-
 
 ------
 

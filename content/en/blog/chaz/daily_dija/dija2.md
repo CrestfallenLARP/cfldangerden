@@ -22,4 +22,3 @@ Now you DO have to be wary however as there are stipulations:
 That's not so bad though eh?
 
 So, what are ya waiting for? Take out a loan today! Katalossa is a dangerous place and Oz can't give you the knowledge or enchantments you need to survive if he doesn't get paid first!
-

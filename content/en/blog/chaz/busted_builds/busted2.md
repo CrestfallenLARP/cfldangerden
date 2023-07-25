@@ -29,4 +29,4 @@ This uses all our stamina- because business is HARD- so we go and take it easy w
 When we get into higher levels this build can get RIDICULOUSLY INSANE by adding [Holdings](/rules/skills/#holdings) to start the game with more leaves, or branching into the [Thievery Skill Category](/rules/skill_categories/#thievery-skill-category) to steal more wares and open up access to the [Thieves Guild Stockpile](/rules/skills/#holdings).
 
 In the immortal words of the savior of humanity, John Connor:
-"Easy Money"
+"[Easy Money](https://www.youtube.com/watch?v=yB82FNPoiPM&pp=ygUWRWFzeSBNb25leSBqb2huIGNvbm5vcg%3D%3D)"

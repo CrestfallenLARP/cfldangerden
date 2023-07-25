@@ -17,4 +17,3 @@ This means that if you start as a master alchemist (alchemy, crating augmentatio
 This means that while many thought these skills were per craft, requiring a MASSIVE amount of cp to master all crafts (140 for just all 3 crafts mastered or 170 for technology crafting) the actual cost is far cheaper at only 70 cp to master all 3 crafts or 100 to master them and open technology crafting.
 
 This means that any of the folks who showed up to the previous playtests and play this event could be sporting a master craftsman of all 3 crafts as early as the first event next year!
-
