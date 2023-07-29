@@ -17,7 +17,7 @@
 <p><b>Calendar Links</b>: 
 
 {{ with  .OutputFormats.Get "calendar" -}}
-  <a href="{{ .Permalink  }}"><img src="/images/logos/ics.png" alt="ICS Calendar File" style="width:48px;height:48px;"></a>
+  <a href="{{ .Permalink  | absURL }}"><img src="/images/logos/ics.png" alt="ICS Calendar File" style="width:48px;height:48px;"></a>
 {{- end }}
 {{ if .Params.facebook_event_url }}<a href="{{- .Params.facebook_event_url -}}" target="_blank" class="highlight"><img src="/images/logos/facebook.svg" alt="Google Calendar" style="width:48px;height:48px;"></a>{{ end }}
 {{- $one_day_adventure_blurb := "A one day adventure for small groups of 5 to 20 players and 5 to 10 NPCs. Players take part in 2 to 4 planned story adventures as well as 4 to 8 additional adventures of their choosing from available lineage and guild options. These adventures may include combat, puzzles, problem solving, role-playing, trading, and more. Non-Combat players are welcome as there are a number of skills, abilities, and stories that will not require combat." -}}
