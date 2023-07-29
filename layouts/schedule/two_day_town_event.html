@@ -31,15 +31,15 @@ All players who register on or before this date get 1 CP towards their character
 <p><b>Overnight Consideration</b>: Due to the close proximity of our sleeping arrangements we ask that all players respect the quiet hours of 1AM until 8AM within communal sleeping spaces.  Plot will not operate during these hours within sleeping areas to ensure players have the opportunity to receive enough rest.</p>
 <p><b>Tentative Schedule</b>: 
 <ul>
-<li>Setup? PM Friday</li>
-<li>Check In - 8PM to 9PM Friday</li>
-<li>Opening Speech - 9PM Friday</li>
-<li>Game Start 9:15 Friday</li>
-<li>Introductory Workshop - 9:15 Friday</li>
-<li>Closing Statements 11AM Sunday</li>
-<li>Personal Clean Up 11:30AM Sunday</li>
-<li>Site Clean Up 12 Noon Sunday</li>
-<li>Offsite ASAP Sunday</li>
+<li>Setup: ? PM Friday</li>
+<li>Check In:  8PM to 9PM Friday</li>
+<li>Opening Speech: 9PM Friday</li>
+<li>Game Start: 9:15 Friday</li>
+<li>Introductory Workshop: 9:15 Friday</li>
+<li>Closing Statements: 11AM Sunday</li>
+<li>Personal Clean Up: 11:30AM Sunday</li>
+<li>Site Clean Up: 12 Noon Sunday</li>
+<li>Offsite: ASAP Sunday</li>
 </ul>
 </p>
 
@@ -56,7 +56,7 @@ All players who register on or before this date get 1 CP towards their character
 
 <p><b>Personal Cleanup</b>: 11:30AM to 12 Noon Sunday</p>
 
-<p><b>Site Cleanup*</b>: 12 Noon to 1PM Sunday</p>
+<p><b>Site Cleanup</b>: 12 Noon to 1PM Sunday</p>
 
 <p><b>Latest Offsite</b>: 2PM Sunday</p>
 
@@ -66,12 +66,12 @@ All players who register on or before this date get 1 CP towards their character
 
 <p><b>Non-player Character Benefits</b>: 4 character points for a character with the ability to gain 4 additional for the character and 4 additional for a secondary character.</p>
 
-<p><b><a href="/rules/#danger-level">Danger Level</a>:</b> {{ .Params.danger_level }}</p>
+<p><b><a href="/rules/#danger-level">Danger Level</a>:</b> {{ if .Params.danger_level }} {{ .Params.danger_level }}{{ else }}Unknown {{ end }}</p>
 
-<p><b>Undead <a href="/rules/#faction-level">Faction Level</a></b>: {{ .Params.undead_faction_level }}</p>
-<p><b>Goblin <a href="/rules/#faction-level">Faction Level</a></b>: {{ .Params.goblin_faction_level }}</p>
-<p><b>Gnoll <a href="/rules/#faction-level">Faction Level</a></b>: {{ .Params.gnoll_faction_level }}</p>
-<p><b>In Game Location</b>: {{ .Params.in_game_location }} </p>
+<p><b>Undead <a href="/rules/#faction-level">Faction Level</a></b>:  {{ if .Params.undead_faction_level }}{{ .Params.undead_faction_level }}{{ else }}Unknown {{ end }}</p>
+<p><b>Goblin <a href="/rules/#faction-level">Faction Level</a></b>: {{ if .Params.goblin_faction_level }}{{ .Params.goblin_faction_level }}{{ else }}Unknown {{ end }}</p>
+<p><b>Gnoll <a href="/rules/#faction-level">Faction Level</a></b>: {{ if .Params.gnoll_faction_level }} {{ .Params.gnoll_faction_level }}{{ else }}Unknown {{ end }}</p>
+<p><b>In Game Location</b>: {{ if .Params.in_game_location }} }}{{ .Params.in_game_location }}{{ else }} Unknown {{ end }} </p>
 
 <p><b>Site</b>: 
 {{- partial "sites.html" . -}}
