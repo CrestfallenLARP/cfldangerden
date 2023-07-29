@@ -511,7 +511,7 @@ All other rolls will grant the character the number of resources listed on the r
 
 {{< tabpane text=true  >}}
   {{% tab header="**Danger Level**:" disabled=true /%}}
-  {{% tab header="1" lang="en" %}}
+  {{% tab header="1" %}}
 
 | Percentage Rolled | Items Found                       |
 | ------- | --------------------------------- |
@@ -531,7 +531,7 @@ All other rolls will grant the character the number of resources listed on the r
 | 98-100% | 1 Rare+                           |
 
   {{< /tab >}}
-  {{% tab header="2" lang="en" %}}
+  {{% tab header="2" %}}
 
 | Percentage Roll | Items Found                       |
 | --------------- | --------------------------------- |
@@ -551,7 +551,7 @@ All other rolls will grant the character the number of resources listed on the r
 | 98-100%         | 1 Rare+                           |
 
  {{< /tab >}}
-  {{% tab header="3" lang="en" %}}
+  {{% tab header="3"  %}}
 
 | Percentage Roll | Items Found                       |
 | --------------- | --------------------------------- |
@@ -571,7 +571,7 @@ All other rolls will grant the character the number of resources listed on the r
 | 98-100%         | 1 Rare+                           |
 
   {{% /tab %}}
-  {{% tab header="4" lang="en" %}}
+  {{% tab header="4"  %}}
 
 | Percentage Roll | Items Found                       |
 | --------------- | --------------------------------- |
@@ -1558,7 +1558,7 @@ This skill allows a character to attempt surgery on a target.
 
 ### Surgery Chart
 
-{{< tabpane text=true  lang="en" >}}
+{{< tabpane text=true   >}}
   {{% tab header="**Danger Level**:" disabled=true /%}}
   {{% tab header="1"  %}}
 
