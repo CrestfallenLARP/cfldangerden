@@ -55,12 +55,12 @@
 
 <p><b>Non-player Character Benefits</b>: 2 Character Points for a character with the ability to gain 2 additional for the character and 2 additional for a secondary character.</p>
 
-<p><b><a href="/rules/#danger-level">Danger Level</a>:</b> {{ .Params.danger_level }}</p>
+<p><b><a href="/rules/#danger-level">Danger Level</a>:</b> {{ if .Params.danger_level }} {{ .Params.danger_level }}{{ else }}Unknown {{ end }}</p>
 
-<p><b>Undead <a href="/rules/#faction-level">Faction Level</a></b>: {{ .Params.undead_faction_level }}</p>
-<p><b>Goblin <a href="/rules/#faction-level">Faction Level</a></b>: {{ .Params.goblin_faction_level }}</p>
-<p><b>Gnoll <a href="/rules/#faction-level">Faction Level</a></b>: {{ .Params.gnoll_faction_level }}</p>
-<p><b>In Game Location</b>: {{ .Params.in_game_location }} </p>
+<p><b>Undead <a href="/rules/#faction-level">Faction Level</a></b>: {{ if .Params.undead_faction_level }}{{ .Params.undead_faction_level }}{{ else }}Unknown {{ end }}</p>
+<p><b>Goblin <a href="/rules/#faction-level">Faction Level</a></b>:{{ if .Params.goblin_faction_level }}{{ .Params.goblin_faction_level }}{{ else }}Unknown {{ end }}</p>
+<p><b>Gnoll <a href="/rules/#faction-level">Faction Level</a></b>:{{ if .Params.gnoll_faction_level }} {{ .Params.gnoll_faction_level }}{{ else }}Unknown {{ end }}</p>
+<p><b>In Game Location</b>: {{ if .Params.in_game_location }} }}{{ .Params.in_game_location }}{{ else }} Unknown {{ end }} </p>
 
 <p><b>Site</b>: 
 {{- partial "sites.html" . -}}
