@@ -101,9 +101,11 @@ There are multiple pizzaria's in Brockway itself that have varying hours and may
 
 -  **Address**: 8442 US-219, Brockway, PA 15824
 -  **Phone**: [(814) 265-1344](tel:814-265-1344)
+-  **Website**: [morellisfamilyrestaurant.com](https://www.morellisfamilyrestaurant.com/home)
 -  **Hours:** 6AM - 7PM Monday, Tuesday, Friday, 6AM - 2PM Wednesday, Thursday, 6AM - 1PM Saturday, 7AM - 2 PM Sunday 
 -  **Distance from site**: 3.5 miles (8 minutes)
--  **Google Maps**: [Morelli's Family Restaurant - Google Maps](https://www.google.com/maps/place/Morelli's+Family+Restaurant/@41.2266914,-78.7852755,17z/data=!3m1!4b1!4m6!3m5!1s0x89ccfa6f478acbeb:0xf0763cf1f77a1bfc!8m2!3d41.2266875!4d-78.7804046!16s%2Fg%2F1tdym5hf?authuser=1&entry=ttu) 
+-  **Google Maps**: [Morelli's Family Restaurant - Google Maps](https://www.google.com/maps/place/Morelli's+Family+Restaurant/@41.2266914,-78.7852755,17z/data=!3m1!4b1!4m6!3m5!1s0x89ccfa6f478acbeb:0xf0763cf1f77a1bfc!8m2!3d41.2266875!4d-78.7804046!16s%2Fg%2F1tdym5hf?authuser=1&entry=ttu)
+-  **Facebook**: [Morellis Family Restaurant - Facebook](https://www.facebook.com/morellisfamilyrestaurant/)
 
 #### Hut Family Restaurant
 
@@ -112,6 +114,7 @@ There are multiple pizzaria's in Brockway itself that have varying hours and may
 - **Hours**:  7AM - 8PM Tuesday - Saturday
 - **Distance from site**: 3.5 miles (8 minutes)
 - **Google Maps:**  [Hut Family Restaurant - Google Maps](https://www.google.com/maps/place/Hut+Family+Restaurant/@41.2474694,-78.7583425,17z/data=!4m14!1m7!3m6!1s0x89ccf10635e0dc65:0x99ce3b1674c0fbd0!2sHut+Family+Restaurant!8m2!3d41.2474655!4d-78.7534716!16s%2Fg%2F1tn0264p!3m5!1s0x89ccf10635e0dc65:0x99ce3b1674c0fbd0!8m2!3d41.2474655!4d-78.7534716!16s%2Fg%2F1tn0264p?authuser=1&entry=ttu)
+- **Facebook**: [Hut Family Restaurant - Facebook](https://www.facebook.com/thehutfamilyrestaurant)
 
 ---
 
