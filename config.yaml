@@ -107,7 +107,7 @@ outputs:
 
 outputFormats:
   Calendar:
-    protocol: http://
+    protocol: https://
 module:
   hugoVersion:
     extended: true
