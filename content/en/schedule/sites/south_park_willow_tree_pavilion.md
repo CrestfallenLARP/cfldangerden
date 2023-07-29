@@ -11,8 +11,9 @@ toc_hide: true
 - **Website**: [https://www.alleghenycounty.us/parks/south-park/willow-tree.aspx](https://sequanota.com/)
 - **Office Phone**: [(412) 350-2455](tel:412-350-2455)
 - **Bathrooms**: handicapped accessable outhouse right next to the pavilion. larger restrooms nearby.
-
-![map of south park](/images/sites/south_park/SouthPark.png)
+- **Smoking**:  Smoking is only permitted in parking areas.  Put cigarette butts in trays or cans. Do not smoke in the pavilion.
+- **Cell Phone Service**: Pretty Good!
+- **Map**: [Map of South Park](/images/sites/south_park/SouthPark.png)
 
 ## Arriving at the Pavilion
 
@@ -21,5 +22,11 @@ toc_hide: true
 
 Once you reach the field, you will make the right turn and follow the path until you arrive at the first Pavillion. That is Willow Tree. See less
 
+---
 
+## Nearby Food
 
+#### Eat'n Park
+
+- **Address**: 5220 Library Rd, Bethel Park, PA 15102
+- **Phone:** [(412) 835-4011 ](tel:+14128354011)
