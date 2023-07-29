@@ -71,7 +71,7 @@ All players who register on or before this date get 1 CP towards their character
 <p><b>Undead <a href="/rules/#faction-level">Faction Level</a></b>:  {{ if .Params.undead_faction_level }}{{ .Params.undead_faction_level }}{{ else }}Unknown {{ end }}</p>
 <p><b>Goblin <a href="/rules/#faction-level">Faction Level</a></b>: {{ if .Params.goblin_faction_level }}{{ .Params.goblin_faction_level }}{{ else }}Unknown {{ end }}</p>
 <p><b>Gnoll <a href="/rules/#faction-level">Faction Level</a></b>: {{ if .Params.gnoll_faction_level }} {{ .Params.gnoll_faction_level }}{{ else }}Unknown {{ end }}</p>
-<p><b>In Game Location</b>: {{ if .Params.in_game_location }} }}{{ .Params.in_game_location }}{{ else }} Unknown {{ end }} </p>
+<p><b>In Game Location</b>: {{ if .Params.in_game_location }}{{ .Params.in_game_location }}{{ else }} Unknown {{ end }} </p>
 
 <p><b>Site</b>: 
 {{- partial "sites.html" . -}}
