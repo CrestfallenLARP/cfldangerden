@@ -7,20 +7,20 @@ toc_hide: true
 ---
 
 - **Address**: 8X6X+P74, South Park Township, PA
-- **GPS**: USE THIS FOR DIRECTIONS!  [40.31194761508164, -80.00301667806907](https://goo.gl/maps/784HSWUrMPuaNmjV6)
-- **Website**: [https://www.alleghenycounty.us/parks/south-park/willow-tree.aspx](https://sequanota.com/)
+- **GPS**: USE THIS FOR DIRECTIONS! [40.31194761508164, -80.00301667806907](https://goo.gl/maps/784HSWUrMPuaNmjV6)
+- **Website**: [alleghenycounty.us](https://www.alleghenycounty.us/parks/south-park/willow-tree.aspx)
 - **Office Phone**: [(412) 350-2455](tel:412-350-2455)
 - **Bathrooms**: handicapped accessable outhouse right next to the pavilion. larger restrooms nearby.
-- **Smoking**:  Smoking is only permitted in parking areas.  Put cigarette butts in trays or cans. Do not smoke in the pavilion.
+- **Smoking**: Smoking is only permitted in parking areas.  Put cigarette butts in trays or cans. Do not smoke in the pavilion.
 - **Cell Phone Service**: Pretty Good!
 - **Map**: [Map of South Park](/images/sites/south_park/SouthPark.png)
 
 ## Arriving at the Pavilion
 
-![map of south park](/images/sites/south_park/willow_tree/sp_willowtree.jpg)
+![Willow Tree Pavilion](/images/sites/south_park/willow_tree/sp_willowtree.jpg)
 
 
-Once you reach the field, you will make the right turn and follow the path until you arrive at the first Pavillion. That is Willow Tree. See less
+Once you reach the field, you will make the right turn and follow the path until you arrive at the first Pavillion. That is Willow Tree.
 
 ---
 
@@ -32,4 +32,4 @@ Once you reach the field, you will make the right turn and follow the path until
 
 - **Address**: 5220 Library Rd, Bethel Park, PA 15102
 - **Phone:** [(412) 835-4011 ](tel:+14128354011)
-- **wesbsite:** [eatnpark.com](https://locations.eatnpark.com/pa/bethelpark/)
+- **Website:** [eatnpark.com](https://locations.eatnpark.com/pa/bethelpark/)
