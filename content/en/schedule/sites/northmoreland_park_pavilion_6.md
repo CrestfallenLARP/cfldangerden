@@ -49,7 +49,7 @@ Northmoreland Park has multiple entrances which can cause confusion.  We highly 
 - **Address**: 500 Hyde Park Rd, Leechburg, PA 15656
 - **Phone**: [(724) 845-2760](tel:724-845-2760)
 - **Hours**: 9AM - 9PM
-- **Website**: https://local.biglots.com/pa/leechburg/200?utm_source=google&utm_medium=distrib&utm_campaign=google-distrib
+- **Website**: [https://local.biglots.com/pa/leechburg/200](https://local.biglots.com/pa/leechburg/200)
 - **Distance from Camp:** 6 min (2.7 miles)
 - **Google Maps**: [Big Lots - Google Maps](https://www.google.com/maps/place/Big+Lots/@40.6063503,-79.6032292,17z/data=!4m5!3m4!1s0x8834ba569bbd267d:0x86adb054f7faa6bb!8m2!3d40.6063726!4d-79.6009407)
 
@@ -61,7 +61,7 @@ Discount big box store with snacks, clothing, cleaning supplies, and addition pr
 - **Address**: 451 Hyde Park Rd, Leechburg, PA 15656
 - **Phone**: [(724) 236-6009](tel: 724-236-6009)
 - **Hours:** 9AM - 9PM
-- **Website:** https://www.familydollar.com/locations/pa/leechburg/27712/
+- **Website:** [https://www.familydollar.com/locations/pa/leechburg/27712/](https://www.familydollar.com/locations/pa/leechburg/27712/)
 - **Distance from Camp:** 5 min (2.5 miles)
 - **Google Maps:** [Family Dollar - Google Maps](https://www.google.com/maps/place/Family+Dollar/@40.6122293,-79.6215641,13z/data=!3m1!5s0x8834bbaca61707d3:0x54370542c43cd733!4m12!1m6!3m5!1s0x0:0xe8e3d37b5e10e090!2sFamily+Dollar!8m2!3d40.6045841!4d-79.606943!3m4!1s0x0:0xe8e3d37b5e10e090!8m2!3d40.6045841!4d-79.606943)
 
@@ -83,11 +83,8 @@ Local dollar store.
   | Saturday  | 8 AM–6 PM |      |
 
 - **Phone**:    [(724) 845-8104](tel:724-845-8104)
-
 - **Distance from Camp**: 10 min (4.4 miles)
-
-- **Website**: https://www.stanfordhome.com/
-
+- **Website**: [stanfordhome.com](https://www.stanfordhome.com/)
 - **Google Maps:** [Stanford Home Centers - Google Maps](https://www.google.com/maps/place/Stanford+Home+Centers/@40.6087607,-79.6253782,14z/data=!3m1!5s0x8834bbaca61707d3:0x54370542c43cd733!4m12!1m6!3m5!1s0x0:0xe8e3d37b5e10e090!2sFamily+Dollar!8m2!3d40.6045841!4d-79.606943!3m4!1s0x8834bb0b2ece4883:0x73dcea10298061c8!8m2!3d40.6157401!4d-79.627745)
 
 Local Hardware Store
@@ -102,13 +99,13 @@ Local Hardware Store
 - **Phone:** [(724) 236-9218 ](tel:724-236-9218)
 - **Hours**: 7AM - 8:30PM
 - **Distance from Camp**: 5 min (2.3 miles)
-- **Website**: https://www.valleydairy.net
+- **Website**: [valleydairy.net](https://www.valleydairy.net)
 - **Google Maps:** [Valley Dairy Restaurant - Google Maps](https://www.google.com/maps/place/Kings+Family+Restaurants/@40.6053425,-79.6064972,17z/data=!4m5!3m4!1s0x8834bbacdfce6f2d:0xfbb9951efaecd6a3!8m2!3d40.603249!4d-79.60695)
 
 #### Dairy Queen Grill and Chill
 
 - **Address**: 864 PA-356, Leechburg, PA 15656
-- **Phone**:   [(724) 845-6090 ](tel:724-845-6090)
+- **Phone**: [(724) 845-6090 ](tel:724-845-6090)
 - **Hours**: 10:30AM–9:30PM
 - **Distance from Camp**: 4 min (2 miles)
 - **Google Maps**: [DQ Grill & Chill Restaurant - Google Maps](https://www.google.com/maps/place/DQ+Grill+%26+Chill+Restaurant/@40.6043612,-79.6123904,15.25z/data=!4m21!1m15!4m14!1m6!1m2!1s0x87ad18d1fb42c971:0xad0d8b3ca44d3ea8!2sNorthmoreland+Park,+Markle+Road,+Apollo,+PA!2m2!1d-79.6191225!2d40.5779745!1m6!1m2!1s0x8834bbacdfce6f2d:0xfbb9951efaecd6a3!2sKings+Family+Restaurants,+315+Hyde+Park+Rd,+Leechburg,+PA+15656!2m2!1d-79.60695!2d40.603249!3m4!1s0x8834bbb20c5a0c63:0xf5cbda1c3e5505d2!8m2!3d40.6006695!4d-79.6097178)
@@ -137,7 +134,7 @@ Local Hardware Store
 - **Address**: 500 Hyde Park Rd, Leechburg PA 15656
 - **Phone**:  [(724) 845-1031](tel:724-845-1031)
 - **Hours**: 7:30am - 9pm Monday thru Saturday, 8am - 8pm Sunday
-- **Website**: https://www.autozone.com/locations/pa/leechburg/500-hyde-park-rd.html)
+- **Website**: [https://www.autozone.com/locations/pa/leechburg/500-hyde-park-rd.html](https://www.autozone.com/locations/pa/leechburg/500-hyde-park-rd.html))
 - **Distance from Camp**: 9 min (2.7 miles)
 - **Google Maps**: [AutoZone Auto Parts - Google Maps](https://www.google.com/maps/place/AutoZone+Auto+Parts/@40.6067338,-79.6055323,17z/data=!3m1!4b1!4m6!3m5!1s0x8834ba5494ca65ff:0x792948f7cc3bc78c!8m2!3d40.6067297!4d-79.6033383!16s%2Fg%2F1tg6l631)
 
@@ -160,7 +157,7 @@ Local Hardware Store
 
 - **Address**: 1301 Carlisle St, Natrona Heights, PA 15065
 - **Phone**:  [(724) 224-5100](tel:724-224-5100)
-- **Website**: https://www.ahn.org/locations/hospitals/allegheny-valley
+- **Website**: [https://www.ahn.org/locations/hospitals/allegheny-valley](https://www.ahn.org/locations/hospitals/allegheny-valley)
 - **Hours**: 24h
 - **Distance from Camp**: 22 min (13.2 miles)
 - **Google Maps**: [https://goo.gl/maps/KcafQTVP91bh6ke56](https://goo.gl/maps/tS9fp86HiChZp3wz7)
@@ -169,7 +166,7 @@ Local Hardware Store
 
 - **Address**: 2570 Haymaker Rd, Monroeville, PA 15146
 - **Phone**:  [(412) 858-2000](tel:412-858-2000)
-- **Website**: [https://www.ahn.org/locations/hospitals/forbes](https://somersethospital.com)
+- **Website**: [https://www.ahn.org/locations/hospitals/forbes](https://www.ahn.org/locations/hospitals/forbes)
 - **Hours**: 24h
 - **Distance from Camp**: 28 min (17.2 miles)
 - **Google Maps**: https://goo.gl/maps/5zVYfjgN2Q56A9z39
