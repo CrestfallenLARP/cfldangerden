@@ -7,17 +7,17 @@ toc_hide: true
 ---
 
 - **Address**: 280 Markle Road, Apollo, PA 15613
-- **GPS**: USE THIS FOR DIRECTIONS!  [40°34'47.1"N 79°36'23.0"W - Google Maps](https://www.google.com/maps/place/40°34'47.1"N+79°36'23.0"W/@40.579759,-79.6069255,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x94bc061bf51dc1a!7e2!8m2!3d40.5797578!4d-79.6063767)
+- **GPS**: USE THIS FOR DIRECTIONS! [40°34'47.1"N 79°36'23.0"W - Google Maps](https://www.google.com/maps/place/40°34'47.1"N+79°36'23.0"W/@40.579759,-79.6069255,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x94bc061bf51dc1a!7e2!8m2!3d40.5797578!4d-79.6063767)
 - **Google Maps**: https://www.google.com/maps/place/Pavilion+%236/@40.579759,-79.6069255,19z/data=!4m5!3m4!1s0x8834bbce6a15c0f1:0x7380579395f570d!8m2!3d40.5796791!4d-79.6064432
 - **Website**: [Northmoreland Park | Westmoreland County, PA - Official Website](https://www.co.westmoreland.pa.us/736/Northmoreland-Park)
 - **Office Phone**: [(724) 830-3950](tel:724-830-3950)
 - **Campsite Map**: [Northmoreland-MAP-2020 (westmoreland.pa.us)](https://www.co.westmoreland.pa.us/DocumentCenter/View/1643/Northmoreland-MAP-2020?bidId=)
 - **Rental Website:** https://secure.rec1.com/PA/westmoreland-county-parks-and-recreation/catalog
 - **Site Cost:** Oct 16th to Apr 30th $25, May 1st to Oct 15th $45 (midweek) - $90 (Fri-Mon) Additional cost for Music/Tents
-- **EMERGENCY:** Dial 911 - Non Emergency, call park police at  [(724) 830-3567](tel:724-830-3567)
-- **Bathrooms**: Small bathroom within walking distance of the pavilion.  These are rustic and may need toilet paper/hand sanitizer.  We will have some of both on hand if needed.
-- **Smoking**:  Smoking is only permitted in parking areas.  Put cigarette butts in trays or cans. Do not smoke in the pavilion.
-- **Pavilion Boundaries**: We will use all available areas surrounding the pavilion.  When looking down at the pavilion from the parking area there is a small pond directly past the pavilion, a field to the right of the pavilion, woods to the left of the pavilion, a small path heading towards the bathrooms, and a wooden bridge behind the bathrooms leading to other small field areas.  No combat may occur on the wooden bridge.
+- **EMERGENCY:** Dial 911 - Non Emergency, call park police at [(724) 830-3567](tel:724-830-3567)
+- **Bathrooms**: Small bathroom within walking distance of the pavilion. These are rustic and may need toilet paper/hand sanitizer. We will have some of both on hand if needed.
+- **Smoking**: Smoking is only permitted in parking areas. Put cigarette butts in trays or cans. Do not smoke in the pavilion.
+- **Pavilion Boundaries**: We will use all available areas surrounding the pavilion. When looking down at the pavilion from the parking area there is a small pond directly past the pavilion, a field to the right of the pavilion, woods to the left of the pavilion, a small path heading towards the bathrooms, and a wooden bridge behind the bathrooms leading to other small field areas. No combat may occur on the wooden bridge.
 - **Cell Phone Service**: Low, there is limited service from the parking area and main paths.
 
 ## Driving Directions to Northmoreland Park
@@ -38,7 +38,7 @@ Take Route 66 North through Delmont to the intersection of Route 356 North. Foll
 
 ## Arriving at the Pavilion
 
-Northmoreland Park has multiple entrances which can cause confusion.  We highly suggest using the [GPS coordinates](https://www.google.com/maps/place/40°34'47.1"N+79°36'23.0"W/@40.579759,-79.6069255,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x94bc061bf51dc1a!7e2!8m2!3d40.5797578!4d-79.6063767) for directions to the exact pavilion. Most entrances will have signs giving directions to the pavilions.  Pavilion 6 can be found on the right hand side of the road after passing through the metal gates to block the main portion of the park over night.  There is a small sign and a driveway leading downward towards the parking area for this pavilion.  Check in takes place at this pavilion. 
+Northmoreland Park has multiple entrances which can cause confusion. We highly suggest using the [GPS coordinates](https://www.google.com/maps/place/40°34'47.1"N+79°36'23.0"W/@40.579759,-79.6069255,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x94bc061bf51dc1a!7e2!8m2!3d40.5797578!4d-79.6063767) for directions to the exact pavilion. Most entrances will have signs giving directions to the pavilions. Pavilion 6 can be found on the right hand side of the road after passing through the metal gates to block the main portion of the park over night. There is a small sign and a driveway leading downward towards the parking area for this pavilion. Check in takes place at this pavilion. 
 
 ---
 
@@ -79,7 +79,7 @@ Local dollar store.
   | Thursday  | 8 AM–7 PM |      |
   | Friday    | 8 AM–7 PM |      |
   | Saturday  | 8 AM–6 PM |      |
-- **Phone**:    [(724) 845-8104](tel:724-845-8104)
+- **Phone**: [(724) 845-8104](tel:724-845-8104)
 - **Distance from Camp**: 10 min (4.4 miles)
 - **Website**: [stanfordhome.com](https://www.stanfordhome.com/)
 - **Google Maps:** [Stanford Home Centers - Google Maps](https://www.google.com/maps/place/Stanford+Home+Centers/@40.6087607,-79.6253782,14z/data=!3m1!5s0x8834bbaca61707d3:0x54370542c43cd733!4m12!1m6!3m5!1s0x0:0xe8e3d37b5e10e090!2sFamily+Dollar!8m2!3d40.6045841!4d-79.606943!3m4!1s0x8834bb0b2ece4883:0x73dcea10298061c8!8m2!3d40.6157401!4d-79.627745)
@@ -116,11 +116,11 @@ Local Hardware Store
 
 #### Taco Bell
 
--  **Address**: 502 Hyde Park Rd, Leechburg, PA 15656
--  **Phone**: [(724) 567-8225](tel:724-567-8225)
--  **Hours:** 8AM - 12 AM
--  **Distance from Camp**: 6 min (2.7 miles)
--  **Google Maps**: [Taco Bell - Google Maps](https://www.google.com/maps/place/Taco+Bell/@40.6064,-79.6117547,15z/data=!4m12!1m6!3m5!1s0x8834bbb20c5a0c63:0xf5cbda1c3e5505d2!2sDQ+Grill+%26+Chill+Restaurant!8m2!3d40.6006695!4d-79.6097178!3m4!1s0x0:0xe13756f75c0e5fab!8m2!3d40.6064!4d-79.603)
+- **Address**: 502 Hyde Park Rd, Leechburg, PA 15656
+- **Phone**: [(724) 567-8225](tel:724-567-8225)
+- **Hours:** 8AM - 12 AM
+- **Distance from Camp**: 6 min (2.7 miles)
+- **Google Maps**: [Taco Bell - Google Maps](https://www.google.com/maps/place/Taco+Bell/@40.6064,-79.6117547,15z/data=!4m12!1m6!3m5!1s0x8834bbb20c5a0c63:0xf5cbda1c3e5505d2!2sDQ+Grill+%26+Chill+Restaurant!8m2!3d40.6006695!4d-79.6097178!3m4!1s0x0:0xe13756f75c0e5fab!8m2!3d40.6064!4d-79.603)
 
 ---
 
@@ -129,7 +129,7 @@ Local Hardware Store
 #### AutoZone
 
 - **Address**: 500 Hyde Park Rd, Leechburg PA 15656
-- **Phone**:  [(724) 845-1031](tel:724-845-1031)
+- **Phone**: [(724) 845-1031](tel:724-845-1031)
 - **Hours**: 7:30am - 9pm Monday thru Saturday, 8am - 8pm Sunday
 - **Website**: [https://www.autozone.com/locations/pa/leechburg/500-hyde-park-rd.html](https://www.autozone.com/locations/pa/leechburg/500-hyde-park-rd.html)
 - **Distance from Camp**: 9 min (2.7 miles)
@@ -153,7 +153,7 @@ Local Hardware Store
 #### Allegheny Valley Hospital
 
 - **Address**: 1301 Carlisle St, Natrona Heights, PA 15065
-- **Phone**:  [(724) 224-5100](tel:724-224-5100)
+- **Phone**: [(724) 224-5100](tel:724-224-5100)
 - **Website**: [https://www.ahn.org/locations/hospitals/allegheny-valley](https://www.ahn.org/locations/hospitals/allegheny-valley)
 - **Hours**: 24h
 - **Distance from Camp**: 22 min (13.2 miles)
@@ -162,7 +162,7 @@ Local Hardware Store
 #### Forbes Hospital
 
 - **Address**: 2570 Haymaker Rd, Monroeville, PA 15146
-- **Phone**:  [(412) 858-2000](tel:412-858-2000)
+- **Phone**: [(412) 858-2000](tel:412-858-2000)
 - **Website**: [https://www.ahn.org/locations/hospitals/forbes](https://www.ahn.org/locations/hospitals/forbes)
 - **Hours**: 24h
 - **Distance from Camp**: 28 min (17.2 miles)
@@ -198,8 +198,8 @@ Local Hardware Store
 #### iCare Urgent Care Monroeville
 - **Address**: 4905 William Penn Hwy, Monroeville, PA 15146
 - **Phone**: [(724) 519-8350 ](tel:724-519-8350)
-- **Hours**:  7am - 8pm Monday thru Friday, 8am - 6pm Saturday thru Sunday
-- **Distance from Camp**:  23 min (14.4 miles)
+- **Hours**: 7am - 8pm Monday thru Friday, 8am - 6pm Saturday thru Sunday
+- **Distance from Camp**: 23 min (14.4 miles)
 - **Website**: http://www.icaremedical.com/
 - **Google Maps:** [iCare Urgent Care Monroeville - Google Maps](https://goo.gl/maps/v8ZHWtee37nwDpBH9)
 
@@ -207,7 +207,7 @@ Local Hardware Store
 
 #### Rite Aid Pharmacy
 
-- **Address**:  111 North Plaza, Apollo, PA 15613
+- **Address**: 111 North Plaza, Apollo, PA 15613
 - **Phone**: [(724) 478-2500 ](tel:724-478-2500)
 - **Hours**: 8am - 9pm (Subject to change. Please call)
 - **Distance from Camp**: 8 min (3.7 miles)
@@ -215,9 +215,9 @@ Local Hardware Store
 
 #### Giant Eagle Pharmacy
 
-- **Address**:  41 Towne Center Dr, Leechburg, PA 15656
+- **Address**: 41 Towne Center Dr, Leechburg, PA 15656
 - **Phone**: [(724) 845-1077 ](tel:724-845-1077)
-- **Hours**: 8am – 8pm Monday thru Friday, 9am – 6pm Saturday,  9am – 5pm
+- **Hours**: 8am – 8pm Monday thru Friday, 9am – 6pm Saturday, 9am – 5pm
 - **Distance from Camp**: 6 min (2.8 miles)
 - **Website**: [gianteagle.com]( https://www.gianteagle.com/stores/pa/ligonier/ligonier-giant-eagle/607)
 - **Google Maps:** [Giant Eagle Pharmacy - Google Maps](https://goo.gl/maps/M44mtvHGCQzmr4dy8)
@@ -228,7 +228,7 @@ Local Hardware Store
 
 #### Quality Inn 
 
-- **Address**:  300 Tarentum Bridge Rd, New Kensington, PA 15068
+- **Address**: 300 Tarentum Bridge Rd, New Kensington, PA 15068
 - **Phone**: [(724) 335-9171 ](tel:724-335-9171)
 - **Website**: https://www.choicehotels.com/pennsylvania/new-kensington/quality-inn-hotels/pa246?mc=llgoxxpx
 - **Hours**: Check-in time: 2:00 PM Check-out time: 11:00 AM
