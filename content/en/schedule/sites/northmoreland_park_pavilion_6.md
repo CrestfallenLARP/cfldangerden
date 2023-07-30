@@ -8,11 +8,11 @@ toc_hide: true
 
 - **Address**: 280 Markle Road, Apollo, PA 15613
 - **GPS**: USE THIS FOR DIRECTIONS! [40°34'47.1"N 79°36'23.0"W - Google Maps](https://www.google.com/maps/place/40°34'47.1"N+79°36'23.0"W/@40.579759,-79.6069255,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x94bc061bf51dc1a!7e2!8m2!3d40.5797578!4d-79.6063767)
-- **Google Maps**: https://www.google.com/maps/place/Pavilion+%236/@40.579759,-79.6069255,19z/data=!4m5!3m4!1s0x8834bbce6a15c0f1:0x7380579395f570d!8m2!3d40.5796791!4d-79.6064432
+- **Google Maps**: [Northmoreland Park Pavilion 6 - Google Maps](https://www.google.com/maps/place/Pavilion+%236/@40.579759,-79.6069255,19z/data=!4m5!3m4!1s0x8834bbce6a15c0f1:0x7380579395f570d!8m2!3d40.5796791!4d-79.6064432)
 - **Website**: [Northmoreland Park | Westmoreland County, PA - Official Website](https://www.co.westmoreland.pa.us/736/Northmoreland-Park)
 - **Office Phone**: [(724) 830-3950](tel:724-830-3950)
-- **Campsite Map**: [Northmoreland-MAP-2020 (westmoreland.pa.us)](https://www.co.westmoreland.pa.us/DocumentCenter/View/1643/Northmoreland-MAP-2020?bidId=)
-- **Rental Website:** https://secure.rec1.com/PA/westmoreland-county-parks-and-recreation/catalog
+- **Campsite Map**: [Northmoreland Park Map](/images/sites/Northmoreland_park_map.png)
+- **Rental Website:** [https://secure.rec1.com](https://secure.rec1.com/PA/westmoreland-county-parks-and-recreation/catalog)
 - **Site Cost:** Oct 16th to Apr 30th $25, May 1st to Oct 15th $45 (midweek) - $90 (Fri-Mon) Additional cost for Music/Tents
 - **EMERGENCY:** Dial 911 - Non Emergency, call park police at [(724) 830-3567](tel:724-830-3567)
 - **Bathrooms**: Small bathroom within walking distance of the pavilion. These are rustic and may need toilet paper/hand sanitizer. We will have some of both on hand if needed.
@@ -46,6 +46,8 @@ Northmoreland Park has multiple entrances which can cause confusion. We highly s
 
 #### Big Lots 
 
+<img src="/images/logos/Big_Lots_logo.jpeg" alt="Big Lots" style="height:100px;">
+
 - **Address**: 500 Hyde Park Rd, Leechburg, PA 15656
 - **Phone**: [(724) 845-2760](tel:724-845-2760)
 - **Hours**: 9AM - 9PM
@@ -57,6 +59,7 @@ Discount big box store with snacks, clothing, cleaning supplies, and addition pr
 
 #### Family Dollar
 
+<img src="/images/logos/Family-Dollar-Logo.png" alt="Family Dollar" style="height:100px;">
 
 - **Address**: 451 Hyde Park Rd, Leechburg, PA 15656
 - **Phone**: [(724) 236-6009](tel:724-236-6009)
@@ -67,7 +70,9 @@ Discount big box store with snacks, clothing, cleaning supplies, and addition pr
 
 Local dollar store.
 
-#### Stanford Home Centers
+#### Stanford Home Center
+
+<img src="/images/logos/stanford_home_center.jpg" alt="Stanford Home Centers" style="height:100px;">
 
 - **Address**: 1173 PA-356, Leechburg, PA 15656
 - **Hours**:  
@@ -92,6 +97,8 @@ Local Hardware Store
 
 #### Valley Dairy Restaurant
 
+<img src="/images/logos/valleydairylogo.png" alt="Valley Dairy Restaurant" style="height:100px;">
+
 - **Address**: 315 Hyde Park Rd, Leechburg, PA 15656
 - **Phone:** [(724) 236-9218 ](tel:724-236-9218)
 - **Hours**: 7AM - 8:30PM
@@ -101,6 +108,8 @@ Local Hardware Store
 
 #### Dairy Queen Grill and Chill
 
+<img src="/images/logos/dq_grill_and_chill.jpg" alt="Dairy Queen Grill and Chill" style="height:100px;">
+
 - **Address**: 864 PA-356, Leechburg, PA 15656
 - **Phone**: [(724) 845-6090 ](tel:724-845-6090)
 - **Hours**: 10:30AM–9:30PM
@@ -108,6 +117,9 @@ Local Hardware Store
 - **Google Maps**: [DQ Grill & Chill Restaurant - Google Maps](https://www.google.com/maps/place/DQ+Grill+%26+Chill+Restaurant/@40.6043612,-79.6123904,15.25z/data=!4m21!1m15!4m14!1m6!1m2!1s0x87ad18d1fb42c971:0xad0d8b3ca44d3ea8!2sNorthmoreland+Park,+Markle+Road,+Apollo,+PA!2m2!1d-79.6191225!2d40.5779745!1m6!1m2!1s0x8834bbacdfce6f2d:0xfbb9951efaecd6a3!2sKings+Family+Restaurants,+315+Hyde+Park+Rd,+Leechburg,+PA+15656!2m2!1d-79.60695!2d40.603249!3m4!1s0x8834bbb20c5a0c63:0xf5cbda1c3e5505d2!8m2!3d40.6006695!4d-79.6097178)
 
 #### McDonalds
+
+<img src="/images/logos/McDonald's_1968_logo.png" alt="McDonalds" style="height:100px;">
+
 - **Address**: 481 Hyde Park Rd, Leechburg, PA 15656
 - **Phone**: [(724) 845-2035 ](tel:724-845-2035)
 - **Hours**: Sun thru Thurs 5AM - 11PM, Fri thru Sat 5AM - 12AM
@@ -115,6 +127,9 @@ Local Hardware Store
 - **Google Maps**: [McDonald's - Google Maps](https://www.google.com/maps/place/McDonald's/@40.6054353,-79.6137177,15z/data=!4m12!1m6!3m5!1s0x8834bbb20c5a0c63:0xf5cbda1c3e5505d2!2sDQ+Grill+%26+Chill+Restaurant!8m2!3d40.6006695!4d-79.6097178!3m4!1s0x0:0xe5f6ef3aed5e9952!8m2!3d40.6054513!4d-79.6050437)
 
 #### Taco Bell
+
+<img src="/images/logos/Taco-Bell-Logo.png" alt="Taco Bell" style="height:100px;">
+
 
 - **Address**: 502 Hyde Park Rd, Leechburg, PA 15656
 - **Phone**: [(724) 567-8225](tel:724-567-8225)
@@ -128,6 +143,8 @@ Local Hardware Store
 
 #### AutoZone
 
+<img src="/images/logos/AutoZone-Logo.png" alt="AutoZone" style="height:100px;">
+
 - **Address**: 500 Hyde Park Rd, Leechburg PA 15656
 - **Phone**: [(724) 845-1031](tel:724-845-1031)
 - **Hours**: 7:30am - 9pm Monday thru Saturday, 8am - 8pm Sunday
@@ -136,6 +153,8 @@ Local Hardware Store
 - **Google Maps**: [AutoZone Auto Parts - Google Maps](https://www.google.com/maps/place/AutoZone+Auto+Parts/@40.6067338,-79.6055323,17z/data=!3m1!4b1!4m6!3m5!1s0x8834ba5494ca65ff:0x792948f7cc3bc78c!8m2!3d40.6067297!4d-79.6033383!16s%2Fg%2F1tg6l631)
 
 #### NAPA Auto Parts - Jack's Auto Parts of Leechburg
+
+<img src="/images/logos/NAPA_Auto.jpg" alt="NAPA Auto Parts" style="height:100px;">
 
 - **Address**: 1001 S Leechburg Hill Rd #2, Leechburg, PA 15656
 - **Phone**: [(724) 236-0490](tel:724-236-0490)
@@ -152,6 +171,8 @@ Local Hardware Store
 
 #### Allegheny Valley Hospital
 
+<img src="/images/logos/logo-ga-ahn-allegheny-valley-hospital.jpg" alt="Allegheny Valley Hospital" style="height:100px;">
+
 - **Address**: 1301 Carlisle St, Natrona Heights, PA 15065
 - **Phone**: [(724) 224-5100](tel:724-224-5100)
 - **Website**: [https://www.ahn.org/locations/hospitals/allegheny-valley](https://www.ahn.org/locations/hospitals/allegheny-valley)
@@ -161,6 +182,8 @@ Local Hardware Store
 
 #### Forbes Hospital
 
+<img src="/images/logos/ahn_forbes_hospital_logo.png" alt="Forbes Hospital" style="height:100px;">
+
 - **Address**: 2570 Haymaker Rd, Monroeville, PA 15146
 - **Phone**: [(412) 858-2000](tel:412-858-2000)
 - **Website**: [https://www.ahn.org/locations/hospitals/forbes](https://www.ahn.org/locations/hospitals/forbes)
@@ -169,7 +192,9 @@ Local Hardware Store
 - **Google Maps**: [Forbes Hospital - Google Maps](https://goo.gl/maps/5zVYfjgN2Q56A9z39)
 
 
-#### UPMC East Hospital 
+#### UPMC East Hospital
+
+<img src="/images/logos/upmc_logo.jpg" alt="UPMC East Hospital" style="height:100px;">
 
 - **Address**: 2775 Mosside Blvd, Monroeville, PA 15146
 - **Phone**: [(412) 357-3000](tel:412-357-3000)
@@ -178,6 +203,8 @@ Local Hardware Store
 - **Google Maps**:[ UPMC East Hospital - Google Maps](https://goo.gl/maps/DjdNq4F2BF36JUt77)
 
 #### MedExpress Urgent Care Tarentum
+
+<img src="/images/logos/medexpress_urgent_care_logo.jpg" alt="MedExpress Urgent Care" style="height:100px;">
 
 - **Address**: 303 E 10th Ave, Tarentum, PA 15084
 - **Phone**: [(724) 224-2770 ](tel:724-224-2770)
@@ -188,6 +215,9 @@ Local Hardware Store
 
 #### MedExpress Urgent Care Natrona Height
 
+<img src="/images/logos/medexpress_urgent_care_logo.jpg" alt="MedExpress Urgent Care" style="height:100px;">
+
+
 - **Address**: Heights Plaza, 1870 Broadview Blvd, Natrona Heights, PA 15065
 - **Phone**: [(724) 224-3701 ](tel:724-224-3701)
 - **Website**: [medexpress.com](https://www.medexpress.com)
@@ -196,6 +226,9 @@ Local Hardware Store
 - **Google Maps**: [MedExpress Urgent Care - Google Maps](https://goo.gl/maps/ChNbuuUMpshkF3w4A)
 
 #### iCare Urgent Care Monroeville
+
+<img src="/images/logos/icare_urgent_care_logo.png" alt="iCare Urgent Care" style="height:100px;">
+
 - **Address**: 4905 William Penn Hwy, Monroeville, PA 15146
 - **Phone**: [(724) 519-8350 ](tel:724-519-8350)
 - **Hours**: 7am - 8pm Monday thru Friday, 8am - 6pm Saturday thru Sunday
@@ -207,6 +240,8 @@ Local Hardware Store
 
 #### Rite Aid Pharmacy
 
+<img src="/images/logos/rite_aid_logo.png" alt="Rite Aid Pharmacy" style="height:100px;">
+
 - **Address**: 111 North Plaza, Apollo, PA 15613
 - **Phone**: [(724) 478-2500 ](tel:724-478-2500)
 - **Hours**: 8am - 9pm (Subject to change. Please call)
@@ -214,6 +249,8 @@ Local Hardware Store
 - **Google Maps:** [Rite Aid Pharmacy - Google Maps](https://goo.gl/maps/R2CgPaGmPpUJX8E4A)
 
 #### Giant Eagle Pharmacy
+
+<img src="/images/logos/giant_eagle_pharmacy.png" alt="Giant Eagle Pharmacy" style="height:100px;">
 
 - **Address**: 41 Towne Center Dr, Leechburg, PA 15656
 - **Phone**: [(724) 845-1077 ](tel:724-845-1077)
@@ -226,7 +263,10 @@ Local Hardware Store
 
 ## Nearby Hotels
 
-#### Quality Inn 
+#### Quality Inn
+
+<img src="/images/logos/quality_inn_logo.png" alt="Quality Inn" style="height:100px;">
+
 
 - **Address**: 300 Tarentum Bridge Rd, New Kensington, PA 15068
 - **Phone**: [(724) 335-9171 ](tel:724-335-9171)
