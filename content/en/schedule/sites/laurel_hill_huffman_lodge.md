@@ -1,9 +1,10 @@
 ---
 title: "Laurel Hill Hufman Lodge"
 date: 2022-11-10T10:33:21-05:00
-draft: false
+draft: true
 type: "docs"
 toc_hide: true
+
 ---
 
 About unique rentable buildings: https://www.dcnr.pa.gov/Recreation/WhatToDo/StayOvernight/CabinsandUniqueHouses/Pages/default.aspx

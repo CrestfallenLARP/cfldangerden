@@ -1,7 +1,7 @@
 ---
 title: "North Park Wyoming Pavilion"
 date: 2022-11-10T10:33:21-05:00
-draft: false
+draft: true
 type: "docs"
 hidden: true
 toc_hide: true

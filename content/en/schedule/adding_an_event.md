@@ -1,3 +1,9 @@
+---
+title: "Adding an Event"
+date: 2022-11-10T10:33:21-05:00
+draft: true
+---
+
 create a new file in the content/schedule/events folder with the contents for the event type that you are interest in 
 
 ## discord_hangout
