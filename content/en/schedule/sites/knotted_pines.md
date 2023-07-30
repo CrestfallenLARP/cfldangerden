@@ -52,7 +52,7 @@ Local grocery store
 
 - **Address**: 1249 Main St, Brockway, PA 15824
 - **Phone**: [(814) 626-9412](tel:814-626-9412)
-- **Website:** https://stores.dollargeneral.com/pa/brockway/1018
+- **Website:** [dollargeneral.com](https://stores.dollargeneral.com/pa/brockway/1018)
 - **Hours:** 8AM - 10PM
 - **Distance from site:** 1.7 miles (4 minutes)
 - **Google Maps:** [Dollar General - Google Maps](https://www.google.com/maps/search/Dollar+General/@41.2348651,-78.8512123,12z?authuser=1&entry=ttu)
@@ -65,7 +65,7 @@ Local dollar store.
 
 
 - **Address**: 461 Main St, Brockway, PA 15824
-- **Phone**: [(814) 299-5506](tel: 814-299-5506)
+- **Phone**: [(814) 299-5506](tel:814-299-5506)
 - **Website:** [Ace Hardware of Brockway](http://www.acehardware.com/store-details/18367?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=18367)
 - **Hours:** 7AM - 7PM Monday thru Friday, 7AM - 6PM Saturday, 10AM - 4PM Sunday
 - **Distance from site:** 1.7 miles (4 minutes)
