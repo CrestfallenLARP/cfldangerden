@@ -9,7 +9,7 @@ toc_hide: true
 - **Address**: 64 Emerald Isle Lane Brockway PA 15824
 - **GPS**: [41.23726013155086, -78.80262932946086](https://goo.gl/maps/bKFUu2Q6fYDkz5u39)
 - **Google Maps**: [Knotted Pines - Google Maps](https://www.google.com/maps/place/64+Emerald+Isle+Ln,+Brockway,+PA+15824/@41.2373843,-78.8023574,18.17z/data=!4m6!3m5!1s0x89ccfaf25ca99771:0x45d793ca288f6fa1!8m2!3d41.2371139!4d-78.8025207!16s%2Fg%2F11q9z1xk8g?entry=ttu)
-- **Website**: [https://www.knottedpinesevents.com](https://www.knottedpinesevents.com)
+- **Website**: [knottedpinesevents.com](https://www.knottedpinesevents.com)
 - **Office Phone**: [(814) 503-0017](tel:814-503-0017)
 - **Email Address**: [knottedpines.eventvenue@gmail.com](mailto:knottedpines.eventvenue@gmail.com)
 - **Campsite Map**: 

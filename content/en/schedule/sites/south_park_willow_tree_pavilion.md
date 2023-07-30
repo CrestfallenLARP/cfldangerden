@@ -28,5 +28,8 @@ Once you reach the field, you will make the right turn and follow the path until
 
 #### Eat'n Park
 
+<img src="/images/logos/eat_n_park_logo.jpg" alt="Eat'n Park" style="height:100px;">
+
 - **Address**: 5220 Library Rd, Bethel Park, PA 15102
 - **Phone:** [(412) 835-4011 ](tel:+14128354011)
+- **wesbsite:** [eatnpark.com](https://locations.eatnpark.com/pa/bethelpark/)
