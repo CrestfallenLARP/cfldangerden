@@ -10,8 +10,8 @@ toc_hide: true
 - **GPS**: USE THIS FOR DIRECTIONS! [40.31194761508164, -80.00301667806907](https://goo.gl/maps/784HSWUrMPuaNmjV6)
 - **Website**: [alleghenycounty.us](https://www.alleghenycounty.us/parks/south-park/willow-tree.aspx)
 - **Office Phone**: [(412) 350-2455](tel:412-350-2455)
-- **Bathrooms**: handicapped accessable outhouse right next to the pavilion. larger restrooms nearby.
-- **Smoking**: Smoking is only permitted in parking areas.  Put cigarette butts in trays or cans. Do not smoke in the pavilion.
+- **Bathrooms**: Handicapped accessible outhouse right next to the pavilion, larger restrooms are nearby.
+- **Smoking**: Smoking is only permitted in parking areas. Put cigarette butts in trays or cans. Do not smoke in the pavilion.
 - **Cell Phone Service**: Pretty Good!
 - **Map**: 
   - [Map of South Park](/images/sites/south_park/SouthPark.png) 
@@ -21,8 +21,7 @@ toc_hide: true
 
 ![Willow Tree Pavilion](/images/sites/south_park/willow_tree/sp_willowtree.jpg)
 
-
-Once you reach the field, you will make the right turn and follow the path until you arrive at the first Pavillion. That is Willow Tree.
+Once you reach the field, make the right turn and follow the path until you arrive at the first Pavillion. That is Willow Tree.
 
 ---
 

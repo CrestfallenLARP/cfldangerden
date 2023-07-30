@@ -75,18 +75,19 @@ Local dollar store.
 <img src="/images/logos/stanford_home_center.jpg" alt="Stanford Home Centers" style="height:100px;">
 
 - **Address**: 1173 PA-356, Leechburg, PA 15656
-- **Hours**:  
-  | Sunday    | 9 AM–5 PM |      |
-  | --------- | --------- | ---- |
-  | Monday    | 8 AM–7 PM |      |
-  | Tuesday   | 8 AM–7 PM |      |
-  | Wednesday | 8 AM–7 PM |      |
-  | Thursday  | 8 AM–7 PM |      |
-  | Friday    | 8 AM–7 PM |      |
-  | Saturday  | 8 AM–6 PM |      |
+- **Hours**:
+  | day       | hours     |
+  | --------- | --------- |
+  | Sunday    | 9 AM–5 PM |
+  | Monday    | 8 AM–7 PM |
+  | Tuesday   | 8 AM–7 PM |
+  | Wednesday | 8 AM–7 PM |
+  | Thursday  | 8 AM–7 PM |
+  | Friday    | 8 AM–7 PM |
+  | Saturday  | 8 AM–6 PM |
 - **Phone**: [(724) 845-8104](tel:724-845-8104)
 - **Distance from Camp**: 10 min (4.4 miles)
-- **Website**: [stanfordhome.com](https://www.stanfordhome.com/)
+- **Website**: [stanfordhome.com](https://www.stanfordhome.com)
 - **Google Maps:** [Stanford Home Centers - Google Maps](https://www.google.com/maps/place/Stanford+Home+Centers/@40.6087607,-79.6253782,14z/data=!3m1!5s0x8834bbaca61707d3:0x54370542c43cd733!4m12!1m6!3m5!1s0x0:0xe8e3d37b5e10e090!2sFamily+Dollar!8m2!3d40.6045841!4d-79.606943!3m4!1s0x8834bb0b2ece4883:0x73dcea10298061c8!8m2!3d40.6157401!4d-79.627745)
 
 Local Hardware Store
@@ -114,6 +115,7 @@ Local Hardware Store
 - **Phone**: [(724) 845-6090 ](tel:724-845-6090)
 - **Hours**: 10:30AM–9:30PM
 - **Distance from Camp**: 4 min (2 miles)
+- **Website:** [dairyqueen.com](https://www.dairyqueen.com/en-us/locations/pa/leechburg/864-state-route-356/6033/)
 - **Google Maps**: [DQ Grill & Chill Restaurant - Google Maps](https://www.google.com/maps/place/DQ+Grill+%26+Chill+Restaurant/@40.6043612,-79.6123904,15.25z/data=!4m21!1m15!4m14!1m6!1m2!1s0x87ad18d1fb42c971:0xad0d8b3ca44d3ea8!2sNorthmoreland+Park,+Markle+Road,+Apollo,+PA!2m2!1d-79.6191225!2d40.5779745!1m6!1m2!1s0x8834bbacdfce6f2d:0xfbb9951efaecd6a3!2sKings+Family+Restaurants,+315+Hyde+Park+Rd,+Leechburg,+PA+15656!2m2!1d-79.60695!2d40.603249!3m4!1s0x8834bbb20c5a0c63:0xf5cbda1c3e5505d2!8m2!3d40.6006695!4d-79.6097178)
 
 #### McDonalds
@@ -124,6 +126,7 @@ Local Hardware Store
 - **Phone**: [(724) 845-2035 ](tel:724-845-2035)
 - **Hours**: Sun thru Thurs 5AM - 11PM, Fri thru Sat 5AM - 12AM
 - **Distance from Camp**: 6 min (2.5 Miles)
+- **Website:** [mcdonalds.com](https://www.mcdonalds.com/us/en-us/location/pa/leechburg/481-hyde-park-road/6082.html)
 - **Google Maps**: [McDonald's - Google Maps](https://www.google.com/maps/place/McDonald's/@40.6054353,-79.6137177,15z/data=!4m12!1m6!3m5!1s0x8834bbb20c5a0c63:0xf5cbda1c3e5505d2!2sDQ+Grill+%26+Chill+Restaurant!8m2!3d40.6006695!4d-79.6097178!3m4!1s0x0:0xe5f6ef3aed5e9952!8m2!3d40.6054513!4d-79.6050437)
 
 #### Taco Bell
@@ -135,6 +138,7 @@ Local Hardware Store
 - **Phone**: [(724) 567-8225](tel:724-567-8225)
 - **Hours:** 8AM - 12 AM
 - **Distance from Camp**: 6 min (2.7 miles)
+- **Website:** [tacobell.com](https://locations.tacobell.com/pa/leechburg/502-hyde-park-road.html)
 - **Google Maps**: [Taco Bell - Google Maps](https://www.google.com/maps/place/Taco+Bell/@40.6064,-79.6117547,15z/data=!4m12!1m6!3m5!1s0x8834bbb20c5a0c63:0xf5cbda1c3e5505d2!2sDQ+Grill+%26+Chill+Restaurant!8m2!3d40.6006695!4d-79.6097178!3m4!1s0x0:0xe13756f75c0e5fab!8m2!3d40.6064!4d-79.603)
 
 ---
