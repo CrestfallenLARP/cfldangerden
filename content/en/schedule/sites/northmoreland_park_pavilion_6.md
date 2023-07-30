@@ -152,7 +152,7 @@ Local Hardware Store
 - **Address**: 500 Hyde Park Rd, Leechburg PA 15656
 - **Phone**: [(724) 845-1031](tel:724-845-1031)
 - **Hours**: 7:30am - 9pm Monday thru Saturday, 8am - 8pm Sunday
-- **Website**: [https://www.autozone.com/locations/pa/leechburg/500-hyde-park-rd.html](https://www.autozone.com/locations/pa/leechburg/500-hyde-park-rd.html)
+- **Website**: [autozone.com](https://www.autozone.com/locations/pa/leechburg/500-hyde-park-rd.html)
 - **Distance from Camp**: 9 min (2.7 miles)
 - **Google Maps**: [AutoZone Auto Parts - Google Maps](https://www.google.com/maps/place/AutoZone+Auto+Parts/@40.6067338,-79.6055323,17z/data=!3m1!4b1!4m6!3m5!1s0x8834ba5494ca65ff:0x792948f7cc3bc78c!8m2!3d40.6067297!4d-79.6033383!16s%2Fg%2F1tg6l631)
 
@@ -190,7 +190,7 @@ Local Hardware Store
 
 - **Address**: 2570 Haymaker Rd, Monroeville, PA 15146
 - **Phone**: [(412) 858-2000](tel:412-858-2000)
-- **Website**: [https://www.ahn.org/locations/hospitals/forbes](https://www.ahn.org/locations/hospitals/forbes)
+- **Website**: [ahn.org/locations/hospitals/forbes](https://www.ahn.org/locations/hospitals/forbes)
 - **Hours**: 24h
 - **Distance from Camp**: 28 min (17.2 miles)
 - **Google Maps**: [Forbes Hospital - Google Maps](https://goo.gl/maps/5zVYfjgN2Q56A9z39)
@@ -274,7 +274,7 @@ Local Hardware Store
 
 - **Address**: 300 Tarentum Bridge Rd, New Kensington, PA 15068
 - **Phone**: [(724) 335-9171 ](tel:724-335-9171)
-- **Website**: https://www.choicehotels.com/pennsylvania/new-kensington/quality-inn-hotels/pa246?mc=llgoxxpx
+- **Website**: [choicehotels.com](https://www.choicehotels.com/pennsylvania/new-kensington/quality-inn-hotels/pa246?mc=llgoxxpx)
 - **Hours**: Check-in time: 2:00 PM Check-out time: 11:00 AM
 - **Distance from Camp**: 17 min (10.9 miles)
 - **Google Maps:** [Quality Inn - Google Maps](https://goo.gl/maps/p42qdVAX7EqoR8sF7)
