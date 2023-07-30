@@ -13,7 +13,9 @@ toc_hide: true
 - **Bathrooms**: handicapped accessable outhouse right next to the pavilion. larger restrooms nearby.
 - **Smoking**: Smoking is only permitted in parking areas.  Put cigarette butts in trays or cans. Do not smoke in the pavilion.
 - **Cell Phone Service**: Pretty Good!
-- **Map**: [Map of South Park](/images/sites/south_park/SouthPark.png)
+- **Map**: 
+  - [Map of South Park](/images/sites/south_park/SouthPark.png) 
+  - [Another Map of South Park](/images/sites/south_park/south_park_map.png)
 
 ## Arriving at the Pavilion
 
