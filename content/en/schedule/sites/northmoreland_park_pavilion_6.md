@@ -70,9 +70,7 @@ Local dollar store.
 #### Stanford Home Centers
 
 - **Address**: 1173 PA-356, Leechburg, PA 15656
-
 - **Hours**:  
-
   | Sunday    | 9 AM–5 PM |      |
   | --------- | --------- | ---- |
   | Monday    | 8 AM–7 PM |      |
@@ -81,7 +79,6 @@ Local dollar store.
   | Thursday  | 8 AM–7 PM |      |
   | Friday    | 8 AM–7 PM |      |
   | Saturday  | 8 AM–6 PM |      |
-
 - **Phone**:    [(724) 845-8104](tel:724-845-8104)
 - **Distance from Camp**: 10 min (4.4 miles)
 - **Website**: [stanfordhome.com](https://www.stanfordhome.com/)
@@ -134,7 +131,7 @@ Local Hardware Store
 - **Address**: 500 Hyde Park Rd, Leechburg PA 15656
 - **Phone**:  [(724) 845-1031](tel:724-845-1031)
 - **Hours**: 7:30am - 9pm Monday thru Saturday, 8am - 8pm Sunday
-- **Website**: [https://www.autozone.com/locations/pa/leechburg/500-hyde-park-rd.html](https://www.autozone.com/locations/pa/leechburg/500-hyde-park-rd.html))
+- **Website**: [https://www.autozone.com/locations/pa/leechburg/500-hyde-park-rd.html](https://www.autozone.com/locations/pa/leechburg/500-hyde-park-rd.html)
 - **Distance from Camp**: 9 min (2.7 miles)
 - **Google Maps**: [AutoZone Auto Parts - Google Maps](https://www.google.com/maps/place/AutoZone+Auto+Parts/@40.6067338,-79.6055323,17z/data=!3m1!4b1!4m6!3m5!1s0x8834ba5494ca65ff:0x792948f7cc3bc78c!8m2!3d40.6067297!4d-79.6033383!16s%2Fg%2F1tg6l631)
 
@@ -145,7 +142,7 @@ Local Hardware Store
 - **Hours**: 8am - 5:30pm Monday thru Friday, 8am - 2pm Saturday, CLOSED SUNDAY
 - **Website**: [napaonline.com](https://www.napaonline.com/en/pa/ligonier/store/24211)
 - **Distance from Camp**: 7 min (3.7 miles)
-- **Google Maps:** [https://goo.gl/maps/fYC8TLxgsdM7BXFf9](https://www.google.com/maps/place/324+E+Main+St,+Ligonier,+PA+15658/@40.2033188,-79.1961033,13z/data=!4m5!3m4!1s0x89cb2f1084c62325:0x4870a827757bc674!8m2!3d40.2406505!4d-79.2333743)
+- **Google Maps:** [NAPA Auto Parts - Google Maps](https://goo.gl/maps/LehaUooBhq5DN17t5)
 
 ---
 
@@ -160,7 +157,7 @@ Local Hardware Store
 - **Website**: [https://www.ahn.org/locations/hospitals/allegheny-valley](https://www.ahn.org/locations/hospitals/allegheny-valley)
 - **Hours**: 24h
 - **Distance from Camp**: 22 min (13.2 miles)
-- **Google Maps**: [https://goo.gl/maps/KcafQTVP91bh6ke56](https://goo.gl/maps/tS9fp86HiChZp3wz7)
+- **Google Maps**: [Allegheny Valley Hospital - Google Maps](https://goo.gl/maps/KcafQTVP91bh6ke56)
 
 #### Forbes Hospital
 
@@ -169,7 +166,7 @@ Local Hardware Store
 - **Website**: [https://www.ahn.org/locations/hospitals/forbes](https://www.ahn.org/locations/hospitals/forbes)
 - **Hours**: 24h
 - **Distance from Camp**: 28 min (17.2 miles)
-- **Google Maps**: https://goo.gl/maps/5zVYfjgN2Q56A9z39
+- **Google Maps**: [Forbes Hospital - Google Maps](https://goo.gl/maps/5zVYfjgN2Q56A9z39)
 
 
 #### UPMC East Hospital 
@@ -178,33 +175,33 @@ Local Hardware Store
 - **Phone**: [(412) 357-3000](tel:412-357-3000)
 - **Hours**: 24h
 - **Distance from Camp**: 27 min (17 miles)
-- **Google Maps**:https://goo.gl/maps/DjdNq4F2BF36JUt77
+- **Google Maps**:[ UPMC East Hospital - Google Maps](https://goo.gl/maps/DjdNq4F2BF36JUt77)
 
-#### MedExpress Urgent Care
+#### MedExpress Urgent Care Tarentum
 
 - **Address**: 303 E 10th Ave, Tarentum, PA 15084
 - **Phone**: [(724) 224-2770 ](tel:724-224-2770)
 - **Website**: [medexpress.com](https://www.medexpress.com)
 - **Hours**: 8am - 8pm
 - **Distance from Camp**: 20 min (11.8 miles)
-- **Google Maps**: https://goo.gl/maps/7UKaN1tkMK2P3gEW8
+- **Google Maps**: [MedExpress Urgent Care - Google Maps](https://goo.gl/maps/7UKaN1tkMK2P3gEW8)
 
-#### MedExpress Urgent Care
+#### MedExpress Urgent Care Natrona Height
 
 - **Address**: Heights Plaza, 1870 Broadview Blvd, Natrona Heights, PA 15065
 - **Phone**: [(724) 224-3701 ](tel:724-224-3701)
 - **Website**: [medexpress.com](https://www.medexpress.com)
 - **Hours**: 8am - 8pm
 - **Distance from Camp**: 24 min (13.9 miles)
-- **Google Maps**: https://goo.gl/maps/ChNbuuUMpshkF3w4A
+- **Google Maps**: [MedExpress Urgent Care - Google Maps](https://goo.gl/maps/ChNbuuUMpshkF3w4A)
 
-#### iCare Urgent Care
+#### iCare Urgent Care Monroeville
 - **Address**: 4905 William Penn Hwy, Monroeville, PA 15146
 - **Phone**: [(724) 519-8350 ](tel:724-519-8350)
 - **Hours**:  7am - 8pm Monday thru Friday, 8am - 6pm Saturday thru Sunday
 - **Distance from Camp**:  23 min (14.4 miles)
 - **Website**: http://www.icaremedical.com/
-- **Google Maps:** https://goo.gl/maps/v8ZHWtee37nwDpBH9
+- **Google Maps:** [iCare Urgent Care Monroeville - Google Maps](https://goo.gl/maps/v8ZHWtee37nwDpBH9)
 
 ### Pharmacy
 
@@ -214,7 +211,7 @@ Local Hardware Store
 - **Phone**: [(724) 478-2500 ](tel:724-478-2500)
 - **Hours**: 8am - 9pm (Subject to change. Please call)
 - **Distance from Camp**: 8 min (3.7 miles)
-- **Google Maps:** https://goo.gl/maps/R2CgPaGmPpUJX8E4A
+- **Google Maps:** [Rite Aid Pharmacy - Google Maps](https://goo.gl/maps/R2CgPaGmPpUJX8E4A)
 
 #### Giant Eagle Pharmacy
 
@@ -223,7 +220,7 @@ Local Hardware Store
 - **Hours**: 8am – 8pm Monday thru Friday, 9am – 6pm Saturday,  9am – 5pm
 - **Distance from Camp**: 6 min (2.8 miles)
 - **Website**: [gianteagle.com]( https://www.gianteagle.com/stores/pa/ligonier/ligonier-giant-eagle/607)
-- **Google Maps:** https://goo.gl/maps/M44mtvHGCQzmr4dy8
+- **Google Maps:** [Giant Eagle Pharmacy - Google Maps](https://goo.gl/maps/M44mtvHGCQzmr4dy8)
 
 ---
 
@@ -236,7 +233,7 @@ Local Hardware Store
 - **Website**: https://www.choicehotels.com/pennsylvania/new-kensington/quality-inn-hotels/pa246?mc=llgoxxpx
 - **Hours**: Check-in time: 2:00 PM Check-out time: 11:00 AM
 - **Distance from Camp**: 17 min (10.9 miles)
-- **Google Maps:** https://goo.gl/maps/p42qdVAX7EqoR8sF7
+- **Google Maps:** [Quality Inn - Google Maps](https://goo.gl/maps/p42qdVAX7EqoR8sF7)
 
 ---
 **This is a living document. Please let us know if anything can be added and improved.** 
