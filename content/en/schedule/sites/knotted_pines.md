@@ -37,7 +37,7 @@ toc_hide: true
 <img src="/images/logos/martinos_bilo_logo.jpg" alt="Martino's Bi-Lo" style="height:100px;">
 
 - **Address**: 1200 Main St, Brockway, PA 15824
-- **Phone**: [(814) 268-2353](tel: 814-268-2353)
+- **Phone**: [(814) 268-2353](tel:814-268-2353)
 - **Website**: [martinosbilo.com](https://www.martinosbilo.com)
 - **Hours**: 7AM - 8PM Monday thru Saturday, 7AM - 6PM Sunday
 - **Distance from site:** 1.4 miles (4 minutes)
@@ -51,7 +51,7 @@ Local grocery store
 
 
 - **Address**: 1249 Main St, Brockway, PA 15824
-- **Phone**: [(814) 626-9412](tel: 814-626-9412)
+- **Phone**: [(814) 626-9412](tel:814-626-9412)
 - **Website:** https://stores.dollargeneral.com/pa/brockway/1018
 - **Hours:** 8AM - 10PM
 - **Distance from site:** 1.7 miles (4 minutes)
