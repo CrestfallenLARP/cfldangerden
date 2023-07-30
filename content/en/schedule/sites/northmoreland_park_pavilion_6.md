@@ -59,7 +59,7 @@ Discount big box store with snacks, clothing, cleaning supplies, and addition pr
 
 
 - **Address**: 451 Hyde Park Rd, Leechburg, PA 15656
-- **Phone**: [(724) 236-6009](tel: 724-236-6009)
+- **Phone**: [(724) 236-6009](tel:724-236-6009)
 - **Hours:** 9AM - 9PM
 - **Website:** [https://www.familydollar.com/locations/pa/leechburg/27712/](https://www.familydollar.com/locations/pa/leechburg/27712/)
 - **Distance from Camp:** 5 min (2.5 miles)
