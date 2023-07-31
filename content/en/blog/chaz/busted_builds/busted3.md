@@ -16,7 +16,7 @@ We begin with our chosen lineage; any will work fine but the build benefits most
 
 So, I will be going [Human](/rules/lineage_skill_categories/#human-lineage-skill-category) and picking up [Adaptable](/rules/skills/#adaptable) for +2 stamina.
 
-We then unlock the [Group Combat Skill Category](rules/skill_categories/#group-combat-skill-category) and purchase [Stagger](/rules/skills/#stagger) (10 CP, 2 Stamina cost) and [Waylay](/rules/skills/#waylay) (10 CP, 2 Stamina cost). Both skills allow us for the cost of 2 stamina to inflict either [Daze](/rules/conditions/#dazed) or [Sleep](/rules/conditions/#sleeping), which are powerful conditions that can take a foe out of combat in a single blow.
+We then unlock the [Group Combat Skill Category](/rules/skill_categories/#group-combat-skill-category) and purchase [Stagger](/rules/skills/#stagger) (10 CP, 2 Stamina cost) and [Waylay](/rules/skills/#waylay) (10 CP, 2 Stamina cost). Both skills allow us for the cost of 2 stamina to inflict either [Daze](/rules/conditions/#dazed) or [Sleep](/rules/conditions/#sleeping), which are powerful conditions that can take a foe out of combat in a single blow.
 
 [Daze](/rules/conditions/#dazed) states that an afflicted target stares off into space, not noticing or remembering anything happening for 5 minutes or until cured or attacked. If left on a target for the full 5 minutes the target “believes that nothing is wrong and tries to go back to what they were doing, assuming that they were sleepy or zoned out for a moment.” If this is the case, there is no way for them to regain these memories.
 
