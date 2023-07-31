@@ -1,4 +1,3 @@
-
 ---
 title: "The Rage Caster"
 linkTitle: "The Rage Caster"
