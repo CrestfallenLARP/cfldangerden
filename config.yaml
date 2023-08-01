@@ -119,19 +119,23 @@ module:
       disable: false
 menu:
   main:
-    - name: Schedule
-      pre: <i class="fa-solid fa-calendar"></i>
+    - name: Write Ups
+      pre: <i class="fa-solid fa-book"></i>
       weight: 10
-      url: '/schedule'
-    - name: Rules
+      url: '/write_ups'
+    - name: Factions 
       pre: <i class="fa-regular fa-book"></i>
       weight: 30
-      url: '/rules'
-    - name: Blog
+      url: '/factions'
+    - name: Characters 
       pre: <i class="fa-solid fa-bullhorn"></i>
       weight: 40
-      url: '/blog'
-    - name: Katalossa 
+      url: '/characters'
+    - name: Items 
       pre: <i class="fa-solid fa-earth-oceania"></i>
-      weight: 40
-      url: '/katalossa'
+      weight: 50
+      url: '/items'
+    - name: Props  
+      pre: <i class="fa-solid fa-earth-oceania"></i>
+      weight: 60
+      url: '/props'
