@@ -1,4 +1,4 @@
 ---
-title: Craft Alcohol
+title: Magical Goblins
 type: "docs"
 ---

@@ -1,4 +1,4 @@
 ---
-title: Craft Alcohol
+title: Undead Panic
 type: "docs"
 ---

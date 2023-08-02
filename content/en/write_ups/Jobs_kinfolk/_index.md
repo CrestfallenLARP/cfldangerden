@@ -1,6 +1,6 @@
 ---
-title: "Writeups"
-linkTitle: "Writeups"
+title: "Jobs Kinfolk"
+
 weight: 20
 type: "docs"
 ---

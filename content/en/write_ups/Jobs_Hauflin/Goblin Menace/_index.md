@@ -1,4 +1,4 @@
 ---
-title: Craft Alcohol
+title: Goblin Menace
 type: "docs"
 ---

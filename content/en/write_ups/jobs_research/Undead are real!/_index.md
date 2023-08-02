@@ -1,4 +1,4 @@
 ---
-title: Craft Alcohol
+title: Undead are Real
 type: "docs"
 ---

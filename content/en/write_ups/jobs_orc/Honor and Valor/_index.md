@@ -1,4 +1,4 @@
 ---
-title: Craft Alcohol
+title: Honor and Valor
 type: "docs"
 ---

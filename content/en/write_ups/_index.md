@@ -22,11 +22,7 @@ The scouting of the wilds near Boulderton has been going well.  The Goblins and 
 
 
 
-**“Need Weapons”** – Craft a hammer or axe and have it judged by craftsman of Zarn. 5 leaves per rating from 1 to 5.
 
-This job allows a player to craft an item for donation to the guild.  The guild will lead the players through the process of acquiring the resources, using the approved project design card, acting out the production of the item and pricing.
-
-Props: Weapon Rep, resources, Approved Design Card
 
 **“Arcane Art”** – Use technology to create a picture during the course of an adventure. 2 leaves per picture turned in to the research guild.
 
@@ -34,17 +30,7 @@ This job is a non-combat mission.  Players
 
 **<u>Elf Jobs</u>**
 
-**“Making Wine”** – We need help to gather the appropriate resources to make our favorite drink. Bring the following items back to us and we will brew a wonderful batch of wine.
 
-\-     5 basic resources
-
-\-     2 common alchemy resources
-
-\-     The gift of a gnome
-
-\-     The ear of a goblin tied to ice
-
-Payment will be a bottle of wine or 20 leaves
 
 **“Craft a rune”** – We are looking for an artist to make a new runic symbol for us. Create a symbol that moves us and we will pay 15 leaves
 

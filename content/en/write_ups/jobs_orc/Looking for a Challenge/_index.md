@@ -1,4 +1,4 @@
 ---
-title: Craft Alcohol
+title: Looking for a Challenge
 type: "docs"
 ---

@@ -1,4 +1,4 @@
 ---
-title: Craft Alcohol
+title: Party Time
 type: "docs"
 ---
