@@ -1,5 +1,6 @@
 ---
 title: Smash the competition
+type: "docs"
 ---
 
 A number of goblins have been stealing resources. This has made it difficult to craft items. Take out an encampment for us and bring us whatever resources you find. 30 leaves

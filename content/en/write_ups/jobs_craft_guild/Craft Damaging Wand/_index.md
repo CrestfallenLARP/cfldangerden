@@ -1,6 +1,6 @@
 ---
 title: Craft Damaging Wand
-
+type: "docs"
 ---
 
 

@@ -1,4 +1,5 @@
 ---
-title: Craft Alcohol
+title: 
 type: "docs"
 ---
+
