@@ -1,5 +1,7 @@
 ---
 title: Reclaim stolen resources
+layout: job
+type: "docs"
 ---
 
 A chest of stolen resources must be brought back, or no new items will be able to be created for next adventure day. 20 leaves if all resources are returned. 10 if any resources are mission.

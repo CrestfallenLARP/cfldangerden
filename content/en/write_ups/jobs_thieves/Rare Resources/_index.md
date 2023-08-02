@@ -1,9 +1,8 @@
 ---
 title: Rare Resources
+type: "docs"
 ---
 
+We need them. Any rare resource will buy our friendship….. for a bit. 
 
-
-
-
-**“”** – We need them. Any rare resource will buy our friendship….. for a bit. 12 leaves for the first that walks in our door.
+reward: 12 leaves for the first that walks in our door.

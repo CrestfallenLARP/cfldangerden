@@ -1,4 +1,4 @@
 ---
-title: Smash the competition
+title: Jobs Research
 type: "docs"
 ---

@@ -1,6 +1,7 @@
 ---
 title: Craft Weapon
 type: "docs"
+layout: job
 ---
 Gather the resources and craft a weapon of your choice and donate to the guild. 10 leaves
 

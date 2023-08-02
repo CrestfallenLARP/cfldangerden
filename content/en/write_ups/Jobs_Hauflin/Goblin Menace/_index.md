@@ -1,4 +1,7 @@
 ---
 title: Goblin Menace
 type: "docs"
+layout: job
 ---
+
+We need those goblins gone. They are almost out of town, but they have a healer and ice caster with a big crew. Get em taken care of. 30 leaves

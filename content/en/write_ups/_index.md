@@ -4,9 +4,8 @@ linkTitle: "Writeups"
 weight: 20
 type: "docs"
 
+# List all of the event write ups with jobs, treasure, cards, etc which can be used to generate the treasure and track the events.  They should probably be laid out similar to the schedule page.
 ---
-
-Write Ups - which will list all of the event write ups with jobs, treasure, cards, etc which can be used to generate the treasure and track the events.  They should probably be laid out similar to the schedule page.
 
 ## Event Overview
 
@@ -32,9 +31,7 @@ This job is a non-combat mission.  Players
 
 
 
-**“Craft a rune”** – We are looking for an artist to make a new runic symbol for us. Create a symbol that moves us and we will pay 15 leaves
 
-**“Song of resting”** – Many in the area are tired and looking for hope. If the forest spirits hear a song, it may lift their spirits. Make sure to let the spirits know when you will be performing. 10 leaves for a song. 20 leaves for a song that is truly moving
 
 **<u>Hauflin Jobs</u>**
 

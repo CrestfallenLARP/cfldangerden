@@ -1,6 +1,6 @@
 ---
 title: Playtest Event
-
+type: "docs"
 ---
 
 

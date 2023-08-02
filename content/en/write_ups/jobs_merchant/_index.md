@@ -1,4 +1,5 @@
 ---
-title: Smash the competition
+title: Jobs Merchant
 type: "docs"
 ---
+
