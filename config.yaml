@@ -119,10 +119,14 @@ module:
       disable: false
 menu:
   main:
-    - name: Write Ups
+    - name: boulderton
       pre: <i class="fa-solid fa-book"></i>
       weight: 10
-      url: '/write_ups'
+      url: '/boulderton'
+    - name: weekend
+      pre: <i class="fa-solid fa-book"></i>
+      weight: 10
+      url: '/weekend'
     - name: Factions 
       pre: <i class="fa-regular fa-book"></i>
       weight: 30
