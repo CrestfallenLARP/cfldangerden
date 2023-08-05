@@ -9,7 +9,7 @@
 {{ if not (reflect.IsSlice .Params.props)}}{{ $props = (slice .Params.props) }}
 {{ else  }} {{ $props = append $props .Params.props }}
 {{ end }}
-<p><b>props:</b> {{ delimit $props ", "}}</p> {{- end -}}
-{{ if  .Params.summary  -}}<p><b>summary</b>:  {{ .Params.summary  -}}</p>{{ end }}
+<p><b>Props:</b> {{ delimit $props ", "}}</p> {{- end -}}
+{{ if  .Params.summary  -}}<p><b>Summary</b>:  {{ .Params.summary  -}}</p>{{ end }}
 </div>
 {{ end }}

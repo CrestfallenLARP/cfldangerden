@@ -56,16 +56,3 @@ faction_level_4:
   - Consume Energy creates 2 White Bone Undead rather than 1.
 
 ---
-
-
-
-
-
- 
-
-
-
-**Healed By:** 
-
-**At Dying:** 
-
