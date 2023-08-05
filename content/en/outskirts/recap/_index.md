@@ -1,5 +1,5 @@
 ---
-title: Previous Event Review
+title: Recap
 weight: 10
 type: "docs"
 ---

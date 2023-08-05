@@ -119,14 +119,14 @@ module:
       disable: false
 menu:
   main:
-    - name: boulderton
+    - name: Outskirts
       pre: <i class="fa-solid fa-book"></i>
       weight: 10
+      url: '/outskirts'
+    - name: Boulderton
+      pre: <i class="fa-solid fa-book"></i>
+      weight: 15
       url: '/boulderton'
-    - name: weekend
-      pre: <i class="fa-solid fa-book"></i>
-      weight: 10
-      url: '/weekend'
     - name: Factions 
       pre: <i class="fa-regular fa-book"></i>
       weight: 30

@@ -1,13 +1,14 @@
 ---
 title: Gnoll Glutton
+Backstory: The gnolls were once hyena kinfolk, but for years have fallen into madness and darkness. The madness calls for the gnolls to consume any and all living creatures, sometimes even your own kind
 ---
-**Name**: Gnoll Glutton
+
 
  
 
 **Acting Information**: 
 
-**Backstory:**  The gnolls were once hyena kinfolk, but for years have fallen into madness and darkness.  The madness calls for the gnolls to consume any and all living creatures, sometimes even your own kind
+
 
 **Motivation:** Consume the living to fulfill the hunger that never ends
 

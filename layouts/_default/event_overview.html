@@ -1,0 +1,49 @@
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+
+<h2>Overview</h2>
+<p>{{ .Params.overview  -}}</p>
+<h2>Modules</h2>
+{{ $schedules := (slice "opening" "mid" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "end" ) }}
+
+{{ range  $schedules }}
+{{ $current_schedule := . }} 
+
+{{ if sort (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
+<p>{{ title  $current_schedule }}{{ if eq $current_schedule  nil }} NO SCHEDULE!! {{ end }}
+<b>({{ len (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b>)
+
+{{ if eq $current_schedule  nil }}<p>Please add a schedule to your modules</p>{{ end }}
+{{ range where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule -}}
+      <a href="{{- .Permalink -}}"><b> {{ title .Title }}</b></a> 
+
+{{ end }}
+</p>
+{{ end }} 
+{{ end }}
+
+
+
+
+
+
+<h2>Faction Goals</h2>
+<h2>Pioneer Encounters</h2>
+<h2>Jobs</h2>
+{{ $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "orc" nil ) }}
+{{ range  $factions }}
+{{ $current_faction := . }} 
+
+{{ if sort (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) "Params.weight" -}}
+<p><b>{{ title  $current_faction }}{{ if eq $current_faction  nil }} NO Faction on this Job!! {{ end }}</b>
+<b>{{ len (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) -}}</b> Jobs 
+{{ end }}
+        {{ range where (where $event_pages "Layout" "=="  "job" ) ".Params.faction" "=="  $current_faction -}}
+      <a href="{{- .Permalink -}}"><b> {{ title .Title }}</b></a>
+      {{ end }}
+</p>
+{{ end }}
+
+
+
+</h3> 
+{{ with .GetPage "./event_export" }}<h3><a href="./event_export">full event to print</a></h3> {{ end }}
