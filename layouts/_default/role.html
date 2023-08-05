@@ -1,3 +1,7 @@
+{{ define "main" }}
+<p></p>
+<h1>{{ .Params.title }}</h1>
+{{ .Render "content" }}
 
 <h3>Acting Information</h3>
 {{ if .Params.Backstory }}<p><b>Backstory: </b>{{ .Params.Backstory  }}{{ end }}
@@ -79,4 +83,4 @@
 {{ end }}
 
 <p><b>faction_level_4:</b> {{ delimit $faction_level_4 ", "}}</p> {{- end -}}
-
+{{ end }}
