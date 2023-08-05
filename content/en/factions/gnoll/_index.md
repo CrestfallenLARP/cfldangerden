@@ -1,5 +1,5 @@
 ---
-title: "Goblin"
+title: "gnoll"
 
 weight: 20
 type: "docs"
