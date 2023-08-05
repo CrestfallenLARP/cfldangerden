@@ -1,3 +1,9 @@
+---
+title: Basic Undead
+---
+
+
+
 **Basic Undead**
 
 Standard Costuming: Red Undead Mask, Random Armor Pieces, Two One Handed Weapons

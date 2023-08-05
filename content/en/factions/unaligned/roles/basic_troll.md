@@ -1,3 +1,9 @@
+---
+title: Basic Troll
+---
+
+
+
 **Basic Troll**
 
 Standard Costuming: Troll Mask, Tabard With Leather Plates, Two Handed Weapon

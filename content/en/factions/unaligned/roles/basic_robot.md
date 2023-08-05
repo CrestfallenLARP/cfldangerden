@@ -1,3 +1,9 @@
+---
+title: Basic Robot
+---
+
+
+
 **Basic Robot**
 
 Standard Costuming: Construct Mask, Random Armor Pieces, Any Weapon
