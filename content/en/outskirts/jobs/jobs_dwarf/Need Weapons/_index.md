@@ -1,6 +1,5 @@
 ---
 title: Need Weapons
-type: "docs"
 post: Craft a hammer or axe and have it judged by craftsman of Zarn. 
 reward: 5 leaves per rating from 1 to 5.
 Props: 

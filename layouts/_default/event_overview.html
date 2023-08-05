@@ -1,3 +1,6 @@
+
+{{ define "main" }}
+{{ .Render "content" }}
 {{ $event_pages := where $.Site.Pages "Section" .Section }}
 
 <h2>Overview</h2>
@@ -26,8 +29,7 @@
 
 
 
-<h2>Faction Goals</h2>
-<h2>Pioneer Encounters</h2>
+
 <h2>Jobs</h2>
 {{ $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "orc" nil ) }}
 {{ range  $factions }}
@@ -43,7 +45,10 @@
 </p>
 {{ end }}
 
-
+<h2>Faction Goals</h2>
+<h2>Pioneer Encounters</h2>
 
 </h3> 
 {{ with .GetPage "./event_export" }}<h3><a href="./event_export">full event to print</a></h3> {{ end }}
+
+{{ end }}

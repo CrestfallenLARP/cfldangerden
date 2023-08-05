@@ -1,5 +1,8 @@
 ---
 title: Jobs Research
-type: "docs"
+layout: job_overview
+cascade:
+  layout: job
+  faction: Research Guild
 ---
 

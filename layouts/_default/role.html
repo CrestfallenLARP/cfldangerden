@@ -1,0 +1,82 @@
+
+<h3>Acting Information</h3>
+{{ if .Params.Backstory }}<p><b>Backstory: </b>{{ .Params.Backstory  }}{{ end }}
+{{ if .Params.Motivation }}<p><b>Motivation: </b>{{ .Params.Motivation  }}{{ end }}
+{{ if .Params.Speech }}<p><b>Speech: </b>{{ .Params.Speech  }}{{ end }}
+{{ if .Params.Movement }}<p><b>Movement: </b>{{ .Params.Movement  }}{{ end }}
+{{ if .Params.Intelligence }}<p><b>Intelligence: </b>{{ .Params.Intelligence  }}{{ end }}
+
+<h3>Game Mechanics</h3>
+
+
+{{ if .Params.body }}<p><b>Body:</b> {{ .Params.body }}</p>{{ end }}
+{{ if .Params.armor }}<p><b>armor:</b> {{ .Params.armor }}</p>{{ end }}
+{{ if .Params.stamina }}<p><b>stamina:</b> {{ .Params.stamina }}</p> {{ end }}
+{{ if .Params.energy }}<p><b>energy:</b> {{ .Params.energy }}</p> {{ end }}
+
+{{ $spells_known := (slice ) }}
+{{ if .Params.spells_known }}
+{{ if not (reflect.IsSlice .Params.spells_known)}}{{ $spells_known = (slice .Params.spells_known) }}
+{{ else  }} {{ $spells_known = append $spells_known .Params.spells_known }}
+{{ end }}
+<p><b>spells_known:</b> {{ delimit $spells_known ", "}}</p> {{- end -}}
+
+
+
+{{ if .Params.primary_attack }}<p><b>primary_attack:</b> {{ .Params.primary_attack }}</p> {{ end }}
+{{ if .Params.Killing_Blow }}<p><b>Killing_Blow:</b> {{ .Params.Killing_Blow }}</p> {{ end }}
+
+{{ $offensive_abilities := (slice ) }}
+{{ if .Params.offensive_abilities }}
+{{ if not (reflect.IsSlice .Params.offensive_abilities)}}{{ $magic = (slice .Params.offensive_abilities) }}
+{{ else  }} {{ $offensive_abilities = append $offensive_abilities .Params.offensive_abilities }}
+{{ end }}
+<p><b>offensive_abilities:</b> {{ delimit $offensive_abilities ", "}}</p> {{- end -}}
+
+{{ $defensive_abilities := (slice ) }}
+{{ if .Params.defensive_abilities }}
+{{ if not (reflect.IsSlice .Params.defensive_abilities)}}{{ $magic = (slice .Params.defensive_abilities) }}
+{{ else  }} {{ $defensive_abilities = append $defensive_abilities .Params.defensive_abilities }}
+{{ end }}
+<p><b>defensive_abilities:</b> {{ delimit $defensive_abilities ", "}}</p> {{- end -}}
+
+{{ $Immunities := (slice ) }}
+{{ if .Params.Immunities }}
+{{ if not (reflect.IsSlice .Params.Immunities)}}{{ $Immunities = (slice .Params.Immunities) }}
+{{ else  }} {{ $Immunities = append $Immunities .Params.Immunities }}
+{{ end }}
+<p><b>Immunities:</b> {{ delimit $Immunities ", "}}</p> {{- end -}}
+
+
+{{ if .Params.at_dying }}<p><b>Healed_By:</b> {{ .Params.Healed_By }}</p> {{ end }}
+
+{{ $Special := (slice ) }}
+{{ if .Params.Special }}
+{{ if not (reflect.IsSlice .Params.Special)}}{{ $Special = (slice .Params.Special) }}
+{{ else  }} {{ $Special = append $Special .Params.Special }}
+{{ end }}
+<p><b>Special:</b> {{ delimit $Special ", "}}</p> {{- end -}}
+
+{{ $faction_level_2 := (slice ) }}
+{{ if .Params.faction_level_2 }}
+{{ if not (reflect.IsSlice .Params.faction_level_2)}}{{ $magic = (slice .Params.faction_level_2) }}
+{{ else  }} {{ $faction_level_2 = append $faction_level_2 .Params.faction_level_2 }}
+{{ end }}
+<p><b>faction_level_2:</b> {{ delimit $faction_level_2 ", "}}</p> {{- end -}}
+
+
+{{ $faction_level_3 := (slice ) }}
+{{ if .Params.faction_level_3 }}
+{{ if not (reflect.IsSlice .Params.faction_level_3)}}{{ $magic = (slice .Params.faction_level_3) }}
+{{ else  }} {{ $faction_level_3 = append $faction_level_2 .Params.faction_level_3 }}
+{{ end }}
+<p><b>faction_level_3:</b> {{ delimit $faction_level_3 ", "}}</p> {{- end -}}
+
+{{ $faction_level_4 := (slice ) }}
+{{ if .Params.faction_level_4 }}
+{{ if not (reflect.IsSlice .Params.faction_level_4)}}{{ $magic = (slice .Params.faction_level_4) }}
+{{ else  }} {{ $faction_level_4 = append $faction_level_2 .Params.faction_level_4 }}
+{{ end }}
+
+<p><b>faction_level_4:</b> {{ delimit $faction_level_4 ", "}}</p> {{- end -}}
+

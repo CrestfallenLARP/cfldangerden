@@ -1,5 +1,8 @@
 ---
 title: Jobs Orc
-type: "docs"
+layout: job_overview
+cascade:
+  layout: job
+  faction: Orc
 ---
 

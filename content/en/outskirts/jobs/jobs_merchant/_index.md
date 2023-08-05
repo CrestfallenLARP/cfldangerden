@@ -1,5 +1,9 @@
 ---
 title: Jobs Merchant
-type: "docs"
+
+layout: job_overview
+cascade:
+  layout: job
+  faction: Merchant Guild
 ---
 

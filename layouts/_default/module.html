@@ -1,3 +1,5 @@
+{{ define "main" }}
+{{ .Render "content" }}
 {{ .Params.schedule }} - <b>{{ .Params.title }}</b>
 <p><b>Brief</b>: {{ .Params.brief  -}}</p>
 {{ if  .Params.props  -}}<p><b>props</b>:{{ .Params.props  -}} {{ end }}
@@ -12,4 +14,5 @@
     {{- end -}}
 {{ end }}
 </p></div>
+{{- end }}
 {{- end }}
