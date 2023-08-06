@@ -1,22 +1,22 @@
 
 {{- $event_pages := where $.Site.Pages "Section" .Section -}}
 
-<h2>Overview</h2>
+<b>Overview</b>
 <p>{{ .Params.overview  -}}</p>
-<h2>Modules</h2>
-{{ $schedules := (slice "opening" "mid" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "end" ) }}
+<b>Modules</b>
+{{ $schedules := (slice "Opening" "Mid Event" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "Ending" ) }}
 
 {{ range  $schedules }}
 {{ $current_schedule := . }}
 
 {{ if sort (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
-<p>{{ title  $current_schedule }}{{ if eq $current_schedule  nil }} NO SCHEDULE!! {{ end }}
+<p><b>{{ title  $current_schedule }}{{ if eq $current_schedule  nil }} NO SCHEDULE!! {{ end }}</b>
 <b>({{ len (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b>)
 
 {{ if eq $current_schedule  nil }}<p>Please add a schedule to your modules</p>{{ end }}
 {{ range $index, $value := where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule -}}
       {{ if (ne $index 0) }}, {{ end }}
-      <b> {{ title .Title }}</b>
+       {{ title .Title }}
 
 {{ end }}
 </p>
@@ -27,6 +27,63 @@
 
 
 
+
+
+<b>Jobs</b>
+{{ $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) }}
+{{ range  $factions }}
+{{ $current_faction := . }} 
+
+{{ if sort (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) "Params.weight" -}}
+<p><b>{{ title  $current_faction }}{{ if eq $current_faction  nil }} NO Faction on this Job!! {{ end }}</b>
+<b>({{ len (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) -}})</b>
+{{ end }}
+        {{ range $index, $value :=where (where $event_pages "Layout" "=="  "job" ) ".Params.faction" "=="  $current_faction -}}
+            {{ if (ne $index 0) }}, {{ end }}
+      {{ title .Title }}
+      {{ end }}
+</p>
+{{ end }}
+
+<b>Faction Goals</b>
+<p>One days don't have faction goals that are tracked because the cast changes creatures more often than during full weekend events</p>
+<b>Pioneer Encounters</b>
+<p><b>Cards in the Woods</b> These have not been introduced yet.</p>
+<p><b>Stockpiles</b> These have not been introduced yet.<p>
+
+
+
+<h2>Modules</h2>
+{{ $schedules := (slice "Opening" "Mid Event" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "Ending" ) }}
+
+{{ range  $schedules }}
+{{ $current_schedule := . }}
+
+{{ if sort (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
+<p><b>{{ title $current_schedule }}{{ if eq $current_schedule  nil }} NO SCHEDULE!! {{ end }}</b>
+<b>({{ len (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b>)
+
+{{ if eq $current_schedule  nil }}<p>Please add a schedule to your modules</p>{{ end }}
+{{ range $index, $value := where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule -}}
+      {{ if (ne $index 0) }}, {{ end }}
+       <h2>{{ .Params.schedule  }} - <b>{{ .Params.title  }}</b></h2>
+        <p><b>Brief</b>: {{ .Params.brief  -}}</p>
+{{ if  .Params.props  -}}<p><b>props</b>:{{ .Params.props  -}} {{ end }}
+{{ if  .Params.summary  -}}<p><b>summary</b>:  {{ .Params.summary  -}}</p>{{ end }}
+
+{{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ))  (.Params.roles) -}} 
+<div id="roles"><p><b>Roles:</b> 
+    {{ if .Params.roles }}{{ .Params.roles }} {{ end }}
+    {{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
+        {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "national_monster_card" "role" ) -}}
+    {{ if (ne $index 0) }}, {{ end }}
+    <a href="{{.Permalink}}">{{ .Params.quantity | default "" -}}{{- if .Params.quantity }}X {{ end }} {{.Title}} </a>
+        {{- end -}}
+    {{ end }}
+</p></div>
+{{- end }}
+
+{{ end }}
 
 
 <h2>Jobs</h2>
@@ -40,16 +97,31 @@
 {{ end }}
         {{ range $index, $value :=where (where $event_pages "Layout" "=="  "job" ) ".Params.faction" "=="  $current_faction -}}
             {{ if (ne $index 0) }}, {{ end }}
-        {{ title .Title }}
+       {{ .Params.faction }} - <b>{{ .Params.title }}</b>
+       <p><b>Post</b>: {{ .Params.post  -}}</p>
+      <p><b>Reward</b>:  {{ .Params.reward  -}}</p>
+        {{ $props := (slice ) }}
+        {{ if .Params.props }}
+        {{ if not (reflect.IsSlice .Params.props)}}{{ $props = (slice .Params.props) }}
+        {{ else  }} {{ $props = append $props .Params.props }}
+        {{ end }}
+        <p><b>Props:</b> {{ delimit $props ", "}}</p> {{- end -}}
+        {{ if  .Params.summary  -}}<p><b>Summary</b>:  {{ .Params.summary  -}}</p>{{ end }}
+        </div>
+        {{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ))  (.Params.roles) -}} 
+        <div id="roles"><p><b>Roles:</b> 
+        {{ if .Params.roles }}{{ .Params.roles }} {{ end }}
+        {{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
+            {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "national_monster_card" "role" ) -}}
+        {{ if (ne $index 0) }}, {{ end }}
+        <a href="{{.Permalink}}">{{ .Params.quantity | default "" -}}{{- if .Params.quantity }}X {{ end }} {{.Title}} </a>
+            {{- end -}}
+        {{ end }}
+        {{ end}}
+        </p>
       {{ end }}
 </p>
 {{ end }}
 
-<h2>Faction Goals</h2>
-<p>One days don't have faction goals that are tracked because the cast changes creatures more often than during full weekend events</p>
-<h2>Pioneer Encounters</h2>
-Cards in the Woods</p>
-Stockpiles<p>
-</h3> 
-{{ with .GetPage "./event_export" }}<h3><a href="./event_export">full event to print</a></h3> {{ end }}
-
+{{ end }} 
+{{ end }}

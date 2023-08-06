@@ -5,7 +5,7 @@
 <h2>Overview</h2>
 <p>{{ .Params.overview  -}}</p>
 <h2>Modules</h2>
-{{ $schedules := (slice "opening" "mid" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "end" ) }}
+{{ $schedules := (slice "Opening" "Mid Event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "Ending" ) }}
 
 {{ range  $schedules }}
 {{ $current_schedule := . }}
