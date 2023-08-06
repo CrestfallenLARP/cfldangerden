@@ -4,19 +4,18 @@
 {{ .Render "content" }}
 
 <h3>Acting Information</h3>
-{{ if .Params.Backstory }}<p><b>Backstory: </b>{{ .Params.Backstory  }}{{ end }}
-{{ if .Params.Motivation }}<p><b>Motivation: </b>{{ .Params.Motivation  }}{{ end }}
-{{ if .Params.Speech }}<p><b>Speech: </b>{{ .Params.Speech  }}{{ end }}
-{{ if .Params.Movement }}<p><b>Movement: </b>{{ .Params.Movement  }}{{ end }}
-{{ if .Params.Intelligence }}<p><b>Intelligence: </b>{{ .Params.Intelligence  }}{{ end }}
+{{ if .Params.Backstory }}<p><b>Backstory: </b>{{ .Params.Backstory  }}</p>{{ end }}
+{{ if .Params.Motivation }}<p><b>Motivation: </b>{{ .Params.Motivation  }}</p>{{ end }}
+{{ if .Params.Speech }}<p><b>Speech: </b>{{ .Params.Speech  }}</p>{{ end }}
+{{ if .Params.Movement }}<p><b>Movement: </b>{{ .Params.Movement  }}</p>{{ end }}
+{{ if .Params.Intelligence }}<p><b>Intelligence: </b>{{ .Params.Intelligence  }}</p>{{ end }}
 
 <h3>Game Mechanics</h3>
 
-
-{{ if .Params.body }}<p><b>Body:</b> {{ .Params.body }}</p>{{ end }}
-{{ if .Params.armor }}<p><b>Armor:</b> {{ .Params.armor }}</p>{{ end }}
-{{ if .Params.stamina }}<p><b>Stamina:</b> {{ .Params.stamina }}</p> {{ end }}
-{{ if .Params.energy }}<p><b>Energy:</b> {{ .Params.energy }}</p> {{ end }}
+<p><b>Body:</b> {{ if .Params.body }}{{ .Params.body }}{{else}}5{{ end }}</p>
+<p><b>Armor:</b> {{ if .Params.armor }}{{ .Params.armor }}{{ end }}</p>
+<p><b>Stamina:</b> {{ if .Params.stamina }}{{ .Params.stamina }}{{ else }}0{{ end }}</p>
+<p><b>Energy:</b> {{ if .Params.energy }}{{ .Params.energy }}{{ else }}0{{ end }}</p>
 
 {{ $spells_known := (slice ) }}
 {{ if .Params.spells_known }}
@@ -32,27 +31,26 @@
 
 {{ $offensive_abilities := (slice ) }}
 {{ if .Params.offensive_abilities }}
-{{ if not (reflect.IsSlice .Params.offensive_abilities)}}{{ $magic = (slice .Params.offensive_abilities) }}
-{{ else  }} {{ $offensive_abilities = append $offensive_abilities .Params.offensive_abilities }}
-{{ end }}
+    {{ if not (reflect.IsSlice .Params.offensive_abilities)}}{{ $magic = (slice .Params.offensive_abilities) }}
+    {{ else  }} {{ $offensive_abilities = append $offensive_abilities .Params.offensive_abilities }}{{ end }}
 <p><b>Offensive Abilities:</b> {{ delimit $offensive_abilities ", "}}</p> {{- end -}}
 
 {{ $defensive_abilities := (slice ) }}
 {{ if .Params.defensive_abilities }}
-{{ if not (reflect.IsSlice .Params.defensive_abilities)}}{{ $magic = (slice .Params.defensive_abilities) }}
-{{ else  }} {{ $defensive_abilities = append $defensive_abilities .Params.defensive_abilities }}
-{{ end }}
+    {{ if not (reflect.IsSlice .Params.defensive_abilities)}}{{ $magic = (slice .Params.defensive_abilities) }}
+    {{ else  }} {{ $defensive_abilities = append $defensive_abilities .Params.defensive_abilities }} {{ end }}
 <p><b>Defensive Abilities:</b> {{ delimit $defensive_abilities ", "}}</p> {{- end -}}
 
 {{ $Immunities := (slice ) }}
 {{ if .Params.Immunities }}
 {{ if not (reflect.IsSlice .Params.Immunities)}}{{ $Immunities = (slice .Params.Immunities) }}
-{{ else  }} {{ $Immunities = append $Immunities .Params.Immunities }}
+{{ else  }} {{ if .Params.Immunities}} {{ $Immunities = append $Immunities .Params.Immunities }}{{ else}} {{ $Immunities = append $Immunities "None" }}{{end}}
 {{ end }}
 <p><b>Immunities:</b> {{ delimit $Immunities ", "}}</p> {{- end -}}
 
+<p><b>Healed By:</b>{{ if .Params.healed_by }}{{ .Params.healed_by }}{{else}}Healing{{end}}</p> 
 
-{{ if .Params.at_dying }}<p><b>Healed By:</b> {{ .Params.Healed_By }}</p> {{ end }}
+<p><b>At Dying:</b>{{ if .Params.at_dying }}{{ .Params.at_dying }}{{else}}Remain until Dead, then dissipate{{end}}</p> 
 
 {{ $Special := (slice ) }}
 {{ if .Params.Special }}

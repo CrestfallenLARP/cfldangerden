@@ -1,7 +1,7 @@
 ---
 title: "Goblin"
 
-weight: 20
+weight: 30
 type: "docs"
 ---
 

@@ -12,7 +12,7 @@ the stats they will use for the weekend
 
 the treasure they will have
 
-No, the one days dont have them because we change creatures more than the full weekends.
+.
 
 Examples for this for later weekends.
 

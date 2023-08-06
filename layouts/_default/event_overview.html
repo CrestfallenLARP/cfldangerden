@@ -8,14 +8,15 @@
 {{ $schedules := (slice "opening" "mid" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "end" ) }}
 
 {{ range  $schedules }}
-{{ $current_schedule := . }} 
+{{ $current_schedule := . }}
 
 {{ if sort (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
 <p>{{ title  $current_schedule }}{{ if eq $current_schedule  nil }} NO SCHEDULE!! {{ end }}
 <b>({{ len (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b>)
 
 {{ if eq $current_schedule  nil }}<p>Please add a schedule to your modules</p>{{ end }}
-{{ range where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule -}}
+{{ range $index, $value := where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule -}}
+      {{ if (ne $index 0) }}, {{ end }}
       <a href="{{- .Permalink -}}"><b> {{ title .Title }}</b></a> 
 
 {{ end }}
@@ -30,23 +31,26 @@
 
 
 <h2>Jobs</h2>
-{{ $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "orc" nil ) }}
+{{ $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) }}
 {{ range  $factions }}
 {{ $current_faction := . }} 
 
 {{ if sort (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) "Params.weight" -}}
 <p><b>{{ title  $current_faction }}{{ if eq $current_faction  nil }} NO Faction on this Job!! {{ end }}</b>
-<b>{{ len (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) -}}</b> Jobs 
+<b>({{ len (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) -}})</b>
 {{ end }}
-        {{ range where (where $event_pages "Layout" "=="  "job" ) ".Params.faction" "=="  $current_faction -}}
-      <a href="{{- .Permalink -}}"><b> {{ title .Title }}</b></a>
+        {{ range $index, $value :=where (where $event_pages "Layout" "=="  "job" ) ".Params.faction" "=="  $current_faction -}}
+            {{ if (ne $index 0) }}, {{ end }}
+       <a href="{{- .Permalink -}}"><b> {{ title .Title }}</b></a>
       {{ end }}
 </p>
 {{ end }}
 
 <h2>Faction Goals</h2>
+<p>One days don't have faction goals that are tracked because the cast changes creatures more often than during full weekend events</p>
 <h2>Pioneer Encounters</h2>
-
+Cards in the Woods</p>
+Stockpiles<p>
 </h3> 
 {{ with .GetPage "./event_export" }}<h3><a href="./event_export">full event to print</a></h3> {{ end }}
 

@@ -1,7 +1,7 @@
 ---
 title: "Undead"
-weight: 20
+weight: 40
 type: "docs"
 ---
 
-![/images/factions/gnolls1.png](/images/factions/undead.png)
+![/images/factions/undead.png](/images/factions/undead.png)

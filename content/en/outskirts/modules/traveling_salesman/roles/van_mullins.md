@@ -1,9 +1,8 @@
 ---
-title: Alfonse
+title: Van Mullins
 layout: role
 
-Backstory: He's a manger not a go-getter type of guy. He is a superstitious sort. He is very protective of his family but he will chose the guild over his family when push comes to shove. 
-Intelligence: High he is a shrewd businessman
+Backstory: He's a member of the Shadow Brand. He is going to try to tank the economy. 
 props: Gunbelt, Firearm, western style clothes
 type: Human
 body: 10

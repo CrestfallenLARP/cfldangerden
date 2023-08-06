@@ -1,5 +1,5 @@
 ---
-title: "gnoll"
+title: "Gnoll"
 
 weight: 20
 type: "docs"

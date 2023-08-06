@@ -12,4 +12,15 @@
 <p><b>Props:</b> {{ delimit $props ", "}}</p> {{- end -}}
 {{ if  .Params.summary  -}}<p><b>Summary</b>:  {{ .Params.summary  -}}</p>{{ end }}
 </div>
+{{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ))  (.Params.roles) -}} 
+<div id="roles"><p><b>Roles:</b> 
+{{ if .Params.roles }}{{ .Params.roles }} {{ end }}
+{{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
+    {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "national_monster_card" "role" ) -}}
+{{ if (ne $index 0) }}, {{ end }}
+<a href="{{.Permalink}}">{{ .Params.quantity | default "" -}}{{- if .Params.quantity }}X {{ end }} {{.Title}} </a>
+    {{- end -}}
+{{ end }}
+{{ end}}
+</p></div>
 {{ end }}
