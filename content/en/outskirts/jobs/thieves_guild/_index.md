@@ -1,6 +1,7 @@
 ---
-title: Thieves Jobs
-type: "docs"
+title: Thieves
+cascade:
+  layout: job
+  faction: Thieves Guild Jobs
 ---
-
 

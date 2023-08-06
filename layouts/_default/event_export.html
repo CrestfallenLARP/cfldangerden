@@ -1,6 +1,5 @@
-{{ define "main" }}
-{{ .Render "content" }}
-{{ $event_pages := where $.Site.Pages "Section" .Section }}
+
+{{- $event_pages := where $.Site.Pages "Section" .Section -}}
 
 <h2>Overview</h2>
 <p>{{ .Params.overview  -}}</p>
@@ -11,13 +10,13 @@
 {{ $current_schedule := . }}
 
 {{ if sort (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
-<p><b>{{ title  $current_schedule }}{{ if eq $current_schedule  nil }} NO SCHEDULE!! {{ end }}</b>
+<p>{{ title  $current_schedule }}{{ if eq $current_schedule  nil }} NO SCHEDULE!! {{ end }}
 <b>({{ len (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b>)
 
 {{ if eq $current_schedule  nil }}<p>Please add a schedule to your modules</p>{{ end }}
 {{ range $index, $value := where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule -}}
       {{ if (ne $index 0) }}, {{ end }}
-      <a href="{{- .Permalink -}}"> {{ title .Title }}</a> 
+      <b> {{ title .Title }}</b>
 
 {{ end }}
 </p>
@@ -41,7 +40,7 @@
 {{ end }}
         {{ range $index, $value :=where (where $event_pages "Layout" "=="  "job" ) ".Params.faction" "=="  $current_faction -}}
             {{ if (ne $index 0) }}, {{ end }}
-       <a href="{{- .Permalink -}}"> {{ title .Title }}</a>
+        {{ title .Title }}
       {{ end }}
 </p>
 {{ end }}
@@ -49,10 +48,8 @@
 <h2>Faction Goals</h2>
 <p>One days don't have faction goals that are tracked because the cast changes creatures more often than during full weekend events</p>
 <h2>Pioneer Encounters</h2>
-<p><b>Cards in the Woods</b> These have not been introduced yet.</p>
-<p><b>Stockpiles</b> These have not been introduced yet.<p>
-<hr>
-{{ with .GetPage "./event_export" }}<p><a href="./event_export"><i class="fa fa-print"></i></a></p> {{ end }}
-<p><a href="/pdf/crestfallen_20230806.pdf"><i class="fa fa-file-pdf"></i></a> </p>
+Cards in the Woods</p>
+Stockpiles<p>
+</h3> 
+{{ with .GetPage "./event_export" }}<h3><a href="./event_export">full event to print</a></h3> {{ end }}
 
-{{ end }}
