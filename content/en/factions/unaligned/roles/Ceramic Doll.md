@@ -1,5 +1,6 @@
 ---
 title: Ceramic Doll
+layout: role
 Backstory: These dolls have been fashioned by the Shadow Brand, an evil thieves guild organization that dislikes kinfolk and do not believe they should be part of the Inspired.  These dolls have been made to seek out and destroy all kinfolk and anyone who protects them.
 Motivation:  Destroy kinfolk, protect itself, protect members of the Shadow Brand
 Speech:  None
@@ -23,7 +24,6 @@ Special:
   - If hit with Shatter or Destroy condition, reduce primary attack to 2 damage
   - Sense Kinfolk - "By my voice sense kinfolk"
 ---
-
 
 
 

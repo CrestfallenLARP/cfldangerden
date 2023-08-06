@@ -1,5 +1,6 @@
 ---
 title: Librarian Robot (LEX)
+layout: role
 Backstory:  LEX the Librarian Robot has been locked away in their library for as long as they can remember.  The books have lost all of their ink and the knowledge is gone, but the building remains. Sentient
 Motivation: Defend, Input, Make Friends
 Speech: Robotic sounding voice, but very intelligent,

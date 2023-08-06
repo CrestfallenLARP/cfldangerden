@@ -1,6 +1,7 @@
 ---
 title: Goblin Shaman
 weight: 2
+layout: role
 Backstory: Goblins have been pushed from civilized society due to their cruel nature and disgusting features.  Due to having no morality, these creatures are always trying to take things that aren't theirs and to cause pain in any way possible.
 Motivation: Goblins are always looking for resources to make their own.  They will steal any leaves or resources that aren't locked down.  They give these items as offerings for some greater unknown power.
 Speech: These creatures speak in garbled sentences.  They hurl insults and mockeries at every chance.

@@ -1,6 +1,7 @@
 ---
 
 title: Elemental Glob
+layout: role
 Name: Elemental Glob
 Backstory: These small masses of elemental energy act on instinct alone, with no set goal or motivation in mind.  They attempt to destroy their elemental opposite at all costs.
 Motivation: Reduce the power of opposing element, attack those that would harm the element or empower the opposing element.
@@ -56,11 +57,7 @@ Special:
 
 
 
-Primary Attack: 3 Element both hands
 
-**Killing Blow**: No, these creatures do not understand life and death
-
-**Offensive Abilities:** Specialization: Element (By Flames Fury 1 Fire, By Arctic Wind 1 Ice, By Crushing Earth 1 Stone, By Thunders Crash 1 Lightning, By Natures Light 1 Healing, By Creeping Darkness 1 Harming)
 
 
 

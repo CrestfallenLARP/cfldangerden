@@ -1,5 +1,6 @@
 ---
 title: Armor Golem
+layout: role
 Backstory:  An armor golem is a mindless ordered construct.  They may have a number of orders and are smart enough to remember the orders, but are not smart enough to make their own decisions.  These are made by the Robot Librarian to guard his home and himself.These are suits of armor and weapons that are animated to defend an area determined by the robot librarian or other creator.
 Motivation: Defend
 Speech: None

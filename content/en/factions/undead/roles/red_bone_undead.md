@@ -1,5 +1,6 @@
 ---
 title: Red Bone Undead
+layout: role
 Backstory:  These are the basic undead that have returned to Katalossa following their exile.  They have destroyed countless other planets, planes, and other living areas and have returned to consume the Energy and destroy the Essence of Katalossa
 
 Motivation: Consume energy to gain power and destroy essence at every chance
