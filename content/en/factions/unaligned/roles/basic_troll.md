@@ -30,18 +30,3 @@ Healed_By: Healing
 At_Dying: Remains
 
 ---
-
-
-
- 
-
-
-
-
-
-**Game Mechanics**
-
-
-
-
-

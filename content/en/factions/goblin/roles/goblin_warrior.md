@@ -45,9 +45,5 @@ faction_level_3:
 faction_level_4:
   - Cheer now grants 20 temporary body
   - Run away now grants 3 resists per day 
-  - Search (visible item) - Goblin may search and steal a weapon, shield, or other visible item
-
+  - Search (visible item) - Goblin may search and steal a weapon, shield, or other visible item.
 ---
-
-
-

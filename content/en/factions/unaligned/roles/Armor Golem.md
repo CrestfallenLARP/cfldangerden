@@ -19,14 +19,3 @@ Healed_By: Lightning
 At_Dying: Shuts Down
 Special: If peace is called for, the robot will stop all combat for 3 second (Internal count),  If hit with Shatter or Destroy condition, reduce primary attack to 2 damage as attached weapons are broken.
 ---
-
-
-
-
-
- 
-
-**Acting Information**: 
-
-
-

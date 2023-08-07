@@ -24,6 +24,3 @@ Special:
   - If hit with Shatter or Destroy condition, reduce primary attack to 2 damage
   - Sense Kinfolk - "By my voice sense kinfolk"
 ---
-
-
-

@@ -54,5 +54,4 @@ faction_level_3:
 faction_level_4: 
   - Increase innate harm to 10x per day
   - Consume Energy creates 2 White Bone Undead rather than 1.
-
 ---

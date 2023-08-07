@@ -46,27 +46,5 @@ faction_level_3:
 faction_level_4: 
   - Eat Limb now gives 30 temporary Body. 
   - Deal 1 additional damage with primary attack. 
-  - Consume Essence - If all four limbs are eaten, the gnoll may consume one essence from the body followed by a killing blow.  This may only be done to a character once. "I eat your essence 1,2,3"  This allows the Gnoll Glutton to become a Gnoll Spirit Shaman
+  - Consume Essence - If all four limbs are eaten, the gnoll may consume one essence from the body followed by a killing blow.  This may only be done to a character once. "I eat your essence 1,2,3"  This allows the Gnoll Glutton to become a Gnoll Spirit Shaman.
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Healed By:** Healing
-
-**At Dying:** Remain until Dead, then dissipate
-
-**Special:** 
