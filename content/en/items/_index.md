@@ -1,6 +1,6 @@
 ---
-title: "Writeups"
-linkTitle: "Writeups"
+title: "Items"
+
 weight: 20
 type: "docs"
 ---
