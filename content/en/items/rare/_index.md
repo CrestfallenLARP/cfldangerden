@@ -1,0 +1,5 @@
+---
+title: Rare
+type: docs
+---
+
