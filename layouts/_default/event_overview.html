@@ -45,15 +45,20 @@
       {{ end }}
 </p>
 {{ end }}
-
+<h2>Market Value Chart</h2>
+<p>todo</p>
 <h2>Faction Goals</h2>
 <p>One days don't have faction goals that are tracked because the cast changes creatures more often than during full weekend events</p>
 <h2>Pioneer Encounters</h2>
 <p><b>Cards in the Woods</b> These have not been introduced yet.</p>
 <p><b>Stockpiles</b> These have not been introduced yet.<p>
 <hr>
-{{ with .GetPage "./event_export" }}<p><a href="./event_export"><i class="fa fa-print"></i></a></p> {{ end }}
-<p><a href="/pdf/crestfallen_20230806.pdf"><i class="fa fa-file-pdf"></i></a> </p>
-<p><a href="/affinity/crestfallen_20230806.afpub"><i class="fa fa-code"></i></a> </p>
+<p>
+    {{ with .GetPage "./event_export" }}
+        <a href="./event_export"><i class="fa fa-print"></i></a>
+    {{ end }}
+    <a href="/pdf/crestfallen_20230806.pdf"><i class="fa fa-file-pdf"></i></a>
+    <a href="/affinity/crestfallen_20230806.afpub"><i class="fa fa-code"></i></a>
+</p>
 
 {{ end }}

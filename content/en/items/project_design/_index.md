@@ -1,6 +1,6 @@
 ---
 title: "Project Design"
-weight: 20
+weight: 25
 type: "docs"
 ---
 

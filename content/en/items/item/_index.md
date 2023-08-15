@@ -1,5 +1,5 @@
 ---
-title: "Items"
+title: "Item"
 weight: 20
 type: "docs"
 
@@ -17,19 +17,28 @@ type: "docs"
 Needs:  
 
 * Searchable for Name, Type, Created By, Character Number
+
 * Allowable types are Alchemy, Forging, Enchanting, and Scientific.  There are some cards that may have multiple types.  I am ok with symbols if necessary for space.
+
 * Be able to add to write ups and folders areas
+
 * Be easily added to a printable layout for Print on Demand site
+
 * Need to know how many items we must print at one time for a full sheet.
+
 * Should use the art we already have available
+
 * Each event I want to print at least 2 full sheets of item cards between the folders and items going out on modules
+
 * PC made cards will be hand written on the current business cards until we are out of them.
+
 * PC made cards that are planned ahead of time can be printed in the runs before events
+
 * This can be a list that is sortable like the monsters on the Polar site
-* What is the lead time required to print these pages and have them arrive
-* Wands are a separate use case.  These items are on tongue depressors.  I would like these items to be generated on a separate document that I can use to print, cut, and tape to the wand reps (like NERO components) with the following information.  Side 1 - Crestfallen LARP, Single Use Wand, Created By, Character Number, Date. Side 2 - Spell Incant. I don't believe that the headings are necessary for side one, just the information.  Paper can be up to 3 inches wide and should be 3/4 of an inch high per side with 1/16th of an inch between for the fold.
-  * Example:	Side 1 - Crestfallen LARP, Single Use Wand, Beren Olean, 1, 8/12/23
-    	Side 2 - By my frigid ex's breath 5 Ice
+
+* What is the lead time required to print these pages and have them arrive. About 2 weeks. 
+
+  
 
 
 
