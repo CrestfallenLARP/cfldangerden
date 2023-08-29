@@ -1,15 +1,5 @@
 ---
-title: adding content
-layout: single
-type: docs
-draft: true
----
-
-
-
-```yaml
----
-title: 
+title: Pinecone
 layout: role
 Backstory: 
 Motivation: 
@@ -28,17 +18,12 @@ Killing_Blow:
 Offensive_Abilities: 
 Defensive_Abilities: 
 Killing_Blow: 
-immunities:
-vulnerabilities: 
+immunities: 
 healed_by: 
+defensive_abilities: 
 at_dying: 
 special: 
 faction_level_2:
 faction_level_3: 
 faction_level_4: 
 ---
-
-```
-
-
-

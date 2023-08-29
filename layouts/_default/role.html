@@ -9,11 +9,16 @@
 {{ if .Params.Speech }}<p><b>Speech: </b>{{ .Params.Speech  }}</p>{{ end }}
 {{ if .Params.Movement }}<p><b>Movement: </b>{{ .Params.Movement  }}</p>{{ end }}
 {{ if .Params.Intelligence }}<p><b>Intelligence: </b>{{ .Params.Intelligence  }}</p>{{ end }}
-
+{{ $props := (slice ) }}
+{{ if .Params.props }}
+{{ if not (reflect.IsSlice .Params.props)}}{{ $props = (slice .Params.props) }}
+{{ else  }} {{ if .Params.props}} {{ $props = append $props .Params.props }}{{ else}} {{ $props = append $props "None" }}{{end}}
+{{ end }}
+<p><b>Props:</b> {{ delimit $props ", "}}</p> {{- end -}}
 <h3>Game Mechanics</h3>
-
+<p><b>Type:</b> {{ if .Params.type }}{{ .Params.type }}{{else}}<h2>ADD A TYPE !!!!!!</h2>{{ end }}</p>
 <p><b>Body:</b> {{ if .Params.body }}{{ .Params.body }}{{else}}5{{ end }}</p>
-<p><b>Armor:</b> {{ if .Params.armor }}{{ .Params.armor }}{{ end }}</p>
+<p><b>Armor:</b> {{ if .Params.armor }}{{ .Params.armor }}{{else}}None{{ end }}</p>
 <p><b>Stamina:</b> {{ if .Params.stamina }}{{ .Params.stamina }}{{ else }}0{{ end }}</p>
 <p><b>Energy:</b> {{ if .Params.energy }}{{ .Params.energy }}{{ else }}0{{ end }}</p>
 
@@ -47,6 +52,13 @@
 {{ else  }} {{ if .Params.Immunities}} {{ $Immunities = append $Immunities .Params.Immunities }}{{ else}} {{ $Immunities = append $Immunities "None" }}{{end}}
 {{ end }}
 <p><b>Immunities:</b> {{ delimit $Immunities ", "}}</p> {{- end -}}
+
+{{ $vulnerabilities := (slice ) }}
+{{ if .Params.vulnerabilities }}
+{{ if not (reflect.IsSlice .Params.vulnerabilities)}}{{ $vulnerabilities = (slice .Params.vulnerabilities) }}
+{{ else  }} {{ if .Params.vulnerabilities}} {{ $vulnerabilities = append $vulnerabilities .Params.vulnerabilities }}{{ else}} {{ $vulnerabilities = append $vulnerabilities "None" }}{{end}}
+{{ end }}
+<p><b>Vulnerabilities:</b> {{ delimit $vulnerabilities ", "}}</p> {{- end -}}
 
 <p><b>Healed By:</b>{{ if .Params.healed_by }}{{ .Params.healed_by }}{{else}}Healing{{end}}</p> 
 

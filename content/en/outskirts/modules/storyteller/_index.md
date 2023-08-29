@@ -2,6 +2,6 @@
 title: Storyteller
 layout: module
 schedule: Mid Event
-brief: If Forest is in attendance, he will go out as a performer and story teller.
+brief: Sylvester Klaus tells stories and rumors to entertain and amaze.
 ---
 
