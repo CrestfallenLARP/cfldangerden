@@ -12,8 +12,8 @@ Type: Construct
 Body: 25
 Armor: 40
 Stamina: 10
-primary_attack: 
-  - 5 Damage both hands with claws or weapons 
+primary_attack:
+  - 5 Damage both hands with claws or weapons
   - 5 unblockable damage with firearms
 killing_blow: No, drop targets and leave them be. 
 Immunities: Harm attacks "Immune Resist"
