@@ -21,14 +21,15 @@ Offensive_Abilities:
  - Intimidate Fear (2ST)
  - Breakthrough "Unblockable 3 Damage" (1ST)
 Defensive_Abilities: 
+Killing_Blow: No, it loves its food living 
 immunities: None
 
 healed_by: Healing
+defensive_abilities: None
 at_dying: Remain until Dead, then dissipate
 special: 
   - Eat Limb - 3 Count "I eat your [Limb Name], Break Limb"  After the count heal 5 Body
   - Howl - May act out hyena laughter or chittering followed by "Howl Fear" and throw 1 spell ammo
-  - Consume Essence - If all four limbs are eaten, the gnoll may consume one essence from the body followed by a killing blow.  This may only be done to a character once. "I eat your essence 1,2,3"  This allows the Gnoll Warrior to become a Gnoll Glutton.
 
 faction_level_2:
  - Eat Limb now gives 10 temporary Body. 
@@ -41,5 +42,5 @@ faction_level_3:
 faction_level_4: 
   - Eat Limb now gives 20 temporary Body. 
   - Deal 1 additional damage with primary attack. 
-  - Consume Essence - If all four limbs are eaten, the gnoll may consume one essence from the body followed by a killing blow.  This may only be done to a character once. "I eat your essence 1,2,3"  This allows the Gnoll Warrior to become a Gnoll Spirit Shaman.
+  - Consume Essence - If all four limbs are eaten, the gnoll may consume one essence from the body followed by a killing blow.  This may only be done to a character once. "I eat your essence 1,2,3"  This allows the Gnoll Warrior to become a Gnoll Glutton.
 ---
