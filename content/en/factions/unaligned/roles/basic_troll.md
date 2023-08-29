@@ -17,7 +17,7 @@ special:
 Spells Known: None 
 
 Primary_Attack: 8 Damage with any weapons or claws
-Killing Blow: Yes
+killing_blow: Yes
 Offensive_Abilities: 
   - Slam Knockback" (2 ST)
   - Break Weapon" (4ST)
