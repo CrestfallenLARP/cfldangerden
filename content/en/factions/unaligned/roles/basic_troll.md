@@ -8,10 +8,10 @@ Speech: Slow and dumb slurred speech
 Movement:  Slow and ambling with hunched backs
 Intelligence: Low
 Props: Troll Mask, rough armor, weapon, claw rep
+type: Troll
 body: 25 
 armor: 10
 Stamina: 16
-Type: Troll
 special: 
   - Regeneration – Trolls do not die naturally. If the troll is not damaged with fire while in the bleed count or as part of the killing blow, the troll will complete its bleed and death count and awaken with full Body and Stamina points.
 Spells Known: None 
