@@ -9,9 +9,9 @@ overview: The adventurers battled a number of undead, including the white bone. 
 # List all of the event write ups with jobs, treasure, cards, etc which can be used to generate the treasure and track the events.  They should probably be laid out similar to the schedule page.
 ---
 
-Pioneer Encounters
+### [Items](./items)
 
-Cards in the woods
+### Cards in the woods
 
 You may choose to interact with the combat or non-combat option of this card or walk away.
 
@@ -23,55 +23,9 @@ You may choose to interact with the combat or non-combat option of this card or 
 
 2b. Non-Combat - An Elemental glob of ice is standing in a clearing staring at a red skull trapped in the ground.
 
-Stockpiles -
-
-1- You come across a small concealed stockpile of resources.  
-
-2- You come across a small concealed stockpile of resources.  You may take 30 minutes (may use downtime if you have it available) to gather the items if you have gathering or harvesting. (10 Common, 5 Basic, 1 Basic Rare)
-
----
 
 
 
-
-
-ITEMS
-
-Human
-
-Wand of Silence
-
-Wand of 10 Ice
-
-Wand of 15 Lightning
-
-Wand of Entangle Arms
-
-Wand of Remove Berserk
-
-Kinfolk
-
-Potion of Remove Bleed
-
-Wind Up Mouse - Search Area
-
-Wand of Charm Elemental -
-
-Fire Charm - 1 durability causes wearer to be healed by fire damage from one attack
-
-Ice Charm - 1 durability causes wearer to be healed by ice damage from one attack
-
-Items to distribute
-
-Weapon of Vengeance - 1 durability grants the character 1 use of the counter skill
-
-Wand of Strength - grants the character 1 use of Strength Augmentation until used or end of event.
-
-Essence to Energy - Target must be willing OoG. 1 durability causes target to lose one essence and gain 10 energy.
-
-Murderers Weapon - 1 durability allows wielder to ignore cower once.
-
-Refilling Money Pouch - 1 durability at check in doubles any Holdings skills or grants Holdings Mastery.
 
 
 

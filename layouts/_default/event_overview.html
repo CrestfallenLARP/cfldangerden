@@ -1,6 +1,9 @@
 {{ define "main" }}
-{{ .Render "content" }}
 {{ $event_pages := where $.Site.Pages "Section" .Section }}
+<p></p>
+<p></p>
+<p></p>
+{{ .Render "content" }}
 
 <h2>Overview</h2>
 <p>{{ .Params.overview  -}}</p>
@@ -61,6 +64,8 @@
       <b>Large:</b> {{ if .Params.large }}{{ .Params.large }}{{else}}None{{ end }}
  {{ end }}
 </p>
+
+
 {{ end }}<hr>
 <p>
     {{ with .GetPage "./event_export" }}
@@ -69,20 +74,6 @@
     <a href="/pdf/crestfallen_20230806.pdf"><i class="fa fa-file-pdf"></i></a>
     <a href="/affinity/crestfallen_20230806.afpub"><i class="fa fa-code"></i></a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 {{ end }}
