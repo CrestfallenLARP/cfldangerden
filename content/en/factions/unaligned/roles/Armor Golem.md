@@ -12,10 +12,10 @@ Type: Construct
 Body: 25
 Armor: 40
 Stamina: 10
-Primary Attack: 
+primary_attack: 
   - 5 Damage both hands with claws or weapons 
   - 5 unblockable damage with firearms
-Killing Blow: No, drop targets and leave them be. LET PEOPLE PRETEND TO BE DOWN
+killing_blow: No, drop targets and leave them be. 
 Immunities: Harm attacks "Immune Resist"
 Healed_By: Lightning
 At_Dying: Shuts Down
