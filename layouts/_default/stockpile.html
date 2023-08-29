@@ -1,0 +1,11 @@
+{{ define "main" }}
+<p></p>
+<h1>{{ .Params.title }}</h1>
+{{ .Render "content" }}
+
+<p>Stockpiles are caches of goods that players can find in Crestfallen. They are kept in Plastic Sheet protectors that can withstand the elements.</p>
+
+      <h2>Small</h2> <p>{{ if .Params.small }}{{ .Params.small }}{{else}}None{{ end }}</p>
+      <h2>Medium:</h2> <p>{{ if .Params.medium }}{{ .Params.medium }}{{else}}None{{ end }}</p>
+      <h2>Large</h2> <p>{{ if .Params.large }}{{ .Params.large }}{{else}}None{{ end }}</p>
+{{ end }}

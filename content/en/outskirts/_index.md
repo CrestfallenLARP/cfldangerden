@@ -9,14 +9,6 @@ overview: The adventurers battled a number of undead, including the white bone. 
 # List all of the event write ups with jobs, treasure, cards, etc which can be used to generate the treasure and track the events.  They should probably be laid out similar to the schedule page.
 ---
 
-
-
-
-
-
-
-
-
 Pioneer Encounters
 
 Cards in the woods
@@ -33,9 +25,13 @@ You may choose to interact with the combat or non-combat option of this card or 
 
 Stockpiles -
 
-1- You come across a small concealed stockpile of resources.  You may take 30 minutes (may use downtime if you have it available) to gather the items if you have gathering or harvesting. (10 Common, 5 Basic, 1 Rare)
+1- You come across a small concealed stockpile of resources.  
 
 2- You come across a small concealed stockpile of resources.  You may take 30 minutes (may use downtime if you have it available) to gather the items if you have gathering or harvesting. (10 Common, 5 Basic, 1 Basic Rare)
+
+---
+
+
 
 
 
