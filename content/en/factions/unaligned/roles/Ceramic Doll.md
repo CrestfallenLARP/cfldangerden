@@ -15,8 +15,10 @@ Type: Construct
 Body: 25
 Armor: 40 (if repped)
 Stamina: 10
-Primary Attack: 5 Damage both hands
-Offensive Abilities: Haymaker 20 Damage (2ST), Unblockable 5 Damage (1 ST)
+Primary_Attack: 5 Damage both hands
+Offensive_Abilities
+  - Haymaker 20 Damage (2ST)
+  - Unblockable 5 Damage (1 ST)
 Immunities: Harming (call is Resist Immune)
 Healed By: Fire
 At Dying: Deactivates,  This construct has an arrow etched on its spine if investigated during dying/dead.  If ignored, construct crumbles.
