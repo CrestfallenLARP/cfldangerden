@@ -16,9 +16,8 @@ energy: 5
 spells_known: 
 primary_attack: 4 Element both hands
 Killing_Blow:  
-Offensive_Abilities: Specialization: Element (By Flames Fury 2 Fire, By Arctic Wind 2 Ice, By Crushing Earth 2 Stone, By Thunders Crash 2 Lightning, By Natures Light 2 Healing, By Creeping Darkness 2 Harming)
+Offensive_Abilities:Specialization: Element (By Flames Fury 2 Fire, By Arctic Wind 2 Ice, By Crushing Earth 2 Stone, By Thunders Crash 2 Lightning, By Natures Light 2 Healing, By Creeping Darkness 2 Harming)
 Defensive_Abilities: 
- 
 immunities: 
 vulnerabilities: Double damage from opposite element
 healed_by: Element
