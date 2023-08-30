@@ -15,8 +15,8 @@ Type: Construct
 Body: 25
 Armor: 40 (if repped)
 Stamina: 10
-primary_attack: 5 Damage both hands
-offensive_abilities
+Primary_Attack: 5 Damage both hands
+Offensive_Abilities:
   - Haymaker 20 Damage (2ST)
   - Unblockable 5 Damage (1 ST)
 Immunities: Harming (call is Resist Immune)
