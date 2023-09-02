@@ -33,7 +33,7 @@ immunities:
 vulnerabilities: 
 healed_by: healing
 at_dying: Remain until dead, then dissipate
-special: 
+special:
   - Cheer: Gain 5 temporary body when cheering after dropping an opponent.
   - Run Away: May use 1 resist per day but only while fleeing
 faction_level_2:
