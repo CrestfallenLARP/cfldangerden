@@ -22,7 +22,7 @@ Offensive_Abilities:
  - Breakthrough "Unblockable 3 Damage" (1ST)
 Defensive_Abilities: 
 Killing_Blow: No, it loves its food living 
-immunities: None
+immunities:
 vulnerabilities: None
 healed_by: Healing
 at_dying: Remain until Dead, then dissipate
