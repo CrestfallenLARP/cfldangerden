@@ -23,7 +23,7 @@ Offensive_Abilities:
 Defensive_Abilities: 
 Killing_Blow: No, it loves its food living 
 immunities:
-vulnerabilities: None
+vulnerabilities:
 healed_by: Healing
 at_dying: Remain until Dead, then dissipate
 special: 
