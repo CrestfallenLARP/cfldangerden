@@ -21,7 +21,6 @@ Offensive_Abilities:
  - Intimidate Fear (2ST)
  - Breakthrough "Unblockable 3 Damage" (1ST)
 Defensive_Abilities: 
-Killing_Blow: No, it loves its food living 
 immunities:
 vulnerabilities:
 healed_by: Healing
