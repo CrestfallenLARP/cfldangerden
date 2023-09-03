@@ -18,9 +18,7 @@ armor: 5 if repped
 stamina: 5
 energy:
 spells_known: 
-primary_attack:
-  - 2 Damage
-  - Add 1 Damage if fighting a target with another ally 
+primary_attack: 2 Damage (Add 1 Damage if fighting a target with another ally)
 Killing_Blow: No these warriors focus on stealing
 Offensive_Abilities: 
   - Stagger Daze (2ST)
@@ -31,7 +29,7 @@ Defensive_Abilities:
   - Resist Entangle (2ST)
 immunities: 
 vulnerabilities: 
-healed_by: healing
+healed_by: Healing
 at_dying: Remain until dead, then dissipate
 Special: 
   - Cheer - Gain 5 temporary body when cheering after dropping an opponent.
