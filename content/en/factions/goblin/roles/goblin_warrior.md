@@ -20,7 +20,7 @@ energy:
 spells_known: 
 primary_attack:
   - 2 Damage
-  - +1 Damage if fighting a target with another ally 
+  - Add 1 Damage if fighting a target with another ally 
 Killing_Blow: No these warriors focus on stealing
 Offensive_Abilities: 
   - Stagger Daze (2ST)
