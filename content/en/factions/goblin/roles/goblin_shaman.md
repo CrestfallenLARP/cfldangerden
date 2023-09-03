@@ -41,17 +41,14 @@ Special:
   - Cheer - Gain 5 temporary body when cheering after dropping an opponent.
   - Run Away - May use 1 resist per day but only while fleeing
   - Search (visible items) - Goblin Shaman may search and steal a weapon, shield, or other visible item OR leaves/basic resources
->>>>>>> parent of 95202f5 (fixed goblin shaman)
 faction_level_2:
  - Cheer now grants 10 temporary body
  - Run away now grants 2 resists per day
  - Taunt - Gain +1 to attack one character after taunting them
-
 faction_level_3: 
   - Cheer now grants 15 temporary body
   - Taunt now grants +1 vs all creatures taunted by it
   - Waylay Sleep (2ST)
-
 faction_level_4: 
   - Cheer now grants 20 temporary body
   - Run away now grants 3 resists per day 
