@@ -33,18 +33,19 @@ immunities:
 vulnerabilities: 
 healed_by: healing
 at_dying: Remain until dead, then dissipate
-special:
-  - Cheer: Gain 5 temporary body when cheering after dropping an opponent.
-  - Run Away: May use 1 resist per day but only while fleeing
+Special: 
+  - Cheer - Gain 5 temporary body when cheering after dropping an opponent.
+  - Run Away - May use 1 resist per day but only while fleeing
+  - Search (leaves/basic resources) - Goblin Shaman may search and stealleaves/basic resources
 faction_level_2:
-  - Cheer now grants 10 temporary body
-  - Run away now grants 2 resists per day
-  - Taunt - Gain +1 to attack one character after taunting them
+ - Cheer now grants 10 temporary body
+ - Run away now grants 2 resists per day
+ - Taunt - Gain +1 to attack one character after taunting them
 faction_level_3: 
   - Cheer now grants 15 temporary body
   - Taunt now grants +1 vs all creatures taunted by it
   - Waylay Sleep (2ST)
-faction_level_4:
+faction_level_4: 
   - Cheer now grants 20 temporary body
   - Run away now grants 3 resists per day 
   - Search (visible item) - Goblin may search and steal a weapon, shield, or other visible item. 
