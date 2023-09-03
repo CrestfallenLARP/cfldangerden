@@ -82,14 +82,14 @@
 {{ $faction_level_3 := (slice ) }}
 {{ if .Params.faction_level_3 }}
 {{ if not (reflect.IsSlice .Params.faction_level_3)}}{{ $faction_level_3 = (slice .Params.faction_level_3) }}
-{{ else  }} {{ $faction_level_3 = append $faction_level_2 .Params.faction_level_3 }}
+{{ else  }} {{ $faction_level_3 = append $faction_level_3 .Params.faction_level_3 }}
 {{ end }}
 <p><b>Faction Level_3:</b> {{ delimit $faction_level_3 ", "}}</p> {{- end -}}
 
 {{ $faction_level_4 := (slice ) }}
 {{ if .Params.faction_level_4 }}
 {{ if not (reflect.IsSlice .Params.faction_level_4)}}{{ $faction_level_4 = (slice .Params.faction_level_4) }}
-{{ else  }} {{ $faction_level_4 = append $faction_level_2 .Params.faction_level_4 }}
+{{ else  }} {{ $faction_level_4 = append $faction_level_4 .Params.faction_level_4 }}
 {{ end }}
 
 <p><b>Faction Level 4:</b> {{ delimit $faction_level_4 ", "}}</p> {{- end -}}
