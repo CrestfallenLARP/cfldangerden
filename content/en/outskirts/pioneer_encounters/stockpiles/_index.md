@@ -6,4 +6,3 @@ medium:
 large:
 ---
 
-Scott is the best
