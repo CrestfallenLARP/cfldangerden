@@ -2,6 +2,6 @@
 title: Thieves
 cascade:
   layout: job
-  faction: Thieves Guild Jobs
+  faction: Thieves Guild
 ---
 
