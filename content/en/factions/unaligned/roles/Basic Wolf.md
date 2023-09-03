@@ -1,27 +1,34 @@
 ---
 title: Basic Wolf
+weight:
 layout: role
-Backstory: You are a wolf 
-Motivation: Defend the pack, Defend yourself, Get food, see module
-Speech: None - Growl, Howl, Bark, or Gnash Teeth
-Movement: Stay low to the ground but can move quickly.
+Backstory: You are a wolf
+Motivation: Defend the yourself and the pack while getting food
+Speech: None (Growl, Howl, Bark, or Gnash Teeth)
+Movement: Stay low to the ground and move quickly
 Intelligence: Animal
-props: Grey Fur mask, fur if available
+props:
+  - Grey Wolf Mask
+  - Fur
+  - Claws
 type: Animal
 body: 10
 armor: 
-stamina: 5
+stamina: 5 
 energy: 
 spells_known: 
-primary_attack: 2 Damage 
-Offensive_Abilities: 
-  - Grapple - (Call is Grapple Entangle Body after hitting target with claws on both sides. May carry a grappled character at a walking pace away from the group.) 
-  - Shake - (After Grappling for 30 seconds, may call Shake 2 unblockable damage to grappled target.)
-Defensive_Abilities:
-  - Bark - (make a threatening noise and then call By my voice characters Knockback. If grappling the call changes to By my voice non grappled characters knockback.)
+primary_attack:  2 Damage 
+Killing_Blow: No
+Offensive_Abilities:
+  - Grapple "Grapple Entangle Body" after hitting target with claws on both sides. May carry a grappled character at a walking pace 
+  - Shake After Grappling for 30 seconds may call "Shake 2 unblockable damage" to grappled target 
+Defensive_Abilities: Bark make a threatening noise and then "By my voice characters Knockback". If grappling the call changes to "By my voice non grappled characters knockback".)
 immunities:
 vulnerabilities: 
 healed_by: Healing
-at_dying: Remains, at dead dissipates
-
+at_dying: Remains until dead, then dissipates
+special: 
+faction_level_2:
+faction_level_3: 
+faction_level_4:
 ---
