@@ -18,7 +18,7 @@ armor: 5 if repped
 stamina: 5
 energy:
 spells_known: 
-primary_attack: 
+primary_attack:
   - 2 Damage
   - +1 Damage if fighting a target with another ally 
 Killing_Blow: No these warriors focus on stealing
