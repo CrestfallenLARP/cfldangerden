@@ -36,7 +36,7 @@ at_dying: Remain until dead, then dissipate
 Special: 
   - Cheer - Gain 5 temporary body when cheering after dropping an opponent.
   - Run Away - May use 1 resist per day but only while fleeing
-  - Search (leaves/basic resources) - Goblin Shaman may search and stealleaves/basic resources
+  - Search (leaves/basic resources) - Goblin Shaman may search and steal leaves/basic resources
 faction_level_2:
  - Cheer now grants 10 temporary body
  - Run away now grants 2 resists per day
