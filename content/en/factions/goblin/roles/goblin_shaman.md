@@ -21,10 +21,10 @@ primary_attack:
   - +1 Damage if fighting a target with another ally 
 Killing_Blow: No these warrior focus on stealing
 Offensive_Abilities:
-  - Specialization: Element By Flames Fury 2 Fire, By Arctic Wind 2 Ice, By Crushing Earth 2 Stone, By Thunders Crash 2 Lightning, By Natures Light 2 Healing, By Creeping Darkness 2 Harming
   - Stagger Daze (2ST)
   - Search
   - Search (harvesting)
+  - Specialization: (Element By Flames Fury 2 Fire, By Arctic Wind 2 Ice, By Crushing Earth 2 Stone, By Thunders Crash 2 Lightning, By Natures Light 2 Healing, By Creeping Darkness 2 Harming)
 Defensive_Abilities:
   - Flesh Wound Resist (4ST)
   - Resist Entangle (2ST)
