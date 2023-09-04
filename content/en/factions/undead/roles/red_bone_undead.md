@@ -32,7 +32,7 @@ immunities:
   - Silenced
   - Sleeping
   - Unconcious - Immune Resist
-vulnerabilities: Takes damage from Healing (not double) 
+vulnerabilities: Takes damage from Healing (double damage from Healing Weapon Strikes, not spells) 
 healed_by: Harm
 at_dying: Crumbles 
 special: 
