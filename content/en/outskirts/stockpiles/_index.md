@@ -5,4 +5,3 @@ small: 2
 medium:
 large:
 ---
-
