@@ -49,12 +49,10 @@
       {{ end }}
 </p>
 {{ end }}
-<h2>Market Value Chart</h2>
-<p>todo</p>
-<h2>Items</h2>
-<p><a href="./items">Items</a></p>
+<a href="./market"><h2>Market Value Chart</h2></a>
+<a href="./items"><h2>Items</h2></a>
 
-<h2>Faction Goals</h2>
+<s><h2>Faction Goals</h2></s>
 <p>One days do not have faction goals that are tracked because the cast changes creatures more often than during full weekend events.</p>
 
 
@@ -70,7 +68,11 @@
 </p>
 
 
-{{ end }}<hr>
+{{ end }}
+<hr>
+<p><a href="./adding_content">➕ Adding Content</a></p>
+<p><a href="./event_export">🖶 Event Export</a></p>
+
 <p>
     {{ with .GetPage "./event_export" }}
         <a href="./event_export"><i class="fa fa-print"></i></a>
