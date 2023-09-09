@@ -8,7 +8,7 @@
 {{ $last_recap := index $recap_pages 0 }}
 <p>{{ $last_recap.Params.recap }}</p>
 <h2>Modules</h2>
-{{ $schedules := (slice "Opening" "Mid Event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "Ending" ) }}
+{{ $schedules := (slice "opening" "mid event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "ending" ) }}
 
 {{ range  $schedules }}
 {{ $current_schedule := . }}
@@ -46,7 +46,7 @@
 <b>({{ len (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) -}})</b>
 {{ end }}
         {{ range $index, $value :=where (where $event_pages "Layout" "=="  "job" ) ".Params.faction" "=="  $current_faction -}}
-            {{ if (ne $index 0) }}, {{ end }}
+            {{- if (ne $index 0) -}}, {{ end }}
        <a href="{{- .Permalink -}}"> {{ title .Title }}</a>
       {{ end }}
 </p>
