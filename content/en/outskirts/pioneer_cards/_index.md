@@ -1,6 +1,7 @@
 ---
 title: Pioneer Cards
 layout: pioneer_card_overview
+weight: 6
 ---
 
 

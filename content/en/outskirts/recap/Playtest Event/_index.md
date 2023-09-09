@@ -1,6 +1,7 @@
 ---
 title: Playtest Event
-type: "docs"
+layout: recap
+weight: 1
 ---
 
 

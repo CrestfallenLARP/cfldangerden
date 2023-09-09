@@ -1,8 +1,9 @@
 ---
-title: adding content
+title: ➕ Adding Content
 layout: single
 type: docs
 draft: false
+weight: 8
 ---
 
 ## Job

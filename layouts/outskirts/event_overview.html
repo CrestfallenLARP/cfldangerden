@@ -1,9 +1,7 @@
 {{ define "main" }}
 {{ $event_pages := where $.Site.Pages "Section" .Section }}
-<p></p>
-<p></p>
-<p></p>
-{{ .Render "content" }}
+
+{{- .Render "content" -}}
 
 <h2>Previous Event Recap</h2>
 <p>{{ .Params.recap  -}}</p>
@@ -37,6 +35,9 @@
 {{ $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) }}
 {{ range  $factions }}
 {{ $current_faction := . }} 
+{{ $lowercase_faction := $current_faction | lower }} 
+
+{{ $faction_path :=  printf "./%s" $lowercase_faction }}
 
 {{ if sort (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) "Params.weight" -}}
 <p><b>{{ title  $current_faction }}{{ if eq $current_faction  nil }} NO Faction on this Job!! {{ end }}</b>
@@ -60,7 +61,7 @@
 <a href="./pioneer_cards"><h2>Pioneer Cards</h2></a>
 {{ if where $event_pages "Layout" "==" "stockpile"  -}}
  {{ range where $event_pages "Layout" "=="  "stockpile"  -}}
- <h2><a href="{{- .Permalink -}}">Stockpiles:</a> </h2>
+ <h2><a href="{{- .Permalink -}}">Stockpiles</a> </h2>
      <p>
      <b>Small:</b> {{ if .Params.small }}{{ .Params.small }}{{else}}None{{ end }}
       <b>Medium:</b> {{ if .Params.medium }}{{ .Params.medium }}{{else}}None{{ end }}
