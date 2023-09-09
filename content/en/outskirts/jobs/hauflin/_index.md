@@ -1,5 +1,5 @@
 ---
-title: Jobs 
+title: Hauflin Jobs
 layout: job_overview
 cascade:
   layout: job
