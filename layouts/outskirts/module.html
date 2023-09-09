@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ .Render "content" }}
-{{ .Params.schedule }} - <b>{{ .Params.title }}</b>
+<p><b>Schedule</b>: {{ .Params.schedule }}</p>
 <p><b>Brief</b>: {{ .Params.brief  -}}</p>
 {{ if  .Params.props  -}}<p><b>props</b>:{{ .Params.props  -}} {{ end }}
 {{ if  .Params.summary  -}}<p><b>summary</b>:  {{ .Params.summary  -}}</p>{{ end }}

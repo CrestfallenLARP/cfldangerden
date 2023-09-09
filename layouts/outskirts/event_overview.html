@@ -3,8 +3,10 @@
 
 {{- .Render "content" -}}
 
-<h2>Previous Event Recap</h2>
-<p>{{ .Params.recap  -}}</p>
+<a href="./recap"> <h2>Previous Event Recap</h2></a>
+{{ $recap_pages := sort $event_pages ".Params.date" "desc" }}
+{{ $last_recap := index $recap_pages 0 }}
+<p>{{ $last_recap.Params.recap }}</p>
 <h2>Modules</h2>
 {{ $schedules := (slice "Opening" "Mid Event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "Ending" ) }}
 
@@ -72,14 +74,10 @@
 <hr>
 <p><a href="./adding_content">➕ Adding Content</a></p>
 <p><a href="./event_export">🖶 Event Export</a></p>
+<p><a href="/pdf/crestfallen_20230806.pdf"><i class="fa fa-file-pdf"></i> Event FormattedS</a></p>
 
-<p>
-    {{ with .GetPage "./event_export" }}
-        <a href="./event_export"><i class="fa fa-print"></i></a>
-    {{ end }}
-    <a href="/pdf/crestfallen_20230806.pdf"><i class="fa fa-file-pdf"></i></a>
-    <a href="/affinity/crestfallen_20230806.afpub"><i class="fa fa-code"></i></a>
-</p>
+
+
 
 
 {{ end }}
