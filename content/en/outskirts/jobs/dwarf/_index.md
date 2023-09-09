@@ -1,5 +1,5 @@
 ---
-title: Jobs Dwarf
+title: Dwarf Jobs
 layout: job_overview
 cascade:
   layout: job

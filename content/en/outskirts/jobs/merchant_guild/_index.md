@@ -1,5 +1,5 @@
 ---
-title: Jobs Merchant
+title: Merchant Guild Jobs
 
 layout: job_overview
 cascade:

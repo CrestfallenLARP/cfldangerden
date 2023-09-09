@@ -1,5 +1,5 @@
 ---
-title: "Jobs Kinfolk"
+title: "Kinfolk Jobs"
 layout: job_overview
 weight: 30
 

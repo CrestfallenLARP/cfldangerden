@@ -1,5 +1,5 @@
 ---
-title: Jobs Human
+title: Human Jobs
 layout: job_overview
 cascade:
   layout: job

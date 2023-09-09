@@ -1,5 +1,5 @@
 ---
-title: Jobs Orc
+title: Orc Jobs
 layout: job_overview
 cascade:
   layout: job
