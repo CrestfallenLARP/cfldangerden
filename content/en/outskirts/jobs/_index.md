@@ -1,3 +1,4 @@
 ---
-title: jobs
+title: Jobs
+weight: 3
 ---
