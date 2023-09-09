@@ -1,8 +1,9 @@
 
 {{- $event_pages := where $.Site.Pages "Section" .Section -}}
 
-<b>Overview</b>
-<p>{{ .Params.overview  -}}</p>
+{{ $recap_pages := sort $event_pages ".Params.date" "desc" }}
+{{ $last_recap := index $recap_pages 0 }}
+<p><b>Previous Event Recap</b>: {{ $last_recap.Params.recap }}</p>
 <b>Modules</b>
 {{ $schedules := (slice "Opening" "Mid Event" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "Ending" ) }}
 
@@ -54,7 +55,7 @@
 
 
 <h2>Modules</h2>
-{{ $schedules := (slice "Opening" "Mid Event" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "Ending" ) }}
+{{ $schedules := (slice "opening" "mid event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "ending" ) }}
 
 {{ range  $schedules }}
 {{ $current_schedule := . }}
@@ -71,7 +72,7 @@
 {{ if  .Params.props  -}}<p><b>props</b>:{{ .Params.props  -}} {{ end }}
 {{ if  .Params.summary  -}}<p><b>summary</b>:  {{ .Params.summary  -}}</p>{{ end }}
 
-{{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ))  (.Params.roles) -}} 
+{{- if or (where .Pages ".Params.Layout" "==" "role")  (.Params.roles) -}} 
 <div id="roles"><p><b>Roles:</b> 
     {{ if .Params.roles }}{{ .Params.roles }} {{ end }}
     {{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
