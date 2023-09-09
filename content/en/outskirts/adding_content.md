@@ -2,10 +2,36 @@
 title: adding content
 layout: single
 type: docs
-draft: true
+draft: false
 ---
 
+## Job
 
+  ```yaml
+  
+  title: 
+  layout: job
+  faction:
+  Props: 
+  reward: 
+  post: 
+  summary: 
+  ```
+
+  
+
+## Module
+
+```yaml
+---
+title: 
+layout: module
+schedule: 
+brief: 
+---
+```
+
+## Role
 
 ```yaml
 ---
@@ -37,8 +63,20 @@ faction_level_2:
 faction_level_3: 
 faction_level_4: 
 ---
-
 ```
 
+## pioneer_card
 
+```yaml
+---
+title: Boom or Bust
+layout: pioneer_card
+non_combat:
+  post: 
+  reward: 
+combat:
+  post: 
+  reward: 
+---
+```
 

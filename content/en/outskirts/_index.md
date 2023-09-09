@@ -9,7 +9,7 @@ recap: The adventurers battled a number of undead, including the white bone.  Th
 # List all of the event write ups with jobs, treasure, cards, etc which can be used to generate the treasure and track the events.  They should probably be laid out similar to the schedule page.
 ---
 
-### [Items](./items)
+### 
 
 
 

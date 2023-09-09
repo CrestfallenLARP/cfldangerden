@@ -5,7 +5,7 @@
 <p></p>
 {{ .Render "content" }}
 
-<h2>Recap</h2>
+<h2>Previous Event Recap</h2>
 <p>{{ .Params.recap  -}}</p>
 <h2>Modules</h2>
 {{ $schedules := (slice "Opening" "Mid Event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "Ending" ) }}
@@ -50,8 +50,11 @@
 {{ end }}
 <h2>Market Value Chart</h2>
 <p>todo</p>
+<h2>Items</h2>
+<p><a href="./items">Items</a></p>
+
 <h2>Faction Goals</h2>
-<p>One days don't have faction goals that are tracked because the cast changes creatures more often than during full weekend events</p>
+<p>One days do not have faction goals that are tracked because the cast changes creatures more often than during full weekend events.</p>
 
 
 <a href="./pioneer_cards"><h2>Pioneer Cards</h2></a>

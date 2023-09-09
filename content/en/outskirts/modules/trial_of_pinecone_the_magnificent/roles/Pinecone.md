@@ -7,7 +7,7 @@ Speech:
 Movement: 
 Intelligence: 
 props:
-type: 
+type: Human
 body: 
 armor: 
 stamina: 
