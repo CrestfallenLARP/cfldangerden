@@ -1,5 +1,5 @@
 ---
-title: pioneer encounters
+title: Pioneer Cards
 layout: pioneer_card_overview
 ---
 
