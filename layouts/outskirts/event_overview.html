@@ -1,5 +1,8 @@
 {{ define "main" }}
 {{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ $schedules := (slice "opening" "mid event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "ending" ) }}
+{{ $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) }}
+
 
 {{- .Render "content" -}}
 
@@ -7,8 +10,9 @@
 {{ $recap_pages := sort $event_pages ".Params.date" "desc" }}
 {{ $last_recap := index $recap_pages 0 }}
 <p>{{ $last_recap.Params.recap }}</p>
+<!-- Loop over the modules and print them one page at a time  module details  -->
+
 <h2>Modules</h2>
-{{ $schedules := (slice "opening" "mid event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "ending" ) }}
 
 {{ range  $schedules }}
 {{ $current_schedule := . }}
@@ -34,7 +38,6 @@
 
 
 <h2>Jobs</h2>
-{{ $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) }}
 {{ range  $factions }}
 {{ $current_faction := . }} 
 {{ $lowercase_faction := $current_faction | lower }} 
@@ -57,8 +60,7 @@
 <s><h2>Faction Goals</h2></s>
 <p>One days do not have faction goals that are tracked because the cast changes creatures more often than during full weekend events.</p>
 
-
-<a href="./pioneer_cards"><h2>Pioneer Cards</h2></a>
+<a href="./pioneer_cards"><h2>Pioneer Cards ({{ len (where $event_pages "Layout" "==" "pioneer_card")  -}})</h2></a>
 {{ if where $event_pages "Layout" "==" "stockpile"  -}}
  {{ range where $event_pages "Layout" "=="  "stockpile"  -}}
  <h2><a href="{{- .Permalink -}}">Stockpiles</a> </h2>
@@ -75,9 +77,5 @@
 <p><a href="./adding_content">➕ Adding Content</a></p>
 <p><a href="./event_export">🖶 Event Export</a></p>
 <p><a href="/pdf/crestfallen_20230806.pdf"><i class="fa fa-file-pdf"></i> Event Formatted</a></p>
-
-
-
-
 
 {{ end }}
