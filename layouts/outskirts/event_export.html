@@ -57,7 +57,6 @@
 <!-- Loop over the timeslots  and print modules details one page at a time  -->
 
 <h2>Modules</h2>
-{{ $schedules }} 
 {{ range  $schedules }}
     {{ $current_schedule := . }}
     <h2>{{ title $current_schedule }}</h2>
