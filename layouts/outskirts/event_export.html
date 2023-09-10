@@ -1,6 +1,5 @@
-
 {{- $event_pages := where $.Site.Pages "Section" .Section -}}
-{{- $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) -}}s
+{{- $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) -}}
 {{- $schedules := (slice "opening" "mid event" "ending" ) -}}
 
 {{ $recap_pages := sort $event_pages ".Params.date" "desc" }}
