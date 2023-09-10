@@ -319,8 +319,7 @@
 
 
 {{ range $index, $value := where $event_pages "Layout" "=="  "pioneer_card" -}}
-<h2>{{ add $index 1}}<p> {{ title .Title }}</h2>
-{{ .Render "content" }}
+<h2>{{ add $index 1}} {{ title .Title }}</h2>
 <h2>Non Combat</h2>
   <p><b>Post:</b>{{ .Params.non_combat.post }}</p>
   <p><b>Reward:</b>{{ .Params.non_combat.reward }}</p>
