@@ -58,9 +58,7 @@
 
 <h2>Modules</h2>
 {{ range  $schedules }}
-    {{ $current_schedule := . }}
-    <h2>{{ title $current_schedule }}</h2>
-    
+    {{ $current_schedule := . }}    
     {{- range $index, $value := where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule -}}
     <!-- Print module details  -->
 {{- $module_title := .Title -}}
@@ -190,8 +188,8 @@
     {{ $current_faction := . }} 
 
     {{ if sort (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) "Params.weight" -}}
-<p><b>{{ title  $current_faction }}{{ if eq $current_faction  nil }} NO Faction on this Job!! {{ end }}</b>
-<b>({{ len (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) -}})</b></p>
+<h2>{{ title  $current_faction }}{{ if eq $current_faction  nil }} NO Faction on this Job!! {{ end }}
+      ({{ len (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) -}})</h2>
 {{ end }}
         {{ range $index, $value :=where (where $event_pages "Layout" "=="  "job" ) ".Params.faction" "=="  $current_faction -}}
                <h2><b>{{ title .Params.title }}</b></h2>
