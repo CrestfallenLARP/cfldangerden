@@ -1,5 +1,5 @@
 ---
-title: First Week of the Scatter, 1488
+title: 1st Week of the Scatter, 1488
 layout: recap
 weight: 2
 date: 2023-05-21

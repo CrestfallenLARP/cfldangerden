@@ -1,5 +1,5 @@
 ---
-title: Second Week of the Scatter, 1488
+title: 2nd Week of the Scatter, 1488
 layout: recap
 weight: 3 
 date: 2023-07-09
