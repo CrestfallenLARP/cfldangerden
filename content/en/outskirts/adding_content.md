@@ -5,18 +5,27 @@ type: docs
 draft: false
 weight: 8
 ---
+## Recap
+
+  ```yaml
+title: 
+layout: recap
+weight: 
+date: 
+recap: 
+  ```
 
 ## Job
 
   ```yaml
   
-  title: 
-  layout: job
-  faction:
-  Props: 
-  reward: 
-  post: 
-  summary: 
+title: 
+layout: job
+faction:
+Props: 
+reward: 
+post: 
+summary: 
   ```
 
   
@@ -66,7 +75,7 @@ faction_level_4:
 ---
 ```
 
-## pioneer_card
+## Pioneer Card
 
 ```yaml
 ---
