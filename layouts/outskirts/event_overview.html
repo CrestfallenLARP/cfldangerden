@@ -6,7 +6,7 @@
 
 {{- .Render "content" -}}
 
-<a href="./recap"> <h2>Previous Event Recap</h2></a>
+<a href="./recap"> <h2 id="recap">Previous Event Recap</h2></a>
 {{ $recap_pages := sort $event_pages ".Params.date" "desc" }}
 {{ $last_recap := index $recap_pages 0 }}
 <p>{{ $last_recap.Params.recap }}</p>
