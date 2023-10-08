@@ -56,22 +56,22 @@ items:
     durability: 8
     effects: 1 loss of durability grants the user one basic resource or one item from a basic build list.
   - name: Common Fire Wand
-    prop: Wand Prop
+    prop: Wand
     type: Enchanting
     durability: 8
     effects: 1 loss of durability grants the user the ability to throw the following spell... May your essence forever burn 10 fire.
   - name: Common Ice Wand
-    prop: Wand Prop
+    prop: Wand
     type: Enchanting
     durability: 8
     effects: 1 loss of durability grants the user the ability to throw the following spell... May your essence forever freeze 10 ice.
   - name: Common Stone Wand
-    prop: Wand Prop
+    prop: Wand
     type: Enchanting
     durability: 8
     effects: 1 loss of durability grants the user the ability to throw the following spell... May you be pelted with pointy rocks 10 stone.
   - name: Common Lightning Wand
-    prop: Wand Prop
+    prop: Wand
     type: Enchanting
     durability: 8
     effects: 1 loss of durability grants the user the ability to throw the following spell... May lightning scorch you 10 lightning.
@@ -107,7 +107,7 @@ items:
     durability: 8
     effects: 1 loss of durability grants the user the ability to Resist Harm damage for one spell or attack.
   - name: Troll Skin Armor
-    prop: Armor Prop
+    prop: Armor
     type: Forging
     durability: 8
     effects: 1 loss of durability grants the wearer the ability to double one healing effect targeting the wearer.
