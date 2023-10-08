@@ -6,6 +6,12 @@ items:
     type: Forging
     effects: May be repaired when it gains the broken condition. When repaired, loses 1 durability.
     effects_markdown: May be repaired when it gains the [broken](/rules/conditions/#broken-break) condition. When repaired, loses 1 durability.
+  - name: Common One Handed Weapon
+    prop: One Handed Weapon Prop
+    durability: 8
+    type: Forging
+    effects: This weapon may be repaired when it gains the broken condition. When repaired, this item loses 1 durability.
+    effects_markdown: May be repaired when it gains the [broken](/rules/conditions/#broken-break) condition. When repaired, loses 1 durability.
   - name: Common Two Handed Weapon
     prop: Two Handed Weapon Prop
     durability: 8
@@ -19,14 +25,14 @@ items:
     effects: This weapon may be repaired when it gains the broken condition. When repaired, this item loses 1 durability.
     effects_markdown: May be repaired when it gains the [broken](/rules/conditions/#broken-break) condition. When repaired, loses 1 durability.
   - name: Common Shield
-    Description: Buckler or Shield Prop
+    prop: Buckler or Shield Prop
     durability: 8
     type: Forging
     effects: May be repaired when it gains the broken condition. When repaired, this item loses 1 durability.
     effects_markdown: May be repaired when it gains the [broken](/rules/conditions/#broken-break) condition. When repaired, loses 1 durability.
   - name: Tangle Foot Bag
-    prop:  Bag Prop with Spell Ammo
-    type:  Alchemy
+    prop: Bag Prop with Spell Ammo
+    type: Alchemy
     durability: 8
     effects: 1 loss of durability allows the user to throw a spell ammo with the call "Entangle Foot".
   - name: Elven Wine
@@ -44,11 +50,6 @@ items:
     type: Alchemy
     durability: 8
     effects: 1 loss of durability and 3 seconds of acting out drinking grants the target 1 ST and the distracted condition for 5 minutes.
-  - name: Resource Bag
-    prop: Pouch or Bag Prop
-    type: Enchanting
-    durability: 8
-    effects: 1 loss of durability grants the user one basic resource or one item from a basic build list.
   - name: Resource Bag
     prop: Pouch or Bag Prop
     type: Enchanting
@@ -110,11 +111,6 @@ items:
     type: Forging
     durability: 8
     effects: 1 loss of durability grants the wearer the ability to double one healing effect targeting the wearer.
-  - name: Basic Mutation
-    prop: Bottle, Vial, or Jug Prop
-    type: Alchemy
-    durability: 8
-    effects: 1 loss of durability grants the target 10 temporary body, 10 armor (on top of physical), and 1 additional damage for 1 battle. Target gains Bleed condition at the end of the battle.
   - name: Basic Mutation
     prop: Bottle, Vial, or Jug Prop
     type: Alchemy

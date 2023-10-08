@@ -8,14 +8,15 @@
 {{ with  .OutputFormats.Get "json" -}}
   <a href="{{ .Permalink  | absURL }}"><img src="/images/logos/ics.png" alt="ICS Calendar File" style="width:48px;height:48px;"></a>
 {{- end }}
-<p> {{ len $items_to_distribute  }} items to distribute </p>
 
+{{ $total_items := 0 }}
 {{ range $items_to_distribute }} 
 {{ $current_item := . }} 
 
     {{ range $item_reference_items }}
         {{ $reference_item := .name }} 
         {{ if eq $reference_item $current_item }} 
+            {{ $total_items = add $total_items  1 }}
             <h2>{{ .name }}</h2>
                 <p><b>Prop: </b>{{ .prop }}</p>
                 <p><b>Type: </b>{{ .type }}</p>
@@ -24,4 +25,7 @@
         {{end}}
         {{ end }}
 {{ end }}
+
+<p> {{ $total_items  }}  {{ len $items_to_distribute  }} items to distribute. 36 cards per sheet. </p>
+
 {{- end }}

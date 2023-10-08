@@ -18,6 +18,7 @@ items_to_distribute:
   - Ranged Weapon
   - Ranged Weapon
   - Ranged Weapon
+  - Ranged Weapon
   - Common Shield
   - Common Shield
   - Common Shield
@@ -47,7 +48,16 @@ items_to_distribute:
   - Common Stone Wand
   - Common Lightning Wand
   - Wind Up Mouse
+  - Wind Up Mouse
+  - Wind Up Mouse
+  - Wind Up Mouse
   - Common Healing Potion
+  - Common Healing Potion
+  - Common Healing Potion
+  - Common Healing Potion
+  - Healing Salve
+  - Healing Salve
+  - Healing Salve
   - Healing Salve
   - Resting Cot
   - Weapon of Cowardice
@@ -65,5 +75,9 @@ items_to_distribute:
   - Common Firearm
   - Common Firearm
   - Common Firearm
-
 ---
+
+
+
+
+
