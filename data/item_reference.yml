@@ -1,0 +1,182 @@
+---
+items:
+  - name: Common Armor
+    prop: Armor
+    durability: 8
+    type: Forging
+    effects: May be repaired when it gains the broken condition. When repaired, loses 1 durability.
+    effects_markdown: May be repaired when it gains the [broken](/rules/conditions/#broken-break) condition. When repaired, loses 1 durability.
+  - name: Common Two Handed Weapon
+    prop: Two Handed Weapon Prop
+    durability: 8
+    type: Forging
+    effects: This weapon may be repaired when it gains the broken condition. When repaired, this item loses 1 durability.
+    effects_markdown: May be repaired when it gains the [broken](/rules/conditions/#broken-break) condition. When repaired, loses 1 durability.
+  - name: Ranged Weapon
+    prop: Bow, Crossbow or Thrown Weapon Prop
+    durability: 8
+    type: Forging
+    effects: This weapon may be repaired when it gains the broken condition. When repaired, this item loses 1 durability.
+    effects_markdown: May be repaired when it gains the [broken](/rules/conditions/#broken-break) condition. When repaired, loses 1 durability.
+  - name: Common Shield
+    Description: Buckler or Shield Prop
+    durability: 8
+    type: Forging
+    effects: May be repaired when it gains the broken condition. When repaired, this item loses 1 durability.
+    effects_markdown: May be repaired when it gains the [broken](/rules/conditions/#broken-break) condition. When repaired, loses 1 durability.
+  - name: Tangle Foot Bag
+    prop:  Bag Prop with Spell Ammo
+    type:  Alchemy
+    durability: 8
+    effects: 1 loss of durability allows the user to throw a spell ammo with the call "Entangle Foot".
+  - name: Elven Wine
+    prop: Bottle, Vial, or Jug Prop
+    type: Alchemy
+    durability: 8
+    effects: 1 loss of durability and 3 seconds of acting out drinking grants the target 2 ST. Elf characters gain 4 ST instead.
+  - name: Dwarven Ale
+    prop: Bottle, Vial, or Jug Prop
+    type: Alchemy
+    durability: 8
+    effects: 1 loss of durability and 3 seconds of acting out drinking grants the target 4 ST. Non-Dwarf characters gain the dazed condition for 10 minutes.
+  - name: Common Alcohol
+    prop: Bottle, Vial, or Jug Prop
+    type: Alchemy
+    durability: 8
+    effects: 1 loss of durability and 3 seconds of acting out drinking grants the target 1 ST and the distracted condition for 5 minutes.
+  - name: Resource Bag
+    prop: Pouch or Bag Prop
+    type: Enchanting
+    durability: 8
+    effects: 1 loss of durability grants the user one basic resource or one item from a basic build list.
+  - name: Resource Bag
+    prop: Pouch or Bag Prop
+    type: Enchanting
+    durability: 8
+    effects: 1 loss of durability grants the user one basic resource or one item from a basic build list.
+  - name: Common Fire Wand
+    prop: Wand Prop
+    type: Enchanting
+    durability: 8
+    effects: 1 loss of durability grants the user the ability to throw the following spell "May your essence forever burn 10 fire".
+  - name: Common Ice Wand
+    prop: Wand Prop
+    type: Enchanting
+    durability: 8
+    effects: 1 loss of durability grants the user the ability to throw the following spell "May your essence forever freeze 10 ice".
+  - name: Common Stone Wand
+    prop: Wand Prop
+    type: Enchanting
+    durability: 8
+    effects: 1 loss of durability grants the user the ability to throw the following spell "May you be pelted with pointy rocks 10 stone".
+  - name: Common Lightning Wand
+    prop: Wand Prop
+    type: Enchanting
+    durability: 8
+    effects: 1 loss of durability grants the user the ability to throw the following spell "May lightning scorch you 10 lightning".
+  - name:  Wind Up Mouse
+    prop: Mouse Toy Prop
+    type: Enchanting
+    durability: 8
+    hidden: true
+    effects: 1 loss of durability allows the user to scout a job or adventure as per the search area skill.
+  - name: Common Healing Potion
+    prop: Bottle, Vial, or Jug Prop
+    type: Alchemy
+    durability: 8
+    effects: 1 loss of durability and 3 seconds of acting out drinking grants the target 5 healing.
+  - name: Healing Salve
+    prop: Bottle, Vial, or Jug Prop
+    type: Alchemy
+    durability: 8
+    effects: 1 loss of durability and 3 seconds of acting out applying grants the target 5 healing or doubles the healing of any medical training used on the target.
+  - name: Resting Cot
+    prop: Bedroll or Cot
+    type: Enchanting
+    durability: 8
+    effects: 1 loss of durability per event used. User gains 2 ST per 30 minutes when resting on this item.
+  - name: Weapon of Cowardice
+    prop: One Handed Weapon
+    type: Forging
+    durability: 8
+    effects: 1 loss of durability grants the user the use of the cower skill.
+  - name: Shield of Harm Protection
+    prop: Buckler or Shield Prop
+    type: Enchanting
+    durability: 8
+    effects: 1 loss of durability grants the user the ability to "Resist" Harm damage for one spell or attack.
+  - name: Troll Skin Armor
+    prop: Armor Prop
+    type: Forging
+    durability: 8
+    effects: 1 loss of durability grants the wearer the ability to double one healing effect targeting the wearer.
+  - name: Basic Mutation
+    prop: Bottle, Vial, or Jug Prop
+    type: Alchemy
+    durability: 8
+    effects: 1 loss of durability grants the target 10 temporary body, 10 armor (on top of physical), and 1 additional damage for 1 battle. Target gains Bleed condition at the end of the battle.
+  - name: Basic Mutation
+    prop: Bottle, Vial, or Jug Prop
+    type: Alchemy
+    durability: 8
+    effects: 1 loss of durability grants the target 10 temporary body, 10 armor (on top of physical), and 1 additional damage for 1 battle. Target gains Bleed condition at the end of the battle.
+  - name: Injectable Adrenaline
+    prop: Vial or Injection Prop
+    type: Alchemy
+    durability: 8
+    effects: 1 loss of durability grants the target the use of the pain tolerance skill on one broken limb until the end of a battle.
+  - name: Common Forge
+    prop: Forge Prop
+    type: Forging
+    durability: 8
+    effects: 1 loss of durability per event used grants users of this prop a 5 minute reduction in all forging times.
+  - name: Common Alchemy Lab
+    prop: Alchemy Lab Prop
+    type: Alchemy
+    durability: 8
+    effects: 1 loss of durability per event used grants users of this prop a 5 minute reduction in all alchemy times.
+  - name: Common Enchanting Lab
+    prop: Enchanting Lab Prop
+    type: Enchanting
+    durability: 8
+    effects: 1 loss of durability per event used grants users of this prop a 5 minute reduction in all enchanting times.
+  - name: Common Firearm
+    prop: Blaster Prop
+    type: Technology
+    durability: 8
+    effects: This weapon may be repaired when it gains the broken condition. When repaired, this item loses 1 durability.
+  - name: Weapon of Vengeance
+    prop: 
+    type: 
+    durability: 8
+    effects: 1 durability grants the character 1 use of the counter skill
+  - name: Wand of Strength
+    prop: 
+    type: 
+    durability: 8
+    effects: Grants the character 1 use of Strength Augmentation until used or end of event.
+  - name: Essence to Energy
+    prop: 
+    type: 
+    durability: 8
+    effects:  Target must be willing OoG. 1 durability causes target to lose one essence and gain 10 energy.
+  - name: Murderers Weapon
+    prop: 
+    type: 
+    durability: 8
+    effects: 1 durability allows wielder to ignore cower once.
+  - name: Refilling Money Pouch
+    prop: 
+    type: 
+    durability: 8
+    effects: 1 durability at check in doubles any Holdings skills or grants Holdings Mastery.
+  - name: Fire Charm
+    prop: 
+    type: 
+    durability: 8
+    effects: 1 durability causes wearer to be healed by fire damage from one attack.
+  - name: Ice Charm
+    prop: 
+    type: 
+    durability: 8
+    effects: 1 durability causes wearer to be healed by ice damage from one attack.
