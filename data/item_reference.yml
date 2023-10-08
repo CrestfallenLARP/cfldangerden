@@ -34,7 +34,7 @@ items:
     prop: Bag Prop with Spell Ammo
     type: Alchemy
     durability: 8
-    effects: 1 loss of durability allows the user to throw a spell ammo with the call "Entangle Foot".
+    effects: 1 loss of durability allows the user to throw a spell ammo with the call... Entangle Foot.
   - name: Elven Wine
     prop: Bottle, Vial, or Jug Prop
     type: Alchemy
@@ -59,22 +59,22 @@ items:
     prop: Wand Prop
     type: Enchanting
     durability: 8
-    effects: 1 loss of durability grants the user the ability to throw the following spell "May your essence forever burn 10 fire".
+    effects: 1 loss of durability grants the user the ability to throw the following spell... May your essence forever burn 10 fire.
   - name: Common Ice Wand
     prop: Wand Prop
     type: Enchanting
     durability: 8
-    effects: 1 loss of durability grants the user the ability to throw the following spell "May your essence forever freeze 10 ice".
+    effects: 1 loss of durability grants the user the ability to throw the following spell... May your essence forever freeze 10 ice.
   - name: Common Stone Wand
     prop: Wand Prop
     type: Enchanting
     durability: 8
-    effects: 1 loss of durability grants the user the ability to throw the following spell "May you be pelted with pointy rocks 10 stone".
+    effects: 1 loss of durability grants the user the ability to throw the following spell... May you be pelted with pointy rocks 10 stone.
   - name: Common Lightning Wand
     prop: Wand Prop
     type: Enchanting
     durability: 8
-    effects: 1 loss of durability grants the user the ability to throw the following spell "May lightning scorch you 10 lightning".
+    effects: 1 loss of durability grants the user the ability to throw the following spell... May lightning scorch you 10 lightning.
   - name:  Wind Up Mouse
     prop: Mouse Toy Prop
     type: Enchanting
@@ -105,7 +105,7 @@ items:
     prop: Buckler or Shield Prop
     type: Enchanting
     durability: 8
-    effects: 1 loss of durability grants the user the ability to "Resist" Harm damage for one spell or attack.
+    effects: 1 loss of durability grants the user the ability to Resist Harm damage for one spell or attack.
   - name: Troll Skin Armor
     prop: Armor Prop
     type: Forging

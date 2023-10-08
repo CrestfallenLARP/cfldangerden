@@ -1,13 +1,12 @@
 {{ define "main" }}
 {{ .Render "content" }}
 
-{{ $item_reference := index .Site.Data "item_reference" }}
-{{ $item_reference_items := $item_reference.items}}
-{{ $items_to_distribute := $.Params.items_to_distribute }}
+{{- $item_reference := index .Site.Data "item_reference" }}
+{{- $item_reference_items := $item_reference.items}}
+{{- $items_to_distribute := $.Params.items_to_distribute }}
 
-{{ with  .OutputFormats.Get "json" -}}
-  <a href="{{ .Permalink  | absURL }}"><img src="/images/logos/ics.png" alt="ICS Calendar File" style="width:48px;height:48px;"></a>
-{{- end }}
+
+
 
 {{ $total_items := 0 }}
 {{ range $items_to_distribute }} 
@@ -26,6 +25,10 @@
         {{ end }}
 {{ end }}
 
-<p> {{ $total_items  }}  {{ len $items_to_distribute  }} items to distribute. 36 cards per sheet. </p>
+<p> {{ $total_items  }}  {{ len $items_to_distribute  }} items to distribute. 36 cards per sheet. 
+{{ with  .OutputFormats.Get "json" -}}
+  <a href="{{ .Permalink  | absURL }}"><img src="/images/logos/ics.png" alt="ICS Calendar File" style="width:48px;height:48px;"></a>
+{{- end }}
+ </p>
 
 {{- end }}

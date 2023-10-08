@@ -1,0 +1,23 @@
+{{- $item_reference := index .Site.Data "item_reference" }}
+{{- $item_reference_items := $item_reference.items -}}
+{{- $items_to_distribute := $.Params.items_to_distribute -}}
+{{ $number_of_items := len $items_to_distribute }}
+[
+{{- range  $index, $value := $items_to_distribute -}} 
+
+{{- $current_item := . -}} 
+    {
+        {{- range $item_reference_items -}}
+        {{- $reference_item := .name -}} 
+        {{- if eq $reference_item $current_item -}} 
+            "name": "{{- .name -}}",
+            "prop": "{{- .prop -}}",
+            "type": "{{- .type -}}.jpg",
+            "durability": "{{- .durability -}}",
+            "effects": "{{- .effects -}}"
+        {{- end -}}
+        {{- end -}}
+    }{{- if ne (add $index 1 ) $number_of_items -}}, {{ end -}}
+
+{{- end -}}
+]

@@ -4,6 +4,10 @@
 {{ $item_reference := index .Site.Data "item_reference" }}
 {{ $item_reference_items := $item_reference.items}}
 
+{{ with  .OutputFormats.Get "json" -}}
+  <a href="{{ .Permalink  | absURL }}"><img src="/images/logos/ics.png" alt="ICS Calendar File" style="width:48px;height:48px;"></a>
+{{- end }}
+
 {{ range $item_reference_items }}
         <h2>{{ .name }}</h2>
             <p><b>Prop: </b>{{ .prop }}</p>

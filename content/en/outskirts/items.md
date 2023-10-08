@@ -2,6 +2,9 @@
 title: Items
 weight: 5
 layout: items_to_distribute
+outputs:
+- html
+- json
 items_to_distribute: 
   - Common Armor
   - Common Armor
