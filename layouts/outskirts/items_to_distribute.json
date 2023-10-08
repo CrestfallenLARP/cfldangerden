@@ -12,7 +12,7 @@
         {{- if eq $reference_item $current_item -}} 
             "name": "{{- .name -}}",
             "prop": "{{- .prop -}}",
-            "type": "{{- .type -}}.jpg",
+            "type": "{{- .type | lower -}}.png",
             "durability": "{{- .durability -}}",
             "effects": "{{- .effects -}}"
         {{- end -}}
