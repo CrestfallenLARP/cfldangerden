@@ -8,7 +8,7 @@
 {{ with  .OutputFormats.Get "json" -}}
   <a href="{{ .Permalink  | absURL }}"><img src="/images/logos/ics.png" alt="ICS Calendar File" style="width:48px;height:48px;"></a>
 {{- end }}
-
+<p> {{ len $items_to_distribute  }} items to distribute </p>
 
 {{ range $items_to_distribute }} 
 {{ $current_item := . }} 
