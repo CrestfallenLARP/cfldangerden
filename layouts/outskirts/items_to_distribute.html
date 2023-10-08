@@ -21,7 +21,7 @@
                 <p><b>Type: </b>{{ .type }}</p>
                 <p><b>Durability: </b>{{ .durability }}</p>
                 <p><b>Effects: </b>{{ if .effects_markdown }}{{ .effects_markdown | markdownify }}{{else}}{{ .effects }}{{ end }}</p>
-        {{end}}
+        {{- end -}}
         {{ end }}
 {{ end }}
 
