@@ -103,7 +103,7 @@ items:
     effects: 1 loss of durability grants the user the use of the cower skill.
   - name: Shield of Harm Protection
     prop: Buckler or Shield
-    type: Enchanting
+    type: Forging
     durability: 8
     effects: 1 loss of durability grants the user the ability to Resist Harm damage for one spell or attack.
   - name: Troll Skin Armor
