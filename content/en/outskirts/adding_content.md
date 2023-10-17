@@ -20,8 +20,6 @@ recap:
   ```yaml
   
 title: 
-layout: job
-faction:
 Props: 
 reward: 
 post: 
