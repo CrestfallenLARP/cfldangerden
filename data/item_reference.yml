@@ -79,7 +79,6 @@ items:
     prop: Mouse Toy
     type: Enchanting
     durability: 8
-    hidden: true
     effects: 1 loss of durability allows the user to scout a job or adventure as per the search area skill.
   - name: Common Healing Potion
     prop: Bottle, Vial, or Jug
@@ -100,26 +99,31 @@ items:
     prop: One Handed Weapon
     type: Forging
     durability: 8
+    hidden: true
     effects: 1 loss of durability grants the user the use of the cower skill.
   - name: Shield of Harm Protection
     prop: Buckler or Shield
     type: Forging
     durability: 8
+    hidden: true
     effects: 1 loss of durability grants the user the ability to Resist Harm damage for one spell or attack.
   - name: Troll Skin Armor
     prop: Armor
     type: Forging
     durability: 8
+    hidden: true
     effects: 1 loss of durability grants the wearer the ability to double one healing effect targeting the wearer.
   - name: Basic Mutation
     prop: Bottle, Vial, or Jug
     type: Alchemy
     durability: 8
+    hidden: true
     effects: 1 loss of durability grants the target 10 temporary body, 10 armor (on top of physical), and 1 additional damage for 1 battle. Target gains Bleed condition at the end of the battle.
   - name: Injectable Adrenaline
     prop: Vial or Injection
     type: Alchemy
     durability: 8
+    hidden: true
     effects: 1 loss of durability grants the target the use of the pain tolerance skill on one broken limb until the end of a battle.
   - name: Common Forge
     prop: Forge
@@ -145,36 +149,43 @@ items:
     prop: 
     type: 
     durability: 8
+    hidden: true
     effects: 1 durability grants the character 1 use of the counter skill
   - name: Wand of Strength
     prop: 
     type: 
     durability: 8
+    hidden: true
     effects: Grants the character 1 use of Strength Augmentation until used or end of event.
   - name: Essence to Energy
     prop: 
     type: 
     durability: 8
+    hidden: true
     effects:  Target must be willing OoG. 1 durability causes target to lose one essence and gain 10 energy.
   - name: Murderers Weapon
     prop: 
     type: 
     durability: 8
+    hidden: true
     effects: 1 durability allows wielder to ignore cower once.
   - name: Refilling Money Pouch
     prop: 
     type: 
     durability: 8
+    hidden: true
     effects: 1 durability at check in doubles any Holdings skills or grants Holdings Mastery.
   - name: Fire Charm
     prop: 
     type: 
     durability: 8
+    hidden: true
     effects: 1 durability causes wearer to be healed by fire damage from one attack.
   - name: Ice Charm
     prop: 
     type: 
     durability: 8
+    hidden: true
     effects: 1 durability causes wearer to be healed by ice damage from one attack.
   - name: Basic Lock
     prop: Lock
