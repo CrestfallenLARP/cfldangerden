@@ -215,34 +215,34 @@ items:
     prop: Vial
     type: Enchanting
     durability: 8
-    effects: 1 loss of durability and 3 seconds of acting out drinking removes entangle conditions. Call ... remove entangle
+    effects: 1 loss of durability and 3 seconds of acting out drinking removes entangle conditions. Call... Remove Entangle.
   - name: Potion of Remove Hex
     prop: Vial
     type: Enchanting
     durability: 8
-    effects: 1 loss of durability and 3 seconds of acting out drinking removes the hex condition. Call. Remove hex
+    effects: 1 loss of durability and 3 seconds of acting out drinking removes the hex condition. Call... Remove Hex.
   - name: Potion of Remove Charm
     prop: Vial
     type: Enchanting
     durability: 8
-    effects: 1 loss of durability and 3 seconds of acting out drinking removes the charm condition. Call... remove charm
+    effects: 1 loss of durability and 3 seconds of acting out drinking removes the charm condition. Call... Remove Charm.
   - name: Potion of Mended Limb
     prop: Vial
     type: Enchanting
     durability: 8
-    effects: 1 loss of durability and 3 seconds of acting out drinking removes the broken condition on all limbs. Call ...remove broken limbs
+    effects: 1 loss of durability and 3 seconds of acting out drinking removes the broken condition on all limbs. Call... Remove Broken Limbs.
   - name: Potion of Stabilization
     prop: Vial
     type: Enchanting
     durability: 8
-    effects: 1 loss of durability and 3 seconds of acting out drinking grants the target the stabilize condition. Call... stabilize
+    effects: 1 loss of durability and 3 seconds of acting out drinking grants the target the stabilize condition. Call... Stabilize.
   - name: Entangle Body Bag
     prop: Bag with Ammo
     type: Alchemy
     durability: 8
-    effects: 1 loss of durability allows the user to throw a spell ammo with the call...Entangle Body.
+    effects: 1 loss of durability allows the user to throw a spell ammo with the call... Entangle Body.
   - name: Entangle Arms Bag
     prop: Bag with Ammo
     type: Alchemy
     durability: 8
-    effects: 1 loss of durability allows the user to throw a spell ammo with the call...Entangle Arms.
+    effects: 1 loss of durability allows the user to throw a spell ammo with the call... Entangle Arms.
