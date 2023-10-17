@@ -127,6 +127,10 @@ menu:
       pre: <i class="fa-solid fa-book"></i>
       weight: 15
       url: '/boulderton'
+    - name: Tavern
+      pre: <i class="fa fa-beer"></i>
+      weight: 16
+      url: '/tavern'
     - name: Factions 
       pre: <i class="fa-regular fa-book"></i>
       weight: 30
