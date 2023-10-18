@@ -1,0 +1,30 @@
+{{ define "main" }}
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ $schedules := (slice "opening" "mid event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "ending" ) }}
+{{ $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) }}
+
+{{- .Render "content" -}}
+
+
+
+<!-- Loop over the modules and print them one page at a time  module details  -->
+
+
+{{ range  $schedules }}
+{{ $current_schedule := . }}
+
+{{ if sort (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
+<p><b>{{ title  $current_schedule }}{{ if eq $current_schedule  nil }} NO SCHEDULE!! {{ end }}</b>
+<b>({{ len (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b>)
+
+{{ if eq $current_schedule  nil }}<p>Please add a schedule to your modules</p>{{ end }}
+{{ range $index, $value := where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule -}}
+      {{ if (ne $index 0) }}, {{ end }}
+      <a href="{{- .Permalink -}}"> {{ title .Title }}</a> 
+
+{{ end }}
+</p>
+{{ end }} 
+{{ end }}
+
+{{ end }}
