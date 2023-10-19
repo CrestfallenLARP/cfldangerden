@@ -1,5 +1,5 @@
 ---
-title: Goblin Warrior
+title: Mutiny Goblin Ziggy
 weight: 1
 layout: role
 Backstory: Got charmed by Oz and has been addicted to the charm spell. 
