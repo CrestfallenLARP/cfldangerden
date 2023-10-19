@@ -1,25 +1,25 @@
 ---
-title: Goblin Warrior
+title: Mutiny Goblin Zekton
 weight: 1
 layout: role
-Backstory: Goblins have been pushed from civilized society due to their cruel nature and disgusting features.  Due to having no morality, these creatures are always trying to take things that aren't theirs and to cause pain in any way possible.
-Motivation: Goblins are always looking for resources to make their own.  They will steal any leaves or resources that aren't locked down.  They give these items as offerings for some greater unknown power.
-Speech: These creatures speak in garbled sentences.  They hurl insults and mockeries at every chance.
-Movement: Goblins walk with hunched backs and a staggering gate due to living in small caves and other underground dwellings.
-Intelligence: Low
+Backstory: Zekton is the right hand man of Zelvin and is known to do all the dirty work for Zelvin. Usually when business is conducted with people, it is always Zekton that comes to meet them.
+Motivation: To bring justice for the helpless Goblins that are under the rules of the Goblin leader.
+Speech: Very "knightly" uses big words ever since he began his service under Zelvin 
+Movement: Posture is straight and walks with pride for each step leads to a brighter future.
+Intelligence: Medium/High
 props:
   - Goblin Mask
   - One handed weapon
-  - buckler shield
+  - shield
   - leather armor rep
 type: Goblin
-body: 8
-armor: 5 if repped
-stamina: 5
+body: 20
+armor: 10 if repped
+stamina: 8
 energy:
 spells_known: 
-primary_attack: 2 Damage (Add 1 Damage if fighting a target with another ally)
-Killing_Blow: No these warriors focus on stealing
+primary_attack: 4 Damage (Add 1 Damage if fighting a target with another ally)
+Killing_Blow: Yes if necessary
 Offensive_Abilities: 
   - Stagger Daze (2ST)
   - Search
@@ -27,6 +27,7 @@ Offensive_Abilities:
 Defensive_Abilities: 
   - Flesh Wound Resist (4ST)
   - Resist Entangle (2ST)
+  - Shield is yours (1ST) Touch target and say...My shield is yours 10 temporary armor
 immunities: 
 vulnerabilities: 
 healed_by: Healing
@@ -35,6 +36,7 @@ Special:
   - Cheer - Gain 5 temporary body when cheering after dropping an opponent.
   - Run Away - May use 1 resist per day but only while fleeing
   - Search (leaves/basic resources) - Goblin may search and steal leaves/basic resources
+  - I will no give up - Once per day when Zekton gains the dying condition, he may call out... I will not give up... lose the dying condition, gain 10 temporary body and +2 damage for the rest of the battle.
 faction_level_2:
  - Cheer now grants 10 temporary body
  - Run away now grants 2 resists per day
