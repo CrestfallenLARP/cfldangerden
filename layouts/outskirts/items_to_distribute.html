@@ -24,10 +24,11 @@
         {{- end -}}
         {{ end }}
 {{ end }}
-
-<p> {{ $total_items  }}  {{ len $items_to_distribute  }} items to distribute. 36 cards per sheet. 
+<hr>
+<p> {{ $total_items  }}  {{ len $items_to_distribute  }} items to distribute. 36 cards per sheet. </p>
+<hr>
 {{ with  .OutputFormats.Get "json" -}}
-  <a href="{{ .Permalink  | absURL }}"><img src="/images/logos/ics.png" alt="ICS Calendar File" style="width:48px;height:48px;"></a>
+  <a href="{{ .Permalink  | absURL }}"><img src="/images/logos/json.png" alt="ICS Calendar File" style="height:48px;"></a>
 {{- end }}
  </p>
 

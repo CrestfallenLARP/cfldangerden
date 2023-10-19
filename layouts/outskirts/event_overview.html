@@ -12,7 +12,7 @@
 <p>{{ $last_recap.Params.recap }}</p>
 <!-- Loop over the modules and print them one page at a time  module details  -->
 
-<h2>Modules</h2>
+<a href="./modules"> <h2 id="modules">Modules</h2></a>
 
 {{ range  $schedules }}
 {{ $current_schedule := . }}
@@ -35,9 +35,8 @@
 
 
 
+<a href="./jobs"> <h2 id="jobs">Jobs</h2></a>
 
-
-<h2>Jobs</h2>
 {{ range  $factions }}
 {{ $current_faction := . }} 
 {{ $lowercase_faction := $current_faction | lower }} 

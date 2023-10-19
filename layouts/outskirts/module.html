@@ -16,4 +16,19 @@
     {{ end }}
 </p></div>
 {{- end }}
+
+{{ if or (where .Pages ".Params.Layout" "NOT IN" (slice "role" "feedback" "national_monster_card" )) (where .Pages ".Params.Layout" "==" nil) }} 
+
+<div id="misc"><p><b>Misc: </b>
+{{- range $index, $value := where .Pages ".Params.Layout" "NOT IN"  (slice "role" "feedback" "national_monster_card" ) -}} 
+{{- if (ne $index 0) }}, {{ end -}}<a href="{{.Permalink}}">{{- title .Title -}}</a>
+{{- end -}}
+
+{{- range $index, $value := where .Pages ".Params.Layout" "==" nil -}} 
+{{- if (ne $index 0) }}, {{ end -}}<a href="{{.Permalink}}">{{- title .Title -}}</a>{{- end -}}</p></div>
+{{- end -}}
+
+
+
+
 {{- end }}
