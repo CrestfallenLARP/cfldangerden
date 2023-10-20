@@ -1,0 +1,34 @@
+---
+title: formatting for printing
+---
+open chrome open http://localhost:1313/outskirts/event_export/
+
+Click on event export to open the page.
+
+Save the file as webpage complete htm
+
+![image](/images/save_dialog.png)
+
+open microsoft word
+
+open the downloaded file localhost.html
+
+save as docx 
+
+open affinity publisher
+
+place content in affinity publisher
+
+import styles form previous event. 
+
+review spacing to ensure that all pagination is correct
+
+export to pdf single pages
+
+open pdf in foxit pdf
+
+print while scaling to full size of page. 
+
+take to spaples and get coil bound. Costs about 8 dollars. often takes them about an hour. Go get a coffee while you wait. 
+
+if you have time to get it done beforehand it is about the same cost to have Mixam Print and bind a book but that takes 2 weeks 
