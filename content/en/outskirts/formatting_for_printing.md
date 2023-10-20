@@ -1,6 +1,9 @@
 ---
 title: formatting for printing
 ---
+
+## Getting and converting with HTML and Chrome
+
 open chrome open http://localhost:1313/outskirts/event_export/
 
 Click on event export to open the page.
@@ -14,6 +17,14 @@ open microsoft word
 open the downloaded file localhost.html
 
 save as docx 
+
+Getting and converting event with wget nad Pandoc
+
+wget https://cfldangerden.netlify.app/outskirts/event_export/
+
+
+
+## Placing text in affinity publisher
 
 open affinity publisher
 
