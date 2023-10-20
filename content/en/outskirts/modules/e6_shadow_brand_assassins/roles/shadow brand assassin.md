@@ -1,5 +1,5 @@
 ---
-title: Shadow Brand Rogue
+title: Shadow Brand Assassin
 weight:
 layout: role
 Backstory: 
