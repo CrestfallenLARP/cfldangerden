@@ -18,9 +18,13 @@ open the downloaded file localhost.html
 
 save as docx 
 
-Getting and converting event with wget nad Pandoc
+## Getting and converting event with wget nad Pandoc
 
 wget https://cfldangerden.netlify.app/outskirts/event_export/
+
+pandoc -s .\index.html -o crestfallen.docx
+
+the text styles need to match the source files that you place. 
 
 
 
