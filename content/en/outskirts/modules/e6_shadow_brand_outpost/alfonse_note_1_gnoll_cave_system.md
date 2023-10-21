@@ -8,7 +8,7 @@ is about organizing a tunnel to be dug from the local farms to meet with a gnoll
 
 The guild has hired outside expendable workers to dig the tunnel for very few leaves. The people are desperate and need the money.  The remaining wall will be triggered with and explosive to draw out the gnolls.  
 
-
+The influx of people coming in via portals has caused a strain on food/work so while the inspired are doing their best to take care of the people, some groups keep people in horrible poverty to use them for these grunt tasks.
 
 This letter should have very subtle writing that infers this is to be timed with the next 2 letters. It can include basic drawings of the tunnel/caves, explosive placement. Whatever additions feel comfortable.
 
