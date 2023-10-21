@@ -12,6 +12,8 @@ The influx of people coming in via portals has caused a strain on food/work so w
 
 This letter should have very subtle writing that infers this is to be timed with the next 2 letters. It can include basic drawings of the tunnel/caves, explosive placement. Whatever additions feel comfortable.
 
+This is a hook for [Gnoll Tunnel](/outskirts/modules/e6_gnoll_tunnel/)
+
 ---
 
 > We have hired 15 local workers to dig tunnels from the Gnoll cave system to the local farmers. It is astounding what these desperate folks are willing to do for a few leaves. We may need to clean up the lose ends after this is all complete. The names of these folks are 

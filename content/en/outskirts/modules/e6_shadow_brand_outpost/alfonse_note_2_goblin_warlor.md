@@ -11,3 +11,6 @@ is intelligence on the local goblin warlord planning an attack on the merchant w
 Clattig is the warlords name. We havent set everything up yet, but he has murdered some of Dade's mutiny leaders family/important people leading to the rift.
 
 Clattig has been taking in all of the goblinoids that have shifted through portals and are using their info to help grow his warband. Its adding more new tech than he expected.
+
+this is a hook for [Goblin Bomb](/outskirts/modules/e6_goblin_bomb/)
+

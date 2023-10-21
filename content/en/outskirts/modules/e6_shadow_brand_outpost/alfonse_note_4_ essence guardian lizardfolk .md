@@ -8,3 +8,4 @@ is the actual plan that the three other notes are a diversion for.  The note des
 
 ---
 
+this is a hook for [Shadow Brand assassins](/outskirts/modules/e6_shadow_brand_assassins/)
