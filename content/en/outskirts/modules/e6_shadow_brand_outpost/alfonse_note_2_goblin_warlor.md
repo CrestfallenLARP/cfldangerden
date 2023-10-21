@@ -8,3 +8,5 @@ is intelligence on the local goblin warlord planning an attack on the merchant w
 
 ---
 
+Clattig is the warlords name. We havent set everything up yet, but he has murdered some of Dade's mutiny leaders family/important people leading to the rift.
+
