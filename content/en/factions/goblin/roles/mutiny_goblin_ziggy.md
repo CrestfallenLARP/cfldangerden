@@ -1,6 +1,6 @@
 ---
 title: Mutiny Goblin Ziggy
-weight: 1
+weight: 8
 layout: role
 Backstory: Got charmed by Oz and has been addicted to the charm spell. 
 Motivation: Since he is constantly charmed, he decided that he wants to impress Zelvin with his new friends to earn him a spot next to Zelvin.
