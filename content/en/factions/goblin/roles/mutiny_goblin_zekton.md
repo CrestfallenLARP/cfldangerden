@@ -1,6 +1,6 @@
 ---
 title: Mutiny Goblin Zekton
-weight: 1
+weight: 8
 layout: role
 Backstory: Zekton is the right hand man of Zelvin and is known to do all the dirty work for Zelvin. Usually when business is conducted with people, it is always Zekton that comes to meet them.
 Motivation: To bring justice for the helpless Goblins that are under the rules of the Goblin leader.
