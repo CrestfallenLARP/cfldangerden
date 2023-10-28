@@ -16,12 +16,6 @@ This is a hook for [Gnoll Tunnel](/outskirts/modules/e6_gnoll_tunnel/)
 
 ---
 
-> We have hired 15 local workers to dig tunnels from the Gnoll cave system to the local farmers. It is astounding what these desperate folks are willing to do for a few leaves. We may need to clean up the lose ends after this is all complete. The names of these folks are 
->
-> Tom
->
-> Dick
->
-> Harry
+> We have hired 3 local workers to dig tunnels from the Gnoll cave system to the local farmers. It is astounding what these desperate folks are willing to do for a few leaves. We may need to clean up the lose ends after this is all complete. The names of these folks are, Thomas Newton Brown, Richard Garrett, and Harold Bullion
 >
 > The timing has been going well we will be able to trigger the detonation to coincide with the other operations with little concern.
