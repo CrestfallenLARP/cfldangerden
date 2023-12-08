@@ -9,9 +9,15 @@ type: "docs"
 
 a celestial happening that allows the tavern keep to channel the spirits of ancient heroes.
 
+props
+
+Dade is doing moscow mule mugs
+
 Taven Sign
 
 https://imprint.com/shop/products/pulpboard-coasters-3-5-round
+
+food: chili in instant pots 
 
 
 
