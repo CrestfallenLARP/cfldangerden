@@ -54,7 +54,7 @@ type: "docs"
 **Faction Level 3:** Cheer now grants 15 temporary body, Taunt now grants +1 vs all creatures taunted by it, Waylay Sleep (2ST) 
 
 **Faction Level 4:** Cheer now grants 20 temporary body, Run away now grants 3 resists per day,  Search (visible item) - Goblin may search and steal a weapon, shield, or other visible item.
- 
+
 
 ## Zekton 
 
@@ -99,3 +99,7 @@ type: "docs"
 **Faction Level_3:** Cheer now grants 15 temporary body, Taunt now grants +1 vs all creatures taunted by it, Waylay Sleep (2ST) 
 
 **Faction Level 4:** Cheer now grants 20 temporary body, Run away now grants 3 resists per day,  Search (visible item) - Goblin may search and steal a weapon, shield, or other visible item.
+
+
+
+## TOMY - Toy Computer AI

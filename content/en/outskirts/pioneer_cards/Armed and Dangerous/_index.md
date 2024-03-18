@@ -7,4 +7,5 @@ non_combat:
 combat:
   post: Any monster group has found a firearm.  Secure it and fight off the monsters.
   reward:  Firearm and 20 leaves from elders
+draft: true
 ---
