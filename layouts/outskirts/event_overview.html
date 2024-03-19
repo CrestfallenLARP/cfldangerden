@@ -5,7 +5,8 @@
 
 
 {{- .Render "content" -}}
-
+<h2 id="overview"> Event overview</h2>
+{{ .Params.event_overview | markdownify }}
 <a href="./recap"> <h2 id="recap">Previous Event Recap</h2></a>
 {{ $recap_pages := sort $event_pages ".Params.date" "desc" }}
 {{ $last_recap := index $recap_pages 0 }}
@@ -49,12 +50,29 @@
       {{ end }}
 </p>
 {{ end }}
-<a href="./market"><h2>Market Value Chart</h2></a>
 <a href="./items"><h2>Items</h2></a>
 
-<s><h2>Faction Goals</h2></s>
-<p>One days do not have faction goals that are tracked because the cast changes creatures more often than during full weekend events.</p>
+<h2>Faction Goals</h2>
+<h3>Goblin</h3>
+<ul>
+{{ range .Params.faction_goals_goblin }}
+ <li>{{ . }} </li>
+{{ end }}
+</ul>
+<h3>Gnoll</h3>
+<ul>
 
+ {{ range .Params.faction_goals_gnoll  -}}
+   <li>{{ . }} </li>
+   {{ end }}
+</ul>
+
+<h3>Undead</h3>
+<ul>
+{{ range.Params.faction_goals_undead }}
+<li>{{ . }} </li>
+  {{ end }}
+</ul>
 <a href="./pioneer_cards"><h2>Pioneer Cards ({{ len (where $event_pages "Layout" "==" "pioneer_card")  -}})</h2></a>
 {{ if where $event_pages "Layout" "==" "stockpile"  -}}
  {{ range where $event_pages "Layout" "=="  "stockpile"  -}}

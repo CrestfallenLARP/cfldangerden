@@ -326,3 +326,25 @@
   <p><b>Post:</b>{{ .Params.combat.post }}</p>
   <p><b>Reward:</b>{{ .Params.combat.reward }}</p>
 {{ end }}
+
+<h2>Faction Goals</h2>
+<h3>Goblin</h3>
+<ul>
+{{ range .Params.faction_goals_goblin }}
+ <li>{{ . }} </li>
+{{ end }}
+</ul>
+<h3>Gnoll</h3>
+<ul>
+
+ {{ range .Params.faction_goals_gnoll  -}}
+   <li>{{ . }} </li>
+   {{ end }}
+</ul>
+
+<h3>Undead</h3>
+<ul>
+{{ range.Params.faction_goals_undead }}
+<li>{{ . }} </li>
+  {{ end }}
+</ul>
