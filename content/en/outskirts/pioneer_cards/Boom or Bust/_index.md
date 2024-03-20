@@ -8,7 +8,7 @@ non_combat:
     - Bombs
     - Bomb Design
 combat:
-  post: A merchant has been killed and robbed and the monsters are running off with the goods.
+  post: A merchant has been killed and robbed and the monsters are running off with the goods. Goblins have 1 leaf per reset with 2 resets and the leader has 10 basic resources and an item. 1 basic resource if harvested
   reward: 
     - Leaves
     - resources
