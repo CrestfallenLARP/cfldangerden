@@ -1,5 +1,5 @@
 ---
-title: Goblin Shaman
+title: Goblin Shaman Greater
 weight: 2
 layout: role
 Backstory: Goblins have been pushed from civilized society due to their cruel nature and disgusting features. Due to having no morality, these creatures are always trying to take things that aren't theirs and to cause pain in any way possible.
@@ -10,14 +10,17 @@ Intelligence: Medium
 props: Goblin Mask, One handed weapon, buckler shield, leather armor rep
 type: Goblin
 body: 25
-armor: 5 if repped
+armor: 25 if repped
 stamina: 5
-energy: 
+energy: 10
 spells_known:
   - Healing/Harming 
   - Elemental Bolt
-  - Entangle/Remove Entangle Foot 
-primary_attack:  2 Damage (Add 1 Damage if fighting a target with another ally) 
+  - Entangle/Remove Entangle Foot
+  - Shatter
+  - Entangle/Remove Entangle Arms
+  - Hex
+primary_attack:  3 Damage (Add 1 Damage if fighting a target with another ally) 
 Killing_Blow: No these warrior focus on stealing
 Offensive_Abilities:
   - Specialization "Element By Flames Fury 2 Fire, By Arctic Wind 2 Ice, By Crushing Earth 2 Stone, By Thunders Crash 2 Lightning"

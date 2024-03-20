@@ -1,10 +1,10 @@
 ---
-title: Mutiny Goblin Ziggy
-weight: 1
+title: Mutiny Goblin
+weight: 8
 layout: role
-Backstory: Got charmed by Oz and has been addicted to the charm spell. 
-Motivation: Since he is constantly charmed, he decided that he wants to impress Zelvin with his new friends to earn him a spot next to Zelvin.
-Speech: High pitched voice and uses phrases like "my dude", "my man", etc.
+Backstory: Joined Zelvin's Resistance against the Goblin Chieftain. 
+Motivation: Hates the Goblin politics.
+Speech: low intelligence talk with gruff or high pitch voice
 Movement: Goblins walk with hunched backs and a staggering gate due to living in small caves and other underground dwellings.
 Intelligence: Low
 props:
@@ -24,7 +24,7 @@ Offensive_Abilities:
   - Stagger Daze (2ST)
   - Search
   - Search (Harvesting)
-  - Specialization "Element By Flames Fury 2 Fire, By Arctic Wind 2 Ice, By Crushing Earth 2 Stone, By Thunders Crash 2 Lightning, By Natures Light 2 Healing, By  Creeping Darkness 2 Harming"
+  - Specialization "Element By Flames Fury 2 Fire, By Arctic Wind 2 Ice, By Crushing Earth 2 Stone, By Thunders Crash 2 Lightning"
 Defensive_Abilities: 
   - Flesh Wound Resist (4ST)
   - Resist Entangle (2ST)
