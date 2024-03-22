@@ -20,56 +20,56 @@ items_to_distribute:
 - Potion of Stabilization
 - Entangle Body Bag
 - Entangle Arms Bag
-- Basic Lock
-- Basic Barricade
-- Common Spices
-- Common Spellbook
-- Common Incense
-- Common Meal
-- Tools of Repair
-- Potion of Remove Entangle
-- Potion of Remove Hex
-- Potion of Remove Charm
-- Potion of Mended Limb
-- Potion of Stabilization
-- Entangle Body Bag
-- Entangle Arms Bag
-- Basic Lock
-- Basic Barricade
-- Common Spices
-- Common Spellbook
-- Common Incense
-- Common Meal
-- Tools of Repair
-- Potion of Remove Entangle
-- Potion of Remove Hex
-- Potion of Remove Charm
-- Potion of Mended Limb
-- Potion of Stabilization
-- Entangle Body Bag
-- Entangle Arms Bag
-- Basic Lock
-- Basic Barricade
-- Common Spices
-- Common Spellbook
-- Common Incense
-- Common Meal
-- Tools of Repair
-- Potion of Remove Entangle
-- Potion of Remove Hex
-- Potion of Remove Charm
-- Potion of Mended Limb
-- Potion of Stabilization
-- Entangle Body Bag
-- Entangle Arms Bag
-- Shield of Harm Protection
+- Common Firearm
+- Injectable Adrenaline
+- Basic Mutation
+- Healing Salve
+- Healing Salve
+- Wind Up Mouse
+- Common Alcohol
+- Elven Wine
+- Dwarven Ale
+- Common Shield
+- Common Shield
+- Common Shield
+- Common Shield
+- Common Shield
+- Common Two Handed Weapon
+- Common Two Handed Weapon
+- Common Two Handed Weapon
+- Common Two Handed Weapon
+- Common Two Handed Weapon
+- Common One Handed Weapon
+- Common One Handed Weapon
+- Common One Handed Weapon
+- Common One Handed Weapon
+- Common One Handed Weapon
+- Common Armor
+- Common Armor
+- Common Armor
+- Common Armor
+- Common Armor
+- Ranged Weapon
+- Ranged Weapon
+- Common Alcohol
+- Elven Wine
+- Dwarven Ale
+- Tactical Firearm
+- Charged Firearm
+- Slick Armor
+- Time in a Bottle
+- Ring Tail Gloves
+- Spiced Whiskey
+- Common Healing Potion
+- Common Healing Potion
+- Common Alchemy Lab
 - Resting Cot
-- Common Forge
-- Common Forge
 - Common Enchanting Lab
-- Common Enchanting Lab
-- Common Alchemy Lab
-- Common Alchemy Lab
+- Common Forge
+- Common Healing Potion
+- Common Healing Potion
+- Common Healing Potion
+- Common Healing Potion
 - Common Healing Potion
 - Common Healing Potion
 - Common Healing Potion

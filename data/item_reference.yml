@@ -257,3 +257,39 @@ items:
     type: Alchemy
     durability: 8
     effects: 1 loss of durability allows the user to throw a spell ammo with the call... Entangle Arms.
+  - name: Tactical Firearm
+    prop: Blaster
+    type: Technology
+    durability: 8
+    hidden: true
+    effects: 1 loss of durability allows the user to fire the blaster with the call...Break Target.
+  - name: Charged Firearm
+    prop: Blaster
+    type: Technology
+    durability: 8
+    hidden: true
+    effects: 1 loss of durability allows the user to fire the blaster with the call... 30 Lightning Unblockable.
+  - name: Slick Armor
+    prop: Armor
+    type: Forging
+    durability: 8
+    hidden: true
+    effects: 1 loss of durability allows the user to call... Resist Entangle.
+  - name: Time in a Bottle
+    prop: Vial
+    type: Enchanting
+    durability: 8
+    hidden: true
+    effects: 1 loss of durability allows the user to use 30 minutes of downtime.
+  - name: Ring Tail Gloves
+    prop: Gloves
+    type: Enchanting
+    durability: 8
+    hidden: true
+    effects: 1 loss of durability allows the user to use Harvesting or Gathering as per the skill.
+  - name: Spiced Whiskey
+    prop: Vial or Bottle
+    type: Alchemy
+    durability: 8
+    hidden: true
+    effects: 1 loss of durability and 3 seconds of acting out drinking grants 2 ST and Resist to the next Ice damage dealt to target.    
