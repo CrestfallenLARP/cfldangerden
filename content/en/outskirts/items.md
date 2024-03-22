@@ -62,7 +62,7 @@ items_to_distribute:
 - Spiced Whiskey
 - Common Healing Potion
 - Common Healing Potion
-- Common Alchemcy Lab
+- Common Alchemy Lab
 - Resting Cot
 - Common Enchanting Lab
 - Common Forge
