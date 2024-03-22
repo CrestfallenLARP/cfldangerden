@@ -119,10 +119,14 @@ module:
       disable: false
 menu:
   main:
+    - name: Sample Event
+      pre: <i class="fa-solid fa-book"></i>
+      weight: 9
+      url: '/sample_event_overview'
     - name: Event Overview
       pre: <i class="fa-solid fa-book"></i>
       weight: 10
-      url: '/outskirts'
+      url: '/event_overview'
     - name: Factions 
       pre: <i class="fa-regular fa-book"></i>
       weight: 30
