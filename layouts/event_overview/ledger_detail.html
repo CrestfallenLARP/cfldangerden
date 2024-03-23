@@ -12,11 +12,12 @@
 </div>
 
 <div id="Resources"><h2>Resources</h2>
-<p><b>Basic</b> <i>Sell(1)</i> 3 leaves <i>Buy</i> 2 leaves</p>
-<p><b>Common</b> <i>Sell(1)</i> 7 leaves <i>Buy</i> 4 leaves</p>
-<p><b>Rare</b> <i>Sell(0)</i> None Available <i>Buy</i> 8 leaves</p>
+<p><b>Basic</b> <i>Sell({{ .Params.resources.basic.sell.quantity }})</i> {{.Params.resources.basic.sell.price}} leaves <i>Buy</i> {{.Params.resources.basic.buy.price}} leaves</p>
+<p><b>Common</b> <i>Sell(({{ .Params.resources.common.sell.quantity }})</i> {{.Params.resources.common.sell.price}} leaves <i>Buy</i> {{.Params.resources.common.buy.price}} leaves</p>
+<p><b>Rare</b> <i>Sell(({{ .Params.resources.rare.sell.quantity }})</i> {{.Params.resources.rare.sell.price}}  <i>Buy</i> {{.Params.resources.rare.buy.price}} leaves</p>
 <div id="Goods"><h2>Goods</h2>
-<p><b>Common One Handed Weapon</b> <i>Sell(1)</i> 8 leaves <i>Buy</i> 6 leaves</p>
-<p><b>Common Two Handed Weapon</b> <i>Sell(1)</i> 8 leaves <i>Buy</i> 6 leaves</p>
+{{ range .Params.items }}
+<p><b>{{.name}}</b> <i>Sell({{.sell.quantity}})</i> {{.sell.price}} Leaves <i>Buy</i> {{.buy.price}} Leaves</p>
+{{ end}} 
 
 {{ end }}
