@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ $schedules := (slice "opening" "mid event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "ending" ) }}
+{{ $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) }}
+
+<h2>tomato</h2>
+{{- .Render "content" -}}
+
+
+
+
+{{ range  $factions }}
+{{ $current_faction := . }} 
+{{ $lowercase_faction := $current_faction | lower }} 
+
+{{ $faction_path :=  printf "./%s" $lowercase_faction }}
+
+{{ if sort (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) "Params.weight" -}}
+<p><b>{{ title  $current_faction }}{{ if eq $current_faction  nil }} NO Faction on this Job!! {{ end }}</b>
+<b>({{ len (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) -}})</b>
+{{ end }}
+        {{ range $index, $value :=where (where $event_pages "Layout" "=="  "job" ) ".Params.faction" "=="  $current_faction -}}
+            {{- if (ne $index 0) -}}, {{ end }}
+       <a href="{{- .Permalink -}}"> {{ title .Title }}</a>
+      {{ end }}
+</p>
+{{ end }}
+
+{{ end }}

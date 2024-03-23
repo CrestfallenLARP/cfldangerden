@@ -8,22 +8,25 @@ weight: 8
 ## Recap
 
   ```yaml
+---
 title: 
 layout: recap
 weight: 
 date: 
 recap: 
+---
   ```
 
 ## Job
 
   ```yaml
-  
+---  
 title: 
 Props: 
 reward: 
 post: 
 summary: 
+---
   ```
 
   
