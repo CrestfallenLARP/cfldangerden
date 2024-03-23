@@ -1,6 +1,6 @@
 ---
-title: Human Jobs
-layout: job_overview
+title: Human
+layout: ledger_detail
 cascade:
   layout: job
   faction: Human

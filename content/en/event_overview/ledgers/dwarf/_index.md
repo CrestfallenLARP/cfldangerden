@@ -1,6 +1,6 @@
 ---
 title: Dwarf Jobs
-layout: job_overview
+layout: ledger_detail
 cascade:
   layout: job
   faction: Dwarf

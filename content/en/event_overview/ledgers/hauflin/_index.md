@@ -1,6 +1,6 @@
 ---
-title: Hauflin Jobs
-layout: job_overview
+title: Hauflin
+layout: ledger_detail
 cascade:
   layout: job
   faction: Haulfin

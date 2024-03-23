@@ -1,7 +1,6 @@
 ---
-title: Merchant Guild Jobs
-
-layout: job_overview
+title: Merchant Guild
+layout: ledger_detail
 cascade:
   layout: job
   faction: Merchant Guild

@@ -1,6 +1,6 @@
 ---
-title: Elf Jobs
-layout: job_overview
+title: Elf
+layout: ledger_detail
 cascade:
   layout: job
   faction: Elf

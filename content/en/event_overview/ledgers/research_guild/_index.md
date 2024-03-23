@@ -1,6 +1,6 @@
 ---
-title: Research Guild Jobs
-layout: job_overview
+title: Research Guild
+layout: ledger_detail
 cascade:
   layout: job
   faction: Research Guild
