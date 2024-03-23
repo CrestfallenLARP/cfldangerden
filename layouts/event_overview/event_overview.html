@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ $event_pages := where $.Site.Pages "Section" .Section }}
 {{ $schedules := (slice "opening" "mid event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "ending" ) }}
-{{ $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) }}
+{{ $ledgers := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) }}
 
 
 {{- .Render "content" -}}
@@ -34,17 +34,16 @@
 
 <a href="./ledgers"> <h2 id="ledgers">Ledgers</h2></a>
 
-{{ range  $factions }}
-{{ $current_faction := . }} 
-{{ $lowercase_faction := $current_faction | lower }} 
+{{ range  $ledgers }}
+{{ $current_ledger := . }} 
+{{ $lowercase_ledger := $current_ledger | lower }} 
+{{ $ledger_path :=  replaceRE ` ` "_" $lowercase_ledger }}
 
-{{ $faction_path :=  printf "./%s" $lowercase_faction }}
-
-{{ if sort (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) "Params.weight" -}}
-<p><b>{{ title  $current_faction }}{{ if eq $current_faction  nil }} NO Faction on this Job!! {{ end }}</b>
-<b>({{ len (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) -}})</b>
+{{ if sort (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_ledger ) "Params.weight" -}}
+<p><b><a href="./ledgers/{{ $ledger_path }}">{{ title  $current_ledger }}{{ if eq $current_ledger  nil }} NO Faction on this Job!! {{ end }}</b>
+<b>({{ len (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_ledger ) -}})</b>
 {{ end }}
-        {{ range $index, $value :=where (where $event_pages "Layout" "=="  "job" ) ".Params.faction" "=="  $current_faction -}}
+        {{ range $index, $value :=where (where $event_pages "Layout" "=="  "job" ) ".Params.faction" "=="  $current_ledger -}}
             {{- if (ne $index 0) -}}, {{ end }}
        <a href="{{- .Permalink -}}"> {{ title .Title }}</a>
       {{ end }}
