@@ -1,6 +1,6 @@
 ---
 title: "Undead"
-weight: 40
+weight: 12
 type: "docs"
 ---
 
