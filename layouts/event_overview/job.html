@@ -1,7 +1,6 @@
 {{ define "main" }}
 {{ .Render "content" }}
 <div id="body">
-{{ .Params.faction }} - <b>{{ .Params.title }}</b>
 <p><b>Post</b>: {{ .Params.post  -}}</p>
 <p><b>Reward</b>:  {{ .Params.reward  -}}</p>
 {{ $props := (slice ) }}
