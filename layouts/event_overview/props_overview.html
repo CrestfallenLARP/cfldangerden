@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+
+
+{{- .Render "content" -}}
+
+
+
+{{ range where $event_pages ".Params.props" "!=" nil }}
+<li><b>{{ .Params.props }}</b> <a href="{{ .Permalink }}">{{ .Params.title }}</a> </li>
+{{ end }}
+</li>
+
+{{ end }}
+
