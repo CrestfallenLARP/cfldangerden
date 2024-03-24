@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+
+{{ .Render "content" }}
+
+<h2>Faction Goals</h2>
+<ul>
+{{range .Params.faction_goals }}
+<li>{{ . }}</li>
+{{ end }}
+</ul>
+
+<div id="roles"><p><b>Roles:</b> 
+    {{ if .Params.roles }}{{ .Params.roles }} {{ end }}
+    {{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
+        {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "national_monster_card" "role" ) -}}
+    {{ if (ne $index 0) }}, {{ end }}
+    <a href="{{.Permalink}}">{{ .Params.quantity | default "" -}}{{- if .Params.quantity }}X {{ end }} {{.Title}} </a>
+        {{- end -}}
+    {{ end }}
+</p></div>
+{{ end }}

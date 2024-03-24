@@ -49,29 +49,11 @@
       {{ end }}
 </p>
 {{ end }}
+
 <a href="./items"><h2>Items</h2></a>
 
-<h2>Faction Goals</h2>
-<h3>Goblin</h3>
-<ul>
-{{ range .Params.faction_goals_goblin }}
- <li>{{ . }} </li>
-{{ end }}
-</ul>
-<h3>Gnoll</h3>
-<ul>
+<h2><a href="./faction_goals">Faction Goals</a></h2>
 
- {{ range .Params.faction_goals_gnoll  -}}
-   <li>{{ . }} </li>
-   {{ end }}
-</ul>
-
-<h3>Undead</h3>
-<ul>
-{{ range.Params.faction_goals_undead }}
-<li>{{ . }} </li>
-  {{ end }}
-</ul>
 <a href="./pioneer_cards"><h2>Pioneer Cards ({{ len (where $event_pages "Layout" "==" "pioneer_card")  -}})</h2></a>
 {{ if where $event_pages "Layout" "==" "stockpile"  -}}
  {{ range where $event_pages "Layout" "=="  "stockpile"  -}}
