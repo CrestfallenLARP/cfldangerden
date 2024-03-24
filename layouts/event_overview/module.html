@@ -28,6 +28,15 @@
 {{- if (ne $index 0) }}, {{ end -}}<a href="{{.Permalink}}">{{- title .Title -}}</a>{{- end -}}</p></div>
 {{- end -}}
 
+{{ $props := (slice ) }}
+{{ if  .Params.props }} 
+{{ $props = $props  | append .Params.props }}
+{{ end }}
+{{ if .Pages }} 
+    {{ range where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) }}
+                      {{ if  .Params.props }}{{ $props = $props  | append .Params.props }}{{ end }}
+    {{ end }}
+{{ end }}
 
 
 
