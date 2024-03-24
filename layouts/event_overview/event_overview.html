@@ -59,9 +59,9 @@
  {{ range where $event_pages "Layout" "=="  "stockpile"  -}}
  <h2><a href="{{- .Permalink -}}">Stockpiles</a> </h2>
      <p>
-     <b>Small:</b> {{ if .Params.small }}{{ .Params.small }}{{else}}None{{ end }}
-      <b>Medium:</b> {{ if .Params.medium }}{{ .Params.medium }}{{else}}None{{ end }}
-      <b>Large:</b> {{ if .Params.large }}{{ .Params.large }}{{else}}None{{ end }}
+      <b>Small:</b> {{ if .Params.small }}{{ .Params.small }}{{ else }}None{{ end }}
+      <b>Medium:</b> {{ if .Params.medium }}{{ .Params.medium }}{{ else }}None{{ end }}
+      <b>Large:</b> {{ if .Params.large }}{{ .Params.large }}{{ else }}None{{ end }}
  {{ end }}
 </p>
 

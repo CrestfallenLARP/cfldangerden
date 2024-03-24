@@ -12,9 +12,9 @@
 </div>
 
 <div id="Resources"><h2>Resources</h2>
-<p><b>Basic</b> <i>Sell({{ .Params.resources.basic.sell.quantity }})</i> {{.Params.resources.basic.sell.price}} leaves <i>Buy</i> {{.Params.resources.basic.buy.price}} leaves</p>
-<p><b>Common</b> <i>Sell({{ .Params.resources.common.sell.quantity }})</i> {{.Params.resources.common.sell.price}} leaves <i>Buy</i> {{.Params.resources.common.buy.price}} leaves</p>
-<p><b>Rare</b> <i>Sell({{ .Params.resources.rare.sell.quantity }})</i> {{.Params.resources.rare.sell.price}}  <i>Buy</i> {{.Params.resources.rare.buy.price}} leaves</p>
+<p><b>Basic</b> <i>Sell({{ .Params.resources.basic.sell.quantity }})</i> {{ .Params.resources.basic.sell.price }} leaves <i>Buy</i> {{.Params.resources.basic.buy.price}} leaves</p>
+<p><b>Common</b> <i>Sell({{ .Params.resources.common.sell.quantity }})</i> {{ .Params.resources.common.sell.price }} leaves <i>Buy</i> {{.Params.resources.common.buy.price}} leaves</p>
+<p><b>Rare</b> <i>Sell({{ .Params.resources.rare.sell.quantity }})</i> {{ .Params.resources.rare.sell.price }}  <i>Buy</i> {{.Params.resources.rare.buy.price}} leaves</p>
 <div id="Goods"><h2>Goods</h2>
 {{ range .Params.items }}
 <p><b>{{ .name }}</b> <i>Sell({{ .sell.quantity }})</i> {{ .sell.price }} Leaves <i>Buy</i> {{ .buy.price }} Leaves</p>
