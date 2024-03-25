@@ -4,6 +4,7 @@ layout: ledger_detail
 cascade:
   layout: job
   faction: Craft Guild
+library: 
 resources:
     basic:
       sell:
@@ -66,3 +67,10 @@ items:
       quantity: 1
       price: 5
 ---
+
+Library
+
+
+
+Guild Ranking
+
