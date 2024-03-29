@@ -1,7 +1,7 @@
 ---
-title: "AI"
+title: "Elementals"
 
-weight: 40
+weight: 41
 layout: faction_overview
 
 ---

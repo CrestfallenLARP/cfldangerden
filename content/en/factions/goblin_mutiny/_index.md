@@ -1,7 +1,7 @@
 ---
-title: "AI"
+title: "Mutiny Goblin"
 
-weight: 40
+weight: 43
 layout: faction_overview
 
 ---
