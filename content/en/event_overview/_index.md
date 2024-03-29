@@ -1,5 +1,5 @@
 ---
-title: "Outskirts 04/19/24"
+title: "Outskirts 04/19/24 - 7th Week of the Scatter, 1488"
 event_date: 04/19/2024
 event_type: weekend
 event_overview: |
@@ -10,6 +10,6 @@ layout: event_overview
 
 
 
-# List all of the event write ups with jobs, treasure, cards, etc which can be used to generate the treasure and track the events.  They should probably be laid out similar to the schedule page.
+
 ---
 
