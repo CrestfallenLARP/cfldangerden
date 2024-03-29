@@ -1,5 +1,5 @@
 ---
-title: faction goals
+title: Faction Goals
 layout: faction_goals
 ---
 
