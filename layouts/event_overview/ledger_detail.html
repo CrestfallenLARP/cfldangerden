@@ -6,18 +6,40 @@
 
 <div id="roles"><h2>Jobs</h2>
     {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "job" ) -}}
-<p><b><a href="{{.Permalink}}"> {{.Title}} </a></b>{{.Params.post}}  <b>Reward </b>{{.Params.reward}}</p>
+<p><b><a href="{{ .Permalink }}"> {{.Title }} </a></b>{{ .Params.post }} <b>Reward </b>{{ .Params.reward }}</p>
     {{- end -}}
 
 </div>
 
 <div id="Resources"><h2>Resources</h2>
-<p><b>Basic</b> <i>Sell({{ .Params.resources.basic.sell.quantity }})</i> {{ .Params.resources.basic.sell.price }} leaves <i>Buy</i> {{.Params.resources.basic.buy.price}} leaves</p>
-<p><b>Common</b> <i>Sell({{ .Params.resources.common.sell.quantity }})</i> {{ .Params.resources.common.sell.price }} leaves <i>Buy</i> {{.Params.resources.common.buy.price}} leaves</p>
-<p><b>Rare</b> <i>Sell({{ .Params.resources.rare.sell.quantity }})</i> {{ .Params.resources.rare.sell.price }}  <i>Buy</i> {{.Params.resources.rare.buy.price}} leaves</p>
+<p><b>Basic</b> <i>Sell({{ .Params.resources.basic.sell.quantity }})</i> {{ .Params.resources.basic.sell.price }} leaves <i>Buy</i> {{ .Params.resources.basic.buy.price }} leaves</p>
+<p><b>Common</b> <i>Sell({{ .Params.resources.common.sell.quantity }})</i> {{ .Params.resources.common.sell.price }} leaves <i>Buy</i> {{ .Params.resources.common.buy.price }} leaves</p>
+<p><b>Rare</b> <i>Sell({{ .Params.resources.rare.sell.quantity }})</i> {{ .Params.resources.rare.sell.price }} <i>Buy</i> {{ .Params.resources.rare.buy.price }} leaves</p>
+
 <div id="Goods"><h2>Goods</h2>
 {{ range .Params.items }}
 <p><b>{{ .name }}</b> <i>Sell({{ .sell.quantity }})</i> {{ .sell.price }} Leaves <i>Buy</i> {{ .buy.price }} Leaves</p>
 {{ end}} 
+ {{- if eq .Title  "Craft Guild" }} 
+<h2>Research Library</h2>
+<p>The Research Guild maintains the Research Library which houses all publicly available Research Documents granted via the Research Skills as well as Plot In Game Documents and Character created documents. Some documents found in this Library are confirmed to be accurate with the game world by the plot staff and will be clearly marked as such. Characters may submit documentation to the Research Library for payment as well as possible advancement with the guild. Researchers will be paid 2 leaves per page (8.5x11 paper, double spaced, 12 font standard) submitted. This price will be doubled for any document that is verified as accurate from plot prior to submission. The Research Library may be rented at 5 leaves per hour, with the rental cost being reduced by guild membership and rank within the guild.</p>
+{{ end }}
 
+ {{- if eq .Title  "Thieves Guild" }} 
+<h2>The Reserve </h2>
+<p>The Thieves Guild is in charge of handling the Reserve which houses emergency Resources and items. The Reserve has different items, availability, and rates depending on the skills and/or rank within the guild. Additionally, members may donate or sell items to the Reserve in order to advance within the guild. Rare Resources will NEVER be sold by plot unless they are found here.</p>
+<h2>Bounties</h2>
+<p>Bounties are also handled by the Thieves Guild. These are contracts against player characters who have either failed to repay their debts to the Merchants Guild or broke an In Game Law (see The Laws Of The Inspired Of Katalossa for more details). These bounties are always optional to players (No PVP will intentionally be forced). These bounties are always structured in order to repay the characters debt and to prevent grief to the character at all costs. A member of the Thieves Guild will be authorized to subdue (never kill) the target character and retrieve the amount of leaves owed on the characters debt or a specific fine amount from their person. This amount is then returned to the Thieves Guild. The member may not keep any additional money from this bounty, otherwise they may lose access to the Bounty system and may lose status within the guild. A character will always be notified that a bounty is active against them prior to the bounty being available to members of the guild.</p>
+{{ end }}
+
+{{- if eq .Title  "Merchant Guild" }} 
+<h2>The Bank</h2>
+<p>The Merchants Guild maintains the Bank. Characters can store their leaves in the Bank to ensure its safety. In addition to this service, the Bank offers loans to characters. The bank will loan leaves in increments of 10 at the rate of 1 leaf interest per event. (example: Your character borrows 30 leaves from the bank. If you pay this loan back during the same event, you must repay 33 leaves. If you repay the following event, you must repay 36 leaves….39…42…45, etc.) If a character ever reaches an amount owed of two times what was borrowed, the character may be put up for bounty to the Thieves Guild. These amounts may change, but will be detailed in the Merchants Guild folder.</p>
+{{ end }}
+
+
+<h2>Guild Ranking</h2>
+<ul>
+<li><li>
+</ul>
 {{ end }}

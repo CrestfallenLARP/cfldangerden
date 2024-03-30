@@ -292,4 +292,14 @@ items:
     type: Alchemy
     durability: 8
     hidden: true
-    effects: 1 loss of durability and 3 seconds of acting out drinking grants 2 ST and Resist to the next Ice damage dealt to target.    
+    effects: 1 loss of durability and 3 seconds of acting out drinking grants 2 ST and Resist to the next Ice damage dealt to target.
+  - name: Lex's Access Card
+    prop: Blue Aluminum card engraved with the letters LEX
+    type: Scientific
+    durability: 8
+    effects: Indicates a friendship of the powerful AI Lex. Allies of this AI will not attack the possessor of this card if the Card is presented. Can be exchanged with Lex for a substantial favor.
+  - name: TOMY's Access Card
+    prop: Red Steel card engraved with the letters TOMY
+    type: Scientific
+    durability: 8
+    effects: Indicates a friendship of the powerful AI TOMY. Allies of the AI will not attack the possessor of this card if the Card is presented. Can be exchanged with Lex for a substantial favor.  
