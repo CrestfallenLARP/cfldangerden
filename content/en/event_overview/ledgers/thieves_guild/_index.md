@@ -67,6 +67,4 @@ items:
       price: 5
 ---
 
-## Stockpile 
-
-## Bounties
+## 

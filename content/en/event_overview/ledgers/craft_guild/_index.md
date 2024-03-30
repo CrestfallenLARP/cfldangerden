@@ -68,9 +68,3 @@ items:
       price: 5
 ---
 
-## Library
-
-
-
-Guild Ranking
-

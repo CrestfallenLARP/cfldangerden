@@ -65,8 +65,7 @@ items:
     sell:
       quantity: 1
       price: 5
+library:
+ - Ice Motes
 ---
 
-## Library
-
-- Ice Motes
