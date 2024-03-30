@@ -139,7 +139,7 @@ menu:
       pre: <i class="fa-solid fa-earth-oceania"></i>
       weight: 50
       url: '/items'
-    - name: Props  
+    - name: Equipment  
       pre: <i class="fa-solid fa-earth-oceania"></i>
       weight: 60
-      url: '/props'
+      url: '/equipment'
