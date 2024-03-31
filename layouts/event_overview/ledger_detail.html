@@ -13,7 +13,10 @@
 
 <div id="Resources"><h2>Resources</h2>
 <p><b>Basic</b> <i>Sell({{ .Params.resources.basic.sell.quantity }})</i> {{ .Params.resources.basic.sell.price }} leaves <i>Buy</i> {{ .Params.resources.basic.buy.price }} leaves</p>
-<p><b>Common</b> <i>Sell({{ .Params.resources.common.sell.quantity }})</i> {{ .Params.resources.common.sell.price }} leaves <i>Buy</i> {{ .Params.resources.common.buy.price }} leaves</p>
+<p><b>Common Forging </b> <i>Sell({{ .Params.resources.common_forging.sell.quantity }})</i> {{ .Params.resources.common_forging.sell.price }} leaves <i>Buy</i> {{ .Params.resources.common_forging.buy.price }} leaves</p>
+<p><b>Common Alchemy </b> <i>Sell({{ .Params.resources.common_alchemy.sell.quantity }})</i> {{ .Params.resources.common_alchemy.sell.price }} leaves <i>Buy</i> {{ .Params.resources.common_alchemy.buy.price }} leaves</p>
+<p><b>Common Enchanting </b> <i>Sell({{ .Params.resources.common_enchanting.sell.quantity }})</i> {{ .Params.resources.common_enchanting.sell.price }} leaves <i>Buy</i> {{ .Params.resources.common_enchanting.buy.price }} leaves</p>
+
 <p><b>Rare</b> <i>Sell({{ .Params.resources.rare.sell.quantity }})</i> {{ .Params.resources.rare.sell.price }} <i>Buy</i> {{ .Params.resources.rare.buy.price }} leaves</p>
 
 <div id="Goods"><h2>Goods</h2>
@@ -40,6 +43,8 @@
 
 <h2>Guild Ranking</h2>
 <ul>
-<li><li>
+{{ range .Params.pc_ranking }} 
+<li>{{ . }}</li>
+{{ end }}
 </ul>
 {{ end }}
