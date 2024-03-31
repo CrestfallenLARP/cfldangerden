@@ -66,13 +66,13 @@
  {{ end }}
 </p>
 
-
 {{ end }}
 <hr>
-<p><a href="./adding_content">➕ Adding Content</a></p>
-<p><a href="./event_export">🖶 Event Export</a></p>
-<p><a href="./ledger_export">🖶 Ledger Export</a></p>
-<p><a href="/pdf/crestfallen_20230806.pdf"><i class="fa fa-file-pdf"></i> Event Formatted</a></p>
-<p><a href="/pdf/crestfallen_20230806.pdf"><i class="fa fa-file-pdf"></i> Event Print on Demand</a></p>
-
+<h2><a href="./adding_content">➕ Adding Content</a></h2>
+<p><a href="./event_export"><i class="fa-solid fa-file-export"></i>Event Export</a></p>
+<p><a href="./ledger_export"><i class="fa-solid fa-file-export"></i>Ledger Export </a></p>
+<p><a href="{{ .Params.event_formatted }}"><i class="fa fa-file-pdf"></i> Event Formatted</a></p>
+<p><a href="{{ .Params.ledger_formatted }}"><i class="fa fa-file-pdf"></i> Ledger Formatted</a></p>
+<p><a href="{{ .Params.event_pod }}"><i class="fa fa-book"></i> Event Print on Demand</a></p>
+<p><a href="{{ .Params.ledger_pod }}"><i class="fa fa-book"></i> Ledger print on demand</a></p>
 {{ end }}
