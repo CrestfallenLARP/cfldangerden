@@ -3,7 +3,6 @@
 
 {{- .Render "content" -}}
 
-
 <div id="roles"><h2>Jobs</h2>
     {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "job" ) -}}
 <p><b><a href="{{ .Permalink }}"> {{.Title }} </a></b>{{ .Params.post }} <b>Reward </b>{{ .Params.reward }}</p>
@@ -23,9 +22,25 @@
 {{ range .Params.items }}
 <p><b>{{ .name }}</b> <i>Sell({{ .sell.quantity }})</i> {{ .sell.price }} Leaves <i>Buy</i> {{ .buy.price }} Leaves</p>
 {{ end}} 
- {{- if eq .Title  "Craft Guild" }} 
+ {{- if eq .Title  "Craft Guild" }}
+<h2>Project Library</h2>
+<p>The Craft Guild maintains the Project Library which houses all publicly available Approved Project Designs. When a member of the Craft Guild develops an Approved Project Design, they may sell the rights of the design to the guild. The guild will buy designs that use Basic and Common resources for 10 leaves and designs that use Rare resources for 20 leaves. Additionally, the guild will rent out designs in the Project Library for 5 leaves for Basic and Common resource designs and 10 leaves for rare resource designs. Advancement in the guild will grant members reduced costs on these rental rates. These amounts may change, but will be detailed in the Craft Guild folder.</p>
+<ul>
+{{ range .Params.project_library }}
+<li>{{ . }}</li>
+{{ end }} 
+</ul>
+
+{{ end }}
+
+ {{- if eq .Title  "Research Guild" }} 
 <h2>Research Library</h2>
 <p>The Research Guild maintains the Research Library which houses all publicly available Research Documents granted via the Research Skills as well as Plot In Game Documents and Character created documents. Some documents found in this Library are confirmed to be accurate with the game world by the plot staff and will be clearly marked as such. Characters may submit documentation to the Research Library for payment as well as possible advancement with the guild. Researchers will be paid 2 leaves per page (8.5x11 paper, double spaced, 12 font standard) submitted. This price will be doubled for any document that is verified as accurate from plot prior to submission. The Research Library may be rented at 5 leaves per hour, with the rental cost being reduced by guild membership and rank within the guild.</p>
+<ul>
+{{ range .Params.research_library }}
+<li>{{ . }}</li>
+{{ end }} 
+</ul>
 {{ end }}
 
  {{- if eq .Title  "Thieves Guild" }} 

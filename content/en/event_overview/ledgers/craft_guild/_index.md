@@ -65,6 +65,15 @@ items:
       price: 2
     sell:
       quantity: 1
-      price: 5
+      price: 5Common One Handed Weapon
+project_library:
+- Common Two Handed Weapon
+- Common Armor
+- Common Shield
+- Potion of Healing
+- Potion of Stabilization
+- Common Spellbook
+- Common Incense
+- Smelling Salts
 ---
 
