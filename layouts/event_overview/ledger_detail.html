@@ -17,7 +17,7 @@
 <p><b>Common Alchemy </b> <i>Sell({{ .Params.resources.common_alchemy.sell.quantity }})</i> {{ .Params.resources.common_alchemy.sell.price }} leaves <i>Buy</i> {{ .Params.resources.common_alchemy.buy.price }} leaves</p>
 <p><b>Common Enchanting </b> <i>Sell({{ .Params.resources.common_enchanting.sell.quantity }})</i> {{ .Params.resources.common_enchanting.sell.price }} leaves <i>Buy</i> {{ .Params.resources.common_enchanting.buy.price }} leaves</p>
 
-<p><b>Rare</b> <i>Sell({{ .Params.resources.rare.sell.quantity }})</i> {{ .Params.resources.rare.sell.price }} <i>Buy</i> {{ .Params.resources.rare.buy.price }} leaves</p>
+<p><b>Rare</b><i>Buy</i> {{ .Params.resources.rare.buy.price }} leaves</p>
 
 <div id="Goods"><h2>Goods</h2>
 {{ range .Params.items }}
@@ -29,7 +29,7 @@
 {{ end }}
 
  {{- if eq .Title  "Thieves Guild" }} 
-<h2>The Reserve </h2>
+<h2>The Reserve</h2>
 <p>The Thieves Guild is in charge of handling the Reserve which houses emergency Resources and items. The Reserve has different items, availability, and rates depending on the skills and/or rank within the guild. Additionally, members may donate or sell items to the Reserve in order to advance within the guild. Rare Resources will NEVER be sold by plot unless they are found here.</p>
 <h2>Bounties</h2>
 <p>Bounties are also handled by the Thieves Guild. These are contracts against player characters who have either failed to repay their debts to the Merchants Guild or broke an In Game Law (see The Laws Of The Inspired Of Katalossa for more details). These bounties are always optional to players (No PVP will intentionally be forced). These bounties are always structured in order to repay the characters debt and to prevent grief to the character at all costs. A member of the Thieves Guild will be authorized to subdue (never kill) the target character and retrieve the amount of leaves owed on the characters debt or a specific fine amount from their person. This amount is then returned to the Thieves Guild. The member may not keep any additional money from this bounty, otherwise they may lose access to the Bounty system and may lose status within the guild. A character will always be notified that a bounty is active against them prior to the bounty being available to members of the guild.</p>

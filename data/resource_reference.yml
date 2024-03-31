@@ -1,0 +1,30 @@
+---
+resources:
+  - name: Amasu's Crystallized Radiance
+    type: alchemy
+    rarity: rare
+    description: This bright yellow stone seems to give off light even in darkness.
+  - name: Ari's Whisper
+    type: alchemy
+    rarity: rare
+    description: This bright yellow stone seems to give off light even in darkness.
+  - name: Bottlemaul's Versatile Vines
+    type: alchemy
+    rarity: rare
+    description: Theis vine seems to continue creeping regarless of how many times it has been cut. 
+  - name: Ephram's Mycological Miracles
+    type: alchemy
+    rarity: rare
+    description: These dark mushrooms seme to have an intoxicating aroma.
+  - name: Partonus's Putridity
+    type: alchemy
+    rarity: rare
+    description: This grey and purple sludge swirls while emitting a putrid stench.
+  - name: Aganthrox's Ephipyte
+    type: alchemy
+    rarity: rare
+    description: These deep lavender flowers seem unnatural compared to all local flora.
+  - name: Ariawen's Splintered Pneuma
+    type: enchanting
+    rarity: rare
+    description: This small container holds a few strands of hair and drops of blood, which glows faintly in the darkness. 

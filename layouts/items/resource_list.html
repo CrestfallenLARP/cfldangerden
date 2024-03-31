@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{ .Render "content" }}
+
+{{- $resource_reference := index .Site.Data "resource_reference" }}
+
+
+{{ range $resource_reference.resources }}
+            <h2>{{ .name }}</h2>
+                <p><b>Type: </b>{{ .type }}</p>
+                <p><b>rarity: </b>{{ .rarity }}</p>
+                <p><b>description: </b>{{ .description }}{</p>
+{{ end }}
+<hr>
+<hr>
+{{ with  .OutputFormats.Get "json" -}}
+  <a href="{{ .Permalink  | absURL }}"><img src="/images/logos/json.png" alt="ICS Calendar File" style="height:48px;"></a>
+{{- end }}
+ </p>
+
+{{- end }}

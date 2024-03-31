@@ -1,19 +1,23 @@
 {{ define "main" }}
 {{ .Render "content" }}
 
-{{ $item_reference := index .Site.Data "item_reference" }}
-{{ $item_reference_items := $item_reference.items}}
+{{- $item_reference := index .Site.Data "item_reference" }}
+{{- $item_reference_items := $item_reference.items}}
+{{- $items_to_distribute := $.Params.items_to_distribute }}
 
-{{ with  .OutputFormats.Get "json" -}}
-  <a href="{{ .Permalink  | absURL }}"><img src="/images/logos/ics.png" alt="ICS Calendar File" style="width:48px;height:48px;"></a>
-{{- end }}
 
-{{ range $item_reference_items }}
-        <h2>{{ .name }}</h2>
-            <p><b>Prop: </b>{{ .prop }}</p>
-            <p><b>Type: </b>{{ .type }}</p>
-            <p><b>Durability: </b>{{ .durability }}</p>
-            <p><b>Effects: </b>{{ if .effects_markdown }}{{ .effects_markdown | markdownify }}{{else}}{{ .effects }}{{ end }}</p>
+{{ range $item_reference.items }}
+            <h2>{{ .name }}</h2>
+                <p><b>Prop: </b>{{ .prop }}</p>
+                <p><b>Type: </b>{{ .type }}</p>
+                <p><b>Durability: </b>{{ .durability }}</p>
+                <p><b>Effects: </b>{{ if .effects_markdown }}{{ .effects_markdown | markdownify }}{{else}}{{ .effects }}{{ end }}</p>
 {{ end }}
+<hr>
+<hr>
+{{ with  .OutputFormats.Get "json" -}}
+  <a href="{{ .Permalink  | absURL }}"><img src="/images/logos/json.png" alt="ICS Calendar File" style="height:48px;"></a>
+{{- end }}
+ </p>
 
 {{- end }}

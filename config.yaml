@@ -128,18 +128,18 @@ menu:
       weight: 10
       url: '/event_overview'
     - name: Factions 
-      pre: <i class="fa-regular fa-book"></i>
+      pre: <i class="fa-regular fa-scroll"></i>
       weight: 30
       url: '/factions'
     - name: Characters 
-      pre: <i class="fa-solid fa-bullhorn"></i>
+      pre: <i class="fa-solid fa-users"></i>
       weight: 40
       url: '/characters'
-    - name: Items 
-      pre: <i class="fa-solid fa-earth-oceania"></i>
+    - name: Tags 
+      pre: <i class="fa-solid fa-tags"></i>
       weight: 50
       url: '/items'
     - name: Equipment  
-      pre: <i class="fa-solid fa-earth-oceania"></i>
+      pre: <i class="fa-solid fa-wrench"></i>
       weight: 60
       url: '/equipment'
