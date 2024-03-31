@@ -5,10 +5,10 @@
 
 
 {{ range $resource_reference.resources }}
-            <h2>{{ .name }}</h2>
-                <p><b>Type: </b>{{ .type }}</p>
-                <p><b>rarity: </b>{{ .rarity }}</p>
-                <p><b>description: </b>{{ .description }}{</p>
+            <h2>{{ title .name }}</h2>
+                <p><b>Type: </b>{{ title .type }}</p>
+                <p><b>Rarity: </b>{{ title .rarity }}</p>
+                <p><b>Description: </b>{{ .description }}</p>
 {{ end }}
 <hr>
 <hr>
