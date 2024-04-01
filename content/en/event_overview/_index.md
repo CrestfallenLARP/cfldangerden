@@ -5,9 +5,5 @@ event_type: weekend
 linkTitle: "Event Overview"
 weight: 20
 layout: event_overview
-
-
-
-
 ---
 

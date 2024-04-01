@@ -1,9 +1,13 @@
 ---
 resources:
+  - name: Basic Creafting Materials
+    type: basic
+    rarity: basic
+    description: Odds and ends used to make the most basic items necessary to survive.
   - name: Common Herbs
     type: alchemy
     rarity: common
-    description: Easy to gather herbs, boss, grass, and other natural items used to craft Alemical wonders. 
+    description: Easy to gather herbs, boss, grass, and other natural items used to craft Academical wonders.
   - name: Common Incense
     type: enchanting
     rarity: common
@@ -23,7 +27,7 @@ resources:
   - name: Bottlemaul's Versatile Vines
     type: alchemy
     rarity: rare
-    description: Theis vine seems to continue creeping regarless of how many times it has been cut. 
+    description: Theis vine seems to continue creeping regardless of how many times it has been cut. 
   - name: Ephram's Mycological Miracles
     type: alchemy
     rarity: rare
