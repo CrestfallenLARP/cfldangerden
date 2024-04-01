@@ -2,15 +2,17 @@
 {{ $event_pages := where $.Site.Pages "Section" .Section }}
 {{ $schedules := (slice "opening" "mid event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "ending" ) }}
 {{ $ledgers := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) }}
+{{ $recap_pages := sort $event_pages ".Params.date" "desc" }}
+{{ $event_overview := index $recap_pages 0 }}
+{{ $last_recap := index $recap_pages 1 }}
 
 
 {{- .Render "content" -}}
 <h2 id="overview"> Event Overview</h2>
-{{ .Params.event_overview | markdownify }}
+{{ event_overview.Params.recap | markdownify }}
 <a href="./recap"> <h2 id="recap">Previous Event Recap</h2></a>
 {{ $recap_pages := sort $event_pages ".Params.date" "desc" }}
-{{ $last_recap := index $recap_pages 0 }}
-<p>{{ $last_recap.Params.recap }}</p>
+<p>{{ $last_recap.Params.recap | markdownify }}</p>
 <!-- Loop over the modules and print them one page at a time  module details  -->
 
 <a href="./modules"> <h2 id="modules">Modules</h2></a>
