@@ -17,6 +17,7 @@ items:
     durability: 8
     type: Forging
     effects: This weapon may be repaired when it gains the broken condition. When repaired, this item loses 1 durability.
+    project_design_research_library: true
     effects_markdown: May be repaired when it gains the [broken](/rules/conditions/#broken-break) condition. When repaired, loses 1 durability.
   - name: Ranged Weapon
     prop: Bow, Crossbow, Thrown Weapon
