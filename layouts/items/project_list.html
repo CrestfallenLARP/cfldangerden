@@ -6,9 +6,14 @@
 
 {{ range $project_design_refrence.projects }}
             <h2>{{ title .name }}</h2>
-                <p><b>Type: </b>{{ title .type }}</p>
-                <p><b>Rarity: </b>{{ title .rarity }}</p>
                 <p><b>Description: </b>{{ .description }}</p>
+                <p><b>Type: </b>{{ title .Type }}</p>
+                <p><b>Created_By: </b>{{ .Created_By }}</p>
+                <p><b>Player_Number: </b>{{ .Player_Number }}</p>
+                <p><b>date: </b>{{ .date }}</p>
+                <p><b>resource_points: </b>{{ .resource_points }}</p>
+                <p><b>effects: </b>{{ .effects }}</p>
+                <p><b>durability: </b>{{ .durability }}</p>
 {{ end }}
 <hr>
 <hr>

@@ -1,11 +1,109 @@
 ---
 projects:
-  - Name: Common One Handed Weapon
-    Description: One Handed Weapon Prop
+  - name: Common One Handed Weapon
+    description: One Handed Weapon Prop
     Type: Forging
-    Created By: Plot
-    Player Number: -
+    Created_By: Plot
+    Player_Number: 
     date: 11/20/22
     resource_points: 8 Basic, 1 Common Forging
     effects: This weapon may be repaired when it gains the broken condition. When repaired, this item loses 1 durability.
+    durability: 8
+  - name: Common Two Handed Weapon
+    description: Two Handed Weapon Prop
+    type: Forging
+    created_by: Plot
+    player_number: 0
+    date: 11/20/22
+    resource_points: 8 Basic, 2 Common Forging
+    effects: This weapon may be repaired when it gains the broken condition. When repaired, this item loses 1 durability.
+    durability: 8
+  - name: Common Armor
+    description: Armor Prop
+    type: Forging
+    created_by: Plot
+    player_number: 0
+    date: 11/20/22
+    resource_points: 8 Basic, 1 Common Forging
+    effects: This armor may be repaired when it gains the broken condition. When repaired from the broken condition, this item loses 1 durability.
+    durability: 8
+  - name: Common Shield
+    description: Shield or Buckler Prop
+    type: Forging
+    created_by: Plot
+    player_number: 0
+    date: 11/20/22
+    resource_points: 8 Basic, 1 Common Forging
+    effects: This shield may be repaired when it gains the broken condition. When repaired, this item loses 1 durability.
+    durability: 8
+  - name: Common Alcohol
+    description: Bottle, Vial, or Jug Prop
+    type: Alchemy
+    created_by: Plot
+    player_number: 0
+    date: 11/20/22
+    resource_points: 8 Basic, 1 Common Alchemy
+    effects: 1 loss of durability and 3 seconds of acting out drinking grants the target 1 ST and the distracted condition for 5 minutes.
+    durability: 8
+  - name: Potion of Healing
+    description: Bottle, Vial, or Jug  Prop
+    type: Alchemy
+    created_by: Plot
+    player_number: 0
+    date: 11/20/22
+    resource_points: 8 Basic, 1 Common Alchemy
+    effects: 1 loss of durability and 3 seconds of acting out drinking grants the target 5 healing.
+    durability: 8
+  - name: Potion of Stabilization
+    description: Vial Prop
+    type: Enchanting
+    created_by: Plot
+    player_number: 0
+    date: 11/20/22
+    resource_points: 8 Basic, 1 Common Enchanting
+    effects: 1 loss of durability and 3 seconds of acting out drinking grants the target the stabilize condition. Call... Stabilize
+    durability: 8
+  - name: Common Spellbook
+    description: Book Prop
+    type: Enchanting
+    created_by: Plot
+    player_number: 0
+    date: 11/20/22
+    resource_points: 8 Basic, 1 Common Enchanting
+    effects: 1 loss of durability grants the reader 1 additional Energy while resting.
+    durability: 8
+  - name: Common Incense
+    description: Incense Prop
+    type: Enchanting
+    created_by: Plot
+    player_number: 0
+    date: 11/20/22
+    resource_points: 8 Basic, 2 Common Enchanting
+    effects: 1 loss of durability grants all characters in an area reduced rest time by 5 minutes. Announce when used.
+    durability: 8
+  - name: Smelling Salts
+    description: Bottle, Vial, or Jug Prop
+    type: Alchemy
+    created_by: PLAYTEST GROUP
+    player_number: 0
+    date: 11/20/22
+    resource_points: 8 Basic, 4 Common Alchemy
+    effects: 1 loss of durability and 3 second acting of wafting under targets nose grants...Remove Sleep.
+    durability: 8
+  - name: Liquid Resolve
+    description: Flask Prop
+    type: Enchanting
+    created_by: Matt (Mathias)
+    player_number: 7
+    date: 11/20/22
+    resource_points: 8 Basic, 4 Common Enchanting
+    effects: Characters may only use this item ONCE per event. Character uses 1 durability and 1 Basic, Common, or Rare resource to regain 1, 2, or 3 St. and 5 minute distracted condition.
+  - name: Injectable Adrenaline
+    description: Vial Prop
+    type: Alchemy
+    created_by: Matt (Mathias)
+    player_number: 7
+    date: 9/10/23
+    resource_points: 8 Basic, 2 Common Alchemy
+    effects: 1 loss of durability and 3 seconds of acting out an injection grants the target the use of Pain Tolerance regarding a broken limb for 1 battle.
     durability: 8
