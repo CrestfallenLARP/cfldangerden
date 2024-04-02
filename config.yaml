@@ -119,11 +119,11 @@ module:
       disable: false
 menu:
   main:
-    - name: Sample Event
+    - name: Sample
       pre: <i class="fa-solid fa-book"></i>
       weight: 9
       url: '/sample_event_overview'
-    - name: Event Overview
+    - name: Overview
       pre: <i class="fa-solid fa-book"></i>
       weight: 10
       url: '/event_overview'

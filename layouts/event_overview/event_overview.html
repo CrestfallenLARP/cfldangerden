@@ -2,14 +2,15 @@
 {{ $event_pages := where $.Site.Pages "Section" .Section }}
 {{ $schedules := (slice "opening" "mid event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "ending" ) }}
 {{ $ledgers := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) }}
-{{ $recap_pages := sort $event_pages ".Params.date" "desc" }}
+{{ $recap_pages := where $event_pages "Layout" "==" "recap" }}
+{{ $recap_pages := sort $recap_pages ".Params.date" "desc" }}
 {{ $event_overview := index $recap_pages 0 }}
 {{ $last_recap := index $recap_pages 1 }}
 
-
+<p><a href="https://crestfallenlarp.com/schedule/events/20240419/">event page</a></p>
 {{- .Render "content" -}}
-<h2 id="overview"> Event Overview</h2>
-{{ event_overview.Params.recap | markdownify }}
+<h2 id="overview"><a href="{{ $event_overview.Permalink }}">  Event Overview</a></h2>
+{{ $event_overview.Params.recap | markdownify }}
 <a href="./recap"> <h2 id="recap">Previous Event Recap</h2></a>
 {{ $recap_pages := sort $event_pages ".Params.date" "desc" }}
 <p>{{ $last_recap.Params.recap | markdownify }}</p>
