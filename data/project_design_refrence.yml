@@ -1,0 +1,11 @@
+---
+projects:
+  - Name: Common One Handed Weapon
+    Description: One Handed Weapon Prop
+    Type: Forging
+    Created By: Plot
+    Player Number: -
+    date: 11/20/22
+    resource_points: 8 Basic, 1 Common Forging
+    effects: This weapon may be repaired when it gains the broken condition. When repaired, this item loses 1 durability.
+    durability: 8

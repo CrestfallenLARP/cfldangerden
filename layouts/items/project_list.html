@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{ .Render "content" }}
+
+{{- $project_design_refrence := index .Site.Data "project_design_refrence" }}
+
+
+{{ range $project_design_refrence.projects }}
+            <h2>{{ title .name }}</h2>
+                <p><b>Type: </b>{{ title .type }}</p>
+                <p><b>Rarity: </b>{{ title .rarity }}</p>
+                <p><b>Description: </b>{{ .description }}</p>
+{{ end }}
+<hr>
+<hr>
+{{ with  .OutputFormats.Get "json" -}}
+  <a href="{{ .Permalink  | absURL }}"><img src="/images/logos/json.png" alt="ICS Calendar File" style="height:48px;"></a>
+{{- end }}
+ </p>
+
+{{- end }}
