@@ -3,7 +3,6 @@
 
 {{- $project_design_refrence := index .Site.Data "project_design_refrence" }}
 
-
 {{ range $project_design_refrence.projects }}
             <h2>{{ title .name }}</h2>
                 <p><b>Description: </b>{{ .description }}</p>
