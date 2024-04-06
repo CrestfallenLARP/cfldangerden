@@ -7,7 +7,7 @@
 {{ $event_overview := index $recap_pages 0 }}
 {{ $last_recap := index $recap_pages 1 }}
 
-<p><a href="https://crestfallenlarp.com/schedule/events/20240419/">event page</a></p>
+<h2><a href="https://crestfallenlarp.com/schedule/events/20240419/">Event Page</a></h2>
 {{- .Render "content" -}}
 <h2 id="overview"><a href="{{ $event_overview.Permalink }}">  Event Overview</a></h2>
 {{ $event_overview.Params.recap | markdownify }}
