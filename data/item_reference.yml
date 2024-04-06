@@ -303,4 +303,16 @@ items:
     prop: Red Steel card engraved with the letters TOMY
     type: Scientific
     durability: 8
-    effects: Indicates a friendship of the powerful AI TOMY. Allies of the AI will not attack the possessor of this card if the Card is presented. Can be exchanged with Lex for a substantial favor.  
+    effects: Indicates a friendship of the powerful AI TOMY. Allies of the AI will not attack the possessor of this card if the Card is presented. Can be exchanged with Lex for a substantial favor.
+  - name: Liquid Resolve
+    prop: Flask
+    type: Enchanting
+    effects: Characters may only use this item ONCE per event. Character uses 1 durability and 1 Basic, Common, or Rare resource to regain 1, 2, or 3 St. and 5 minute distracted condition.
+  - name: Smelling Salts
+    prop: Bottle, Vial, or Jug
+    type: Alchemy
+    created_by: PLAYTEST GROUP
+    player_number: 0
+    date: 11/20/22
+    resource_points: 8 Basic, 4 Common Alchemy
+    effects: 1 loss of durability and 3 second acting of wafting under targets nose grants...Remove Sleep.
