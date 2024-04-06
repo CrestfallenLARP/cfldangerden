@@ -1,0 +1,49 @@
+---
+props:
+  - name: fog machines
+    quantity: 3
+  - name: totes of tarps
+    quantity: 2
+  - name: bubble machine
+    quantity: 2
+  - name: strobe lights
+    quantity: 3
+  - name: color changing bulb lights
+    quantity: 3
+  - name: outdoor power cable
+    quantity: 3
+  - name: Blanket tabard tote
+    quantity: 3
+  - name: gathering items tote
+    quantity: 3
+  - name: grass tote
+    quantity: 3
+  - name: gathering items tote
+  - name: dino mask tote
+  - name: faction mask tote
+  - name: helmets
+    quantity: 8
+  - name: white dragon mask
+  - name: basilisk head
+  - name: steel armor
+    quantity: 3
+    notes: 4 to 6 more at matts
+    quantity: 8
+  - name: leather armor 
+    quantity: 4
+    notes: more being made
+  - name: craft bin
+  - name: craft tote
+  - name: pouches bag, 
+  - name: tapestries bag
+  - name: tents
+    quantity: 2
+  - name: bucklers
+    quantity: 4
+  - name: shields
+    quantity: 2
+  - name: acorn shield
+    quantity: 8
+  - name: painted firearms
+    quantity: 5
+  - name: long and short weapon

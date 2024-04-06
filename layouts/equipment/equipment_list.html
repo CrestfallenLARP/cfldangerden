@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{ .Render "content" }}
+
+{{- $props := index .Site.Data "props" }}
+{{- $props := $props.props}}
+
+tomato
+{{ range $props }}
+            <h2>{{ .name }}</h2>
+                <p><b>quantity: </b>{{ .quantity }}</p>
+
+{{ end }}
+<hr>
+<hr>
+{{ with  .OutputFormats.Get "json" -}}
+  <a href="{{ .Permalink  | absURL }}"><img src="/images/logos/json.png" alt="ICS Calendar File" style="height:48px;"></a>
+{{- end }}
+ </p>
+
+{{- end }}
