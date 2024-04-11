@@ -1,15 +1,25 @@
 {{ define "main" }}
 {{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ $event_pages = where $event_pages ".Params.props" "!=" nil }}
+
+{{ $jobs := where $event_pages ".Params.layout" "job" }}
+{{ $modules := where $event_pages ".Params.layout" "module" }}
+{{ $roles := where $event_pages ".Params.layout" "role" }}
 
 
 {{- .Render "content" -}}
-
-
-
-{{ range where $event_pages ".Params.props" "!=" nil }}
+<h2>Modules</h2>
+<ul>
+{{ range  $modules  }}
 <li><b>{{ .Params.props }}</b> <a href="{{ .Permalink }}">{{ .Params.title }}</a> </li>
 {{ end }}
-</li>
+</ul>
+<h2>Jobs</h2>
+<ul>
+{{ range  $jobs  }}
+<li><b>{{ .Params.props }}</b> <a href="{{ .Permalink }}">{{ .Params.title }}</a> </li>
+{{ end }}
+</ul>
 
 {{ end }}
 

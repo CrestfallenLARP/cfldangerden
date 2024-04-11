@@ -1,0 +1,107 @@
+---
+resources:
+  - name: Basic Creafting Materials
+    type: basic
+    rarity: basic
+    description: Odds and ends used to make the most basic items necessary to survive.
+  - name: Common Herbs
+    type: alchemy
+    rarity: common
+    description: Easy to gather herbs, boss, grass, and other natural items used to craft Academical wonders.
+  - name: Common Incense
+    type: enchanting
+    rarity: common
+    description: Sweet smelling flowers, spices, and other materials used to enchant magical materials.
+  - name: Common Iron
+    type: forging
+    rarity: common
+    description: Raw unworked iron and salvaged metal from previous works and discarded weapons used to forge new equipment.
+  - name: Amasu's Crystallized Radiance
+    type: alchemy
+    rarity: rare
+    description: This bright yellow stone seems to give off light even in darkness.
+  - name: Ari's Whisper
+    type: alchemy
+    rarity: rare
+    description: This bright yellow stone seems to give off light even in darkness.
+  - name: Bottlemaul's Versatile Vines
+    type: alchemy
+    rarity: rare
+    description: Theis vine seems to continue creeping regardless of how many times it has been cut. 
+  - name: Ephram's Mycological Miracles
+    type: alchemy
+    rarity: rare
+    description: These dark mushrooms seme to have an intoxicating aroma.
+  - name: Partonus's Putridity
+    type: alchemy
+    rarity: rare
+    description: This grey and purple sludge swirls while emitting a putrid stench.
+  - name: Aganthrox's Ephipyte
+    type: alchemy
+    rarity: rare
+    description: These deep lavender flowers seem unnatural compared to all local flora.
+  - name: Ariawen's Splintered Pneuma
+    type: enchanting
+    rarity: rare
+    description: This small container holds a few strands of hair and drops of blood, which glows faintly in the darkness. 
+  - name: Benzihk's Counsel
+    type: enchanting
+    rarity: rare
+    description: These notes show subtle ways to hide meaning in normal writings that others may miss.
+  - name: Absconded Aspirations
+    type: enchanting
+    rarity: rare
+    description: These etched gems have a gentle glow to them. If you stare into one long enough, someone's dreams can be seen just beneath the surface.
+  - name: Ezra's Epiphany
+    type: enchanting
+    rarity: rare
+    description: This document contains a number of phrases that fills the reader with confidence and faith that things will turn out well. With belief, goodness cannot vanish.
+  - name: Marinth's Mechanical Musings
+    type: enchanting
+    rarity: rare
+    description: These blueprints showing portions of magical music box calm the mind and help the reader to focus on enchanting other items based on its teachings.
+  - name: Xilthyn's Disappearing Ink
+    type: enchanting
+    rarity: rare
+    description: This dark green ink melds into the shadows of any substance it is enchanted to.
+  - name: Ieyasu's Obsidian Razor
+    type: forging
+    rarity: rare
+    description: This obsidian shard is jagged and painful on its own, but more so when properly crafted.    
+  - name: Kelee's Flaxen Fare
+    type: forging
+    rarity: rare
+    description: These silver, gold, and platinum shavings seem to be the remnants of a long forgotten horde of treasure.
+  - name: Leylan's Arboreal Artifacts
+    type: forging
+    rarity: rare
+    description: This lumber has been strengthened beyond natures normal means, allowing it to function like metal when properly treated.
+  - name: Nathanyal's Blood Iron
+    type: forging
+    rarity: rare
+    description: This iron bears a bright crimson hue that is highly irregular.
+  - name: Shargol's Havoc Shards
+    type: forging
+    rarity: rare
+    description: The metal from this weapon endures without blemish, regardless of how the other parts have fared.
+  - name: Trukadour's Trappings
+    type: forging
+    rarity: rare
+    description: This metal has been forged on furnaces much hotter than any humanoids can create, making it lighter and thinner than other alloys.
+  - name: Aarth's Adaptable Arcana
+    type: basic
+    rarity: rare
+    description: This liquid metal shifts and bends to its owners will during crafting.
+  - name: Jonwar's Eternal Berries
+    type: basic
+    rarity: rare
+    description: These berries seem to never age and always smell sweet. 
+  - name: Raddy's Special Stock
+    type: basic
+    rarity: rare
+    description: This stack of basic resources seems to groe while no one is looking.
+  - name: Zirittion's Zealous Flames
+    type: basic
+    rarity: rare
+    description: This coal constantly smoulders, yet only consumes itself while crafting.
+    

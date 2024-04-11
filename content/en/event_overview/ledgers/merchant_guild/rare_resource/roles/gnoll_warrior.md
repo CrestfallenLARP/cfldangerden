@@ -12,7 +12,6 @@ body: 8
 armor: 5
 stamina: 9
 energy: 0
-spells_known: none
 primary_attack: 3 Damage with both claws 
 Killing_Blow: No, it loves its food living 
 Offensive_Abilities:

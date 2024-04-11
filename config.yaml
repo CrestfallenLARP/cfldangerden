@@ -119,27 +119,27 @@ module:
       disable: false
 menu:
   main:
-    - name: Sample Event
+    - name: Sample
       pre: <i class="fa-solid fa-book"></i>
       weight: 9
       url: '/sample_event_overview'
-    - name: Event Overview
+    - name: Overview
       pre: <i class="fa-solid fa-book"></i>
       weight: 10
       url: '/event_overview'
     - name: Factions 
-      pre: <i class="fa-regular fa-book"></i>
+      pre: <i class="fa-regular fa-scroll"></i>
       weight: 30
       url: '/factions'
     - name: Characters 
-      pre: <i class="fa-solid fa-bullhorn"></i>
+      pre: <i class="fa-solid fa-users"></i>
       weight: 40
       url: '/characters'
-    - name: Items 
-      pre: <i class="fa-solid fa-earth-oceania"></i>
+    - name: Tags 
+      pre: <i class="fa-solid fa-tags"></i>
       weight: 50
       url: '/items'
-    - name: Props  
-      pre: <i class="fa-solid fa-earth-oceania"></i>
+    - name: Equipment  
+      pre: <i class="fa-solid fa-wrench"></i>
       weight: 60
-      url: '/props'
+      url: '/equipment'
