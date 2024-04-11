@@ -66,3 +66,16 @@ items:
       quantity: 1
       price: 5
 ---
+
+Dwarf Goods List
+Basic Resource - 5 Available for 3 leaves each, buy for 2 leaves
+Common Forging Resources - 5 Available for 7 leaves, buy for 4 leaves
+Common Alchemy Resources - None Available, buy for 4 leaves
+Common Enchanting Resources - None Available, buy for 4 leaves
+Rare Resources - None Available, buy for 8 leaves
+Common One Handed Weapon - 2 Available for 8 leaves each, buy for 6 leaves
+Common Two Handed Weapon - 2 Available for 8 leaves each, buy for 6 leaves
+Dwarven Ale - 2 Available for 20 leaves each, buy for 15 leaves
+Common Shield - 2 Available for 8 leaves each, buy for 6 leaves
+Basic Lock - 2 Available for 5 leaves each, buy for 2 leaves
+Basic Barricade - 2 Available for 5 leaves each, buy for 2 leaves
