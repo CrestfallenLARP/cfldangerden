@@ -7,6 +7,37 @@ type: "docs"
 
 # Player Characters
 
+1    Beren Olean
+2    Sheri Errico
+3    Rene Olean
+4    Brad Held
+5    Chaz Linn
+6    Andrea Linn
+7    Matt Trebilcock
+8    Larry Dones
+9    Dade Errico
+10    Vince Errico
+11    Ray Brandle
+12    Mike Errico
+13    Jon Vella
+14    Zach Kitchen
+15    Scott Bennett
+16    Hampton Knotts
+17    Bobby White
+18    Ryan Bradley
+19    Robert Harden
+20    Forest (Fyer)
+21    Clinton Snyder
+22    John Williams
+23    Aidan Mears
+24    Michael Fife
+25    Jimmy McClure Neff
+26    Dan McClure Neff
+27    Mike Fife
+28    Domenik Hurley
+29    Rain Bennett
+30    Sharyn Fitzgerald
+
 ## **Ziggy**
 
 **Backstory:** Got charmed by Oz and has been addicted to the charm spell. 

@@ -1,10 +1,17 @@
 ---
+
+# - Potion of Healing
+# - Potion of Stabilization
+# - Common Spellbook
+# - Common Incense
+# - Smelling Salts
 projects:
   - name: Common One Handed Weapon
     type: Forging
     created_by: Plot
     player_number: 0
     date: 11/20/22
+    project_library: true
     resource_points: 8 Basic, 1 Common Forging
   - name: Common Two Handed Weapon
     description: Two Handed Weapon Prop
@@ -21,6 +28,7 @@ projects:
     created_by: Plot
     player_number: 0
     date: 11/20/22
+    project_library: true
     resource_points: 8 Basic, 1 Common Forging
     effects: This armor may be repaired when it gains the broken condition. When repaired from the broken condition, this item loses 1 durability.
     durability: 8
@@ -30,6 +38,7 @@ projects:
     created_by: Plot
     player_number: 0
     date: 11/20/22
+    project_library: true
     resource_points: 8 Basic, 1 Common Forging
     effects: This shield may be repaired when it gains the broken condition. When repaired, this item loses 1 durability.
     durability: 8
@@ -47,6 +56,7 @@ projects:
     type: Alchemy
     created_by: Plot
     player_number: 0
+    project_library: true
     date: 11/20/22
     resource_points: 8 Basic, 1 Common Alchemy
     effects: 1 loss of durability and 3 seconds of acting out drinking grants the target 5 healing.
@@ -56,6 +66,7 @@ projects:
     type: Enchanting
     created_by: Plot
     player_number: 0
+    project_library: true
     date: 11/20/22
     resource_points: 8 Basic, 1 Common Enchanting
     effects: 1 loss of durability and 3 seconds of acting out drinking grants the target the stabilize condition. Call... Stabilize
@@ -65,6 +76,7 @@ projects:
     type: Enchanting
     created_by: Plot
     player_number: 0
+    project_library: true
     date: 11/20/22
     resource_points: 8 Basic, 1 Common Enchanting
     effects: 1 loss of durability grants the reader 1 additional Energy while resting.
@@ -73,6 +85,7 @@ projects:
     description: Incense Prop
     type: Enchanting
     created_by: Plot
+    project_library: true
     player_number: 0
     date: 11/20/22
     resource_points: 8 Basic, 2 Common Enchanting
@@ -83,6 +96,7 @@ projects:
     type: Alchemy
     created_by: PLAYTEST GROUP
     player_number: 0
+    project_library: true
     date: 11/20/22
     resource_points: 8 Basic, 4 Common Alchemy
     effects: 1 loss of durability and 3 second acting of wafting under targets nose grants...Remove Sleep.

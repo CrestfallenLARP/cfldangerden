@@ -9,6 +9,8 @@
                 <p><b>Created By: </b>{{ .created_by }} {{ if .Player_Number }} ({{ .Player_Number }}) {{ end }}</p>
                 <p><b>Date: </b>{{ .date }}</p>
                 <p><b>Resource Points: </b>{{ title .resource_points }}</p>
+                <p><b>project_library: </b>{{ if .project_library }}{{ title .project_library }}{{ else }} false {{ end }}</p>
+
 {{ end }}
 <hr>
 <hr>
