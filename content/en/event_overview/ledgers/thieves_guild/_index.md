@@ -19,13 +19,13 @@ resources:
         price: 4
     common_alchemy:
       sell:
-        quantity: 1
+        quantity: 10
         price: 7
       buy:
         price: 4
     common_enchanting:
       sell:
-        quantity: 1
+        quantity: 10
         price: 7
       buy:
         price: 4
@@ -33,18 +33,18 @@ resources:
       buy:
         price: 8
 items:
-  - name: Remove Bleed
+  - name: Entangle Foot Bag
     buy: 
-      price: 2
-    sell:
-      quantity: 1
       price: 5
-  - name: Poison Blade 
+    sell:
+      quantity: 2
+      price: 10
+  - name: Entangle Body Ba
     buy: 
-      price: 2
+      price: 7
     sell:
-      quantity: 1
-      price: 5
+      quantity: 2
+      price: 15
   - name: Repair Limb
     buy: 
       price: 2
@@ -63,17 +63,12 @@ items:
     sell:
       quantity: 1
       price: 5
-pc_ranking:
-  - Valen(2)
-# Common Forging Resources - 10 Available for 7 leaves, buy for 4 leaves
-# Common Alchemy Resources - 10 Available for 7 leaves, buy for 4 leaves
-# Common Enchanting Resources - 10 Available for 7 leaves, buy for 4 leaves
-# Remove Bleed - 5 leaves
-# Poison Blade - 15 leaves
-# Repair Limb - 5 leaves
-# Entangle Foot Bag - 2 Available for 10 leaves, buy for 5 leaves
-# Entangle Body Bag - 2 Available for 15 leaves, buy for 7 leaves
-
-
 ---
 
+## Services 
+
+Remove Bleed - 5 leaves
+
+Poison Blade - 15 leaves
+
+Repair Limb - 5 leaves

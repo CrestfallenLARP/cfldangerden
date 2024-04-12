@@ -60,6 +60,7 @@ items:
     sell:
       quantity: 1
       price: 5
+      durability: asdf
   - name: Common Incense
     buy: 
       price: 2

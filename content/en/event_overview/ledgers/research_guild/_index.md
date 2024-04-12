@@ -6,15 +6,15 @@ cascade:
   faction: Research Guild
 resources:
     basic:
-      sell:
-        quantity: 1
-        price: 3
       buy:
         price: 2
-    common:
-      sell:
-        quantity: 1
-        price: 7
+    common_forging:
+      buy:
+        price: 4
+    common_enchanting:
+      buy:
+        price: 4
+    common_alchemy:
       buy:
         price: 4
     rare:
@@ -69,3 +69,12 @@ research_library:
  - Ice Motes
 ---
 
+## Services
+
+Assist with Trap/Puzzle - 5 leaves
+
+Analysis of Item - 10 leaves
+
+Remove Condition - 20 leaves
+
+Heal Wounds/Stabilize - 5 leaves
