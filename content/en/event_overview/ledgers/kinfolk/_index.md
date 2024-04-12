@@ -67,6 +67,9 @@ items:
     sell:
       quantity: 1
       price: 5
+rank:
+  - Billy - 3
+  - Vito - 4
 ---
 
 Kinfolk Goods List
@@ -85,6 +88,5 @@ Potion of Stabilization - 1 Available with 6 durability for 6 leaves
 Fire Charm - 1 Available with 8 durability for 20 leaves
 Ice Charm - 1 Available for 8 durability for 20 leaves
 
-PC Ranking
-Billy - 3
-Vito - 4
+
+

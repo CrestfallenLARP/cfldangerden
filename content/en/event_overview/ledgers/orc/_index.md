@@ -75,6 +75,10 @@ items:
     sell:
       quantity: 1
       price: 5
+rank: 
+  - Orgim - 2
+  - Toulash - 2
+  - (Zach) - 1
 ---
 
 Basic Resource - None Available, buy for 2 leaves

@@ -32,60 +32,93 @@ resources:
       buy:
         price: 8
 items:
-  - name: Common Spellbook
+  - name: Common Firearm
     buy: 
       price: 2
     sell:
       quantity: 1
       price: 5
-  - name: Common One Handed Weapon
+  - name: Common Alcohol
     buy: 
       price: 2
     sell:
       quantity: 1
       price: 5
-  - name: Common Two Handed Weapon
+  - name: Weapon of Cowardice 
     buy: 
       price: 2
     sell:
       quantity: 1
       price: 5
-  - name: Common Armor
+  - name: Wand of 10 Stone
     buy: 
       price: 2
     sell:
       quantity: 1
       price: 5
-  - name: Common Shield
+  - name: Wand of Charm
     buy: 
       price: 2
     sell:
       quantity: 1
       price: 5
-  - name: Common Spellbook
+  - name: Wand of Natural Weapon
     buy: 
       price: 2
     sell:
       quantity: 1
       price: 5
-  - name: Common Incense
+  - name: Wand of Weakness
     buy: 
       price: 2
     sell:
       quantity: 1
       price: 5
+  - name: Wand of 10 Harm
+    buy: 
+      price: 2
+    sell:
+      quantity: 1
+      price: 5
+  - name: Wand of Weakness
+    buy: 
+      price: 2
+    sell:
+      quantity: 1
+      price: 5
+  - name: Any Healing Item
+    buy: 
+      price: 2
+    sell:
+      quantity: 1
+      price: 5
+  - name: Any 5 Damage Wand 
+    buy: 
+      price: 2
+    sell:
+      quantity: 1
+      price: 5
+  - name: Any 10 Damage Wand 
+    buy: 
+      price: 3
+  - name: All other wands
+    buy: 
+      price: 6
+rank:
+- Oz - 10
+- Mattias - 8
       
 
 
-# Common Firearm - 1 Available for 8 leaves each, buy for 6 leaves
-# Common Alcohol - 2 Available for 8 leaves each, buy for 6 leaves
-# Weapon of Cowardice - 1 Available for 20 leaves, buy for 15 leaves
-# Wand of 10 Stone - 1 Available for 5 leaves, buy for 3 leaves
-# Wand of Charm - 1 Available for 5 leaves, buy for 3 leaves
-# Wand of Natural Weapon - 1 Available for 5 leaves, buy for 3 leaves
-# Wand of Weakness - 1 Available for 5 leaves, buy for 3 leaves
-# Wand of 10 Harm - 1 Available for 5 leaves, buy for 3 leaves
-# Any Healing Item - buy for 2 leaves per 5 points of healing
+#  - 1 Available for 8 leaves each, buy for 6 leaves
+#  - 2 Available for 8 leaves each, buy for 6 leaves
+# - 1 Available for 20 leaves, buy for 15 leaves
+#  - 1 Available for 5 leaves, buy for 3 leaves
+#  - 1 Available for 5 leaves, buy for 3 leaves
+#  - 1 Available for 5 leaves, buy for 3 leaves
+#  - 1 Available for 5 leaves, buy for 3 leaves
+#  - 1 Available for 5 leaves, buy for 3 leaves
+#  - buy for 2 leaves per 5 points of healing
 # Any 5 Damage Wand - buy for 2 leaves
 # Any 10 Damage Wand - buy for 3 leaves
 # All other wands - buy for 6 leaves max
