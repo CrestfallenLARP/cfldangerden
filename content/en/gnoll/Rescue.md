@@ -32,7 +32,14 @@ synopsis: |
   Once the gnolls are engaged, they will down, eat, and consume anyone that goes down with the goal of making several gnoll gluttons. They will not feed on a villager. A villager can be carried from the field just like any body (on a three count, both shoulders).
 
   The villagers with the dead condition can not be cured, and the unconscious condition will not end until the end of the fighting or until safe. If the PCs wish to talk with the rescued unconscious NPCs, they must make that desire known to mod, otherwise the villagers just wake, thank the PCs and leave. 
+
+
  
+
+
+---
+
+
 outcomes: Jacob Coldren convinces the PCs to join him quickly, the gnolls are defeated, and the villagers rescued 
 Jacob Coldren is unsuccessful, and the villagers are eaten (1-4 losses).
 
@@ -73,9 +80,3 @@ rules_clarifications:
 craftsman_information: 
 transformations: 
 running_notes: How this is going to work... When the gnolls attack the gathering hall at 8ish am, a timer will be started (0:00). At 0:30 Jacob Coldren will be sent in to talk to the PCs. It is his goal to get them to either 1. Win Faster to rescue villagers, 2. Retreat and rescue villagers, 3. Split Up, and rescue villagers, 4. Come up with a plan to rescue the villagers, while fighting. Once a plan is agreed upon, Jacob will lead the PCs down a set path, then back to the module area, to signify the chase of the gnolls (Or Jacob leads them from one mod site to the next). This can be taken at any speed the PCs wish. This time counts against the Village Dead Timer. (Once Jacob leaves with the PCs, the NPC gnolls are to retreat to the designated area to set up the next mod.) At 0:40 time, a gnoll will kill a villager. This will be signified by a tag being ripped that was placed around the dummy's neck. A green tag means the dummy is alive, a black tag means the dummy is dead. At :50, another villager will be killed and eaten if the timer is not interrupted. To interrupt the timer, the PCs will need to follow Jacob around the path, back to the mod area. Once back in the mod area, anyone who is on the mod will be placed in a pause, the death timer will be paused, and the next module set up. At :60 and :70, if the timer is not interrupted, a villager will be killed. If all the villagers are killed before Jacob can get the PCs to follow him, they have 20 minutes to kill the gnolls that remain in the area. If the PCs decide not to follow Jacob at all, all the villagers die and the gnolls retreat.
-
-
- 
-
-
----

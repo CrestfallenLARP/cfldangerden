@@ -27,19 +27,11 @@ outcomes: Jacob Coldren takes the PCs hunting
 
 number_of_cast_members: 1+the rest
  
-Roles: Jacob Coldren
-Gnoll Warrior xthe rest
+Roles:
+- Jacob Coldren
+- Gnoll Warrior xthe rest
 
-props: 
-makeup: 
-treasure: 
-magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
+
 
 rumors: 
 

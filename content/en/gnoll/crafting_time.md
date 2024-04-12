@@ -30,30 +30,5 @@ number_of_cast_members: 1
 Roles: Ehrendil Gredove  
 
 props: beeswax and petrolium jelly balm containers (16 count)
-makeup: 
-treasure: 
-magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
-
-rumors: 
-
-hook: 
-scenes: 
-  - 
-    oog: 
-    ig: 
-    flee_point: 
-
-non_standard_effects: 
-rules_clarifications: 
-craftsman_information: 
-transformations: 
-running_notes: Ehrendil's Balm of Healing- This magical paste is applied and can heal '5 Body' on application (3 second roleplay) for one durability. For 1 durability, a coat of the wax can be applied to an object, up to 3, to heal as needed with a 3 second roleplay of skin contact witht the object.
-
 
 ---

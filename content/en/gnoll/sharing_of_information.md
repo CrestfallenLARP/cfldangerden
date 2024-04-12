@@ -28,36 +28,11 @@ synopsis: |
 outcomes: Edward Carver gives out gnoll information, disparage the Gno More Gnolls group
 
 number_of_cast_members: 0-4
-Roles: Edward Carver, Research Guild Member
-Alex Barber, Village Barber
-Nova Carson, Village wagoneer
-Danny Cooke, Tavern Keep
-
-props: 
-makeup: 
-treasure: 
-magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
-
-rumors: 
-
-hook: 
-scenes: 
-  - 
-    oog: 
-    ig: 
-    flee_point: 
-
-non_standard_effects: 
-rules_clarifications: 
-craftsman_information: 
-transformations: 
-running_notes: 
+Roles: 
+- Edward Carver, Research Guild Member
+- Alex Barber, Village Barber
+- Nova Carson, Village wagoneer
+- Danny Cooke, Tavern Keep
 
 
 ---

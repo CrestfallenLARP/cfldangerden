@@ -20,19 +20,21 @@
 
 <div id="Goods"><h2>Goods</h2>
  {{- if eq .Title "Craft Guild" }}
-<p>The kinfolk goods list is unique as they find all of these items partially used from the trash and scavenged from the dead. The only ones that are not scavenged are items donated to them or crafted by them.</p> {{- if eq .Title "Craft Guild" }}
+<p>The kinfolk goods list is unique as they find all of these items partially used from the trash and scavenged from the dead. The only ones that are not scavenged are items donated to them or crafted by them.</p> 
+{{ end }} 
 
 {{ range .Params.items }}
 <p><b>{{ .name }}</b> <i>Sell({{ .sell.quantity }})</i> {{ .sell.price }} Leaves <i>Buy</i> {{ .buy.price }} Leaves</p>
 {{ end}} 
- {{- if eq .Title "Elf" }}
+
+{{- if eq .Title "Craft Guild" }}
 <h2>Project Library</h2>
 <p>The Craft Guild maintains the Project Library which houses all publicly available Approved Project Designs. When a member of the Craft Guild develops an Approved Project Design, they may sell the rights of the design to the guild. The guild will buy designs that use Basic and Common resources for 10 leaves and designs that use Rare resources for 20 leaves. Additionally, the guild will rent out designs in the Project Library for 5 leaves for Basic and Common resource designs and 10 leaves for rare resource designs. Advancement in the guild will grant members reduced costs on these rental rates. These amounts may change, but will be detailed in the Craft Guild folder.</p>
-<ul>
-{{ range .Params.project_library }}
-<li>{{ . }}</li>
-{{ end }} 
-</ul>
+  <ul>
+  {{ range .Params.project_library }}
+  <li>{{ . }}</li>
+  {{ end }} 
+  </ul>
 
 {{ end }}
 

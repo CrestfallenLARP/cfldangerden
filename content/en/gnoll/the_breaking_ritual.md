@@ -24,6 +24,11 @@ synopsis: |
   
   After everyone goes through their spawns, the NPCs will gather outside the fighting area, one will turn into a troll, and the next module starts right away.
   
+
+
+
+---
+
 outcomes: Gnoll Shaman complete the spell
 Gnoll Shaman dies
 
@@ -64,6 +69,3 @@ rules_clarifications:
 craftsman_information: 
 transformations: 
 running_notes: 
-
-
----

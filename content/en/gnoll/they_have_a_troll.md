@@ -22,6 +22,10 @@ synopsis:
 
   If the troll is driven from the area, the gnolls will leave for a short time.  
    
+
+
+---
+
 outcomes: Troll is killed or driven off/gnolls attack the adventurers. When the troll is killed or driven off, the gnolls retreat 
 
 number_of_cast_members: 7
@@ -55,6 +59,3 @@ rules_clarifications:
 craftsman_information: 
 transformations: 
 running_notes: 
-
-
----

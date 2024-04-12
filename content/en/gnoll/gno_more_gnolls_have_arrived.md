@@ -23,37 +23,15 @@ synopsis: |
 outcomes: Gno More Gnolls member(s) talk to the adventurers, get them on board with eradicating the gnolls, giving them the lay of the land, what's going on, defend themselves from Edward's accusations, and just shoot the breeze for one hour, or until they get tired.
 
 number_of_cast_members: 1-4
-Roles: (if roleplayed, same actor must keep same character all weekend when on screen) 
-Jacob Coldren, Human, Gno More Gnoll Leader
-Howard Sadler, Human, Gno More Gnoll member
-Ehrendil Gredove, Elf, Gno More Gnoll member
-Azuk, Orc, Gno More Gnoll member
+Roles: 
+- Jacob Coldren, Human, Gno More Gnoll Leader
+- Howard Sadler, Human, Gno More Gnoll member
+- Ehrendil Gredove, Elf, Gno More Gnoll member
+- Azuk, Orc, Gno More Gnoll member
 
-props: 
-makeup: 
-treasure: 
-magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
 
-rumors: 
-
-hook: 
-scenes: 
-  - 
-    oog: 
-    ig: 
-    flee_point: 
-
-non_standard_effects: 
-rules_clarifications: 
-craftsman_information: 
-transformations: 
-running_notes: 
 
 
 ---
+
+(if roleplayed, same actor must keep same character all weekend when on screen) 
