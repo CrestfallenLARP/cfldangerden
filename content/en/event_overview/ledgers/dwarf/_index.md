@@ -11,7 +11,19 @@ resources:
         price: 3
       buy:
         price: 2
-    common:
+    common_forging:
+      sell:
+        quantity: 1
+        price: 7
+      buy:
+        price: 4
+    common_enchanting:
+      sell:
+        quantity: 1
+        price: 7
+      buy:
+        price: 4
+    common_alchemy:
       sell:
         quantity: 1
         price: 7
@@ -53,29 +65,29 @@ items:
     sell:
       quantity: 1
       price: 5
-  - name: Common Spellbook
+  - name: Basic Lock
     buy: 
       price: 2
     sell:
-      quantity: 1
+      quantity: 2
       price: 5
-  - name: Common Incense
+  - name: Basic Barricade
     buy: 
       price: 2
     sell:
-      quantity: 1
+      quantity: 2
       price: 5
+# Basic Resource - 5 Available for 3 leaves each, buy for 2 leaves
+# Common Forging Resources - 5 Available for 7 leaves, buy for 4 leaves
+# Common Alchemy Resources - None Available, buy for 4 leaves
+# Common Enchanting Resources - None Available, buy for 4 leaves
+# Rare Resources - None Available, buy for 8 leaves
+
+# Common One Handed Weapon - 2 Available for 8 leaves each, buy for 6 leaves
+# Common Two Handed Weapon - 2 Available for 8 leaves each, buy for 6 leaves
+# Dwarven Ale - 2 Available for 20 leaves each, buy for 15 leaves
+# Common Shield - 2 Available for 8 leaves each, buy for 6 leaves
 ---
 
-Dwarf Goods List
-Basic Resource - 5 Available for 3 leaves each, buy for 2 leaves
-Common Forging Resources - 5 Available for 7 leaves, buy for 4 leaves
-Common Alchemy Resources - None Available, buy for 4 leaves
-Common Enchanting Resources - None Available, buy for 4 leaves
-Rare Resources - None Available, buy for 8 leaves
-Common One Handed Weapon - 2 Available for 8 leaves each, buy for 6 leaves
-Common Two Handed Weapon - 2 Available for 8 leaves each, buy for 6 leaves
-Dwarven Ale - 2 Available for 20 leaves each, buy for 15 leaves
-Common Shield - 2 Available for 8 leaves each, buy for 6 leaves
-Basic Lock - 2 Available for 5 leaves each, buy for 2 leaves
-Basic Barricade - 2 Available for 5 leaves each, buy for 2 leaves
+
+

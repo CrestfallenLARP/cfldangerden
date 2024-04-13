@@ -65,6 +65,7 @@ items:
     sell:
       quantity: 1
       price: 5
+Investments: 606
 ---
 
 Basic Resource - 25 Available for 3 leaves, buy for 2 leaves
