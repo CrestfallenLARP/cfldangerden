@@ -138,7 +138,7 @@ menu:
     - name: Tags 
       pre: <i class="fa-solid fa-tags"></i>
       weight: 50
-      url: '/items'
+      url: '/tags'
     - name: Equipment  
       pre: <i class="fa-solid fa-wrench"></i>
       weight: 60

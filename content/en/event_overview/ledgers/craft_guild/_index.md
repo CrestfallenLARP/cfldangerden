@@ -48,16 +48,28 @@ items:
       price: 8
   - name: Common Armor
     buy: 
-      price: 2
+      price: 6
     sell:
       quantity: 1
-      price: 5
+      price: 8
   - name: Common Shield
     buy: 
-      price: 2
+      price: 6
     sell:
       quantity: 1
-      price: 5
+      price: 8
+  - name:  Potion of Healing
+    buy: 
+      price: 8
+    sell:
+      quantity: 2
+      price: 10
+  - name: Potion of Stabilization
+    buy: 
+      price: 6
+    sell:
+      quantity: 1
+      price: 8
   - name: Common Spellbook
     buy: 
       price: 2
@@ -70,7 +82,6 @@ items:
     sell:
       quantity: 1
       price: 5
-
 ---
 
 
