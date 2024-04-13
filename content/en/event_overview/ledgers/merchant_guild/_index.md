@@ -13,8 +13,8 @@ resources:
         price: 2
     common_enchanting:
       sell:
-        quantity: 1
-        price: 7
+        quantity: 10
+        price: 6
       buy:
         price: 4
     common_forging:
@@ -25,22 +25,22 @@ resources:
         price: 4
     common_alchemy:
       sell:
-        quantity: 1
-        price: 7
+        quantity: 10
+        price: 6
       buy:
         price: 4
     rare:
       sell:
         quantity: 0
       buy:
-        price: 8
+        price: 10
 items:
   - name: Tools of Repair
     buy: 
-      price: 2
-    sell:
-      quantity: 1
       price: 5
+    sell:
+      quantity: 2
+      price: 10
   - name: Alchemy Lab
     buy: 
       price: 10
@@ -64,7 +64,7 @@ items:
       price: 10
     sell:
       quantity: 1
-      price: 10
+      price: 20
 Investments: 606
 ---
 
