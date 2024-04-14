@@ -23,58 +23,52 @@ resources:
 items:
   - name: Common One Handed Weapon
     buy: 
-      price: 2
+      price: 6
     sell:
       quantity: 1
-      price: 5
+      price: 8
   - name: Common Two Handed Weapon
     buy: 
-      price: 2
+      price: 6
     sell:
       quantity: 1
-      price: 5
+      price: 8
   - name: Potion of Healing
     buy: 
-      price: 2
+      price: 8
     sell:
-      quantity: 1
-      price: 5
+      quantity: 2
+      price: 10
   - name: Potion of Remove Entangle 
     buy: 
-      price: 2
+      price: 8
     sell:
       quantity: 1
-      price: 5
+      price: 10
   - name: Potion of Remove Hex 
     buy: 
-      price: 2
+      price: 12
     sell:
-      quantity: 1
-      price: 5
-  - name: Potion of Mended Limb 
+      quantity: 2
+      price: 15
+  - name: Potion of Mended Limb
     buy: 
-      price: 2
+      price: 12
     sell:
       quantity: 1
-      price: 5
-  - name: Common Shield
+      price: 15
+  - name: Potion of Remove Charm
     buy: 
-      price: 2
+      price: 8
     sell:
       quantity: 1
-      price: 5
-  - name: Common Spellbook
-    buy: 
-      price: 2
-    sell:
-      quantity: 1
-      price: 5
+      price: 10
   - name: Potion of Stabilization
     buy: 
-      price: 2
+      price: 6
     sell:
       quantity: 1
-      price: 5
+      price: 8
 rank: 
   - Orgim - 2
   - Toulash - 2

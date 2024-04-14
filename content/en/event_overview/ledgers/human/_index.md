@@ -4,15 +4,6 @@ layout: ledger_detail
 cascade:
   layout: job
   faction: Human
-# Basic Resource - 10 Available for 3 leaves each, buy for 2 leaves
-
-# Common Forging Resources - None Available, buy for 4 leaves
-
-# Common Alchemy Resources - None Available, buy for 4 leaves
-
-# Common Enchanting Resources - None Available, buy for 4 leaves
-
-# Rare Resources - None Available, buy for 8 leaves
 resources:
     basic:
       sell:
@@ -20,10 +11,13 @@ resources:
         price: 3
       buy:
         price: 2
-    common:
-      sell:
-        quantity: 1
-        price: 7
+    common_enchanting:
+      buy:
+        price: 4
+    common_alchemy:
+      buy:
+        price: 4
+    common_forging:
       buy:
         price: 4
     rare:
@@ -34,37 +28,37 @@ resources:
 items:
   - name: Common Firearm
     buy: 
-      price: 2
+      price: 6
     sell:
       quantity: 1
-      price: 5
+      price: 8
   - name: Common Alcohol
     buy: 
-      price: 2
+      price: 6
     sell:
       quantity: 1
-      price: 5
+      price: 8
   - name: Weapon of Cowardice 
     buy: 
-      price: 2
+      price: 15
     sell:
       quantity: 1
-      price: 5
+      price: 20
   - name: Wand of 10 Stone
     buy: 
-      price: 2
+      price: 3
     sell:
       quantity: 1
       price: 5
   - name: Wand of Charm
     buy: 
-      price: 2
+      price: 3
     sell:
       quantity: 1
       price: 5
   - name: Wand of Natural Weapon
     buy: 
-      price: 2
+      price: 3
     sell:
       quantity: 1
       price: 5
@@ -76,28 +70,16 @@ items:
       price: 5
   - name: Wand of 10 Harm
     buy: 
-      price: 2
-    sell:
-      quantity: 1
-      price: 5
-  - name: Wand of Weakness
-    buy: 
-      price: 2
+      price: 3
     sell:
       quantity: 1
       price: 5
   - name: Any Healing Item
     buy: 
-      price: 2
-    sell:
-      quantity: 1
-      price: 5
+      price: buy for 2 leaves per 5 points of healing
   - name: Any 5 Damage Wand 
     buy: 
       price: 2
-    sell:
-      quantity: 1
-      price: 5
   - name: Any 10 Damage Wand 
     buy: 
       price: 3
