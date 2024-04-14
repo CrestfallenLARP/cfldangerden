@@ -4,7 +4,6 @@
 {{- $props := index .Site.Data "props" }}
 {{- $props := $props.props}}
 
-tomato
 {{ range $props }}
             <h2>{{ .name }}</h2>
                 <p><b>quantity: </b>{{ .quantity }}</p>
