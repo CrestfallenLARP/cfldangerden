@@ -67,6 +67,8 @@ items:
       price: 5
 research_library:
  - Ice Motes
+rank:
+  - Oz (#5) - 10
 ---
 
 ## Services

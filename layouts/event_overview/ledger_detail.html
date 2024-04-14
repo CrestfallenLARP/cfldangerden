@@ -53,6 +53,11 @@
 {{- if eq .Title "Research Guild" }}
 <div id="Research Library"><h2>Research Library</h2>
 <p>The Research Guild maintains the Research Library which houses all publicly available Research Documents granted via the Research Skills as well as Plot In Game Documents and Character created documents. Some documents found in this Library are confirmed to be accurate with the game world by the plot staff and will be clearly marked as such. Characters may submit documentation to the Research Library for payment as well as possible advancement with the guild. Researchers will be paid 2 leaves per page (8.5x11 paper, double spaced, 12 font standard) submitted. This price will be doubled for any document that is verified as accurate from plot prior to submission. The Research Library may be rented at 5 leaves per hour, with the rental cost being reduced by guild membership and rank within the guild.</p>
+<ul>
+{{ range .Params.research_library }}
+<li>{{ . }}</li>
+{{ end }}
+</ul>
 {{ end }}
 
 {{- if eq .Title "Craft Guild" }}
