@@ -69,14 +69,9 @@ research_library:
  - Ice Motes
 rank:
   - Oz (#5) - 10
+services:
+  - Assist with Trap/Puzzle - 5 leaves
+  - Analysis of Item - 10 leaves
+  - Remove Condition - 20 leaves
+  - Heal Wounds/Stabilize - 5 leaves
 ---
-
-## Services
-
-Assist with Trap/Puzzle - 5 leaves
-
-Analysis of Item - 10 leaves
-
-Remove Condition - 20 leaves
-
-Heal Wounds/Stabilize - 5 leaves

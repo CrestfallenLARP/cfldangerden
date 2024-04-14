@@ -65,14 +65,8 @@ items:
       price: 15
 rank:
   - Valen - 2
+services:
+ - Remove Bleed - 5 leaves
+ - Poison Blade - 15 leaves
+ - Repair Limb - 5 leaves
 ---
-
-
-
-## Services 
-
-Remove Bleed - 5 leaves
-
-Poison Blade - 15 leaves
-
-Repair Limb - 5 leaves

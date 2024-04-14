@@ -26,6 +26,17 @@
 {{ range .Params.items }}
 <p><b>{{ .name }}</b> <i>Sell({{ .sell.quantity }}x {{- if .sell.durability }} - {{ .sell.durability }}) durability {{ end }}) </i> {{ .sell.price }} Leaves <i>Buy</i> {{ .buy.price }} Leaves</p>
 {{ end }}
+{{ if .Params.services }}
+
+<div id="Services"><h2>Services</h2>
+<ul>
+{{ range .Params.services }}
+<li>{{ . }}</li>
+{{ end }}
+</ul>
+{{ end }}
+
+
 {{- if eq .Title "Merchant Guild" }}
 <div id="The Bank"><h2>The Bank</h2>
 <p>The Merchants Guild maintains the Bank. Characters can store their leaves in the Bank to ensure its safety. In addition to this service, the Bank offers loans to characters. The bank will loan leaves in increments of 10 at the rate of 1 leaf interest per event. (example: Your character borrows 30 leaves from the bank. If you pay this loan back during the same event, you must repay 33 leaves. If you repay the following event, you must repay 36 leaves….39…42…45, etc.) If a character ever reaches an amount owed of two times what was borrowed, the character may be put up for bounty to the Thieves Guild. These amounts may change, but will be detailed in the Merchants Guild folder.</p>
