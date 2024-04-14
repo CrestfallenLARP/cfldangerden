@@ -1,6 +1,7 @@
 ---
-title: "Items"
+title: "Tags"
 weight: 20
+layout: single
 ---
 
 [items](/tags/items)
