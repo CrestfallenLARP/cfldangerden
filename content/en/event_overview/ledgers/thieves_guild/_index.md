@@ -53,17 +53,18 @@ items:
       price: 5
   - name: Entangle Foot Bag
     buy: 
-      price: 2
-    sell:
-      quantity: 1
       price: 5
+    sell:
+      quantity: 2
+      price: 10
   - name: Entangle Body Bag
     buy: 
-      price: 2
+      price: 7
     sell:
       quantity: 1
-      price: 5
-
+      price: 15
+rank:
+  - Valen - 2
 ---
 
 
