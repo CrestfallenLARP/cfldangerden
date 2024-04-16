@@ -9,3 +9,5 @@ layout: single
 [projects](/tags/projects)
 
 [resources](/tags/resources)
+
+[spells](/tags/spells)
