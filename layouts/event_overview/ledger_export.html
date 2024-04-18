@@ -1,10 +1,15 @@
-{{ define "main" }}
 {{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ $event_ledgers := where $event_pages ".Params.layout" "ledger_detail" }}
+
+{{ $schedules := (slice "opening" "mid event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "ending" ) }}
+
 {{- $project_design_refrence := index .Site.Data "project_design_refrence" }}
 {{- $project_design_refrence := $project_design_refrence.projects }}
-
+{{ $ledgers := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) }}
 {{- .Render "content" -}}
 
+{{ range $event_ledgers }}
+<h1>{{.Params.title }}</h1>
 <div id="Jobs"><h2>Jobs</h2>
     {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "job" ) -}}
 <p><b><a href="{{ .Permalink }}"> {{.Title }} </a></b>{{ .Params.post }} <b>Reward </b>{{ .Params.reward }}</p>
@@ -89,7 +94,4 @@
 <li>{{ . }}</li>
 {{ end }}
 </ul>
-
-
-
 {{ end }}
