@@ -316,3 +316,88 @@ items:
     date: 11/20/22
     resource_points: 8 Basic, 4 Common Alchemy
     effects: 1 loss of durability and 3 second acting of wafting under targets nose grants...Remove Sleep.
+basic_build_items:
+  - name: Alchemical Grenade
+    prop: Spell Ammo
+    durability: Basic Build
+    type: Alchemy
+    effects: A character may throw a ranged attack with the verbal of “5 damage”.
+    effects_markdown: A character may throw a ranged attack with the verbal of “5 damage”.
+  - name: Alchemical Flashbang
+    prop: Spell Ammo
+    durability: Basic Build
+    type: Alchemy
+    effects: A character may throw a ranged attack with the verbal of “Knockback”.
+    effects_markdown: A character may throw a ranged attack with the verbal of “Knockback”.
+  - name: Tangle Bag
+    prop: Spell Ammo
+    durability: Basic Build
+    type: Alchemy
+    effects: A character may throw a ranged attack with the verbal of “Entangle Foot”.
+    effects_markdown: A character may throw a ranged attack with the verbal of “Entangle Foot”.
+  - name: Alcohol
+    prop: Potion Bottle
+    durability: Basic Build
+    type: Alchemy
+    effects: A character may drink or grant another a drink that grants the Distracted effect.
+    effects_markdown: A character may drink or grant another a drink that grants the Distracted effect.
+  - name: Healing Potion
+    prop: Potion Bottle
+    durability: Basic Build
+    type: Enchanting
+    effects: A character may drink or be fed this potion with the verbal of “5 healing”.
+    effects_markdown: A character may drink or be fed this potion with the verbal of “5 healing”.
+  - name: Heartiness Potion
+    prop: Potion Bottle
+    durability: Basic Build
+    type: Enchanting
+    effects: A character may drink or be fed this potion with the verbal of “5 Body” This potion grants 5 additional Body points which are lost before costuming and normal Body points. A character may only have additional Body points from one source at a time. The highest value takes precedence.
+    effects_markdown: A character may drink or be fed this potion with the verbal of “5 Body” This potion grants 5 additional Body points which are lost before costuming and normal Body points. A character may only have additional Body points from one source at a time. The highest value takes precedence.
+  - name: Enchanted Armor Wand
+    prop: Wand Prop and Spell Ammo
+    durability: Basic Build
+    type: Enchanting
+    effects: A character may touch Spell Ammo to a Wand Prop while using the verbal “5 Enchanted Armor”. The caster may then snap the Wand Prop and throw or touch the Spell Ammo to a target. This grants the target 5 additional Armor points if they are already wearing armor. They may use these additional points over the maximum amount granted by the Wear Armor skill. A character may only have additional Armor points from one source at a time. The highest value takes precedence.
+    effects_markdown: A character may touch Spell Ammo to a Wand Prop while using the verbal “5 Enchanted Armor”. The caster may then snap the Wand Prop and throw or touch the Spell Ammo to a target. This grants the target 5 additional Armor points if they are already wearing armor. They may use these additional points over the maximum amount granted by the Wear Armor skill. A character may only have additional Armor points from one source at a time. The highest value takes precedence.
+  - name: Mana Potion
+    prop: Potion Bottle
+    durability: Basic Build
+    type: Enchanting
+    effects: A character may drink or be fed this potion with the verbal of “1 Energy”. This potion grants 1 Energy to the character who drinks it. A character may only drink 5 Mana Potions per event.
+    effects_markdown: A character may drink or be fed this potion with the verbal of “1 Energy”. This potion grants 1 Energy to the character who drinks it. A character may only drink 5 Mana Potions per event.
+  - name: Mana Potion
+    prop: Potion Bottle
+    durability: Basic Build
+    type: Enchanting
+    effects: A character may drink or be fed this potion with the verbal of “1 Energy”. This potion grants 1 Energy to the character who drinks it. A character may only drink 5 Mana Potions per event.
+    effects_markdown: A character may drink or be fed this potion with the verbal of “1 Energy”. This potion grants 1 Energy to the character who drinks it. A character may only drink 5 Mana Potions per event.
+  - name: One Handed Weapon
+    prop: One Handed Weapon under 46” (116.84 Cm)
+    durability: Basic Build
+    type: Forging
+    effects: A character may use any One Handed Weapon that fits the appropriate size and safety requirements. These weapons are put on to the character sheet and are destroyed with a Break or Destroy Condition.
+    effects_markdown: A character may use any One Handed Weapon that fits the appropriate size and safety requirements. These weapons are put on to the character sheet and are destroyed with a Break or Destroy Condition.
+  - name: Two Handed Weapon
+    prop: Two Handed Weapon 46.1” to 75” (190.5 Cm)
+    durability: Basic Build
+    type: Forging
+    effects: A character may use any Two Handed Weapon that fits the appropriate size and safety requirements. These weapons are put on to the character sheet and are destroyed with a Break or Destroy Condition.
+    effects_markdown: A character may use any Two Handed Weapon that fits the appropriate size and safety requirements. These weapons are put on to the character sheet and are destroyed with a Break or Destroy Condition.
+  - name: Ranged Weapon
+    prop: Any Thrown Weapon (Small/Coreless), Crossbow Min/Max Dimension 12”/24” (30.48Cm/60.96 Cm) or Bow Min/Max Length 34”/44” (86.36Cm/111.76Cm)
+    durability: Basic Build
+    type: Forging
+    effects: A character may use any Ranged Weapon that fits the appropriate size and safety requirements. These weapons are put on to the character sheet, and are destroyed with a Break or Destroy Condition.
+    effects_markdown: A character may use any Ranged Weapon that fits the appropriate size and safety requirements. These weapons are put on to the character sheet, and are destroyed with a Break or Destroy Condition.
+  - name: Shield and/or Buckler Shield
+    prop: hield Maximum 36” (91.44 Cm) Tall at longest dimension. Maximum 24” (60.96 Cm) Wide at longest dimension shield. Buckler Maximum 20” diameter.
+    durability: Basic Build
+    type: Forging
+    effects:  May Hold or Strap to Arm - A character may use any Shield that fits the appropriate size and safety requirements. These shields are put on to the character sheet and are destroyed with a Break or Destroy Condition.
+    effects_markdown:  May Hold or Strap to Arm - A character may use any Shield that fits the appropriate size and safety requirements. These shields are put on to the character sheet and are destroyed with a Break or Destroy Condition.
+  - name: Armor
+    prop: Armor Prop Evaluated By Staff
+    durability: Basic Build
+    type: Forging
+    effects: A character may use any Armor that fits the appropriate size and safety requirements. This armor is put on to the character sheet and is destroyed with a Break or Destroy Condition.
+    effects_markdown: A character may use any Armor that fits the appropriate size and safety requirements. This armor is put on to the character sheet and is destroyed with a Break or Destroy Condition.
