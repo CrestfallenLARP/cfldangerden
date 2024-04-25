@@ -34,7 +34,7 @@
 {{ end}}
 
 {{ range .Params.items }}
-<p><b>{{ .name }}</b> {{ if .sell.quantity }}<i>Sell({{ .sell.quantity }}x {{- if .sell.durability }} - {{ .sell.durability }}) durability {{ end }}) </i> {{ .sell.price }} Leaves {{ end }} <i>Buy</i> {{ .buy.price }} Leaves</p>
+<p><b>{{ .name }}</b> {{ if .sell.quantity }}<i>Sell({{ .sell.quantity }}x {{- if .sell.durability }} - {{ .sell.durability }}) durability {{ end }}</i> {{ .sell.price }} Leaves {{ end }} <i>Buy</i> {{ .buy.price }} Leaves</p>
 {{ if .sell.quantity  }}<p>{{ range seq .sell.quantity }}☐{{end}}</p>{{ end }}
 {{ end }}
 
