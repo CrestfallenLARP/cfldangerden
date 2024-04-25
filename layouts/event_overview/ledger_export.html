@@ -12,7 +12,7 @@
 <h1>{{.Params.title }}</h1>
 <div id="Jobs"><h2>Jobs</h2>
     {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "job" ) -}}
-<p><b><a href="{{ .Permalink }}"> {{.Title }} </a></b>{{ .Params.post }} <b>Reward </b>{{ .Params.reward }}</p>
+<p><b> {{.Title }} </b>{{ .Params.post }} <b>Reward </b>{{ .Params.reward }}</p>
     {{- end -}}
 </div>
 
