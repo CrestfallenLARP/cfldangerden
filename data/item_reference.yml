@@ -390,11 +390,11 @@ basic_build_items:
     effects: A character may use any Ranged Weapon that fits the appropriate size and safety requirements. These weapons are put on to the character sheet, and are destroyed with a Break or Destroy Condition.
     effects_markdown: A character may use any Ranged Weapon that fits the appropriate size and safety requirements. These weapons are put on to the character sheet, and are destroyed with a Break or Destroy Condition.
   - name: Shield and/or Buckler Shield
-    prop: hield Maximum 36” (91.44 Cm) Tall at longest dimension. Maximum 24” (60.96 Cm) Wide at longest dimension shield. Buckler Maximum 20” diameter.
+    prop: Shield Maximum 36” (91.44 Cm) Tall at longest dimension. Maximum 24” (60.96 Cm) Wide at longest dimension shield. Buckler Maximum 20” diameter.
     durability: Basic Build
     type: Forging
-    effects:  May Hold or Strap to Arm - A character may use any Shield that fits the appropriate size and safety requirements. These shields are put on to the character sheet and are destroyed with a Break or Destroy Condition.
-    effects_markdown:  May Hold or Strap to Arm - A character may use any Shield that fits the appropriate size and safety requirements. These shields are put on to the character sheet and are destroyed with a Break or Destroy Condition.
+    effects: May Hold or Strap to Arm - A character may use any Shield that fits the appropriate size and safety requirements. These shields are put on to the character sheet and are destroyed with a Break or Destroy Condition.
+    effects_markdown: May Hold or Strap to Arm - A character may use any Shield that fits the appropriate size and safety requirements. These shields are put on to the character sheet and are destroyed with a Break or Destroy Condition.
   - name: Armor
     prop: Armor Prop Evaluated By Staff
     durability: Basic Build

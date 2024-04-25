@@ -10,8 +10,7 @@
             <h2>{{ .name }}</h2>
                 <p><b>Prop: </b>{{ .prop }}</p>
                 <p><b>Type: </b>{{ .type }}</p>
-                <p><b>Durability: </b>{{ .durability }}</p>
-                <p><b>Project Design: </b> </p>
+                <p><b>Durability: </b>Basic build items last for the duration of the event, until used, or until destroyed. A Break effect destroys a basic build item. These items are marked on the character sheet and cannot be traded between characters after creation.</p>
                 <p><b>Effects: </b>{{ if .effects_markdown }}{{ .effects_markdown | markdownify }}{{else}}{{ .effects }}{{ end }}</p>
 {{ end }}
 <hr>

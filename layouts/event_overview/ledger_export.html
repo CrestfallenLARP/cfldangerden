@@ -18,9 +18,14 @@
 
 <div id="Resources"><h2>Resources</h2>
 <p><b>Basic</b> {{ if .Params.resources.basic.sell.quantity }}<i>Sell({{ .Params.resources.basic.sell.quantity }}x)</i>  {{ .Params.resources.basic.sell.price }} leaves {{ end }}{{ if .Params.resources.basic.buy.price }}<i>Buy</i> {{ .Params.resources.basic.buy.price }} leaves{{ end }}</p>
+{{ if .Params.resources.basic.sell.quantity }}<p>{{ range seq .Params.resources.basic.sell.quantity }}☐{{end}}</p>{{ end }}
+
 <p><b>Common Forging </b>{{ if .Params.resources.common_forging.sell.quantity }}<i>Sell({{ .Params.resources.common_forging.sell.quantity }}x)</i> {{ .Params.resources.common_forging.sell.price }} leaves {{ end }} {{ if .Params.resources.common_forging.buy.price }}<i>Buy</i> {{ .Params.resources.common_forging.buy.price }} leaves{{ end }}</p>
+{{ if .Params.resources.common_forging.sell.quantity }}<p>{{ range seq .Params.resources.common_forging.sell.quantity }}☐{{end}}</p>{{ end }}
 <p><b>Common Alchemy </b>{{ if .Params.resources.common_alchemy.sell.quantity }}<i>Sell({{ .Params.resources.common_alchemy.sell.quantity }}x)</i> {{ .Params.resources.common_alchemy.sell.price }} leaves {{ end }} {{ if .Params.resources.common_alchemy.buy.price }}<i>Buy</i> {{ .Params.resources.common_alchemy.buy.price }} leaves{{ end }}</p>
+{{ if .Params.resources.common_alchemy.sell.quantity }}<p>{{ range seq .Params.resources.common_alchemy.sell.quantity }}☐{{end}}</p>{{ end }}
 <p><b>Common Enchanting </b>{{ if .Params.resources.common_enchanting.sell.quantity }} <i>Sell({{ .Params.resources.common_enchanting.sell.quantity }}x)</i> {{ .Params.resources.common_enchanting.sell.price }} leaves {{ end }}{{ if .Params.resources.common_enchanting.buy.price }} <i>Buy</i> {{ .Params.resources.common_enchanting.buy.price }} leaves {{ end }}</p>
+{{ if .Params.resources.common_enchanting.sell.quantity }}<p>{{ range seq .Params.resources.common_enchanting.sell.quantity }}☐{{end}}</p>{{ end }}
 <p><b>Rare</b> {{ if .Params.resources.rare.buy.price }}<i>Buy</i> {{ .Params.resources.rare.buy.price }} leaves {{ end }}</p>
 
 <div id="Goods"><h2>Goods</h2>
@@ -29,7 +34,8 @@
 {{ end}}
 
 {{ range .Params.items }}
-<p><b>{{ .name }}</b> <i>Sell({{ .sell.quantity }}x {{- if .sell.durability }} - {{ .sell.durability }}) durability {{ end }}) </i> {{ .sell.price }} Leaves <i>Buy</i> {{ .buy.price }} Leaves</p>
+<p><b>{{ .name }}</b> {{ if .sell.quantity }}<i>Sell({{ .sell.quantity }}x {{- if .sell.durability }} - {{ .sell.durability }}) durability {{ end }}) </i> {{ .sell.price }} Leaves {{ end }} <i>Buy</i> {{ .buy.price }} Leaves</p>
+{{ if .sell.quantity  }}<p>{{ range seq .sell.quantity }}☐{{end}}</p>{{ end }}
 {{ end }}
 
 {{ if .Params.services }}
