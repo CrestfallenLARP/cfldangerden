@@ -6,7 +6,7 @@ author: Brittney Perry
 reviewer: 
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
-schedule: saturday early evening
+schedule: saturday early afternoon
 weight: 7 
 plotline: Gnoll- Main 
 requirements: The Breaking Ritual complete or interupted.
