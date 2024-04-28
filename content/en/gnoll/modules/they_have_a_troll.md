@@ -7,7 +7,7 @@ reviewer:
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
 schedule: saturday early afternoon
-weight: 7 
+weight: 8 
 plotline: Gnoll- Main 
 requirements: The Breaking Ritual complete or interupted.
 
