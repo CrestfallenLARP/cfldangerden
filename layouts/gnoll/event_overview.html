@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ $event_pages := where $.Site.Pages "Section" .Section }}
-{{ $schedules := (slice "opening" "mid event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "saturday morning" "reaction" "tavern setup" "townsfolk" "randoms" nil "ending" ) }}
+{{ $schedules := (slice "opening" "mid event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "sunday morning" "reaction" "tavern setup" "townsfolk" "randoms" nil "ending" ) }}
 {{ $ledgers := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) }}
 {{ $recap_pages := where $event_pages "Layout" "==" "recap" }}
 {{ $recap_pages := sort $recap_pages ".Params.date" "desc" }}
