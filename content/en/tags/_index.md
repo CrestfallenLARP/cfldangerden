@@ -2,12 +2,13 @@
 title: "Tags"
 weight: 20
 layout: single
+
 ---
 
-[items](/tags/items)
+- [items]("/tags/items")
 
-[projects](/tags/projects)
+- [projects]("/tags/projects")
 
-[resources](/tags/resources)
+- [resources]("/tags/resources")
 
-[spells](/tags/spells)
+- [spells]("/tags/spells")
