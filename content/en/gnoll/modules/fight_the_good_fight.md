@@ -6,7 +6,7 @@ author: Brittney Perry
 reviewer: 
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
-schedule: 
+schedule: saturday early evening
 weight: 11
 plotline: Gnoll- Main
 requirements: 
