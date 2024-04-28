@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ .Render "content" }}
+
+{{- $item_reference := index .Site.Data "item_reference" }}
+{{- $item_reference_items := $item_reference.items}}
+{{- $items_to_distribute := $.Params.items_to_distribute }}
+
+
+
+
+{{ $total_items := 0 }}
+{{ range $items_to_distribute }} 
+{{ $current_item := . }} 
+
+    {{ range $item_reference_items }}
+        {{ $reference_item := .name }} 
+        {{ if eq $reference_item $current_item }} 
+            {{ $total_items = add $total_items  1 }}
+            <h2>{{ .name }}</h2>
+                <p><b>Prop: </b>{{ .prop }}</p>
+                <p><b>Type: </b>{{ .type }}</p>
+                <p><b>Durability: </b>{{ .durability }}</p>
+                <p><b>Effects: </b>{{ if .effects_markdown }}{{ .effects_markdown | markdownify }}{{else}}{{ .effects }}{{ end }}</p>
+        {{- end -}}
+        {{ end }}
+{{ end }}
+<hr>
+<p> {{ $total_items  }}  {{ len $items_to_distribute  }} items to distribute. 36 cards per sheet. </p>
+<hr>
+{{ with  .OutputFormats.Get "json" -}}
+  <a href="{{ .Permalink  | absURL }}"><img src="/images/logos/json.png" alt="ICS Calendar File" style="height:48px;"></a>
+{{- end }}
+ </p>
+
+{{- end }}

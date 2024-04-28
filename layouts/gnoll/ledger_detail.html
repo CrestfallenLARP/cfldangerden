@@ -1,0 +1,95 @@
+{{ define "main" }}
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{- $project_design_refrence := index .Site.Data "project_design_refrence" }}
+{{- $project_design_refrence := $project_design_refrence.projects }}
+
+{{- .Render "content" -}}
+
+<div id="Jobs"><h2>Jobs</h2>
+    {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "job" ) -}}
+<p><b><a href="{{ .Permalink }}"> {{.Title }} </a></b>{{ .Params.post }} <b>Reward </b>{{ .Params.reward }}</p>
+    {{- end -}}
+</div>
+
+<div id="Resources"><h2>Resources</h2>
+<p><b>Basic</b> {{ if .Params.resources.basic.sell.quantity }}<i>Sell({{ .Params.resources.basic.sell.quantity }}x)</i>  {{ .Params.resources.basic.sell.price }} leaves {{ end }}{{ if .Params.resources.basic.buy.price }}<i>Buy</i> {{ .Params.resources.basic.buy.price }} leaves{{ end }}</p>
+<p><b>Common Forging </b>{{ if .Params.resources.common_forging.sell.quantity }}<i>Sell({{ .Params.resources.common_forging.sell.quantity }}x)</i> {{ .Params.resources.common_forging.sell.price }} leaves {{ end }} {{ if .Params.resources.common_forging.buy.price }}<i>Buy</i> {{ .Params.resources.common_forging.buy.price }} leaves{{ end }}</p>
+<p><b>Common Alchemy </b>{{ if .Params.resources.common_alchemy.sell.quantity }}<i>Sell({{ .Params.resources.common_alchemy.sell.quantity }}x)</i> {{ .Params.resources.common_alchemy.sell.price }} leaves {{ end }} {{ if .Params.resources.common_alchemy.buy.price }}<i>Buy</i> {{ .Params.resources.common_alchemy.buy.price }} leaves{{ end }}</p>
+<p><b>Common Enchanting </b>{{ if .Params.resources.common_enchanting.sell.quantity }} <i>Sell({{ .Params.resources.common_enchanting.sell.quantity }}x)</i> {{ .Params.resources.common_enchanting.sell.price }} leaves {{ end }}{{ if .Params.resources.common_enchanting.buy.price }} <i>Buy</i> {{ .Params.resources.common_enchanting.buy.price }} leaves {{ end }}</p>
+<p><b>Rare</b> {{ if .Params.resources.rare.buy.price }}<i>Buy</i> {{ .Params.resources.rare.buy.price }} leaves {{ end }}</p>
+
+<div id="Goods"><h2>Goods</h2>
+{{- if eq .Title "Kinfolk" }}
+<p>The kinfolk goods list is unique as they find all of these items partially used from the trash and scavenged from the dead. The only ones that are not scavenged are items donated to them or crafted by them.</p>
+{{ end}}
+
+{{ range .Params.items }}
+<p><b>{{ .name }}</b> <i>Sell({{ .sell.quantity }}x {{- if .sell.durability }} - {{ .sell.durability }}) durability {{ end }}) </i> {{ .sell.price }} Leaves <i>Buy</i> {{ .buy.price }} Leaves</p>
+{{ end }}
+
+{{ if .Params.services }}
+<div id="Services"><h2>Services</h2>
+<ul>
+{{ range .Params.services }}
+<li>{{ . }}</li>
+{{ end }}
+</ul>
+{{ end }}
+
+
+{{- if eq .Title "Merchant Guild" }}
+<div id="The Bank"><h2>The Bank</h2>
+<p>The Merchants Guild maintains the Bank. Characters can store their leaves in the Bank to ensure its safety. In addition to this service, the Bank offers loans to characters. The bank will loan leaves in increments of 10 at the rate of 1 leaf interest per event. (example: Your character borrows 30 leaves from the bank. If you pay this loan back during the same event, you must repay 33 leaves. If you repay the following event, you must repay 36 leaves….39…42…45, etc.) If a character ever reaches an amount owed of two times what was borrowed, the character may be put up for bounty to the Thieves Guild. These amounts may change, but will be detailed in the Merchants Guild folder.</p>
+<p><b>Total Available Investments</b> - {{ .Params.Investments }} Leaves</p>
+<p><b>Maximum Available Individual Loan Amount</b> - {{ div .Params.Investments 2 }} Leaves</p>
+<p><b>Current Loans Outstanding</b><p>
+<ul>
+<li>Oz (#5a)
+  <ul>
+   <li>Original Loan Amount: 358 leaves</li>
+   <li>Interest this event: 35 leaves</li>
+   <li>Total Remaining: 393</li>
+   <li>Bounty Commencement Total: 716</li>
+   </ul>
+</ul>
+</li>
+{{ end }}
+
+{{- if eq .Title "Thieves Guild" }}
+<div id="The Reserve"><h2>The Reserve</h2>
+<p>The Thieves Guild is in charge of handling the Reserve which houses emergency Resources and items. The Reserve has different items, availability, and rates depending on the skills and/or rank within the guild. Additionally, members may donate or sell items to the Reserve in order to advance within the guild. Rare Resources will NEVER be sold by plot unless they are found here.</p>
+
+<div id="Bounties"><h2>Bounties</h2>
+<p>Bounties are also handled by the Thieves Guild. These are contracts against player characters who have either failed to repay their debts to the Merchants Guild or broke an In Game Law (see The Laws Of The Inspired Of Katalossa for more details). These bounties are always optional to players (No PVP will intentionally be forced). These bounties are always structured in order to repay the characters debt and to prevent grief to the character at all costs. A member of the Thieves Guild will be authorized to subdue (never kill) the target character and retrieve the amount of leaves owed on the characters debt or a specific fine amount from their person. This amount is then returned to the Thieves Guild. The member may not keep any additional money from this bounty, otherwise they may lose access to the Bounty system and may lose status within the guild. A character will always be notified that a bounty is active against them prior to the bounty being available to members of the guild.</p>
+{{ end }}
+{{- if eq .Title "Research Guild" }}
+<div id="Research Library"><h2>Research Library</h2>
+<p>The Research Guild maintains the Research Library which houses all publicly available Research Documents granted via the Research Skills as well as Plot In Game Documents and Character created documents. Some documents found in this Library are confirmed to be accurate with the game world by the plot staff and will be clearly marked as such. Characters may submit documentation to the Research Library for payment as well as possible advancement with the guild. Researchers will be paid 2 leaves per page (8.5x11 paper, double spaced, 12 font standard) submitted. This price will be doubled for any document that is verified as accurate from plot prior to submission. The Research Library may be rented at 5 leaves per hour, with the rental cost being reduced by guild membership and rank within the guild.</p>
+<ul>
+{{ range .Params.research_library }}
+<li>{{ . }}</li>
+{{ end }}
+</ul>
+{{ end }}
+
+{{- if eq .Title "Craft Guild" }}
+<div id="Project Library"><h2>Project Library</h2>
+<p>The Craft Guild maintains the Project Library which houses all publicly available Approved Project Designs. When a member of the Craft Guild develops an Approved Project Design, they may sell the rights of the design to the guild. The guild will buy designs that use Basic and Common resources for 10 leaves and designs that use Rare resources for 20 leaves. Additionally, the guild will rent out designs in the Project Library for 5 leaves for Basic and Common resource designs and 10 leaves for rare resource designs. Advancement in the guild will grant members reduced costs on these rental rates. These amounts may change, but will be detailed in the Craft Guild folder.</p>
+<ul>
+{{ range where $project_design_refrence ".project_library" true }}
+  <li>{{ title .name }}</li>
+{{ end }}
+</ul>
+{{ end }}
+<div id="Ranks"><h2>Ranks</h2>
+<p>Character advancement within each organization is based on donations and modules completed. Every 10 leaves, 10 resources, 5 items or 1 module brought to a satisfactory completion will grant a character 1 point within the guild.</p>
+
+<ul>
+{{ range .Params.rank }}
+<li>{{ . }}</li>
+{{ end }}
+</ul>
+
+
+
+{{ end }}

@@ -1,0 +1,81 @@
+---
+title: Items
+weight: 5
+layout: items_to_distribute
+outputs:
+- html
+- json
+items_to_distribute: 
+- Basic Lock
+- Basic Barricade
+- Common Spices
+- Common Spellbook
+- Common Incense
+- Common Meal
+- Tools of Repair
+- Potion of Remove Entangle
+- Potion of Remove Hex
+- Potion of Remove Charm
+- Potion of Mended Limb
+- Potion of Stabilization
+- Entangle Body Bag
+- Entangle Arms Bag
+- Common Firearm
+- Injectable Adrenaline
+- Basic Mutation
+- Healing Salve
+- Healing Salve
+- Wind Up Mouse
+- Common Alcohol
+- Elven Wine
+- Dwarven Ale
+- Common Shield
+- Common Shield
+- Common Shield
+- Common Shield
+- Common Shield
+- Common Two Handed Weapon
+- Common Two Handed Weapon
+- Common Two Handed Weapon
+- Common Two Handed Weapon
+- Common Two Handed Weapon
+- Common One Handed Weapon
+- Common One Handed Weapon
+- Common One Handed Weapon
+- Common One Handed Weapon
+- Common One Handed Weapon
+- Common Armor
+- Common Armor
+- Common Armor
+- Common Armor
+- Common Armor
+- Ranged Weapon
+- Ranged Weapon
+- Common Alcohol
+- Elven Wine
+- Dwarven Ale
+- Tactical Firearm
+- Charged Firearm
+- Slick Armor
+- Time in a Bottle
+- Ring Tail Gloves
+- Spiced Whiskey
+- Common Healing Potion
+- Common Healing Potion
+- Common Alchemy Lab
+- Resting Cot
+- Common Enchanting Lab
+- Common Forge
+- Common Healing Potion
+- Common Healing Potion
+- Common Healing Potion
+- Common Healing Potion
+- Common Healing Potion
+- Common Healing Potion
+- Common Healing Potion
+- Common Healing Potion
+- Common Fire Wand
+- Common Ice Wand
+- Common Stone Wand
+- Common Lightning Wand
+---

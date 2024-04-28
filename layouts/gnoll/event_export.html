@@ -1,0 +1,157 @@
+{{- $event_pages := where $.Site.Pages "Section" .Section -}}
+{{- $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) -}}
+{{- $schedules := (slice "opening" "mid event" "ending" ) -}}
+
+{{ $recap_pages := sort $event_pages ".Params.date" "desc" }}
+{{ $last_recap := index $recap_pages 0 }}
+<p><b>Previous Event Recap</b>: {{ $last_recap.Params.recap }}</p>
+<b>Modules</b>
+
+
+{{ range  $schedules }}
+{{ $current_schedule := . }}
+{{ if sort (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
+<p><b>{{ title  $current_schedule }}{{ if eq $current_schedule  nil }} NO SCHEDULE!! {{ end }}</b>
+<b>({{ len (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) }}) </b>
+
+{{- if eq $current_schedule  nil -}}<p>Please add a schedule to your modules</p>{{- end -}}
+{{- range $index, $value := where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule -}}
+      {{- if (ne $index 0) -}}, {{ end }}
+       {{- title .Title -}}
+
+{{ end }}
+</p>
+{{ end }} 
+{{ end }}
+
+
+<!-- Print jobs by faction  -->
+
+<b>Jobs</b>
+{{ range  $factions }}
+{{ $current_faction := . }} 
+
+{{ if sort (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) "Params.weight" -}}
+<p><b>{{ title  $current_faction }}{{ if eq $current_faction  nil }} NO Faction on this Job!! {{ end }}</b>
+<b>({{ len (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) -}})</b>
+{{ end }}
+        {{ range $index, $value :=where (where $event_pages "Layout" "=="  "job" ) ".Params.faction" "=="  $current_faction -}}
+            {{ if (ne $index 0) }}, {{ end }}
+      {{ title .Title }}
+      {{ end }}
+</p>
+{{ end }}
+
+<p><s><b>Faction Goals</b></s>: One days don't have faction goals that are tracked because the cast changes creatures more often than during full weekend events</p>
+<p><b>Pioneer Cards</b>({{ len (where $event_pages "Layout" "==" "pioneer_card")  -}})</p>
+<p><b>Stockpiles</b> -- 
+ {{ range where $event_pages "Layout" "=="  "stockpile"  -}}
+     
+     <b>Small:</b> {{ if .Params.small }}{{ .Params.small }}{{else}}None{{ end }}
+      <b>Medium:</b> {{ if .Params.medium }}{{ .Params.medium }}{{else}}None{{ end }}
+      <b>Large:</b> {{ if .Params.large }}{{ .Params.large }}{{else}}None{{ end }}
+</p>
+ {{ end }}
+
+<!-- Loop over the timeslots  and print modules details one page at a time  -->
+
+<h2>Modules</h2>
+{{ range  $schedules }}
+    {{ $current_schedule := . }}    
+    {{- range $index, $value := where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule -}}
+    <!-- Print module details  -->
+{{- $module_title := .Title -}}
+      <h2>{{- title .Title -}}</h2>
+          <p><b>Schedule</b>: {{ title .Params.schedule }}</p>
+          <p><b>Brief</b>: {{ .Params.brief  -}}</p>
+          {{ if  .Params.props  -}}<p><b>Props</b>:{{ .Params.props  -}} {{ end }}
+          {{ if  .Params.summary  -}}<p><b>Summary</b>:  {{ .Params.summary  -}}</p>{{ end }}
+          <div id="roles"><p><b>Roles:</b> 
+            {{ if .Params.roles }}{{ .Params.roles }} {{ end }}
+            {{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
+            {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "national_monster_card" "role" ) -}}
+                {{ if (ne $index 0) }}, {{ end }}
+            {{ .Params.quantity | default "" -}}{{- if .Params.quantity }}X {{ end }} {{.Title}}
+        {{- end -}}
+        </div>
+
+    {{ end }}
+</p>
+{{ end }}
+{{ end }}
+
+   
+
+
+<h2>Jobs</h2>
+{{ $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) }}
+{{ range  $factions }}
+    {{ $current_faction := . }} 
+
+    {{ if sort (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) "Params.weight" -}}
+<h2>{{ title  $current_faction }}{{ if eq $current_faction  nil }} NO Faction on this Job!! {{ end }}
+      ({{ len (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) -}})</h2>
+{{ end }}
+        {{ range $index, $value :=where (where $event_pages "Layout" "=="  "job" ) ".Params.faction" "=="  $current_faction -}}
+               <h2><b>{{ title .Params.title }}</b></h2>
+               {{- $job_title := title .Params.title -}}
+               <p><b>Post</b>: {{ .Params.post  -}}</p>
+               <p><b>Reward</b>:  {{ .Params.reward  -}}</p>
+                {{ $props := (slice ) }}
+                {{ if .Params.props }}
+                {{ if not (reflect.IsSlice .Params.props)}}{{ $props = (slice .Params.props) }}
+                {{ else  }} {{ $props = append $props .Params.props }}
+                {{ end }}
+                <p><b>Props:</b> {{ delimit $props ", "}}</p> {{- end -}}
+                {{ if  .Params.summary  -}}<p><b>Summary</b>:  {{ .Params.summary  -}}</p>{{ end }}
+                </div>
+                {{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ))  (.Params.roles) -}} 
+                <div id="roles"><p><b>Roles:</b> 
+                {{ if .Params.roles }}{{ .Params.roles }} {{ end }}
+                {{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
+                    {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "national_monster_card" "role" ) -}}
+                {{ if (ne $index 0) }}, {{ end }}
+               {{ .Params.quantity | default "" -}}{{- if .Params.quantity }}X {{ end }} {{.Title}}
+                    {{- end -}}
+                {{ end }}
+                {{ end}}
+        </p>
+ <!-- Print roles for the module details  -->
+
+      {{ end }}
+</p>
+{{ end }}
+
+
+{{ range $index, $value := where $event_pages "Layout" "=="  "pioneer_card" -}}
+<h2>{{ add $index 1}} {{ title .Title }}</h2>
+<h3>Non Combat</h3>
+  <p><b>Post:</b>{{ .Params.non_combat.post }}</p>
+  <p><b>Reward:</b>{{ .Params.non_combat.reward }}</p>
+
+<h3>Combat</h3>
+  <p><b>Post:</b>{{ .Params.combat.post }}</p>
+  <p><b>Reward:</b>{{ .Params.combat.reward }}</p>
+{{ end }}
+
+<h2>Faction Goals</h2>
+<h3>Goblin</h3>
+<ul>
+{{ range .Params.faction_goals_goblin }}
+ <li>{{ . }} </li>
+{{ end }}
+</ul>
+<h3>Gnoll</h3>
+<ul>
+
+ {{ range .Params.faction_goals_gnoll  -}}
+   <li>{{ . }} </li>
+   {{ end }}
+</ul>
+
+<h3>Undead</h3>
+<ul>
+{{ range.Params.faction_goals_undead }}
+<li>{{ . }} </li>
+  {{ end }}
+</ul>

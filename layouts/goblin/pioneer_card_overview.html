@@ -1,0 +1,8 @@
+{{ define "main" }}
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+
+{{ .Render "content" }}
+        {{ range $index, $value := where $event_pages "Layout" "=="  "pioneer_card" -}}
+        <h2>{{ add $index 1}}</h2><p> <a href="{{- .Permalink -}}"> {{ title .Title }}</a></p>
+      {{ end }}
+{{ end }}

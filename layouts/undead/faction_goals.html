@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+
+{{ .Render "content" }}
+{{ $faction_pages := where $.Site.Pages ".Params.layout" "faction_overview" }}
+
+{{ range $faction_pages }} 
+<h2><a href="{{- .Permalink -}}">{{ .Params.title }}</a></h2>
+<ul>
+{{range .Params.faction_goals }}
+<li>{{ . }}</li>
+{{ end }}
+</ul>
+{{ end }}
+
+{{ end }}

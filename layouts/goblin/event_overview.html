@@ -1,0 +1,81 @@
+{{ define "main" }}
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ $schedules := (slice "opening" "mid event"  "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil "ending" ) }}
+{{ $ledgers := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) }}
+{{ $recap_pages := where $event_pages "Layout" "==" "recap" }}
+{{ $recap_pages := sort $recap_pages ".Params.date" "desc" }}
+{{ $event_overview := index $recap_pages 0 }}
+{{ $last_recap := index $recap_pages 1 }}
+
+<h2><a href="https://crestfallenlarp.com/schedule/events/20240419/">Event Page</a></h2>
+{{- .Render "content" -}}
+<h2 id="overview"><a href="{{ $event_overview.Permalink }}">  Event Overview</a></h2>
+{{ $event_overview.Params.recap | markdownify }}
+<a href="./recap"> <h2 id="recap">Previous Event Recap</h2></a>
+{{ $recap_pages := sort $event_pages ".Params.date" "desc" }}
+<p>{{ $last_recap.Params.recap | markdownify }}</p>
+<!-- Loop over the modules and print them one page at a time  module details  -->
+
+<a href="./modules"> <h2 id="modules">Modules</h2></a>
+
+{{ range  $schedules }}
+{{ $current_schedule := . }}
+
+{{ if sort (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
+<p><b>{{ title  $current_schedule }}{{ if eq $current_schedule  nil }} NO SCHEDULE!! {{ end }}</b>
+<b>({{ len (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) -}}</b>)
+
+{{ if eq $current_schedule  nil }}<p>Please add a schedule to your modules</p>{{ end }}
+{{ range $index, $value := where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule -}}
+      {{ if (ne $index 0) }}, {{ end }}
+      <a href="{{- .Permalink -}}"> {{ title .Title }}</a> 
+
+{{ end }}
+</p>
+{{ end }} 
+{{ end }}
+
+<a href="./ledgers"> <h2 id="ledgers">Ledgers</h2></a>
+
+{{ range  $ledgers }}
+{{ $current_ledger := . }} 
+{{ $lowercase_ledger := $current_ledger | lower }} 
+{{ $ledger_path :=  replaceRE ` ` "_" $lowercase_ledger }}
+
+{{ if sort (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_ledger ) "Params.weight" -}}
+<p><b><a href="./ledgers/{{ $ledger_path }}">{{ title  $current_ledger }}{{ if eq $current_ledger  nil }} NO Faction on this Job!! {{ end }}</b>
+<b>({{ len (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_ledger ) -}})</b>
+{{ end }}
+        {{ range $index, $value :=where (where $event_pages "Layout" "=="  "job" ) ".Params.faction" "=="  $current_ledger -}}
+            {{- if (ne $index 0) -}}, {{ end }}
+       <a href="{{- .Permalink -}}"> {{ title .Title }}</a>
+      {{ end }}
+</p>
+{{ end }}
+
+<a href="./items"><h2>Items</h2></a>
+<h2><a href="./props">Props</a></h2>
+
+<h2><a href="./faction_goals">Faction Goals</a></h2>
+
+<a href="./pioneer_cards"><h2>Pioneer Cards ({{ len (where $event_pages "Layout" "==" "pioneer_card")  -}})</h2></a>
+{{ if where $event_pages "Layout" "==" "stockpile"  -}}
+ {{ range where $event_pages "Layout" "=="  "stockpile"  -}}
+ <h2><a href="{{- .Permalink -}}">Stockpiles</a> </h2>
+     <p>
+      <b>Small:</b> {{ if .Params.small }}{{ .Params.small }}{{ else }}None{{ end }}
+      <b>Medium:</b> {{ if .Params.medium }}{{ .Params.medium }}{{ else }}None{{ end }}
+      <b>Large:</b> {{ if .Params.large }}{{ .Params.large }}{{ else }}None{{ end }}
+ {{ end }}
+</p>
+
+{{ end }}
+<hr>
+<h2><a href="./adding_content">➕ Adding Content</a></h2>
+<p><a href="./event_export"><i class="fa-solid fa-file-export"></i>Event Export</a></p>
+<p><a href="./ledger_export"><i class="fa-solid fa-file-export"></i>Ledger Export </a></p>
+<p><a href="{{ .Params.event_formatted }}"><i class="fa fa-file-pdf"></i> Event Formatted</a></p>
+<p><a href="{{ .Params.ledger_formatted }}"><i class="fa fa-file-pdf"></i> Ledger Formatted</a></p>
+<p><a href="{{ .Params.event_pod }}"><i class="fa fa-book"></i> Event Print on Demand</a></p>
+<p><a href="{{ .Params.ledger_pod }}"><i class="fa fa-book"></i> Ledger print on demand</a></p>
+{{ end }}

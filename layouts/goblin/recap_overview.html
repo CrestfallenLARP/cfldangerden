@@ -1,0 +1,10 @@
+{{ define "main" }}
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+
+{{ .Render "content" }}
+
+
+{{ range $index, $value := where $event_pages "Layout" "=="  "recap" -}}
+        <p> <a href="{{- .Permalink -}}"> {{ title .Title }}</a> {{ .Params.date.Format " Jan 2, 2006" }}</p>
+      {{ end }}
+{{ end }}

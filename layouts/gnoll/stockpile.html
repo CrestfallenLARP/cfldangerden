@@ -1,0 +1,13 @@
+{{ define "main" }}
+{{ .Render "content" }}
+
+<p>Stockpiles are caches of goods that players can find in Crestfallen. They are kept in Plastic Sheet protectors that can withstand the elements.</p>
+<p><a href="https://crestfallenlarp.com/rules/skills/#stockpiles-1">Rules Link</a> </p>
+
+      <h2>Small</h2>
+        <p>{{ if .Params.small }}{{ .Params.small }}{{- else -}}None {{ end }} : 10 Basic, 5 Common, 1 Rare</p>
+      <h2>Medium:</h2>
+        <p>{{ if .Params.medium }}{{ .Params.medium }}{{- else -}}None{{- end }} : 20 Basic, 10 Common, 2 Rare</p>
+      <h2>Large</h2>
+        <p>{{ if .Params.large }}{{ .Params.large }}{{- else -}}None{{- end }} : 40 Basic, 10 Common, 5 Rare</p>
+{{ end }}

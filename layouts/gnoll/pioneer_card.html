@@ -1,0 +1,10 @@
+{{ define "main" }}
+{{ .Render "content" }}
+<h2>Non Combat</h2>
+  <p><b>Post:</b>{{ .Params.non_combat.post }}</p>
+  <p><b>Reward:</b>{{ .Params.non_combat.reward }}</p>
+
+<h2>Combat</h2>
+  <p><b>Post:</b>{{ .Params.combat.post }}</p>
+  <p><b>Reward:</b>{{ .Params.combat.reward }}</p>
+{{ end }}
