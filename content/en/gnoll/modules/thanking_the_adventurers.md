@@ -6,7 +6,7 @@ author: Brittney Perry
 reviewer: 
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
-schedule: 
+schedule: saturday night 
 weight: 13
 plotline:  
 requirements: Ran at the same time as 'We're Outta Here'
