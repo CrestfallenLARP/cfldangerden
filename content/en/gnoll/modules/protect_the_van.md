@@ -26,7 +26,9 @@ synopsis: |
   
   If Ehrendil is spotted by the gnolls, the gnolls will make a bee line for her. 
   
-  Jacob Coldren will pop into the scene after the gnolls are gone, having missed all the real work, to recommend that that he and the adventurers chase after the gnolls. Ehrendil will pay the adventurers when they get back after she talks with the Research Guild representative. (If the PCs chase after the gnolls, run 'On Their Tails'. If 'On Their Tails' is not ran, add 5 more missing posters to the wall) If the PCs do not chase after the gnolls, Ehrendil will pay them during 'Report' instead.
+  If 'On Their Tails' is being ran, Jacob Coldren will pop into the scene after the gnolls are gone, having missed all the real work, to recommend that that he and the adventurers chase after the gnolls. Ehrendil will pay the adventurers when they get back after she talks with the Research Guild representative. (If the PCs chase after the gnolls, run 'On Their Tails'. If 'On Their Tails' is not ran, add 5 more missing posters to the wall) 
+  
+  If the PCs do not chase after the gnolls, or if 'On Their Tails' is not ran, Ehrendil will pay them during 'Report' instead.
   
 outcomes: 
   - PCs carry the cargo while dodging gnolls for payment
