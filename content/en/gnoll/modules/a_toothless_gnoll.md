@@ -18,7 +18,7 @@ synopsis: |
   Harvesting teeth can be done on a three count, once per gnoll. The NPC will give two teeth per spawn. If the NPC doesn't have any teeth to give out, they can say 'Failed, Broken.'
   ...
 
-  Jacob Coldren has decided to take anyone who wants to join hunting. He will take them and teach them how to remove the incisors of culled gnolls and the adventurers can make a necklace using supplies in the gathering hall. The gnoll teeth are not magical or special in anyway, just trophies.  
+  Jacob Coldren has decided to take anyone who wants to join hunting. He will take them and teach them how to remove the incisors of culled gnolls and the adventurers can make a necklace using supplies in the gathering hall. The gnoll teeth are not magical or special in anyway, just trophies. They can be made into a necklace in the gathering hall with provided supplies. 
 
   The amount of spawns should be 3-5 spawns per PC to ensure proper tooth distribution. 
 
