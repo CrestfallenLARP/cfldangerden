@@ -8,25 +8,24 @@ reviewer:
 
 schedule: saturday early afternoon
 weight: 5
-plotline: Gnoll- Main
+plotline: Gnoll- Optional
 requirements: Lunch or beginning of downtime
 
-description: 11:30amish to Lunch. Jacob Coldren finishes up his business in town, collects his data, sets up an after lunch hunt, and then leaves.
+description: sometime between 11:30amish to 1pm. Ehrendil Gredove is in the hall to gather any information the adventurers may have on the gnolls, and also to pay them. Jacob Coldren is in the hall to organize an after lunch hunt (optional if a Toothless Gnoll isn't ran).
  
 synopsis: | 
   
-  Jacob Coldren has to meet his team and is leaving the area. Before he does, however, he makes sure that he pays and finishes up anything from the morning excitement. He talks to the adventurers about taking them hunting for real after he his done making his rounds. Not everyone needs to go if they don't want to hunt, as Ehrendil Gredove will be coming back to help make a crafting item for those that stay behind. He says he will get those that go the teeth to make a necklace like his and his comrades. The supplies are already in the gathering hall. Alternately, Jacob can stay though lunch and take the adventurers out from there.
+  Jacob Coldren talks to the adventurers about taking them hunting for real after he his done making his rounds during lunch. Not everyone needs to go if they don't want to hunt, as Ehrendil Gredove will be here to help make a crafting item for those that stay behind. He tells the adventurers he will get those that go with him, the teeth to make a necklace like his and his comrades. The supplies are already in the gathering hall.
  
-  Jacob and company are collecting information on the gnolls while hunting them, to make hunting them easier for everyone. Jacob will ask and collect any information the adventurers wish to give, add his own observations if he wishes, and then leaves. Before he leaves, Jacob will remind the adventurers that the research guild might pay for any research before he leaves.
-  
-  Things to report include, but are not limited to, abilities seen in gnolls, habits, quirks, language or vocalizations, number of injuries, number of dead, and number of gnoll that attacked, etc.
+  Ehrendil Gredove is collecting information on the gnolls to make hunting them easier for everyone. She preaches all the (incorrect) information that is contained within the pamphlet 'Gknow Your Gnolls, A Guide By Gno More Gnolls'. She is also there to take any information from the adventurers on the gnolls. Things to report include, but are not limited to, abilities seen in gnolls, habits, quirks, language or vocalizations, number of injuries to adventurers, number of dead adventurers, and number of gnoll that attacked, number of killed gnolls, number of gluttons made, etc.
   
 outcomes: 
-  - Jacob pays, collects info, and leaves
-  - Jacob pays, collects info, and stays
+  - Jacob and Ehrendil pay, collect info, and leave
 
-number_of_cast_members: 1 
-Roles: Jacob Coldren
+number_of_cast_members: 2 
+Roles: 
+  - Jacob Coldren
+  - Ehrendil Gredove
 
 props: Gnoll Notebook and Pen 
 
