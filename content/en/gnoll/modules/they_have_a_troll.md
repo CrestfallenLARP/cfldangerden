@@ -9,26 +9,23 @@ reviewer:
 schedule: saturday early afternoon
 weight: 8 
 plotline: Gnoll- Main 
-requirements: The Breaking Ritual complete or interupted.
+requirements: The Breaking Ritual complete or interrupted.
 
-description: 3:15pm. Not taking kind to their brethren being made toothless, the gnolls bring in a heavy hitter. GMG is nowhere to be found.
+description: 4:15pm. The gnolls bring in a heavy hitter, a troll they found in a cave, and release it into the hall. GMG is still nowhere to be found.
  
 synopsis:
   ...
   Harvesting teeth can be done on a three count, once per gnoll. The NPC will give one tooth per spawn. If the NPC doesn't have any teeth to give out, they can say 'Failed, Broken.'
   ...    
   
-  There was a troll in a cave local to the town, now it's here in the city. Driven before the gnolls like an angry bull, the troll is bent on attacking anything in front of it.  In the wake of it's carnage, the gnolls are attacking the otherwise engaged adventurers. Limbs are being ripped and flesh is being eaten. The troll can be driven from the area and made to retreat or killed. 
-
-  If the troll is driven from the area, the gnolls will leave for a short time.  
+  There was a troll in a cave local to the town, now thanks to the gnolls, it's here in the hall. Driven before the gnolls like an angry bull, they drive the troll into the hall and shut the doors behind it. They will watch the troll wreak havoc through the door, and will run when it dies and/or if they draw attention to themselves.  
    
-outcomes: Troll is killed or driven off/gnolls attack the adventurers. When the troll is killed or driven off, the gnolls retreat 
+outcomes: Troll is killed/ gnolls retreat 
 
-number_of_cast_members: 5
+number_of_cast_members: 3
 Roles: 
-  - Jacob Coldren
   - Basic Troll (Faction Level 1) x1
-  - Gnoll Glutton (Faction Level 3) x3 (more or less)
+  - Gnoll Glutton (Faction Level 3) xall
 
 props: 
 makeup: 
