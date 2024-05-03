@@ -20,7 +20,7 @@ synopsis: |
   
   GMG is interested in collecting any observed information from the adventurers about the gnolls. Things to report include, but are not limited to, abilities seen in gnolls, habits, quirks, language or vocalizations, number of injuries, number of Inspired dead, and number of gnoll that have attacked, number of dead gnolls, etc.
   
-  Gno More Gnolls is being paid 400 leaves by the locals, plus whatever loot they find, to clear the area of gnolls. 
+  Gno More Gnolls is being paid 400 leaves by the mayor, plus whatever loot they find, to clear the area of gnolls. 
   
 outcomes: Gno More Gnolls member(s) talk to the adventurers
 
