@@ -8,10 +8,10 @@ reviewer:
 
 schedule: saturday night 
 weight: 13
-plotline:  
+plotline: Gnoll- Optional 
 requirements: Ran at the same time as 'We're Outta Here'
 
-description: 7pm. Optional. The villagers come to thank the adventurers and celebrate with Gno More Gnolls
+description: 8pm. Optional. The villagers come to thank the adventurers and celebrate with Gno More Gnolls
  
 synopsis: |
 
@@ -26,7 +26,7 @@ outcomes: Thankfulness
 number_of_cast_members: as many as wants to act  
 Roles: various villagers
 
-props: Small gifts (basic resources, common resources, healing items)
+props:
 makeup: 
 treasure: basic resources, common resources, healing items
 magic_items:
