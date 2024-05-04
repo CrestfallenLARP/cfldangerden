@@ -11,33 +11,31 @@ weight: 12
 plotline: Gnoll- Main
 requirements: 
 
-description: 6:30pmish. The remaining gnolls are tracked down and killed, thus ending the gnoll scourge in the area.
+description: 6:30pmish. The second wave of gnolls are coming. Gno More Gnolls are still suspiciously absent. 
  
 synopsis: | 
   ...
-  If gnoll shamans are made during 'Fight The Good Fight', one or several (up to three) Breaking Rituals will be attempted during the fight.
-  The rituals will already be set up. The ritual will start when the PCs get within fighting distance. If the shaman NPC is hit or interrupted at any time during casting, the ritual will fail and will not be reattempted.
+  Several (up to three) Breaking Rituals will be attempted during the fight. The ritual will already be set up, up the path. The ritual will start when the PCs get within hearing distance. If the shaman NPC dies at any time during casting, that shamans ritual cast will fail and will not be reattempted. If they are interrupted and not killed, they will awaken and reattempt the ritual, starting the 10 minute timer over.
   ... 
-  The gnolls are ready for the adventurers. A large group of gnolls are at the end of the path, rituals set up, ready to go. Interrupt the rituals, kill or drive off the gnolls, and end the scourge in the area.
+  This module takes place a little further away from the location of 'Fight the Good Fight'.
   
-  The gnolls will pull their punches and retreat before absolutely winning.
+  The gnolls are ready for the adventurers, and have a plan of sorts. They are attempting to cast Breaking Rituals while the rest hold off the adventurers. The ritual will be attempted 3 times (a gnoll shaman dies, dissipates, and 'another' takes it's place). If the PCs take the bones, no more rituals can be attempted. If someone dies and goes to spirit, the gnoll shaman will abandon the ritual and go to spirit, and chase after the spirit to consume it.
+  
+  Once all the gnoll spirit shamans are dead, the gnolls will retreat into the woods/down the trail.
+
 outcomes: Gnolls lose Gnolls retreat
 
-number_of_cast_members: (If enough NPCs, cast all 4 GMG members, in order of importance)
+number_of_cast_members: all
 Roles: 
-  - Jacob Coldren
-  - Howard Sadler
-  - Ehrendil Gredove
-  - Azuk
-  - Gnoll Shaman (faction level 2)xup to 3
-  - Gnoll Glutton (Facton level 2)x2
-  - Gnoll Warrior (Facton level 2)xthe rest 
+  - Gnoll Shaman (Faction level 2, 3 spawns)
+  - Gnoll Glutton (Faction level 2, spawn until all shaman spawns are dead)xthe rest 
 
 props: 
-  - Cap Gun (for cracking sound effect) OR Clackers
+  - Cap Gun and caps (for cracking sound effect)
   - Bones
   - Drums
-  - Bone Knife
+  - Bone or Dull Knife
+  - Blood Pack
 
 makeup: 
 treasure: gnoll teeth
