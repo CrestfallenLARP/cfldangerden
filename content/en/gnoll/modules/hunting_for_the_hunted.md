@@ -28,6 +28,7 @@ Roles: 0
 props: 
   - "'Taken By Gnoll' posters"
   - Gno More Gnoll personal effects 
+  - Red table cover if needed
 
 makeup: 
 treasure: 

@@ -11,20 +11,20 @@ weight: 13
 plotline: Gnoll- Main
 requirements: run 
 
-description: 7pm. Gno More Gnolls thank the adventurers for a job well done, lifts a glass in celebration, and then leaves.
+description: 8pmish. Gno More Gnolls thank the adventurers for a job well done, lifts a glass in celebration, and then leaves.
  
-synopsis: Gno More Gnolls throws a small party to celebrate the end of the hunt. Drinks are flowing freely, talk is lively (hopefully). This party doesn't last long, as Gno More Gnolls must leave and go to their next hunt.
+synopsis: Gno More Gnolls throws a small party to celebrate the end of the hunt. Drinks are flowing freely and talk is lively (hopefully). There are speeches! And music! And a rap! Gno More Gnolls shill for themselves and hand out business cards of sorts. Jacob is taking all the credit for the weekend's events. 
   
 outcomes: We get this party started
 
 number_of_cast_members: (If enough NPCs, cast all 4 GMG members, in order of importance)
 Roles:
-  - Jacob Coldren
-  - Howard Sadler
+  - Jacob Coldren 
   - Ehrendil Gredove
+  - Howard Sadler 
   - Azuk
 
-props: sparkling grape juice, Mead(?)
+props: sparkling grape juice, Mead, GMG Drum, Pitcher, 'crystal' glasses
 makeup: 
 treasure: 
 magic_items:
