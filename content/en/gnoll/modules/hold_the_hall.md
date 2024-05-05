@@ -11,7 +11,7 @@ weight: 16
 plotline: Gnoll- Main
 requirements: Dead, Dead, and Dead Some More ran
 
-description: 9:25pm. The gnolls are bent on destroying the adventurers. The shaman is drumming out a ritual, and the adventurers need to stop it to survive. 
+description: 9:30pm. The gnolls are bent on destroying the adventurers. The shaman is drumming out a ritual, and the adventurers need to stop it to survive. 
  
 synopsis: |
   ...
