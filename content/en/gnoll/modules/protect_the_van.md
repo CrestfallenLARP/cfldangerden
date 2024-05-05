@@ -16,15 +16,13 @@ description: 9:30 am. Gno More Gnolls was not able to protect the caravan that w
 synopsis: | 
   There is a shipment on it's way into town, and Gno More Gnolls was hired by Paul&Paul, the father/son shipping company, to protect their caravan from the gnolls surrounding Boulderton. The wagons are loaded with essential, fragile equipment for the village laboratory, and must be seen to their destination. The adventurers will be paid on how much cargo makes it back to the village undamaged by Gno More Gnolls (1 Leaf per person per FULL sand line, 4 leaves per FULL container, no partial lines accepted)
    
-  Unfortunately, because of the excitement of the morning with the gnolls, GMG were unable to make their contact with the wagons. The wagons (one driven by Paul and the other by Paul Jr) pressed on without their guard, assuming to make their deadline. They were set upon by the gnolls and are now missing, presumed eaten. (After this mod, a member of the GMG hangs their 'Taken' Posters on the wall in the gathering hall)
+  Due to Jacob being incompetent, GMG were unable to make their contact with the wagons at 9am. The wagons (one driven by Paul and the other by Paul Jr) pressed on without their guard, assuming to make their deadline. They were set upon by the gnolls and are now missing, presumed eaten. (After this mod, a member of GMG hangs their 'Taken' Posters on the wall in the gathering hall)
 
   The crates that the wagons were carrying must be carried from the wreckage of the wagons, back to the gathering hall. Each crate can be carried by one person and picked up on a three count. If the player has the Strength skill, they no longer take a three count to lift the crate. If they have Strength Augmentation, they may jog with the crate, and no longer take a three count to lift the crate. If they have Strength Mastery, they may carry two crates at the same time, jog with one crate, and no longer take a three count to lift the crate. If at anytime the carriers are hit with an in game spell or damage, they will drop the crate. 
   
   The adventurers are directed to the cargo and that the cargo is very fragile by Ehrendil, and will break if tipped or dropped. (Each crate is a cardboard box painted as a crate. Each box contains a container, an open 6qt plastic shoe box, full of sand. This sand box is taped to the bottom of the box. This is our hillbilly tip and shock indicator. Each plastic sand box is marked with three lines. How much sand is left in the containers dictates how much the PCs get paid)
   
-  Once the cargo is carried to the gathering hall or onto the covered porch of the hall, the gnolls lose interest and retreat. 
-  
-  If Ehrendil is spotted by the gnolls, the gnolls will make a bee line for her. 
+  Once the cargo is carried to the gathering hall or onto the covered porch of the hall, the gnolls lose interest and retreat.  
   
   If 'On Their Tails' is being ran, Jacob Coldren will pop into the scene after the gnolls are gone, having missed all the real work, to recommend that that he and the adventurers chase after the gnolls. Ehrendil will pay the adventurers when they get back after she talks with the Research Guild representative. (If the PCs chase after the gnolls, run 'On Their Tails'. If 'On Their Tails' is not ran, add 5 more missing posters to the wall) 
   
