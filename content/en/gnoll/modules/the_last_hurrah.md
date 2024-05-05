@@ -15,7 +15,7 @@ description: 6:30pmish. The second wave of gnolls are coming. Gno More Gnolls ar
  
 synopsis: | 
   ...
-  Several (up to three) Breaking Rituals will be attempted during the fight. The ritual will already be set up, up the path. The ritual will start when the PCs get within hearing distance. If the shaman NPC dies at any time during casting, that shamans ritual cast will fail and will not be reattempted. If they are interrupted and not killed, they will awaken and reattempt the ritual, starting the 10 minute timer over.
+  Several (up to three) Breaking Rituals will be attempted during the fight. The ritual will already be set up, up the path. The ritual will start when the PCs get within hearing distance. If the shaman NPC dies at any time during casting, that shamans ritual cast will fail and will not be reattempted. If they are interrupted and not killed, they will awaken and reattempt the ritual, starting the 10 minute timer over. Harvesting teeth can be done on a three count, once per gnoll. The NPC will give one tooth per spawn. If the NPC doesn't have any teeth to give out, they can say 'Failed, Broken.'
   ... 
   This module takes place a little further away from the location of 'Fight the Good Fight'.
   
