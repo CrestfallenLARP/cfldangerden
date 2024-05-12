@@ -11,28 +11,21 @@ weight: 11
 plotline: Gnoll- Main
 requirements: 
 
-description: 6:10pm Gno More Gnolls go to battle with the gnolls, and take the adventurers along for the ride.
+description: 6:10pm Gno More Gnolls, for some reason, have disappeared. And the gnolls are coming down the hill, full force.
  
 synopsis: 
   ...
   Harvesting teeth can be done on a three count, once per gnoll. The NPC will give one tooth per spawn. If the NPC doesn't have any teeth to give out, they can say 'Failed, Broken.'
   ...   
   
-  Gno More Gnolls track the gnolls down in part one of this fight. This group of gnolls are made of several gnoll gluttons and their side goal is to make several gnoll shamans. 
+  The gnolls are coming after the adventurers. Whether the PCs are at the agreed upon spot on time or not, the gnolls are coming. Gnoll drums can be heard coming down the path. The gnolls are quite angry.
   
-  At the end of the fight, Howard says they need to track the rest of them down, and go to part 2 'The Last Hurrah'.
-  
-outcomes: Gnolls die Gnoll gluttons make gnoll shamans
+outcomes: Gnolls attack
 
 number_of_cast_members: all 
-Roles: 
-  - (If enough NPCs, cast all 4 GMG members, in order of importance)
-  - Jacob Coldren
-  - Howard Sadler
-  - Ehrendil Gredove
-  - Azuk
-  - Gnoll Glutton (faction level 2)x3
-  - Gnoll Warrior (Faction Level 2)xthe rest
+Roles:
+  - Gnoll Glutton (faction level 2, 3 spawns) x3
+  - Gnoll Warrior (Faction Level 2, 5 spawns) xthe rest
 
 
 props: 

@@ -8,34 +8,38 @@ reviewer:
 
 schedule: saturday early afternoon
 weight: 4
-plotline: Gnoll- Main 
+plotline: Gnoll- Optional
 requirements: the PCs decide hunt the gnolls in 'Protect the Van'
 
-description: 11amish. The gnolls seem to be retreating, and Jacob Coldren has convinced the adventurers to follow or engage in some way.
+description: 10amish. The gnolls seem to be retreating, and Jacob Coldren has convinced the adventurers to follow or engage in some way.
  
 synopsis: | 
   ...
-  Timed Module:
-  If this module is being ran, that means that the PCs have chosen to engage the gnolls as they run from the wagon wreckage. If they do not engage, the faction level of all gnolls spawning for the rest of the weekend will rise by one.
-  
-  The PCs will have 30 minutes from the end of 'Protect the Van' (from the time the last box is carried into the town and the gnolls retreat) to engage the gnolls or not. 
+  Timed Module-
+  If this module is being ran, that means that the PCs have chosen to engage the gnolls as they linger by the wagon wreckage. If the PCs do not engage in 10 minutes from the end of "Protect The Van", the gnolls will be gone and five more missing posters will be hung in the hall by GMG. The NPCs will wait for 10 minutes after "Protect The Van" on a path not far from the wagon wreckage. 
   ...
 
-  Jacob Coldren, at the end of 'Protect the Van', has been successful in convincing the adventurers to go after the gnolls. He has made a plan and will help however the adventurers wish. He has the knowledge to know where the gnolls are heading, and can take the adventurers straight there.
+  Jacob Coldren, having missed the hard work, is insistent that the PCs go after the gnolls swiftly, while Ehrendil takes inventory at the gathering hall. If Jacob or Ehrendil can convince the adventurers to go after the gnolls, Jacob will take them there. There are very few straggler gnolls by the wagon wreckage.
 
-  The gnolls are not retreating, but regrouping. The gnolls are headed to a bigger group, and the adventurers can chose to engage or not. The gnolls will try to make as many gnoll gluttons as possible.
+  Jacob needs to take extreme pleasure from the group killing the gnolls. It's almost uncomfortable (see card)  
  
 outcomes: 
   - The PCs engage the gnolls
   - The PCs do not engage the gnolls
 
-number_of_cast_members: 5
+number_of_cast_members: 2-3
 Roles: 
   - Jacob Coldren
-  - Gnoll Warrior (faction level 2) x2
-  - Gnoll Glutton (faction level 2) x2
+  - Ehrendil Gredove (beginning only)
+  - Gnoll Warrior (faction level 2, 3 spawns)
 
 props: 
+  - Darby Plummer Taken By Gnoll Poster
+  - Kenworth Chalker Taken By Gnoll Poster
+  - Harold Gardiner Taken By Gnoll Poster
+  - Valerie Leadbetter Taken By Gnoll Poster
+  - Florence Taylor Taken By Gnoll Poster
+  
 makeup: 
 treasure: 
 magic_items:
