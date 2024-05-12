@@ -1,0 +1,219 @@
+---
+missing: 
+  - name: Jessie Graves
+    age: 34
+    gender: Male
+    lineage: Human
+    description: Brown Hair, Brown Eyes, Medium Build, Beard, Scar Over Left Eye
+    fate: Taken, Assumed Dead
+    date: First Day of the Eighth Week Of The Scatter
+  - name: Preston Provost
+    age: 23
+    gender: Male
+    lineage: Human
+    description: Blond Hair, Green Eyes, Slender Build, Pronounced Limp
+    fate: Taken, Assumed Dead
+    date: First Day of the Eighth Week Of The Scatter
+  - name: Roger Inman
+    age: 43
+    gender: Male
+    lineage: Wolf Kinfolk
+    description: Brown and White Fur, Green Eyes, Heavyset Build, Missing Left Canine
+    fate: Taken, Assumed Dead, Hand Recovered
+    date: First Day of the Eighth Week Of The Scatter
+  - name: Giles Trinder
+    age: 32
+    gender: Male
+    lineage: Rat Kinfolk
+    description: Brown Fur, Brown Eyes, Slender Build, Tall
+    fate: Taken, Assumed Dead, Was Partially Eaten Before Being Carried Into The Woods
+    date: Second Day of the Eighth Week Of The Scatter
+  - name: Carter Warrer
+    age: 22
+    gender: Male
+    lineage: Human
+    description: Black Hair, Brown Eyes, Medium Build, Short Stature, Scar Over Left Eye
+    fate: Taken, Assumed Dead, Carter's Armor Was Later Seen On A Gnoll
+    date: Second Day of the Eighth Week Of The Scatter
+  - name: Palmer Flax
+    age: 19
+    gender: Male
+    lineage: Elf
+    description: Blond Hair, Blue Eyes, Slender Build
+    fate: Taken, Assumed Dead 
+    date: Third Day of the Eighth Week Of The Scatter
+  - name: Barkley Nader
+    age: 84
+    gender: Male
+    lineage: Human
+    description: White Hair, Blue Eyes, Wispy Build
+    fate: Taken, Assumed Dead
+    date: Third Day of the Eighth Week Of The Scatter
+  - name: Carter Glover
+    age: 34
+    gender: Male
+    lineage: Haulflin
+    description: Brown Hair, Hazel Eyes, Medium Build, Wearing Family Crest Necklace
+    fate: Taken, Assumed Dead
+    date: Fourth Day of the Eighth Week Of The Scatter
+  - name: Barnaby Trainer
+    age: 23
+    gender: Male
+    lineage: Elf
+    description: Brown Hair, Blue Eyes, Heavyset Build
+    fate: Taken In Pieces, Assumed Dead
+    date: Fifth Day of the Eighth Week Of The Scatter
+  - name: Alfred Arkwright
+    age: 43
+    gender: Male
+    lineage: Human
+    description: Brown Hair, Blue Eyes, Heavyset Build, Missing Right Ear
+    fate: Taken, Assumed Dead
+    date: Sixth Day of the Eighth Week Of The Scatter
+  - name: Elena Waller
+    age: 23
+    gender: Female
+    lineage: Human
+    description: Brown Hair, Brown Eyes, Heavyset Build, Missing Third and Fourth Fingers On Right Hand
+    fate: Taken, Assumed Dead
+    date: Sixth Day of the Eighth Week Of The Scatter
+  - name: Anastasia Voss
+    age: 34
+    gender: Female
+    lineage: Leopard Kinfolk
+    description: Yellow and Black Fur, Blue Eyes, Slender Build
+    fate: Taken, Assumed Dead
+    date: First Day of the Eighth Week Of The Scatter
+  - name: Elizabeth Beech
+    age: 59
+    gender: Female
+    lineage: Dwarf
+    description: Red Hair, Green Eyes, Medium Build, Mole On Upper Lip
+    fate: Taken, Assumed Dead
+    date: Second Day of the Eighth Week Of The Scatter
+  - name: Margery Cook
+    age: 28
+    gender: Female
+    lineage: Elf
+    description: Brown Hair, Green Eyes, Medium Build, Burn Scars On Arms
+    fate: Taken, Assumed Dead
+    date: Second Day of the Eighth Week Of The Scatter
+  - name: Penelope Chapman
+    age: 27
+    gender: Female
+    lineage: Elf
+    description: Black Hair, Blue Eyes, Medium Build, Tall
+    fate: Taken, Assumed Dead, Hand With Wedding Ring Found At Site of Abduction
+    date: Third Day of the Eighth Week Of The Scatter
+  - name: Helga Dexter
+    age: 20
+    gender: Female
+    lineage: Orc
+    description: Brown Hair, Brown Eyes, Heavyset Build
+    fate: Taken, Assumed Dead
+    date: Third Day of the Eighth Week Of The Scatter
+  - name: Noelene Bales
+    age: 34
+    gender: Female
+    lineage: Haulflin
+    description: Brown Hair, Hazel Eyes, Heavyset Build, Short Stature
+    fate: Taken, Assumed Dead
+    date: Fourth Day of the Eighth Week Of The Scatter    
+  - name: Annabelle Webb
+    age: 39
+    gender: Female
+    lineage: Tabby Cat Kinfolk
+    description: Brown and Black Striped Patterned Fur, Green Eyes, Medium Build, Short Stature
+    fate: Taken, Assumed Dead
+    date: Fifth Day of the Eighth Week Of The Scatter
+  - name: Heather Forester
+    age: 43
+    gender: Female
+    lineage: Human
+    description: Brown Hair, Brown Eyes, Heavyset Build, Missing Right Foot
+    fate: Taken, Assumed Dead
+    date: Sixth Day of the Eighth Week Of The Scatter
+  - name: Phoebe Woodward
+    age: 23
+    gender: Female
+    lineage: Human
+    description: Blonde Hair, Green Eyes, Slender Build
+    fate: Taken, Assumed Dead
+    date: Third Day of the Eighth Week Of The Scatter
+  - name: Wilson Harper
+    age: 23
+    gender: Male
+    lineage: Human
+    description: Brown Hair, Brown Eyes, Medium Build
+    fate: Killed, Body Found
+    date: Seventh Day of the Eighth Week Of The Scatter
+  - name: Alosrin Torlana
+    age: 43
+    gender: Male
+    lineage: Elf
+    description: Black Hair, Brown Eyes, Slender Build
+    fate: Killed, Body Found
+    date: Seventh Day of the Eighth Week Of The Scatter
+  - name: Rose Hunter
+    age: 23
+    gender: Female
+    lineage: Human
+    description: Red Hair, Brown Eyes, Medium Build
+    fate: Killed, Body Found
+    date: Seventh Day of the Eighth Week Of The Scatter
+  - name: Bailey Cajor
+    age: 25
+    gender: Male
+    lineage: Dog Kinfolk
+    description: Brown Fur, Yellow Eyes, Slender Build
+    fate: Killed, Body Found
+    date: Seventh Day of the Eighth Week Of The Scatter
+  - name: Paul Tillman
+    age: 54
+    gender: Male
+    lineage: Human
+    description: Black Hair, Brown Eyes, Medium Build
+    fate: Taken, Missing
+    date: Seventh Day of the Eighth Week Of The Scatter
+  - name: Paul Tillman Jr.
+    age: 25
+    gender: Male
+    lineage: Human
+    description: Black Hair, Brown Eyes, Medium Build
+    fate: Taken, Missing
+    date: Seventh Day of the Eighth Week Of The Scatter
+  - name: Darby Plummer
+    age: 32
+    gender: Male
+    lineage: Haulflin
+    description: Blond Hair, Brown Eyes, Medium Build
+    fate: Taken, Missing
+    date: Seventh Day of the Eighth Week Of The Scatter 
+  - name: Kenworth Chalker
+    age: 40
+    gender: Male
+    lineage: Human
+    description: Red Hair, Brown Eyes, Heavyset Build
+    fate: Taken, Missing
+    date: Seventh Day of the Eighth Week Of The Scatter  
+  - name: Harold Gardiner
+    age: 21
+    gender: Male
+    lineage: Goat Kinfolk
+    description: White Fur, Yellow Eyes, Muscular Build
+    fate: Taken, Missing
+    date: Seventh Day of the Eighth Week Of The Scatter  
+  - name: Valerie Leadbetter
+    age: 54
+    gender: Female
+    lineage: Human
+    description: Salt and Pepper Hair, Blue Eyes, Whispy Build
+    fate: Taken, Missing
+    date: Seventh Day of the Eighth Week Of The Scatter  
+  - name: Florence Taylor
+    age: 46
+    gender: Female
+    lineage: Human
+    description: Black Hair, Blue Eyes, Is Missing Left Hand
+    fate: Taken, Missing
+    date: Seventh Day of the Eighth Week Of The Scatter    
