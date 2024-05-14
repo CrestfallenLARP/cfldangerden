@@ -13,7 +13,7 @@ requirements:
 
 description: Sunday morning dawns bright and bloody. Anyone who survived the night before is welcome into the gathering hall.
  
-synopsis: Jacob and Ehrendil come to the hall to talk. Ehrendil brings flowers. The villagers who survived the night come in to thank everyone and talk. This is an optional mod for NPC entertainment.
+synopsis: Jacob and Ehrendil come to the hall to talk. Ehrendil brings flowers. The villagers who survived the night come in to thank everyone and talk. This is an optional mod for NPC entertainment. Jacob is distraught and  repentant about the 
    
 outcomes: Jacob, Ehrendil, and villagers talk to the adventurers
 
@@ -24,30 +24,7 @@ Roles:
   - Villagers
 
 props: fake flowers
-makeup: 
-treasure: 
-magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
 
-rumors: 
-
-hook: 
-scenes: 
-  - 
-    oog: 
-    ig: 
-    flee_point: 
-
-non_standard_effects: 
-rules_clarifications: 
-craftsman_information: 
-transformations: 
-running_notes: 
 
 
 ---

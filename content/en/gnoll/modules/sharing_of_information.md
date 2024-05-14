@@ -1,6 +1,7 @@
 ---
 title: Sharing of Information
 Layout: module
+draft: true
 
 author: Brittney Perry
 reviewer: 
