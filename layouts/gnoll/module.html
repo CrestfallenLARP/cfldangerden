@@ -4,7 +4,7 @@
 <p><b>Brief</b>: {{ .Params.brief  -}}</p>
 {{ if  .Params.props  -}}<p><b>Props</b>:{{ .Params.props  -}} {{ end }}
 {{ if  .Params.summary  -}}<p><b>Summary</b>:  {{ .Params.summary  -}}</p>{{ end }}
-{{ if  .Params.synopsis  -}}<p><b>Synopsis</b>:  {{ .Params.Synopsis  -}}</p>{{ end }}
+{{ if  .Params.synopsis  -}}<p><b>Synopsis</b>:  {{ .Params.Synopsis  | markdownify -}}</p>{{ end }}
 
 {{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ))  (.Params.roles) -}} 
 <div id="roles"><p><b>Roles:</b> 

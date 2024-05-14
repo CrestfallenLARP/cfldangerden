@@ -25,35 +25,6 @@ outcomes: Information on missing people is relayed.
 number_of_cast_members: 0
 Roles: 0
 
-props: 
-  - "'Taken By Gnoll' posters"
-  - Gno More Gnoll personal effects 
-  - Red table cover if needed
-
-makeup: 
-treasure: 
-magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
-
-rumors: 
-
-hook: 
-scenes: 
-  - 
-    oog: 
-    ig: 
-    flee_point: 
-
-non_standard_effects: 
-rules_clarifications: 
-craftsman_information: 
-transformations: 
-running_notes: 
 
 
 ---
