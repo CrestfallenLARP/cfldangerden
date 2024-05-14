@@ -33,6 +33,7 @@ Roles:
   - Azuk, Orc, Gno More Gnoll member
 
 props: 
+  - Gno your Gnolls brocures
 makeup: 
   - orc mask with green out
   - Elf Ears
