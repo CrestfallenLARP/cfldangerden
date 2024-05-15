@@ -2,7 +2,7 @@
 title: 8th Week of the Scatter, 1488
 layout: recap
 weight: 11
-date: 2024-05-16
+date: 2024-05-10
 recap: |
    The town of Boulderton has become besieged by gnolls. During the last week alone, more than 20 people have been dragged away from the town and are currently assumed eaten and dead. That isn't including the ones that were just... tore apart on site. The people of Boulderton have become terrified, barely leaving their homes, the economy has ground to a halt, and the future looks bleak. 
 
