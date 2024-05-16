@@ -15,7 +15,7 @@ description: 1pm. Jacob Coldren returns to take some (or all) adventurers gnoll 
  
 synopsis: |  
   ...
-  Harvesting teeth can be done on a three count, once per gnoll. The NPC will give two teeth per spawn. If the NPC doesn't have any teeth to give out, they can say 'Failed, Broken.'
+  Harvesting teeth can be done on a three count, once per gnoll. The NPC will give one tooth per spawn. If the NPC doesn't have any teeth to give out, they can say 'Failed, Broken.'
   ...
 
   Jacob Coldren has decided to take anyone who wants to join hunting. He will take them and teach them how to remove the incisors of culled gnolls and the adventurers can make a necklace using supplies in the gathering hall. The gnoll teeth are not magical or special in anyway, just trophies. They can be made into a necklace in the gathering hall with provided supplies. 
@@ -31,7 +31,7 @@ number_of_cast_members: 1+the rest
  
 Roles: 
   - Jacob Coldren
-  - Gnoll Warrior xthe rest
+  - Gnoll Warrior xthe rest (3-5 spawns per PC)
 
 props: Gnoll Teeth x number of spawns Necklace Making Supplies (in gathering hall)
 

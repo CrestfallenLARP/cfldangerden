@@ -21,17 +21,21 @@ synopsis: |
   - He will ask for alcohol from anyone who can make it, to serve the next day at the party. 
 
   Jacob will brag about stuff
-  - He will brag on the menu (Macaroni Salad, Hawaiian Meatballs, Kielbasa & Potatoes in cheese sauce, BBQ Chicken, Beef Stew, Green Beans/Potatoes w/lilsmokies, Eclair Cake, Sparkling Red, White, Cider, and Mead).
-  - He will brag on his music prowess, and say that he is working on a surprise for everyone at the party (his rap).
+  - He will brag on the menu (Macaroni Salad, Hawaiian Meatballs, Kielbasa & Potatoes in cheese sauce, BBQ Chicken, Beef Stew, Green Beans/Potatoes w/lilsmokies, Eclair Cake, Sparkling Red, White, Cider, Mead, and his family's 'special whisky').
+  - He will brag on his music prowess, and say that he is working on a surprise for everyone at the party (his poem).
 outcomes: Jacob successfully shills for Gno More Gnolls
 
 
-number_of_cast_members: 1
-Roles: Jacob Coldren
-
+number_of_cast_members: 1-4
+Roles: 
+  = Jacob Coldren
+  = Ehrindel Gredove
+  - Howard Sadler
+  - Azuk
+  
 props: 
   - "'Taken By Gnoll' posters"
   - Gno More Gnoll personal effects 
   - Red table cover
-  - Gno your Gnolls brocures
+  - Gno your Gnolls brochures
 ---

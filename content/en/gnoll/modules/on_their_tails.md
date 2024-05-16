@@ -34,11 +34,11 @@ Roles:
   - Gnoll Warrior (faction level 2, 3 spawns)
 
 props: 
-  - Darby Plummer Taken By Gnoll Poster
-  - Kenworth Chalker Taken By Gnoll Poster
-  - Harold Gardiner Taken By Gnoll Poster
-  - Valerie Leadbetter Taken By Gnoll Poster
-  - Florence Taylor Taken By Gnoll Poster
+  - (conditional) Darby Plummer Taken By Gnoll Poster
+  - (conditional) Kenworth Chalker Taken By Gnoll Poster
+  - (conditional) Harold Gardiner Taken By Gnoll Poster
+  - (conditional) Valerie Leadbetter Taken By Gnoll Poster
+  - (conditional) Florence Taylor Taken By Gnoll Poster
   
 makeup: 
 treasure: 

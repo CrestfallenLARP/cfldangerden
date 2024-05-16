@@ -14,7 +14,7 @@ requirements:
 description: 10pm. A member (or members) of a hunting group called 'Gno More Gnolls' comes to the gathering hall to hand out posters and brag.
  
 synopsis: |
-  Gno More Gnolls, a gnoll bounty hunter group, has been contacted and hired by the mayor to eradicate the local gnoll problem. They are quite cruel in their ways, but do not see a problem with it. They are effective, doing a job no one else wants. When Jacob sees the newly arrived adventurers, he is ecstatic! He recruits for 'Protect The Van' the following day, leaving Howard, Azuk, and Ehrendil to defend the town. He says Ehrendil will be coming by periodically to take and share any notes on the gnolls, and teach some healing crafting.
+  Gno More Gnolls, a gnoll bounty hunter group, has been contacted and hired by the mayor to eradicate the local gnoll problem. They are quite cruel in their ways, but do not see a problem with it. They are effective, doing a job no one else wants. When Jacob sees the newly arrived adventurers, he is ecstatic! He recruits for 'Protect The Van' the following day. He says Ehrendil will be coming by periodically to take and share any notes on the gnolls, and teach some healing crafting.
   
   Gno More Gnolls have printed up posters with the missing, plus descriptions, and would like the adventurers to take them, and/or hang them up in the hall for everyone to read.
   
@@ -33,9 +33,10 @@ Roles:
   - Azuk, Orc, Gno More Gnoll member
 
 props: 
-  - Gno your Gnolls brocures
+  - Gno your Gnolls brochures
+  - Missing Posters
 makeup: 
-  - orc mask with green out
+  - orc mask
   - Elf Ears
 
 treasure: 
