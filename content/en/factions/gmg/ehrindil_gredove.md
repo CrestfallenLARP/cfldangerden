@@ -2,10 +2,9 @@
 title: ehrindil gredove
 weight:
 layout: role
-Backstory:  Ehrindil grew up poor and will never be poor again.  She had a powerful affinity for magic approached by the shadowfell  fascinated by gnolls
-Motivation: Reduce the power of opposing element, attack those that would harm the element or empower the opposing element.
-Speech: These creatures speak nonsense gibberish sounds. Ice  says Glorp. Stone says Krumble. Lightning says Kerchaw. Fire says Crackle.
-Movement: These gatherings of energy can move very quickly by coasting or rolling along the ground.
+Backstory: Ehrindil grew up poor in the small eleven town  of Korin Tal and vowed to never be poor again. As soon as she was able moved to the bustling even capitol of Caernarthan and began running small scams using her affinity for magic to grift people out of money and information. She was approached by the shadowbrand when she stole from the wrong person and offered a choice. Leave this town and never return or join the shadowbrand and carry out their will. She eagerly took the latter option seeing opporutunity and wealth in working with them. The next period of her life as a seemingly upstanding magical tutor and author while feeding knowledge and blackmail to the shadowbrand was the happiest time in her life. Things were smooth and easy. The Shadowbrand then approached her with a more challenging bit of work a long con to aqquire the Coldren Lumberworks for the Shadowbrand. The grift works by her getting in Jacob the heir of the Coldren family's will then inheriting the Lumberworks as the remainder of the family dies. This long con is very uncomfortable for Ehrindil in that she has grown to care for Jacob and is worried that she will not have the will to stay the course and win the price of the lumbermill. As part of adventuring with Jacob she has found that the Gnolls are a much more serious threat than they appear. She has become fascinated with their magic and the cure that they all bear.
+
+Motivation: Keep an Eye on Jacob. Learn about the Gnoll Magic
 Intelligence: Instinct, group instinctual mindset
 props:
   - Purple skirt
@@ -13,6 +12,7 @@ props:
   - long grey/silver wig
   - Leather armor
   - Shadowbrand Token
+  - gnoll tooth necklace
 type: Elf
 
 
@@ -34,6 +34,9 @@ faction_level_2:
 faction_level_3: 
 faction_level_4:
 ---
+
+
+
 
 1) Bracelet of Focused Healing
 Leather Bracelet - Enchanting
