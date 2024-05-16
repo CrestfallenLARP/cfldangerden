@@ -19,7 +19,7 @@ synopsis: |
   ... 
   This module takes place a little further away from the location of 'Fight the Good Fight'.
   
-  The gnolls are ready for the adventurers, and have a plan of sorts. They are attempting to cast Breaking Rituals while the rest hold off the adventurers. The ritual will be attempted 3 times (a gnoll shaman dies, dissipates, and 'another' takes it's place). If the PCs take the bones, no more rituals can be attempted. If someone dies and goes to spirit, the gnoll shaman will abandon the ritual and go to spirit, and chase after the spirit to consume it.
+  The gnolls are ready for the adventurers, and have a plan of sorts. They are attempting to cast Breaking Rituals while the rest hold off the adventurers. The ritual will be attempted 3 times (a gnoll shaman dies, dissipates, and 'another' takes it's place). If the PCs take the human bones, no more rituals can be attempted. If a PC dies and goes to spirit, the gnoll shaman will abandon the ritual and go to spirit, and chase after the spirit to consume it.
   
   Once all the gnoll spirit shamans are dead, the gnolls will retreat into the woods/down the trail.
 
@@ -35,7 +35,7 @@ props:
   - Bones
   - Drums
   - Bone or Dull Knife
-  - Blood Pack
+  - Blood Packs
 
 makeup: 
 treasure: gnoll teeth

@@ -18,7 +18,7 @@ synopsis:
   Harvesting teeth can be done on a three count, once per gnoll. The NPC will give one tooth per spawn. If the NPC doesn't have any teeth to give out, they can say 'Failed, Broken.'
   ...   
   
-  The gnolls are coming after the adventurers. Whether the PCs are at the agreed upon spot on time or not, the gnolls are coming. Gnoll drums can be heard coming down the path. The gnolls are quite angry.
+  The gnolls are coming after the adventurers. Whether the PCs are at the agreed upon spot on time or not, the gnolls are coming for them. Gnoll drums can be heard coming down the path. The gnolls are quite angry.
   
 outcomes: Gnolls attack
 
@@ -28,7 +28,7 @@ Roles:
   - Gnoll Warrior (Faction Level 2, 5 spawns) xthe rest
 
 
-props: 
+props: Gnoll Drum
 makeup: 
 treasure: gnoll teeth
 magic_items:

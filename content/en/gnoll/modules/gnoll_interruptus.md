@@ -22,7 +22,7 @@ synopsis: |
    
 outcomes: Gnolls harass the adventurers as the adventurers plan to kill them
 
-number_of_cast_members: 2
+number_of_cast_members: all
 Roles: Gnoll Warriors (Faction Level 2, spawn for 15 minutes) xall
 
 props:

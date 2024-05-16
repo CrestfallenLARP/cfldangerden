@@ -11,7 +11,7 @@ weight: 8
 plotline: Gnoll- Optional 
 requirements: The Breaking Ritual complete or interrupted.
 
-description: 4:15pm. The gnolls bring in a heavy hitter, a troll they found in a cave, and release it into the hall. GMG is still nowhere to be found.
+description: 4:15pm. The gnolls bring in a heavy hitter, two trolls they found in a cave, and release them into the hall. GMG is still nowhere to be found.
  
 synopsis: |
   ...
@@ -22,10 +22,10 @@ synopsis: |
    
 outcomes: Trolls are killed/ gnolls retreat 
 
-number_of_cast_members: 3
+number_of_cast_members: 4
 Roles: 
-  - Basic Troll (Faction Level 2, 1 spawn) x2 if possible
-  - Gnoll Glutton (Faction Level 2, 1 spawn) x1
+  - Basic Troll (Faction Level 2, 1 spawn) x2 
+  - Gnoll Glutton (Faction Level 2, 1 spawn) x2
 
 props: 
 makeup: 

@@ -11,11 +11,11 @@ weight: 6
 plotline: Gnoll- Optional  
 requirements: Start at the same time as 'A Toothless Gnoll'
 
-description: Ehrendil Gredove has come to the gathering hall to help those that stayed behind create a healing bracelet
+description: Ehrendil Gredove has come to the gathering hall to help those that stayed behind create a healing bracelet.
  
 synopsis: | 
 
-  Those that did not wish to fight the gnolls have stayed behind and are making healing bracelets with Ehrendil Gredove. The supplies are already in the hall.
+  Those that did not wish to fight the gnolls have stayed behind and are making healing bracelets with Ehrendil Gredove. The supplies are already in the hall. She is making a mystery braid bracelet and there are printed instructions.
    
 outcomes: Ehrendil makes healing objects
 
@@ -25,6 +25,7 @@ Roles: Ehrendil Gredove
 
 props: 
   - leather mystery braid bracelets
+  - Instructions x5
   - Necklace making supplies
   - GMG wood token to add to necklace
 makeup: 
