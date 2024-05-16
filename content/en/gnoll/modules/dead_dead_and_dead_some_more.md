@@ -32,7 +32,16 @@ outcomes: Gnolls kill the villagers Gnolls are repelled for 15 minutes
 number_of_cast_members: all
 Roles: Gnoll Warrior (faction level 2, respawn for 15 minutes)
 
-props: Ehrendil Head, Howard Head, Azuk Head, Body Parts, Dolls With Triage Tags, Drums, speaker and gnoll laughter
+props: 
+  - Ehrendil Head 
+  - Howard Head
+  - Azuk Head 
+  - Hands
+  - Fingers, eyes, and ears
+  - Up to 3 torsos 
+  - Dolls With Status Tags  
+  - Drums 
+  - Speaker with gnoll laughter
 
 makeup: 
 treasure: gnoll teeth 

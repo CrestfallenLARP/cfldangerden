@@ -26,7 +26,7 @@ outcomes:
 
 number_of_cast_members: all
 Roles: 
-  - Gnoll Shaman (Faction Level 2) x2
+  - Gnoll Shaman (Faction Level 2, two spawns) x2
   - Gnoll Gluttons (Faction level 2) xthe rest
 
 props: 

@@ -9,7 +9,7 @@ reviewer:
 schedule: saturday night 
 weight: 13
 plotline: Gnoll- Optional 
-requirements: Ran at the same time as 'We're Outta Here'
+requirements: Ran at the same time or right after 'We're Outta Here'
 
 description: 8pm. Optional. The villagers come to thank the adventurers and celebrate with Gno More Gnolls
  

@@ -13,7 +13,7 @@ requirements:
 
 description: Sunday morning dawns bright and bloody. Anyone who survived the night before is welcome into the gathering hall.
  
-synopsis: Jacob and Ehrendil come to the hall to talk. Ehrendil brings flowers. The villagers who survived the night come in to thank everyone and talk. This is an optional mod for NPC entertainment. Jacob is distraught and  repentant about the 
+synopsis: Jacob and Ehrendil come to the hall to talk. Ehrendil brings flowers. The villagers who survived the night come in to thank everyone and talk. Jacob is distraught and  repentant about the outcome of the day. He blames himself for the deaths of Howard and Azuk. Howard's death hits him particularly hard, because Howard had warned him of this possible outcome if Jacob didn't stop underestimating the gnolls. Ehrendil is quiet and withdrawn. She jumps when spoken to, and stares off into the distance quite a bit.  
    
 outcomes: Jacob, Ehrendil, and villagers talk to the adventurers
 
