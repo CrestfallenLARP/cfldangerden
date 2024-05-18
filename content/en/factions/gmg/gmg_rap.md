@@ -1,3 +1,7 @@
+---
+title: GMG Rap
+---
+
 You ever got a problem with a low down scary gnoll
 Mangy and stinky and mean
 They kill in a pack and take a huge toll
