@@ -8,9 +8,6 @@ enableRobotsTXT: true
 enableGitInfo: true
 ui.sidebar_menu_compact: true
 ui.sidebar_menu_foldable:  true
-taxonomies:
-  tag: tags
-  category: categories
 params:
   taxonomy:
     taxonomyCloud:
@@ -90,7 +87,6 @@ imaging:
 languages:
   en:
     title: Crestfallen DANGER DEN
-    description: Crestfallen
     languageName: English
     weight: 1
 markup:
@@ -127,6 +123,10 @@ menu:
       pre: <i class="fa-solid fa-book"></i>
       weight: 10
       url: '/event_overview'
+    - name: Guide 
+      pre: <i class="fa-regular fa-scroll"></i>
+      weight: 11
+      url: '/guide'
     - name: Factions 
       pre: <i class="fa-regular fa-scroll"></i>
       weight: 30
