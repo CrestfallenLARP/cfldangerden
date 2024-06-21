@@ -14,7 +14,7 @@ props:
   - Claws
   - Spell Ammo
 type: Elemental
-body: 6
+body: 16
 armor: 
 stamina: 5
 energy: 5
@@ -27,7 +27,7 @@ immunities:
 vulnerabilities: Double damage from opposite element
 healed_by: Element
 at_dying: Dissipate
-special: Sense "By My Voice Sense Element (or opposite element)"
+special: Sense "By My Voice Sense Element (or opposite element)" Fuse - On 3 count two globs may fuse to regain all Body and swing 6 element but must remain within arms reach of fused part. When fused part dies, return to normal damage and max body.Despawn/Respawn: May use a 3 count to return to the earth and a 3 count to spawn from the earth to remove all conditions.
 faction_level_2:
 faction_level_3: 
 faction_level_4:
