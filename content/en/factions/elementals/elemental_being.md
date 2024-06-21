@@ -26,9 +26,8 @@ immunities:
 vulnerabilities: Double Damage from opposite element
 healed_by: Element
 at_dying: Dissipate
-special: Sense "By my voice sense element (or opposite element)" Fuse - On 3 count two globs may fuse to regain all Body and swing 8 element but must remain within arms reach of fused part. When fused part dies, return to normal damage and max body. Despawn/Respawn: May use a 3 count to return to the earth and a 3 count to spawn from the earth to remove all conditions.
+special: Sense "By my voice sense element (or opposite element)" Fuse On 3 count two globs may fuse to regain all Body and swing 8 element but must remain within arms reach of fused part. When fused part dies, return to normal damage and max body. Despawn/Respawn: May use a 3 count to return to the earth and a 3 count to spawn from the earth to remove all conditions.
 faction_level_2:
 faction_level_3: 
-faction_level_4:
----
+
 
