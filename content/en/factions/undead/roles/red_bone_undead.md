@@ -12,7 +12,7 @@ props:
  - 2 weapons
  - armor rep
 type: Undead
-body: 10
+body: 20
 armor: 10
 stamina: 6
 energy: 
@@ -38,10 +38,11 @@ at_dying: Crumbles
 special: 
   - By my voice sense magic 
   - Consume Energy - I consume an energy 1, 2, 3 - Upon consuming an energy, a White Bone Undead is formed
+  - Despawn/Respawn: May use a 3 count to return to the earth and a 3 count to spawn from the earth to remove all conditions.
 faction_level_2:
   - Increase innate harm to 5x per day 
   - Innate fire 3x per day for attack only "By Flames Fury 10 Fire" 
-  - Enchanting - Resist Talisman "Resist" to first spell
+  - Enchanting - Resist Talisman "Resist" to first thrown condition or damage of any type
 faction_level_3:
   - Increase Body to 30
   - Innate stone 3x per day for attack only "By Crushing Earth 10 Stone"
