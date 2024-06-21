@@ -13,8 +13,8 @@ props:
   - buckler shield
   - leather armor rep
 type: Goblin
-body: 8
-armor: 5 if repped
+body: 18
+armor: 10
 stamina: 5
 energy:
 spells_known: 
@@ -35,6 +35,7 @@ Special:
   - Cheer - Gain 5 temporary body when cheering after dropping an opponent.
   - Run Away - May use 1 resist per day but only while fleeing
   - Search (leaves/basic resources) - Goblin may search and steal leaves/basic resources
+  - Goblin Stealth x2 - Goblin may enter stealth as per Mastery, but may move around anywhere and remain hidden. When stealing or doing an attack, becomes visible on 3 count
 faction_level_2:
  - Cheer now grants 10 temporary body
  - Run away now grants 2 resists per day
@@ -43,6 +44,7 @@ faction_level_3:
   - Cheer now grants 15 temporary body
   - Taunt now grants +1 vs all creatures taunted by it
   - Waylay Sleep (2ST)
+  - Goblin Stealth x4
 faction_level_4: 
   - Cheer now grants 20 temporary body
   - Run away now grants 3 resists per day 
