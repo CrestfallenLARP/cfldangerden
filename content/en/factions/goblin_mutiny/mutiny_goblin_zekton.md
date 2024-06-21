@@ -38,9 +38,9 @@ Special:
   - Search (leaves/basic resources) - Goblin may search and steal leaves/basic resources
   - I will no give up - Once per day when Zekton gains the dying condition, he may call out... I will not give up... lose the dying condition, gain 10 temporary body and +2 damage for the rest of the battle.
 faction_level_2:
- - Cheer now grants 10 temporary body
- - Run away now grants 2 resists per day
- - Taunt - Gain +1 to attack one character after taunting them
+  - Cheer now grants 10 temporary body
+  - Run away now grants 2 resists per day
+  - Taunt - Gain +1 to attack one character after taunting them
 faction_level_3: 
   - Cheer now grants 15 temporary body
   - Taunt now grants +1 vs all creatures taunted by it

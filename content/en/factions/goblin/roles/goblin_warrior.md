@@ -37,9 +37,9 @@ Special:
   - Search (leaves/basic resources) - Goblin may search and steal leaves/basic resources
   - Goblin Stealth x2 - Goblin may enter stealth as per Mastery, but may move around anywhere and remain hidden. When stealing or doing an attack, becomes visible on 3 count
 faction_level_2:
- - Cheer now grants 10 temporary body
- - Run away now grants 2 resists per day
- - Taunt - Gain +1 to attack one character after taunting them
+  - Cheer now grants 10 temporary body
+  - Run away now grants 2 resists per day
+  - Taunt - Gain +1 to attack one character after taunting them
 faction_level_3: 
   - Cheer now grants 15 temporary body
   - Taunt now grants +1 vs all creatures taunted by it

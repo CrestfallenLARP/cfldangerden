@@ -2,8 +2,8 @@
 title: Basic Troll
 weight:
 layout: role
-Backstory: Trolls are marauders that are found in the dark places of the world.  They hide in caves, dark woods, and even the caverns that worm their way under the ground.  It is said that they have found the source of essence thus giving them a stronger hold of their essence than other creatures.
-Motivation: Mayhem.  These creatures are stupid, brutish, and destructive.  They love violence and cruelty.
+Backstory: Trolls are marauders that are found in the dark places of the world. They hide in caves, dark woods, and even the caverns that worm their way under the ground.  It is said that they have found the source of essence thus giving them a stronger hold of their essence than other creatures.
+Motivation: Mayhem. These creatures are stupid, brutish, and destructive. They love violence and cruelty.
 Speech: Slow and dumb slurred speech
 Movement: Slow and ambling with hunched backs
 Intelligence: Low
@@ -19,7 +19,7 @@ stamina: 16
 energy: 
 spells_known: 
 primary_attack: 8 Damage with weapons or claws 
-Killing_Blow:  Yes they love violence
+Killing_Blow: Yes they love violence
 Offensive_Abilities:
   - Slam Knockback" (2 ST)
   - Break Weapon" (4ST)

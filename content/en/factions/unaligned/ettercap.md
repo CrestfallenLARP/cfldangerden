@@ -17,12 +17,12 @@ armor:
 stamina: 5 
 energy: 
 spells_known: 
-primary_attack:  4 Damage 
-Killing_Blow: No
+primary_attack: 4 Damage 
+Killing_Blow: "No"
 Offensive_Abilities:
   - Spell Ammo may be used for Entangle Foot x4, Entangle Arms x2, Entangle Body x 1, 
-  - Fuse - On 3 count two to 4 may fuse to regain all Body and swing 8 damage but must remain within arms reach of fused part. When fused part dies, split appart, and return to normal damage and max body.  
-Defensive_Abilities:  May Resist 2 thrown conditions or damage of any type, Counter (4ST)
+  - Fuse - On 3 count two to 4 may fuse to regain all Body and swing 8 damage but must remain within arms reach of fused part. When fused part dies, split appart, and return to normal damage and max body.
+Defensive_Abilities: May Resist 2 thrown conditions or damage of any type, Counter (4ST)
 immunities:
 vulnerabilities: 
 healed_by: Healing

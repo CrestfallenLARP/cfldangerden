@@ -37,9 +37,9 @@ Special:
   - Run Away - May use 1 resist per day but only while fleeing
   - Search (leaves/basic resources) - Goblin may search and steal leaves/basic resources
 faction_level_2:
- - Cheer now grants 10 temporary body
- - Run away now grants 2 resists per day
- - Taunt - Gain +1 to attack one character after taunting them
+  - Cheer now grants 10 temporary body
+  - Run away now grants 2 resists per day
+  - Taunt - Gain +1 to attack one character after taunting them
 faction_level_3: 
   - Cheer now grants 15 temporary body
   - Taunt now grants +1 vs all creatures taunted by it

@@ -17,11 +17,11 @@ armor: 40
 stamina: 10
 energy: 
 spells_known: 
-primary_attack:  5 Damage with melee and 5 unblockable with firearms 
-Killing_Blow:  No unless ordered
+primary_attack: 5 Damage with melee and 5 unblockable with firearms 
+Killing_Blow: No unless ordered
 Offensive_Abilities: 
 Defensive_Abilities: 
-immunities:  Harm attacks, Charm, Bleed, Poison, Death "Immune Resist"
+immunities: Harm attacks, Charm, Bleed, Poison, Death "Immune Resist"
 vulnerabilities: 
 healed_by: Lightning
 at_dying: Shutdown heals to max and removes all conditions. Reactivated on trigger

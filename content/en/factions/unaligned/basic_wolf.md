@@ -17,7 +17,7 @@ armor:
 stamina: 5 
 energy: 
 spells_known: 
-primary_attack:  2 Damage 
+primary_attack: 2 Damage 
 Killing_Blow: No
 Offensive_Abilities:
   - Grapple "Grapple Entangle Body" after hitting target with claws on both sides. May carry a grappled character at a walking pace 

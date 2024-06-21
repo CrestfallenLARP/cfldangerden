@@ -8,9 +8,9 @@ Speech: Low intelligence but brooding anger and resentment of all with essence
 Movement: Slow ambling movement
 Intelligence: Low, a small piece of a greater hive mind being controlled
 props:
- - red skull mask
- - 2 weapons
- - armor rep
+  - red skull mask
+  - 2 weapons
+  - armor rep
 type: Undead
 body: 20
 armor: 10
