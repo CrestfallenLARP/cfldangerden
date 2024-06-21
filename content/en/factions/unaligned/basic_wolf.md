@@ -12,7 +12,7 @@ props:
   - Fur
   - Claws
 type: Animal
-body: 10
+body: 20
 armor: 
 stamina: 5 
 energy: 
@@ -22,7 +22,7 @@ Killing_Blow: No
 Offensive_Abilities:
   - Grapple "Grapple Entangle Body" after hitting target with claws on both sides. May carry a grappled character at a walking pace 
   - Shake After Grappling for 30 seconds may call "Shake 2 unblockable damage" to grappled target 
-Defensive_Abilities: Bark make a threatening noise and then "By my voice characters Knockback". If grappling the call changes to "By my voice non grappled characters knockback".)
+Defensive_Abilities: Bark make a threatening noise and then "Bark Knockback" and attack with weapon or spell ammo
 immunities:
 vulnerabilities: 
 healed_by: Healing

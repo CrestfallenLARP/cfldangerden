@@ -13,7 +13,7 @@ props:
   - Weapon
   - Claw Weapon
 type: Troll
-body: 25
+body: 55
 armor: 10
 stamina: 16
 energy: 
@@ -27,11 +27,11 @@ Offensive_Abilities:
 Defensive_Abilities:
   - Parry "Resist"(4ST)
   - Strength 2 (Rip Free from Entangle Arms or Legs, hold door, break lock, break baracade on 3 count)
-immunities: 
+immunities: Stone, Poison, Bleed, Death
 vulnerabilities: 
 healed_by: Healing
 at_dying: Remains and Regenerates if possible
-special: Regeneration Trolls do not die naturally. If the troll is not damaged with fire while in the bleed count or as part of the killing blow, the troll will complete its dying count and awaken with full Body and Stamina points.
+special: Regeneration Trolls do not die naturally. If the troll is not damaged with fire while in the bleed count or as part of the killing blow, the troll will complete its dying count and awaken with full Body and Stamina points. All Limbs regenerate in 1 minute
 faction_level_2:
 faction_level_3: 
 faction_level_4:
