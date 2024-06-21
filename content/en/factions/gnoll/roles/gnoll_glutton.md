@@ -13,8 +13,8 @@ props:
   - armor
   - claws
 type: Gnoll
-body: 25
-armor: 10
+body: 35
+armor: 20
 stamina: 18
 energy: 0
 spells_known: 
@@ -30,8 +30,8 @@ vulnerabilities:
 healed_by: healing
 at_dying: Remain until Dead, then dissipate
 special: 
-  - Eat Limb - 3 Count "I eat your [Limb Name], Break Limb"  After the count heal 10 Body
-  - Howl - May act out hyena laughter or chittering followed by "Howl Fear" and throw 1 spell ammo
+  - Eat Limb - 3 Count "I eat your [Limb Name], Break Limb"  After the count heal 10 Body. May not use this skill again for 30 seconds.
+  - Howl - x2 May act out hyena laughter or chittering followed by "Howl Fear" and throw 1 spell ammo
   - Consume Essence - If all four limbs are eaten, the gnoll may consume one essence from the body followed by a killing blow.  This may only be done to a character once. "I eat your essence 1,2,3"  This allows the Gnoll Glutton to become a Gnoll Spirit Shaman.
 faction_level_2:
   - Eat Limb now gives 20 temporary Body.
