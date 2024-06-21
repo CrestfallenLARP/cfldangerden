@@ -1,157 +1,206 @@
-{{- $event_pages := where $.Site.Pages "Section" .Section -}}
-{{- $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) -}}
-{{- $schedules := (slice "opening" "mid event" "ending" ) -}}
-
-{{ $recap_pages := sort $event_pages ".Params.date" "desc" }}
-{{ $last_recap := index $recap_pages 0 }}
-<p><b>Previous Event Recap</b>: {{ $last_recap.Params.recap }}</p>
-<b>Modules</b>
+{{- $guide_pages := where $.Site.Pages "Section" "guide" -}}
+{{- $faction_pages := where $.Site.Pages "Section" "factions" -}}
+{{- $character_pages := where $.Site.Pages "Section" "characters" -}}
 
 
-{{ range  $schedules }}
-{{ $current_schedule := . }}
-{{ if sort (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
-<p><b>{{ title  $current_schedule }}{{ if eq $current_schedule  nil }} NO SCHEDULE!! {{ end }}</b>
-<b>({{ len (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) }}) </b>
-
-{{- if eq $current_schedule  nil -}}<p>Please add a schedule to your modules</p>{{- end -}}
-{{- range $index, $value := where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule -}}
-      {{- if (ne $index 0) -}}, {{ end }}
-       {{- title .Title -}}
-
-{{ end }}
-</p>
+<h2>Table of Contents</h2>
+<h2>Guide</h2>
+{{ range  $guide_pages }}
+<h3>{{ .Params.title }}</h3>
+{{ .Content }} 
 {{ end }} 
+
+
+
+<h2>Factions</h2>
+{{ range $faction_pages }}
+<h3>{{ .Params.title }}</h3>
+
+<h4>Acting Information</h4>
+{{ if .Params.Backstory }}<p><b>Backstory: </b>{{ .Params.Backstory  }}</p>{{ end }}
+{{ if .Params.Motivation }}<p><b>Motivation: </b>{{ .Params.Motivation  }}</p>{{ end }}
+{{ if .Params.Speech }}<p><b>Speech: </b>{{ .Params.Speech  }}</p>{{ end }}
+{{ if .Params.Movement }}<p><b>Movement: </b>{{ .Params.Movement  }}</p>{{ end }}
+{{ if .Params.Intelligence }}<p><b>Intelligence: </b>{{ .Params.Intelligence  }}</p>{{ end }}
+{{ $props := (slice ) }}
+{{ if .Params.props }}
+{{ if not (reflect.IsSlice .Params.props)}}{{ $props = (slice .Params.props) }}
+{{ else  }} {{ if .Params.props}} {{ $props = append $props .Params.props }}{{ else}} {{ $props = append $props "None" }}{{end}}
+{{ end }}
+<p><b>Props:</b> {{ delimit $props ", "}}</p> {{- end -}}
+<h4>Game Mechanics</h4>
+<p><b>Type:</b> {{ if .Params.type }}{{ .Params.type }}{{else}}{{ end }}</p>
+<p><b>Body:</b> {{ if .Params.body }}{{ .Params.body }}{{else}}5{{ end }}</p>
+<p><b>Armor:</b> {{ if .Params.armor }}{{ .Params.armor }}{{else}}None{{ end }}</p>
+<p><b>Stamina:</b> {{ if .Params.stamina }}{{ .Params.stamina }}{{ else }}0{{ end }}</p>
+<p><b>Energy:</b> {{ if .Params.energy }}{{ .Params.energy }}{{ else }}0{{ end }}</p>
+
+{{ $spells_known := (slice ) }}
+{{ if .Params.spells_known }}
+{{ if not (reflect.IsSlice .Params.spells_known)}}{{ $spells_known = (slice .Params.spells_known) }}
+{{ else  }} {{ $spells_known = append $spells_known .Params.spells_known }}
+{{ end }}
+<p><b>Spells Known:</b> {{ delimit $spells_known ", "}}</p> {{- end -}}
+
+
+
+{{ if .Params.primary_attack }}<p><b>Primary Attack:</b> {{ .Params.primary_attack }}</p> {{ end }}
+{{ if .Params.Killing_Blow }}<p><b>Killing Blow:</b> {{ .Params.Killing_Blow }}</p> {{ end }}
+
+{{ $offensive_abilities := (slice ) }}
+{{ if .Params.offensive_abilities }}
+    {{ if not (reflect.IsSlice .Params.offensive_abilities)}}{{ $offensive_abilities = (slice .Params.offensive_abilities) }}
+    {{ else  }} {{ $offensive_abilities = append $offensive_abilities .Params.offensive_abilities }}{{ end }}
+<p><b>Offensive Abilities:</b> {{ delimit $offensive_abilities ", "}}</p> {{- end -}}
+
+{{ $defensive_abilities := (slice ) }}
+{{ if .Params.defensive_abilities }}
+    {{ if not (reflect.IsSlice .Params.defensive_abilities)}}{{ $defensive_abilities = (slice .Params.defensive_abilities) }}
+    {{ else  }} {{ $defensive_abilities = append $defensive_abilities .Params.defensive_abilities }} {{ end }}
+<p><b>Defensive Abilities:</b> {{ delimit $defensive_abilities ", "}}</p> {{- end -}}
+
+{{ $Immunities := (slice ) }}
+{{ if .Params.Immunities }}
+{{ if not (reflect.IsSlice .Params.Immunities)}}{{ $Immunities = (slice .Params.Immunities) }}
+{{ else  }} {{ if .Params.Immunities}} {{ $Immunities = append $Immunities .Params.Immunities }}{{ else}} {{ $Immunities = append $Immunities "None" }}{{end}}
+{{ end }}
+<p><b>Immunities:</b> {{ delimit $Immunities ", "}}</p> {{- end -}}
+
+{{ $vulnerabilities := (slice ) }}
+{{ if .Params.vulnerabilities }}
+{{ if not (reflect.IsSlice .Params.vulnerabilities)}}{{ $vulnerabilities = (slice .Params.vulnerabilities) }}
+{{ else  }} {{ if .Params.vulnerabilities}} {{ $vulnerabilities = append $vulnerabilities .Params.vulnerabilities }}{{ else}} {{ $vulnerabilities = append $vulnerabilities "None" }}{{end}}
+{{ end }}
+<p><b>Vulnerabilities:</b> {{ delimit $vulnerabilities ", "}}</p> {{- end -}}
+
+<p><b>Healed By:</b>{{ if .Params.healed_by }}{{ .Params.healed_by }}{{else}}Healing{{end}}</p> 
+
+<p><b>At Dying:</b>{{ if .Params.at_dying }}{{ .Params.at_dying }}{{else}}Remain until Dead, then dissipate{{end}}</p> 
+
+{{ $Special := (slice ) }}
+{{ if .Params.Special }}
+{{ if not (reflect.IsSlice .Params.Special)}}{{ $Special = (slice .Params.Special) }}
+{{ else  }} {{ $Special = append $Special .Params.Special }}
+{{ end }}
+<p><b>Special:</b> {{ delimit $Special ", "}}</p> {{- end -}}
+
+{{ $faction_level_2 := (slice ) }}
+{{ if .Params.faction_level_2 }}
+{{ if not (reflect.IsSlice .Params.faction_level_2)}}{{ $faction_level_2 = (slice .Params.faction_level_2) }}
+{{ else  }} {{ $faction_level_2 = append $faction_level_2 .Params.faction_level_2 }}
+{{ end }}
+<p><b>Faction Level 2:</b> {{ delimit $faction_level_2 ", "}}</p> {{- end -}}
+
+
+{{ $faction_level_3 := (slice ) }}
+{{ if .Params.faction_level_3 }}
+{{ if not (reflect.IsSlice .Params.faction_level_3)}}{{ $faction_level_3 = (slice .Params.faction_level_3) }}
+{{ else  }} {{ $faction_level_3 = append $faction_level_3 .Params.faction_level_3 }}
+{{ end }}
+<p><b>Faction Level_3:</b> {{ delimit $faction_level_3 ", "}}</p> {{- end -}}
+
+{{ $faction_level_4 := (slice ) }}
+{{ if .Params.faction_level_4 }}
+{{ if not (reflect.IsSlice .Params.faction_level_4)}}{{ $faction_level_4 = (slice .Params.faction_level_4) }}
+{{ else  }} {{ $faction_level_4 = append $faction_level_4 .Params.faction_level_4 }}
 {{ end }}
 
+<p><b>Faction Level 4:</b> {{ delimit $faction_level_4 ", "}}</p> {{- end -}}
+{{ end }} 
 
-<!-- Print jobs by faction  -->
 
-<b>Jobs</b>
-{{ range  $factions }}
-{{ $current_faction := . }} 
+<h2>Characters</h2>
+{{ range  $character_pages }}
+<h3>{{ .Params.title }}</h3>
 
-{{ if sort (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) "Params.weight" -}}
-<p><b>{{ title  $current_faction }}{{ if eq $current_faction  nil }} NO Faction on this Job!! {{ end }}</b>
-<b>({{ len (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) -}})</b>
+<h4>Acting Information</h4>
+{{ if .Params.Backstory }}<p><b>Backstory: </b>{{ .Params.Backstory  }}</p>{{ end }}
+{{ if .Params.Motivation }}<p><b>Motivation: </b>{{ .Params.Motivation  }}</p>{{ end }}
+{{ if .Params.Speech }}<p><b>Speech: </b>{{ .Params.Speech  }}</p>{{ end }}
+{{ if .Params.Movement }}<p><b>Movement: </b>{{ .Params.Movement  }}</p>{{ end }}
+{{ if .Params.Intelligence }}<p><b>Intelligence: </b>{{ .Params.Intelligence  }}</p>{{ end }}
+{{ $props := (slice ) }}
+{{ if .Params.props }}
+{{ if not (reflect.IsSlice .Params.props)}}{{ $props = (slice .Params.props) }}
+{{ else  }} {{ if .Params.props}} {{ $props = append $props .Params.props }}{{ else}} {{ $props = append $props "None" }}{{end}}
 {{ end }}
-        {{ range $index, $value :=where (where $event_pages "Layout" "=="  "job" ) ".Params.faction" "=="  $current_faction -}}
-            {{ if (ne $index 0) }}, {{ end }}
-      {{ title .Title }}
-      {{ end }}
-</p>
+<p><b>Props:</b> {{ delimit $props ", "}}</p> {{- end -}}
+<h4>Game Mechanics</h4>
+<p><b>Type:</b> {{ if .Params.type }}{{ .Params.type }}{{else}}{{ end }}</p>
+<p><b>Body:</b> {{ if .Params.body }}{{ .Params.body }}{{else}}5{{ end }}</p>
+<p><b>Armor:</b> {{ if .Params.armor }}{{ .Params.armor }}{{else}}None{{ end }}</p>
+<p><b>Stamina:</b> {{ if .Params.stamina }}{{ .Params.stamina }}{{ else }}0{{ end }}</p>
+<p><b>Energy:</b> {{ if .Params.energy }}{{ .Params.energy }}{{ else }}0{{ end }}</p>
+
+{{ $spells_known := (slice ) }}
+{{ if .Params.spells_known }}
+{{ if not (reflect.IsSlice .Params.spells_known)}}{{ $spells_known = (slice .Params.spells_known) }}
+{{ else  }} {{ $spells_known = append $spells_known .Params.spells_known }}
 {{ end }}
+<p><b>Spells Known:</b> {{ delimit $spells_known ", "}}</p> {{- end -}}
 
-<p><s><b>Faction Goals</b></s>: One days don't have faction goals that are tracked because the cast changes creatures more often than during full weekend events</p>
-<p><b>Pioneer Cards</b>({{ len (where $event_pages "Layout" "==" "pioneer_card")  -}})</p>
-<p><b>Stockpiles</b> -- 
- {{ range where $event_pages "Layout" "=="  "stockpile"  -}}
-     
-     <b>Small:</b> {{ if .Params.small }}{{ .Params.small }}{{else}}None{{ end }}
-      <b>Medium:</b> {{ if .Params.medium }}{{ .Params.medium }}{{else}}None{{ end }}
-      <b>Large:</b> {{ if .Params.large }}{{ .Params.large }}{{else}}None{{ end }}
-</p>
- {{ end }}
 
-<!-- Loop over the timeslots  and print modules details one page at a time  -->
 
-<h2>Modules</h2>
-{{ range  $schedules }}
-    {{ $current_schedule := . }}    
-    {{- range $index, $value := where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule -}}
-    <!-- Print module details  -->
-{{- $module_title := .Title -}}
-      <h2>{{- title .Title -}}</h2>
-          <p><b>Schedule</b>: {{ title .Params.schedule }}</p>
-          <p><b>Brief</b>: {{ .Params.brief  -}}</p>
-          {{ if  .Params.props  -}}<p><b>Props</b>:{{ .Params.props  -}} {{ end }}
-          {{ if  .Params.summary  -}}<p><b>Summary</b>:  {{ .Params.summary  -}}</p>{{ end }}
-          <div id="roles"><p><b>Roles:</b> 
-            {{ if .Params.roles }}{{ .Params.roles }} {{ end }}
-            {{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
-            {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "national_monster_card" "role" ) -}}
-                {{ if (ne $index 0) }}, {{ end }}
-            {{ .Params.quantity | default "" -}}{{- if .Params.quantity }}X {{ end }} {{.Title}}
-        {{- end -}}
-        </div>
+{{ if .Params.primary_attack }}<p><b>Primary Attack:</b> {{ .Params.primary_attack }}</p> {{ end }}
+{{ if .Params.Killing_Blow }}<p><b>Killing Blow:</b> {{ .Params.Killing_Blow }}</p> {{ end }}
 
-    {{ end }}
-</p>
+{{ $offensive_abilities := (slice ) }}
+{{ if .Params.offensive_abilities }}
+    {{ if not (reflect.IsSlice .Params.offensive_abilities)}}{{ $offensive_abilities = (slice .Params.offensive_abilities) }}
+    {{ else  }} {{ $offensive_abilities = append $offensive_abilities .Params.offensive_abilities }}{{ end }}
+<p><b>Offensive Abilities:</b> {{ delimit $offensive_abilities ", "}}</p> {{- end -}}
+
+{{ $defensive_abilities := (slice ) }}
+{{ if .Params.defensive_abilities }}
+    {{ if not (reflect.IsSlice .Params.defensive_abilities)}}{{ $defensive_abilities = (slice .Params.defensive_abilities) }}
+    {{ else  }} {{ $defensive_abilities = append $defensive_abilities .Params.defensive_abilities }} {{ end }}
+<p><b>Defensive Abilities:</b> {{ delimit $defensive_abilities ", "}}</p> {{- end -}}
+
+{{ $Immunities := (slice ) }}
+{{ if .Params.Immunities }}
+{{ if not (reflect.IsSlice .Params.Immunities)}}{{ $Immunities = (slice .Params.Immunities) }}
+{{ else  }} {{ if .Params.Immunities}} {{ $Immunities = append $Immunities .Params.Immunities }}{{ else}} {{ $Immunities = append $Immunities "None" }}{{end}}
 {{ end }}
+<p><b>Immunities:</b> {{ delimit $Immunities ", "}}</p> {{- end -}}
+
+{{ $vulnerabilities := (slice ) }}
+{{ if .Params.vulnerabilities }}
+{{ if not (reflect.IsSlice .Params.vulnerabilities)}}{{ $vulnerabilities = (slice .Params.vulnerabilities) }}
+{{ else  }} {{ if .Params.vulnerabilities}} {{ $vulnerabilities = append $vulnerabilities .Params.vulnerabilities }}{{ else}} {{ $vulnerabilities = append $vulnerabilities "None" }}{{end}}
 {{ end }}
+<p><b>Vulnerabilities:</b> {{ delimit $vulnerabilities ", "}}</p> {{- end -}}
 
-   
+<p><b>Healed By:</b>{{ if .Params.healed_by }}{{ .Params.healed_by }}{{else}}Healing{{end}}</p> 
 
+<p><b>At Dying:</b>{{ if .Params.at_dying }}{{ .Params.at_dying }}{{else}}Remain until Dead, then dissipate{{end}}</p> 
 
-<h2>Jobs</h2>
-{{ $factions := (slice "Craft Guild" "Thieves Guild"  "Merchant Guild" "Research Guild"  "Dwarf" "Elf" "Haulfin" "Human" "Kinfolk" "Orc" nil ) }}
-{{ range  $factions }}
-    {{ $current_faction := . }} 
-
-    {{ if sort (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) "Params.weight" -}}
-<h2>{{ title  $current_faction }}{{ if eq $current_faction  nil }} NO Faction on this Job!! {{ end }}
-      ({{ len (where (where $event_pages "Layout" "==" "job" ) ".Params.faction" "=="  $current_faction ) -}})</h2>
+{{ $Special := (slice ) }}
+{{ if .Params.Special }}
+{{ if not (reflect.IsSlice .Params.Special)}}{{ $Special = (slice .Params.Special) }}
+{{ else  }} {{ $Special = append $Special .Params.Special }}
 {{ end }}
-        {{ range $index, $value :=where (where $event_pages "Layout" "=="  "job" ) ".Params.faction" "=="  $current_faction -}}
-               <h2><b>{{ title .Params.title }}</b></h2>
-               {{- $job_title := title .Params.title -}}
-               <p><b>Post</b>: {{ .Params.post  -}}</p>
-               <p><b>Reward</b>:  {{ .Params.reward  -}}</p>
-                {{ $props := (slice ) }}
-                {{ if .Params.props }}
-                {{ if not (reflect.IsSlice .Params.props)}}{{ $props = (slice .Params.props) }}
-                {{ else  }} {{ $props = append $props .Params.props }}
-                {{ end }}
-                <p><b>Props:</b> {{ delimit $props ", "}}</p> {{- end -}}
-                {{ if  .Params.summary  -}}<p><b>Summary</b>:  {{ .Params.summary  -}}</p>{{ end }}
-                </div>
-                {{- if or (where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ))  (.Params.roles) -}} 
-                <div id="roles"><p><b>Roles:</b> 
-                {{ if .Params.roles }}{{ .Params.roles }} {{ end }}
-                {{- if where .Pages ".Params.Layout" "IN" (slice "national_monster_card" "role" ) -}} 
-                    {{- range $index, $value := where .Pages ".Params.Layout" "IN" ( slice "national_monster_card" "role" ) -}}
-                {{ if (ne $index 0) }}, {{ end }}
-               {{ .Params.quantity | default "" -}}{{- if .Params.quantity }}X {{ end }} {{.Title}}
-                    {{- end -}}
-                {{ end }}
-                {{ end}}
-        </p>
- <!-- Print roles for the module details  -->
+<p><b>Special:</b> {{ delimit $Special ", "}}</p> {{- end -}}
 
-      {{ end }}
-</p>
+{{ $faction_level_2 := (slice ) }}
+{{ if .Params.faction_level_2 }}
+{{ if not (reflect.IsSlice .Params.faction_level_2)}}{{ $faction_level_2 = (slice .Params.faction_level_2) }}
+{{ else  }} {{ $faction_level_2 = append $faction_level_2 .Params.faction_level_2 }}
 {{ end }}
+<p><b>Faction Level 2:</b> {{ delimit $faction_level_2 ", "}}</p> {{- end -}}
 
 
-{{ range $index, $value := where $event_pages "Layout" "=="  "pioneer_card" -}}
-<h2>{{ add $index 1}} {{ title .Title }}</h2>
-<h3>Non Combat</h3>
-  <p><b>Post:</b>{{ .Params.non_combat.post }}</p>
-  <p><b>Reward:</b>{{ .Params.non_combat.reward }}</p>
+{{ $faction_level_3 := (slice ) }}
+{{ if .Params.faction_level_3 }}
+{{ if not (reflect.IsSlice .Params.faction_level_3)}}{{ $faction_level_3 = (slice .Params.faction_level_3) }}
+{{ else  }} {{ $faction_level_3 = append $faction_level_3 .Params.faction_level_3 }}
+{{ end }}
+<p><b>Faction Level_3:</b> {{ delimit $faction_level_3 ", "}}</p> {{- end -}}
 
-<h3>Combat</h3>
-  <p><b>Post:</b>{{ .Params.combat.post }}</p>
-  <p><b>Reward:</b>{{ .Params.combat.reward }}</p>
+{{ $faction_level_4 := (slice ) }}
+{{ if .Params.faction_level_4 }}
+{{ if not (reflect.IsSlice .Params.faction_level_4)}}{{ $faction_level_4 = (slice .Params.faction_level_4) }}
+{{ else  }} {{ $faction_level_4 = append $faction_level_4 .Params.faction_level_4 }}
 {{ end }}
 
-<h2>Faction Goals</h2>
-<h3>Goblin</h3>
-<ul>
-{{ range .Params.faction_goals_goblin }}
- <li>{{ . }} </li>
-{{ end }}
-</ul>
-<h3>Gnoll</h3>
-<ul>
-
- {{ range .Params.faction_goals_gnoll  -}}
-   <li>{{ . }} </li>
-   {{ end }}
-</ul>
-
-<h3>Undead</h3>
-<ul>
-{{ range.Params.faction_goals_undead }}
-<li>{{ . }} </li>
-  {{ end }}
-</ul>
+<p><b>Faction Level 4:</b> {{ delimit $faction_level_4 ", "}}</p> {{- end -}}
+{{ end }} 
