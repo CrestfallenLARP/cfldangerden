@@ -28,7 +28,7 @@ Killing_Blow: Yes (suggested use is killing blow to lure targets)
 Offensive_Abilities:
   - Favored Target +3 verses an inspired lineage but half damage against others (1ST)
   - Innate Harm 3x per day for attack or healing "By Creeping Darkness 20 Harm"
-  - Slay 400 Damage (2ST)
+  - Slay 40 Damage (2ST)
   - Parry Resist (4ST)
 Defensive_Abilities: 
 immunities:
