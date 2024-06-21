@@ -12,8 +12,8 @@ props:
   - 2 one handed weapons
   - metal armor rep
 type: Construct 
-body: 25
-armor: 40 or as repped
+body: 35
+armor: 40
 stamina: 10
 energy: 
 spells_known: 
@@ -21,9 +21,10 @@ primary_attack: 5 Damage with both hands
 Killing_Blow: No unless ordered
 Offensive_Abilities:
   - Haymaker 20 Damage (2ST)
-  - Unblockable 5 Damage (1 ST) 
+  - Unblockable 5 Damage (1 ST)
+  - Strength 2 Rip Entangle Arm/Foot  
 Defensive_Abilities: 
-immunities: Harming "Resist Immune"
+immunities: Harm attacks, Charm, Bleed, Poison, Death "Resist Immune"
 vulnerabilities: 
 healed_by: Fire
 at_dying: Deactivates, This construct has an arrow etched on its spine if investigated during dying or dead condition. If ignored this construct crumbles.

@@ -12,15 +12,15 @@ props:
   - Any weapon style
   - armor
 type: Human
-body: 10
-armor: 10 as worn
+body: 20
+armor: 10
 stamina: 6
 energy: 
 spells_known: 
 primary_attack:  4 Damage with melee and 5 unblockable with firearms 
 Killing_Blow:  No unless ordered
 Offensive_Abilities: Slam Knockback (2ST), Florentine
-Defensive_Abilities: 
+Defensive_Abilities: Escape Artist
 immunities:
 vulnerabilities: 
 healed_by: Healing

@@ -12,15 +12,15 @@ props:
   - Any weapon style
   - armor
 type: Human
-body: 10
-armor: 10 as worn
+body: 20
+armor: 10 
 stamina: 6
 energy: 
 spells_known: 
 primary_attack:  4 Damage with melee, +1 damage against the same target as an ally, and 5 unblockable with firearms 
 Killing_Blow:  yes
 Offensive_Abilities: Stagger Daze (2ST), Florentine
-Defensive_Abilities: Stealth (2ST)
+Defensive_Abilities: Stealth (2ST), Escape Artist
 immunities:
 vulnerabilities: 
 healed_by: Healing
