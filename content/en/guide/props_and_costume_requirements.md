@@ -1,5 +1,5 @@
 ---
-title: Props and Costume Requirements, Tips, and Tricks
+title: Props and Costume Requirements
 ---
 
 Please treat all props and costumes as if they were your own. Do not misuse or mistreat our items as that has an impact on event costs.
