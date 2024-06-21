@@ -28,14 +28,14 @@ Offensive_Abilities:
   - Firearm on a 3 count charge may call "20 Lightning " with a firearm
   - Specialization Lightning "By Thunders Crash 2 Lightning"
 Defensive_Abilities: 
-immunities: Harm attacks "Immune Resist"
+immunities: Harm attacks, Charm, Bleed, Poison, Death "Immune Resist"
 vulnerabilities: 
 healed_by: Lightning
-at_dying: Shuts Down
+at_dying: Shutdown heals to max and removes all conditions. Reactivated on trigger
 special: 
   - If peace is called for, the robot will stop all combat for 3 second (Internal count)
   - If hit with Shatter or Destroy condition, reduce primary attack to 2 damage as attached weapons are broken
-  - Basic Forging
+  - All crafting skills
 faction_level_2:
 faction_level_3: 
 faction_level_4:
