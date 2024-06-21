@@ -7,3 +7,6 @@ package-lock.json
 *.afdesign~lock~
 crestfallen_dropbox.lnk
 crestfallen_website.lnk
+
+# Local Netlify folder
+.netlify
